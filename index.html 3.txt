@@ -1,0 +1,2367 @@
+<!DOCTYPE html>
+<!--
+=====================================================================
+ TAUMD | Medical Question Bank - FILE MAP
+ Comment-only section markers were added to make this file easier to edit.
+ No existing code was changed.
+
+ HOW TO USE: press Ctrl/Cmd+F and search for a section name listed below.
+ Every section is wrapped like this:
+     ===== NAME SECTION =====
+         (existing code, untouched)
+     ===== END OF NAME SECTION =====
+ Small labels inside a section start with ## in HTML and with dashes in CSS and JS.
+
+ WHERE TO EDIT WHAT:
+   Colors, fonts, shadows ........ THEME CONFIG SECTION
+   Look of cards, scrollbars ..... the CSS sections
+   Text, buttons, page layout .... MODAL, HEADER AND NAVIGATION and the VIEW sections
+   Firebase project keys ......... FIREBASE CONFIGURATION SECTION
+   App behavior (logic) .......... the JavaScript sections under FUNCTIONALITY SECTION
+
+ SECTIONS IN FILE ORDER:
+
+ 1. HEAD (meta, fonts, Tailwind library, theme)
+    - PAGE META SECTION
+    - FONTS SECTION
+    - TAILWIND LIBRARY SECTION
+    - THEME CONFIG SECTION
+
+ 2. STYLES (CSS)
+    - CSS THEME VARIABLES AND BASE PAGE SECTION
+    - CSS SCROLLBAR SECTION
+    - CSS QUESTION TEXT TYPOGRAPHY SECTION
+    - CSS ANSWER OPTION CARDS SECTION
+    - CSS ACCESSIBILITY AND FORM CONTROLS SECTION
+    - CSS ANIMATIONS SECTION
+    - CSS GLASS PANEL SECTION
+    - CSS RESPONSIVE MOBILE SIDEBAR SECTION
+
+ 3. LAYOUT AND CONTENT (HTML BODY)
+    - MODAL SECTION
+    - HEADER AND NAVIGATION SECTION
+    - MAIN CONTENT SECTION
+       - LOADING VIEW SECTION
+       - DASHBOARD VIEW SECTION
+       - SETUP VIEW SECTION
+       - WORKSPACE VIEW SECTION
+       - RESULTS VIEW SECTION
+       - EXPLORER VIEW SECTION
+       - SETTINGS VIEW SECTION
+
+ 4. FUNCTIONALITY (JAVASCRIPT)
+    - FUNCTIONALITY SECTION
+       - SCRIPT DOCUMENTATION NOTES SECTION
+       - FIREBASE CONFIGURATION SECTION
+       - PROGRESS MERGE LOGIC SECTION
+       - LOCAL DEVICE STORAGE SECTION
+       - APP MODULE SECTION
+          - APP STATE AND DOM HELPERS SECTION
+          - UI SECTION
+          - ACCOUNT AND CLOUD SYNC SECTION
+          - STORAGE SECTION
+          - DATA LOADING SECTION
+          - DASHBOARD SECTION
+          - SETUP SECTION
+          - SESSION SECTION
+          - EXPLORER SECTION
+          - PUBLIC API AND STARTUP SECTION
+       - GLOBAL EXPORT AND STARTUP SECTION
+=====================================================================
+-->
+<html lang="en">
+<head>
+    <!-- ===== PAGE META SECTION (charset, viewport and page title) ===== -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAUMD | Medical Question Bank</title>
+    <!-- ===== END OF PAGE META SECTION ===== -->
+    
+    <!-- ===== FONTS SECTION (Google Fonts: Inter) ===== -->
+    <!-- Fonts: Inter for premium readability -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- ===== END OF FONTS SECTION ===== -->
+    
+    <!-- ===== TAILWIND LIBRARY SECTION (Tailwind CDN script) ===== -->
+    <!-- Tailwind CSS for utility-first styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- ===== END OF TAILWIND LIBRARY SECTION ===== -->
+    
+    <!-- ===== THEME CONFIG SECTION (Tailwind theme: font family, colors, shadows) ===== -->
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    // ----- FONT FAMILY -----
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    // ----- COLORS -----
+                    colors: {
+                        taumd: {
+                            primary: '#0F172A',     // Slate 900
+                            hover: '#1E293B',       // Slate 800
+                            accent: '#0D9488',      // Teal 600
+                            accentHover: '#0F766E', // Teal 700
+                            bgLight: '#F8FAFC',     // Slate 50
+                            surfaceLight: '#000000',
+                            textDark: '#334155',    // Slate 700
+                            textMuted: '#64748B',   // Slate 500
+                            borderLight: '#E2E8F0', // Slate 200
+                            // Dark mode equivalents
+                            bgDark: '#020617',      // Slate 950
+                            surfaceDark: '#0F172A', // Slate 900
+                            textLight: '#F1F5F9',   // Slate 100
+                            borderDark: '#1E293B'   // Slate 800
+                        },
+                        feedback: {
+                            success: '#10B981',
+                            successBg: '#ECFDF5',
+                            danger: '#EF4444',
+                            dangerBg: '#FEF2F2',
+                            warning: '#F59E0B',
+                            warningBg: '#FFFBEB'
+                        }
+                    },
+                    // ----- SHADOWS -----
+                    boxShadow: {
+                        'soft': '0 4px 20px -2px rgba(15, 23, 42, 0.05)',
+                        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03)',
+                        'cardHover': '0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04)',
+                        'glow': '0 0 15px rgba(13, 148, 136, 0.3)',
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- ===== END OF THEME CONFIG SECTION ===== -->
+
+    <style>
+        /* ===== CSS THEME VARIABLES AND BASE PAGE SECTION (root font-size variable, body, dark body) ===== */
+        :root {
+            --font-size-base: 16px;
+        }
+        
+        body {
+            font-size: var(--font-size-base);
+            background-color: theme('colors.taumd.bgLight');
+            color: theme('colors.taumd.textDark');
+            transition: background-color 0.3s ease, color 0.3s ease;
+            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .dark body {
+            background-color: theme('colors.taumd.bgDark');
+            color: theme('colors.taumd.textLight');
+        }
+        /* ===== END OF CSS THEME VARIABLES AND BASE PAGE SECTION ===== */
+
+        /* ===== CSS SCROLLBAR SECTION (scrollbar look in light and dark) ===== */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: theme('colors.slate.300'); border-radius: 8px; }
+        ::-webkit-scrollbar-thumb:hover { background: theme('colors.slate.400'); }
+        .dark ::-webkit-scrollbar-thumb { background: theme('colors.slate.700'); }
+        .dark ::-webkit-scrollbar-thumb:hover { background: theme('colors.slate.600'); }
+        /* ===== END OF CSS SCROLLBAR SECTION ===== */
+
+        /* ===== CSS QUESTION TEXT TYPOGRAPHY SECTION (question and explanation text styles) ===== */
+        .q-content p { margin-bottom: 1.25rem; line-height: 1.7; letter-spacing: -0.01em; }
+        .q-content ul, .q-content ol { margin-left: 1.5rem; margin-bottom: 1.25rem; line-height: 1.7; }
+        .q-content ul { list-style-type: disc; }
+        .q-content ol { list-style-type: decimal; }
+        .q-content b, .q-content strong { font-weight: 600; color: theme('colors.taumd.primary'); }
+        .dark .q-content b, .dark .q-content strong { color: theme('colors.taumd.textLight'); }
+        /* ===== END OF CSS QUESTION TEXT TYPOGRAPHY SECTION ===== */
+        
+        /* ===== CSS ANSWER OPTION CARDS SECTION (default, hover, selected, correct, incorrect) ===== */
+        .option-card {
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid theme('colors.taumd.borderLight');
+            background-color: theme('colors.taumd.surfaceLight');
+            box-shadow: 0 1px 2px rgba(0,0,0,0.02);
+        }
+        .dark .option-card { 
+            border-color: theme('colors.taumd.borderDark'); 
+            background-color: theme('colors.taumd.surfaceDark'); 
+        }
+        
+        .option-card:hover:not(.disabled) {
+            border-color: theme('colors.taumd.accent');
+            background-color: rgba(13, 148, 136, 0.02);
+            box-shadow: 0 4px 12px -2px rgba(13, 148, 136, 0.1);
+            transform: translateY(-1px);
+            cursor: pointer;
+        }
+        .dark .option-card:hover:not(.disabled) {
+            background-color: rgba(13, 148, 136, 0.08);
+            box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.3);
+        }
+        
+        .option-card.selected {
+            border-color: theme('colors.taumd.accent');
+            background-color: rgba(13, 148, 136, 0.04);
+            box-shadow: 0 0 0 1px theme('colors.taumd.accent');
+        }
+        .dark .option-card.selected {
+            background-color: rgba(13, 148, 136, 0.12);
+        }
+
+        .option-card.correct {
+            border-color: theme('colors.feedback.success');
+            background-color: theme('colors.feedback.successBg');
+            box-shadow: 0 0 0 1px theme('colors.feedback.success');
+        }
+        .dark .option-card.correct { background-color: rgba(16, 185, 129, 0.1); }
+
+        .option-card.incorrect {
+            border-color: theme('colors.feedback.danger');
+            background-color: theme('colors.feedback.dangerBg');
+            box-shadow: 0 0 0 1px theme('colors.feedback.danger');
+        }
+        .dark .option-card.incorrect { background-color: rgba(239, 68, 68, 0.1); }
+
+        .option-card.disabled { cursor: default; }
+        /* ===== END OF CSS ANSWER OPTION CARDS SECTION ===== */
+
+        /* ===== CSS ACCESSIBILITY AND FORM CONTROLS SECTION (keyboard focus ring, custom radio) ===== */
+        .keyboard-focus:focus-visible {
+            outline: 2px solid theme('colors.taumd.accent');
+            outline-offset: 2px;
+        }
+
+        .custom-radio:checked + div {
+            border-color: theme('colors.taumd.accent');
+            background-color: theme('colors.taumd.accent');
+            color: white;
+        }
+        .dark .custom-radio:checked + div {
+            background-color: theme('colors.taumd.accent');
+        }
+        /* ===== END OF CSS ACCESSIBILITY AND FORM CONTROLS SECTION ===== */
+
+        /* ===== CSS ANIMATIONS SECTION (fade in, slide in) ===== */
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+        .animate-fade-in { animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+        
+        @keyframes slideInRight { from { transform: translateX(100%); } to { transform: translateX(0); } }
+        .slide-in-right { animation: slideInRight 0.3s ease-out forwards; }
+        /* ===== END OF CSS ANIMATIONS SECTION ===== */
+
+        /* ===== CSS GLASS PANEL SECTION (translucent blurred header) ===== */
+        .glass-panel { 
+            background: rgba(255, 255, 255, 0.85); 
+            backdrop-filter: blur(12px); 
+            -webkit-backdrop-filter: blur(12px);
+        }
+        .dark .glass-panel { 
+            background: rgba(15, 23, 42, 0.85); 
+            backdrop-filter: blur(12px); 
+            -webkit-backdrop-filter: blur(12px);
+        }
+        /* ===== END OF CSS GLASS PANEL SECTION ===== */
+        
+        /* ===== CSS RESPONSIVE MOBILE SIDEBAR SECTION (sidebar becomes a slide-in drawer under 1024px) ===== */
+        @media (max-width: 1024px) {
+            #workspace-sidebar {
+                position: fixed;
+                top: 0; right: 0; bottom: 0;
+                width: 320px;
+                max-width: 100vw;
+                z-index: 50;
+                transform: translateX(100%);
+                transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+                border-left: 1px solid theme('colors.taumd.borderLight');
+                border-radius: 0;
+            }
+            .dark #workspace-sidebar { border-color: theme('colors.taumd.borderDark'); }
+            #workspace-sidebar.open { transform: translateX(0); box-shadow: -10px 0 25px -5px rgba(0,0,0,0.1); }
+            #sidebar-overlay {
+                position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+                background: rgba(15, 23, 42, 0.6); 
+                backdrop-filter: blur(4px);
+                z-index: 40;
+                opacity: 0; pointer-events: none; transition: opacity 0.3s;
+            }
+            #sidebar-overlay.open { opacity: 1; pointer-events: auto; }
+        }
+        /* ===== END OF CSS RESPONSIVE MOBILE SIDEBAR SECTION ===== */
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col relative selection:bg-taumd-accent selection:text-white">
+
+    <!-- ===== MODAL SECTION (global alert and confirm dialog) ===== -->
+    <!-- Global Modal Overlay -->
+    <div id="modal-overlay" class="fixed inset-0 bg-slate-900/40 dark:bg-black/60 z-[100] hidden flex items-center justify-center p-4 backdrop-blur-sm transition-all duration-300">
+        <div id="modal-content" class="bg-white dark:bg-taumd-surfaceDark rounded-2xl shadow-2xl w-full max-w-md overflow-hidden animate-fade-in transform transition-all border border-taumd-borderLight dark:border-taumd-borderDark">
+            <div class="p-6">
+                <h3 id="modal-title" class="text-xl font-bold text-taumd-primary dark:text-white mb-2">Title</h3>
+                <p id="modal-message" class="text-taumd-textMuted dark:text-slate-300 mb-8 line-clamp-4 overflow-y-auto leading-relaxed">Message</p>
+                <div class="flex justify-end gap-3" id="modal-actions">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ===== END OF MODAL SECTION ===== -->
+
+    <!-- ===== HEADER AND NAVIGATION SECTION (logo, bank title, sync status, nav buttons, theme toggle, Google account) ===== -->
+    <!-- Header -->
+    <header class="glass-panel sticky top-0 z-40 border-b border-taumd-borderLight/60 dark:border-taumd-borderDark/60 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-16">
+                <!-- ## LOGO AND BRAND NAME -->
+                <div class="flex items-center gap-3 cursor-pointer group" onclick="TAUMD.ui.navigate('dashboard')">
+                    <div class="w-9 h-9 bg-gradient-to-br from-taumd-primary to-slate-700 dark:from-taumd-accent dark:to-teal-500 rounded-xl flex items-center justify-center shadow-md group-hover:shadow-lg transition-all">
+                        <svg width="20" height="20" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M16 4V28M4 16H28" stroke="white" stroke-width="3" stroke-linecap="round"/>
+                        </svg>
+                    </div>
+                    <span class="font-bold text-xl tracking-tight text-taumd-primary dark:text-white group-hover:text-taumd-accent dark:group-hover:text-teal-300 transition-colors">TAUMD</span>
+                </div>
+                
+                <div class="flex items-center space-x-1 sm:space-x-3">
+                    <!-- ## LOADED BANK TITLE BADGE -->
+                    <span id="nav-bank-title" class="hidden sm:block text-xs font-semibold tracking-wide text-taumd-textMuted uppercase bg-slate-100 dark:bg-slate-800 px-3 py-1.5 rounded-full truncate max-w-[200px] border border-slate-200 dark:border-slate-700">No Bank Loaded</span>
+                    
+                    <!-- ## CLOUD SYNC INDICATOR -->
+                    <!-- NEW Cloud Sync Indicator -->
+                    <div id="sync-status-indicator" class="hidden sm:flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 dark:bg-slate-800 rounded-full border border-slate-200 dark:border-slate-700 transition-colors" title="Cloud Save Status">
+                        <svg id="sync-icon" class="w-4 h-4 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z"></path></svg>
+                        <span id="sync-text" class="text-xs font-semibold text-taumd-textMuted tracking-wide">Local</span>
+                    </div>
+
+                    <!-- ## EXPLORER AND REVIEW CENTER BUTTON -->
+                    <button onclick="TAUMD.ui.navigate('explorer')" class="p-2.5 text-taumd-textMuted hover:text-taumd-primary hover:bg-slate-100 dark:hover:bg-slate-800 dark:hover:text-taumd-accent rounded-xl transition-all" title="Review Center & Explorer">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 002-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
+                    </button>
+
+                    <!-- ## LOAD JSON BANK BUTTON -->
+                    <label class="p-2.5 text-taumd-textMuted hover:text-taumd-primary hover:bg-slate-100 dark:hover:bg-slate-800 dark:hover:text-taumd-accent rounded-xl cursor-pointer transition-all" title="Load JSON Bank">
+                        <input type="file" id="file-upload" accept=".json,application/json" class="hidden">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path></svg>
+                    </label>
+
+                    <!-- ## SETTINGS BUTTON -->
+                    <button onclick="TAUMD.ui.navigate('settings')" class="p-2.5 text-taumd-textMuted hover:text-taumd-primary hover:bg-slate-100 dark:hover:bg-slate-800 dark:hover:text-taumd-accent rounded-xl transition-all" title="Settings">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                    </button>
+                    
+                    <!-- ## DARK AND LIGHT THEME TOGGLE -->
+                    <button id="theme-toggle" class="p-2.5 text-taumd-textMuted hover:text-taumd-primary hover:bg-slate-100 dark:hover:bg-slate-800 dark:hover:text-taumd-accent rounded-xl transition-all" title="Toggle Theme">
+                        <svg id="icon-sun" class="w-5 h-5 hidden dark:block" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+                        <svg id="icon-moon" class="w-5 h-5 block dark:hidden" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+                    </button>
+
+                    <!-- ## GOOGLE ACCOUNT (sign-in button, avatar, account menu) -->
+                    <!-- Google account: sign-in button, or avatar + menu once signed in -->
+                    <div id="account-wrap" class="relative sm:ml-2">
+                        <button id="btn-signin" onclick="TAUMD.account.signIn()" class="flex items-center gap-2 px-2.5 sm:px-3.5 py-2 text-sm font-semibold rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark bg-white dark:bg-slate-900 text-taumd-textDark dark:text-slate-200 hover:border-taumd-accent hover:shadow-sm transition-all keyboard-focus" title="Sign in with Google to back up your progress">
+                            <svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+                            <span class="hidden sm:inline">Sign in</span>
+                        </button>
+                        <button id="btn-account" onclick="TAUMD.account.toggleMenu()" class="hidden flex items-center rounded-full ring-2 ring-transparent hover:ring-taumd-accent/60 transition-all keyboard-focus" aria-haspopup="true" aria-expanded="false" title="Your account">
+                            <span data-avatar class="relative w-9 h-9 rounded-full overflow-hidden bg-taumd-accent text-white font-bold flex items-center justify-center"></span>
+                        </button>
+                        <div id="account-menu" class="hidden absolute right-0 mt-2 w-72 max-w-[calc(100vw-2rem)] bg-white dark:bg-taumd-surfaceDark rounded-2xl shadow-2xl border border-taumd-borderLight dark:border-taumd-borderDark overflow-hidden z-50 animate-fade-in">
+                            <div class="p-4 flex items-center gap-3">
+                                <span data-avatar class="relative w-11 h-11 flex-shrink-0 rounded-full overflow-hidden bg-taumd-accent text-white font-bold text-lg flex items-center justify-center"></span>
+                                <div class="min-w-0">
+                                    <div data-account-name class="font-bold text-taumd-primary dark:text-white truncate"></div>
+                                    <div data-account-email class="text-xs text-taumd-textMuted truncate"></div>
+                                </div>
+                            </div>
+                            <div class="px-4 py-3 border-t border-taumd-borderLight dark:border-taumd-borderDark">
+                                <div class="flex items-center gap-2 text-sm font-semibold text-taumd-textDark dark:text-slate-200">
+                                    <span data-sync-dot class="w-2 h-2 rounded-full flex-shrink-0 bg-slate-400"></span>
+                                    <span data-sync-text>Local</span>
+                                </div>
+                                <p data-sync-tip class="mt-1 text-xs text-taumd-textMuted leading-relaxed"></p>
+                            </div>
+                            <button onclick="TAUMD.account.signOut()" class="w-full text-left px-4 py-3 text-sm font-semibold text-feedback-danger border-t border-taumd-borderLight dark:border-taumd-borderDark hover:bg-feedback-dangerBg dark:hover:bg-red-900/20 transition-colors">Sign out</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ===== END OF HEADER AND NAVIGATION SECTION ===== -->
+
+    <!-- ===== MAIN CONTENT SECTION (all screens (views) of the app, shown one at a time) ===== -->
+    <main class="flex-grow flex flex-col w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 relative">
+        
+        <!-- ===== LOADING VIEW SECTION (spinner shown while the bank loads) ===== -->
+        <div id="view-loading" class="flex-grow flex flex-col items-center justify-center hidden">
+            <svg class="animate-spin h-12 w-12 text-taumd-accent mb-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-20" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-90" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+            </svg>
+            <h2 id="loading-text" class="text-xl font-bold text-taumd-primary dark:text-white">Connecting to Cloud & Loading Workspace...</h2>
+        </div>
+        <!-- ===== END OF LOADING VIEW SECTION ===== -->
+
+        <!-- ===== DASHBOARD VIEW SECTION (home screen: stats, start session, review, resume) ===== -->
+        <div id="view-dashboard" class="hidden flex-col gap-10 animate-fade-in w-full max-w-5xl mx-auto">
+            
+            <!-- ## HERO TITLE AND DESCRIPTION -->
+            <div class="text-center py-8">
+                <h1 class="text-4xl sm:text-5xl font-extrabold text-taumd-primary dark:text-white mb-4 tracking-tight">Your next step starts here.</h1>
+                <p class="text-lg text-taumd-textMuted max-w-2xl mx-auto" id="dash-bank-desc">Load a question bank or resume your session.</p>
+            </div>
+
+            <!-- ## STATISTICS CARDS (total, attempted, accuracy, bookmarks) -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6">
+                <div class="bg-white dark:bg-taumd-surfaceDark p-6 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark relative overflow-hidden group hover:shadow-cardHover transition-shadow">
+                    <div class="absolute top-0 right-0 -mr-4 -mt-4 w-24 h-24 bg-slate-100 dark:bg-slate-800 rounded-full opacity-50 group-hover:scale-110 transition-transform"></div>
+                    <div class="relative z-10">
+                        <div class="w-10 h-10 mb-4 bg-slate-100 dark:bg-slate-800 rounded-lg flex items-center justify-center text-slate-500 dark:text-slate-400">
+                            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 002-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
+                        </div>
+                        <div class="text-3xl font-extrabold text-taumd-primary dark:text-white mb-1" id="stat-total">0</div>
+                        <div class="text-xs uppercase tracking-wider text-taumd-textMuted font-semibold">Total Qs</div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-taumd-surfaceDark p-6 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark relative overflow-hidden group hover:shadow-cardHover transition-shadow">
+                    <div class="absolute top-0 right-0 -mr-4 -mt-4 w-24 h-24 bg-blue-50 dark:bg-blue-900/20 rounded-full opacity-50 group-hover:scale-110 transition-transform"></div>
+                    <div class="relative z-10">
+                        <div class="w-10 h-10 mb-4 bg-blue-50 dark:bg-blue-900/30 rounded-lg flex items-center justify-center text-blue-500 dark:text-blue-400">
+                            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
+                        </div>
+                        <div class="text-3xl font-extrabold text-taumd-primary dark:text-white mb-1" id="stat-attempted">0</div>
+                        <div class="text-xs uppercase tracking-wider text-taumd-textMuted font-semibold">Attempted</div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-taumd-surfaceDark p-6 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark relative overflow-hidden group hover:shadow-cardHover transition-shadow">
+                    <div class="absolute top-0 right-0 -mr-4 -mt-4 w-24 h-24 bg-emerald-50 dark:bg-emerald-900/20 rounded-full opacity-50 group-hover:scale-110 transition-transform"></div>
+                    <div class="relative z-10">
+                        <div class="w-10 h-10 mb-4 bg-emerald-50 dark:bg-emerald-900/30 rounded-lg flex items-center justify-center text-feedback-success">
+                            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        </div>
+                        <div class="text-3xl font-extrabold text-taumd-primary dark:text-white mb-1" id="stat-accuracy">0%</div>
+                        <div class="text-xs uppercase tracking-wider text-taumd-textMuted font-semibold">Accuracy</div>
+                    </div>
+                </div>
+                <div class="bg-white dark:bg-taumd-surfaceDark p-6 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark relative overflow-hidden group hover:shadow-cardHover transition-shadow">
+                    <div class="absolute top-0 right-0 -mr-4 -mt-4 w-24 h-24 bg-amber-50 dark:bg-amber-900/20 rounded-full opacity-50 group-hover:scale-110 transition-transform"></div>
+                    <div class="relative z-10">
+                        <div class="w-10 h-10 mb-4 bg-amber-50 dark:bg-amber-900/30 rounded-lg flex items-center justify-center text-feedback-warning">
+                            <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path></svg>
+                        </div>
+                        <div class="text-3xl font-extrabold text-taumd-primary dark:text-white mb-1" id="stat-bookmarks">0</div>
+                        <div class="text-xs uppercase tracking-wider text-taumd-textMuted font-semibold">Bookmarks</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ## ACTION CARDS (start new session, performance and review) -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-2">
+                <div class="bg-white dark:bg-taumd-surfaceDark p-8 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark flex flex-col justify-center items-center text-center relative overflow-hidden group hover:shadow-cardHover transition-shadow">
+                    <div class="absolute top-0 w-full h-1 bg-gradient-to-r from-taumd-primary to-taumd-accent"></div>
+                    <div class="w-16 h-16 bg-taumd-primary/5 dark:bg-taumd-accent/10 rounded-2xl flex items-center justify-center mb-6 text-taumd-primary dark:text-taumd-accent transform group-hover:-translate-y-1 transition-transform">
+                        <svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-2 text-taumd-primary dark:text-white">Start New Session</h3>
+                    <p class="text-taumd-textMuted text-sm mb-8 px-4">Customize a new practice block based on topics, chapters, difficulty, and your current needs.</p>
+                    <button onclick="TAUMD.ui.navigate('setup')" class="bg-taumd-primary hover:bg-taumd-hover dark:bg-taumd-accent dark:hover:bg-taumd-accentHover text-white px-8 py-3.5 rounded-xl font-semibold transition-all shadow-md hover:shadow-lg w-full sm:w-auto">Configure Block</button>
+                </div>
+                
+                <div class="bg-white dark:bg-taumd-surfaceDark p-8 rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark flex flex-col justify-center items-center text-center group hover:shadow-cardHover transition-shadow">
+                    <div class="w-16 h-16 bg-slate-50 dark:bg-slate-800 rounded-2xl flex items-center justify-center mb-6 text-taumd-textMuted dark:text-slate-400 transform group-hover:-translate-y-1 transition-transform">
+                        <svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-2 text-taumd-primary dark:text-white">Performance & Review</h3>
+                    <p class="text-taumd-textMuted text-sm mb-8 px-4">Analyze past mistakes, browse all topics, and review your saved bookmarks.</p>
+                    <div class="flex flex-wrap gap-3 w-full justify-center">
+                        <button onclick="TAUMD.ui.navigate('explorer')" class="bg-transparent border-2 border-taumd-borderLight dark:border-taumd-borderDark hover:border-taumd-primary dark:hover:border-taumd-accent dark:text-white px-6 py-3 rounded-xl font-semibold transition-colors">Explorer</button>
+                        <button onclick="TAUMD.startReviewMistakes()" id="btn-review-mistakes" class="bg-rose-50 dark:bg-rose-900/20 text-feedback-danger hover:bg-rose-100 dark:hover:bg-rose-900/40 px-6 py-3 rounded-xl font-semibold transition-colors hidden shadow-sm">Mistakes</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- ## RESUME SESSION PANEL -->
+            <div id="resume-panel" class="hidden bg-gradient-to-r from-taumd-primary to-slate-800 dark:from-taumd-accent dark:to-teal-800 text-white p-6 rounded-2xl shadow-lg flex flex-col sm:flex-row justify-between items-center gap-6">
+                <div class="flex items-center gap-4">
+                    <div class="p-3 bg-white/10 rounded-full">
+                        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-xl mb-1">Session in Progress</h3>
+                        <p class="text-sm text-white/80" id="resume-text">You have an unfinished block.</p>
+                    </div>
+                </div>
+                <button onclick="TAUMD.ui.navigate('workspace')" class="bg-white text-taumd-primary px-8 py-3 rounded-xl font-bold hover:bg-slate-50 transition-colors shadow-md w-full sm:w-auto">Resume Block</button>
+            </div>
+        </div>
+        <!-- ===== END OF DASHBOARD VIEW SECTION ===== -->
+
+        <!-- ===== SETUP VIEW SECTION (configure a practice block) ===== -->
+        <div id="view-setup" class="hidden animate-fade-in w-full max-w-2xl mx-auto bg-white dark:bg-taumd-surfaceDark p-6 sm:p-10 rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark">
+            <div class="flex items-center gap-4 mb-8">
+                <button onclick="TAUMD.ui.navigate('dashboard')" class="p-2 bg-slate-50 dark:bg-slate-800 text-taumd-textMuted hover:text-taumd-primary dark:hover:text-white rounded-lg transition-colors">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+                </button>
+                <h2 class="text-3xl font-extrabold text-taumd-primary dark:text-white">Configure Block</h2>
+            </div>
+            
+            <form id="setup-form" onsubmit="event.preventDefault(); TAUMD.session.create();" class="space-y-8">
+                
+                <!-- ## SUBJECT / TOPIC SELECTOR -->
+                <div class="space-y-3">
+                    <label class="block text-sm font-bold tracking-wide uppercase text-taumd-textMuted dark:text-slate-400">Subject / Topic</label>
+                    <select id="setup-topic" class="w-full p-3.5 rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark bg-taumd-bgLight dark:bg-slate-950 dark:text-white focus:outline-none focus:ring-2 focus:ring-taumd-accent/50 focus:border-taumd-accent transition-shadow text-base">
+                        <option value="all">All Topics</option>
+                    </select>
+                </div>
+
+                <!-- ## CHAPTERS / SECTIONS FILTER -->
+                <div id="setup-sections-container" class="space-y-3 hidden">
+                    <label class="block text-sm font-bold tracking-wide uppercase text-taumd-textMuted dark:text-slate-400">Chapters / Sections <span class="text-xs font-normal lowercase ml-1">(Select multiple or leave blank for all)</span></label>
+                    <div id="setup-sections-list" class="flex flex-wrap gap-2.5">
+                    </div>
+                </div>
+
+                <!-- ## QUESTION STATUS FILTER (all, unanswered, incorrect, bookmarked) -->
+                <div class="space-y-3">
+                    <label class="block text-sm font-bold tracking-wide uppercase text-taumd-textMuted dark:text-slate-400">Question Status</label>
+                    <div class="grid grid-cols-2 gap-3 sm:gap-4">
+                        <label class="relative flex items-center p-4 border border-taumd-borderLight dark:border-taumd-borderDark rounded-xl cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">
+                            <input type="radio" name="q_status" value="all" checked class="custom-radio sr-only peer">
+                            <div class="w-5 h-5 border-2 border-slate-300 dark:border-slate-600 rounded-full mr-3 flex items-center justify-center peer-checked:border-taumd-accent peer-checked:bg-taumd-accent transition-all">
+                                <svg class="w-3 h-3 text-white opacity-0 peer-checked:opacity-100" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                            </div>
+                            <span class="text-sm font-medium text-taumd-textDark dark:text-slate-200">All Available</span>
+                        </label>
+                        <label class="relative flex items-center p-4 border border-taumd-borderLight dark:border-taumd-borderDark rounded-xl cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">
+                            <input type="radio" name="q_status" value="unanswered" class="custom-radio sr-only peer">
+                            <div class="w-5 h-5 border-2 border-slate-300 dark:border-slate-600 rounded-full mr-3 flex items-center justify-center peer-checked:border-taumd-accent peer-checked:bg-taumd-accent transition-all">
+                                <svg class="w-3 h-3 text-white opacity-0 peer-checked:opacity-100" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                            </div>
+                            <span class="text-sm font-medium text-taumd-textDark dark:text-slate-200">Unanswered</span>
+                        </label>
+                        <label class="relative flex items-center p-4 border border-taumd-borderLight dark:border-taumd-borderDark rounded-xl cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">
+                            <input type="radio" name="q_status" value="incorrect" class="custom-radio sr-only peer">
+                            <div class="w-5 h-5 border-2 border-slate-300 dark:border-slate-600 rounded-full mr-3 flex items-center justify-center peer-checked:border-taumd-accent peer-checked:bg-taumd-accent transition-all">
+                                <svg class="w-3 h-3 text-white opacity-0 peer-checked:opacity-100" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                            </div>
+                            <span class="text-sm font-medium text-taumd-textDark dark:text-slate-200">Incorrect</span>
+                        </label>
+                        <label class="relative flex items-center p-4 border border-taumd-borderLight dark:border-taumd-borderDark rounded-xl cursor-pointer hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">
+                            <input type="radio" name="q_status" value="bookmarked" class="custom-radio sr-only peer">
+                            <div class="w-5 h-5 border-2 border-slate-300 dark:border-slate-600 rounded-full mr-3 flex items-center justify-center peer-checked:border-taumd-accent peer-checked:bg-taumd-accent transition-all">
+                                <svg class="w-3 h-3 text-white opacity-0 peer-checked:opacity-100" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg>
+                            </div>
+                            <span class="text-sm font-medium text-taumd-textDark dark:text-slate-200">Bookmarked</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- ## BLOCK SIZE AND STUDY MODE -->
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                    <div class="space-y-3">
+                        <label class="block text-sm font-bold tracking-wide uppercase text-taumd-textMuted dark:text-slate-400">Block Size</label>
+                        <select id="setup-count" class="w-full p-3.5 rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark bg-taumd-bgLight dark:bg-slate-950 dark:text-white focus:outline-none focus:ring-2 focus:ring-taumd-accent/50 transition-shadow">
+                            <option value="10">10 Questions</option>
+                            <option value="20">20 Questions</option>
+                            <option value="40" selected>40 Questions</option>
+                            <option value="all">Maximum Available</option>
+                        </select>
+                    </div>
+                    <div class="space-y-3">
+                        <label class="block text-sm font-bold tracking-wide uppercase text-taumd-textMuted dark:text-slate-400">Study Mode</label>
+                        <select id="setup-mode" onchange="TAUMD.ui.toggleTimerSetting()" class="w-full p-3.5 rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark bg-taumd-bgLight dark:bg-slate-950 dark:text-white focus:outline-none focus:ring-2 focus:ring-taumd-accent/50 transition-shadow">
+                            <option value="tutor">Tutor (Immediate Feedback)</option>
+                            <option value="exam">Exam (Deferred Scoring)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- ## EXAM TIMER OPTION -->
+                <div id="setup-timer-wrap" class="hidden bg-amber-50 dark:bg-amber-900/10 p-4 rounded-xl border border-amber-200 dark:border-amber-900/30">
+                    <label class="flex items-center cursor-pointer">
+                        <input type="checkbox" id="setup-timer" class="form-checkbox h-5 w-5 text-taumd-accent rounded border-slate-300 focus:ring-taumd-accent transition-colors">
+                        <span class="ml-3 text-sm font-medium text-amber-900 dark:text-amber-200">Enable Exam Timer (90 sec per question)</span>
+                    </label>
+                </div>
+
+                <!-- ## MATCH COUNT AND START BUTTON -->
+                <div class="pt-8 border-t border-taumd-borderLight dark:border-taumd-borderDark flex flex-col sm:flex-row justify-between items-center gap-4">
+                    <div class="flex items-center gap-2 text-sm font-medium text-taumd-textMuted bg-slate-50 dark:bg-slate-800 px-4 py-2 rounded-lg">
+                        <svg class="w-4 h-4 text-taumd-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <span id="setup-match-count">Calculating available questions...</span>
+                    </div>
+                    <button type="submit" id="btn-start-session" class="w-full sm:w-auto bg-taumd-primary hover:bg-taumd-hover dark:bg-taumd-accent dark:hover:bg-taumd-accentHover text-white px-10 py-3.5 rounded-xl font-bold transition-all shadow-md hover:shadow-lg">
+                        Start Block
+                    </button>
+                </div>
+            </form>
+        </div>
+        <!-- ===== END OF SETUP VIEW SECTION ===== -->
+
+        <!-- ===== WORKSPACE VIEW SECTION (question screen: question panel plus sidebar) ===== -->
+        <div id="view-workspace" class="hidden h-[calc(100vh-6rem)] min-h-[600px] flex flex-col lg:flex-row w-full max-w-[1400px] mx-auto gap-6 relative">
+            
+            <!-- ## MOBILE SIDEBAR OVERLAY -->
+            <div id="sidebar-overlay" onclick="TAUMD.ui.toggleSidebar()"></div>
+
+            <!-- ## QUESTION PANEL -->
+            <div class="flex-grow flex flex-col bg-white dark:bg-taumd-surfaceDark rounded-2xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark w-full lg:w-2/3 overflow-hidden">
+                
+                <!-- ## QUESTION PANEL HEADER (counter, topic, flag, bookmark, sidebar button) -->
+                <div class="p-4 sm:px-8 sm:py-5 border-b border-taumd-borderLight dark:border-taumd-borderDark flex flex-wrap justify-between items-center gap-4 bg-slate-50/50 dark:bg-slate-900/50">
+                    <div class="flex items-center gap-4">
+                        <span class="bg-taumd-primary dark:bg-taumd-accent text-white text-xs font-bold px-3 py-1.5 rounded-md tracking-wide shadow-sm" id="ws-counter">Q 1 of 40</span>
+                        <span class="text-sm text-taumd-textMuted dark:text-slate-400 font-semibold truncate max-w-[200px] sm:max-w-md" id="ws-topic">Topic</span>
+                    </div>
+                    <div class="flex items-center gap-1 sm:gap-2">
+                        <button onclick="TAUMD.session.toggleFlag()" id="btn-flag" class="p-2 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-feedback-warning rounded-lg transition-all" title="Flag for Review">
+                            <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 21v-4m0 0V5a2 2 0 012-2h6.5l1 1H21l-3 6 3 6h-8.5l-1-1H5a2 2 0 00-2 2zm9-13.5V9"></path></svg>
+                        </button>
+                        <button onclick="TAUMD.session.toggleBookmark()" id="btn-bookmark" class="p-2 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-taumd-accent rounded-lg transition-all" title="Save Bookmark">
+                            <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path></svg>
+                        </button>
+                        <button onclick="TAUMD.ui.toggleSidebar()" class="lg:hidden p-2 text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-lg transition-all border border-taumd-borderLight dark:border-taumd-borderDark ml-2">
+                            <svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- ## QUESTION BODY (stem, image, options, feedback) -->
+                <div class="flex-grow p-5 sm:p-8 overflow-y-auto" id="ws-scroll-area">
+                    
+                    <div class="q-content text-lg mb-10 dark:text-slate-100 text-slate-800" id="ws-stem">
+                    </div>
+
+                    <div id="ws-image-container" class="mb-10 hidden">
+                        <img id="ws-image" src="" alt="Clinical representation" class="max-w-full h-auto rounded-xl border border-taumd-borderLight shadow-sm">
+                    </div>
+
+                    <div class="flex flex-col gap-4 mb-10" id="ws-options">
+                    </div>
+
+                    <div id="ws-feedback" class="hidden animate-fade-in bg-slate-50 dark:bg-slate-800/80 rounded-2xl border border-taumd-borderLight dark:border-taumd-borderDark p-6 sm:p-8 mt-8 shadow-inner">
+                        <div class="flex items-center gap-3 mb-6 font-extrabold text-xl" id="fb-header">
+                        </div>
+                        <div class="q-content text-base dark:text-slate-200" id="fb-text">
+                        </div>
+                        <div id="fb-objective-wrap" class="mt-8 p-5 bg-taumd-primary/5 dark:bg-taumd-accent/10 border-l-4 border-taumd-primary dark:border-taumd-accent rounded-r-xl hidden">
+                            <h4 class="text-xs font-bold uppercase tracking-wider text-taumd-primary dark:text-teal-300 mb-2">Educational Objective</h4>
+                            <p class="text-sm dark:text-slate-200 leading-relaxed font-medium" id="fb-objective-text"></p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ## QUESTION PANEL FOOTER (previous, submit, next, finish) -->
+                <div class="p-4 sm:px-8 sm:py-5 border-t border-taumd-borderLight dark:border-taumd-borderDark flex justify-between items-center bg-white dark:bg-taumd-surfaceDark">
+                    <button onclick="TAUMD.session.prev()" id="btn-ws-prev" class="px-4 py-2 text-taumd-textMuted hover:text-taumd-primary dark:hover:text-white font-semibold disabled:opacity-30 disabled:cursor-not-allowed transition-colors flex items-center gap-2">
+                        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"></path></svg>
+                        Previous
+                    </button>
+                    
+                    <div id="ws-action-center" class="flex gap-3">
+                        <button onclick="TAUMD.session.submit()" id="btn-ws-submit" class="bg-taumd-primary hover:bg-taumd-hover dark:bg-taumd-accent dark:hover:bg-taumd-accentHover text-white px-8 py-2.5 rounded-xl font-bold shadow-md hover:shadow-lg transition-all hidden disabled:opacity-50 disabled:cursor-not-allowed">Submit Answer</button>
+                        <button onclick="TAUMD.session.next()" id="btn-ws-next" class="bg-taumd-accent hover:bg-taumd-accentHover text-white px-8 py-2.5 rounded-xl font-bold shadow-md hover:shadow-lg transition-all hidden flex items-center gap-2">Next <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"></path></svg></button>
+                        <button onclick="TAUMD.session.finish()" id="btn-ws-finish" class="bg-taumd-primary hover:bg-taumd-hover dark:bg-slate-700 dark:hover:bg-slate-600 text-white px-8 py-2.5 rounded-xl font-bold shadow-md hover:shadow-lg transition-all hidden">Finish Block</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ## SIDEBAR (timer, navigator, confidence, notes) -->
+            <div id="workspace-sidebar" class="w-full lg:w-[320px] bg-white dark:bg-taumd-surfaceDark border border-taumd-borderLight dark:border-taumd-borderDark shadow-card rounded-2xl flex flex-col overflow-hidden shrink-0">
+                
+                <!-- ## EXAM TIMER DISPLAY -->
+                <div id="ws-timer-panel" class="hidden bg-slate-900 dark:bg-slate-950 p-5 border-b border-taumd-borderLight dark:border-taumd-borderDark flex justify-between items-center text-white">
+                    <span class="text-xs font-bold uppercase tracking-widest text-slate-400">Time Left</span>
+                    <span class="font-mono text-2xl font-bold tracking-tight" id="ws-timer-display">00:00</span>
+                </div>
+
+                <!-- ## QUESTION NAVIGATOR GRID -->
+                <div class="p-5 border-b border-taumd-borderLight dark:border-taumd-borderDark flex-grow-0">
+                    <div class="flex justify-between items-center mb-4">
+                        <h4 class="text-sm font-bold uppercase tracking-wide text-taumd-textDark dark:text-slate-300">Navigator</h4>
+                        <button onclick="TAUMD.session.finish(true)" class="text-xs text-feedback-danger font-bold hover:underline bg-rose-50 dark:bg-rose-900/20 px-2 py-1 rounded">End Block</button>
+                    </div>
+                    <div class="grid grid-cols-5 gap-2.5 max-h-[220px] overflow-y-auto p-1 scroll-smooth" id="ws-nav-grid">
+                    </div>
+                    <div class="flex justify-between mt-5 text-xs font-medium text-taumd-textMuted bg-slate-50 dark:bg-slate-800 p-2.5 rounded-lg">
+                        <span class="flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-taumd-primary dark:bg-taumd-accent"></div> Done</span>
+                        <span class="flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full bg-feedback-warning"></div> Flagged</span>
+                        <span class="flex items-center gap-1.5"><div class="w-2.5 h-2.5 rounded-full border-2 border-slate-300 dark:border-slate-500"></div> Blank</span>
+                    </div>
+                </div>
+
+                <!-- ## CONFIDENCE RATING -->
+                <div id="ws-confidence-panel" class="hidden p-5 border-b border-taumd-borderLight dark:border-taumd-borderDark bg-slate-50 dark:bg-slate-900/30">
+                    <h4 class="text-xs font-bold uppercase tracking-wider text-taumd-textMuted mb-3">Rate your confidence</h4>
+                    <div class="flex gap-2">
+                        <button onclick="TAUMD.session.setConfidence('low')" class="flex-1 py-2 text-sm font-semibold rounded-lg border border-slate-200 dark:border-slate-700 hover:bg-white dark:hover:bg-slate-800 shadow-sm transition-colors conf-btn" data-val="low">Low</button>
+                        <button onclick="TAUMD.session.setConfidence('med')" class="flex-1 py-2 text-sm font-semibold rounded-lg border border-slate-200 dark:border-slate-700 hover:bg-white dark:hover:bg-slate-800 shadow-sm transition-colors conf-btn" data-val="med">Med</button>
+                        <button onclick="TAUMD.session.setConfidence('high')" class="flex-1 py-2 text-sm font-semibold rounded-lg border border-slate-200 dark:border-slate-700 hover:bg-white dark:hover:bg-slate-800 shadow-sm transition-colors conf-btn" data-val="high">High</button>
+                    </div>
+                </div>
+
+                <!-- ## PRIVATE NOTES -->
+                <div class="p-5 flex-grow flex flex-col bg-white dark:bg-taumd-surfaceDark">
+                    <h4 class="text-sm font-bold uppercase tracking-wide mb-3 flex items-center justify-between text-taumd-textDark dark:text-slate-300">
+                        Private Notes
+                        <span id="note-saved-indicator" class="text-xs text-feedback-success font-medium opacity-0 transition-opacity bg-feedback-successBg px-2 py-0.5 rounded">Saved</span>
+                    </h4>
+                    <textarea id="ws-notes" placeholder="Type your notes here... Auto-saves." class="w-full flex-grow p-4 text-sm rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark bg-slate-50 dark:bg-slate-900 dark:text-slate-200 resize-none focus:outline-none focus:ring-2 focus:ring-taumd-accent/50 transition-shadow"></textarea>
+                </div>
+            </div>
+        </div>
+        <!-- ===== END OF WORKSPACE VIEW SECTION ===== -->
+
+        <!-- ===== RESULTS VIEW SECTION (score summary and question breakdown) ===== -->
+        <div id="view-results" class="hidden animate-fade-in w-full max-w-4xl mx-auto flex flex-col gap-8">
+            
+            <!-- ## SCORE SUMMARY CARD -->
+            <div class="bg-white dark:bg-taumd-surfaceDark rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark p-10 text-center relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-taumd-primary to-taumd-accent"></div>
+                
+                <h2 class="text-4xl font-extrabold text-taumd-primary dark:text-white mb-10 tracking-tight">Block Completed</h2>
+                
+                <div class="flex flex-col sm:flex-row items-center justify-center gap-12 sm:gap-20 mb-10">
+                    <div class="relative w-40 h-40 flex items-center justify-center rounded-full border-[12px] border-slate-100 dark:border-slate-800 shadow-inner">
+                        <svg class="absolute inset-0 w-full h-full transform -rotate-90" viewBox="0 0 100 100">
+                            <circle cx="50" cy="50" r="44" fill="transparent" stroke="currentColor" stroke-width="12" class="text-taumd-accent" stroke-dasharray="276.46" id="res-ring" stroke-dashoffset="0" stroke-linecap="round"></circle>
+                        </svg>
+                        <div class="flex flex-col items-center">
+                            <span class="text-4xl font-black text-taumd-primary dark:text-white" id="res-score">0%</span>
+                            <span class="text-xs text-taumd-textMuted uppercase font-bold tracking-widest mt-1">Score</span>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-3 gap-8 sm:gap-12 text-center">
+                        <div>
+                            <div class="text-3xl font-black text-feedback-success mb-1" id="res-correct">0</div>
+                            <div class="text-xs text-taumd-textMuted uppercase tracking-wider font-bold">Correct</div>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-black text-feedback-danger mb-1" id="res-incorrect">0</div>
+                            <div class="text-xs text-taumd-textMuted uppercase tracking-wider font-bold">Incorrect</div>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-black text-slate-400 dark:text-slate-500 mb-1" id="res-omitted">0</div>
+                            <div class="text-xs text-taumd-textMuted uppercase tracking-wider font-bold">Omitted</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="flex flex-wrap gap-4 justify-center">
+                    <button onclick="TAUMD.ui.navigate('dashboard')" class="px-8 py-3 border-2 border-slate-200 dark:border-slate-700 text-taumd-textDark dark:text-slate-300 font-bold rounded-xl hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors">Back to Dashboard</button>
+                    <button onclick="TAUMD.startReviewMistakes()" class="bg-taumd-primary hover:bg-taumd-hover dark:bg-taumd-accent dark:hover:bg-taumd-accentHover text-white px-8 py-3 rounded-xl font-bold shadow-md hover:shadow-lg transition-all" id="btn-res-mistakes">Review Mistakes</button>
+                </div>
+            </div>
+
+            <!-- ## QUESTION BREAKDOWN LIST -->
+            <div class="bg-white dark:bg-taumd-surfaceDark rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark overflow-hidden">
+                <div class="px-8 py-5 border-b border-taumd-borderLight dark:border-taumd-borderDark bg-slate-50 dark:bg-slate-900/50 flex justify-between items-center">
+                    <h3 class="font-bold text-lg text-taumd-primary dark:text-white uppercase tracking-wide">Question Breakdown</h3>
+                    <span class="text-sm font-medium text-taumd-textMuted" id="res-time-spent"></span>
+                </div>
+                <div class="divide-y divide-taumd-borderLight dark:divide-taumd-borderDark" id="res-list">
+                </div>
+            </div>
+        </div>
+        <!-- ===== END OF RESULTS VIEW SECTION ===== -->
+
+        <!-- ===== EXPLORER VIEW SECTION (browse topics, bookmarks and search) ===== -->
+        <div id="view-explorer" class="hidden animate-fade-in w-full max-w-5xl mx-auto flex flex-col h-[calc(100vh-8rem)]">
+            <div class="flex items-center gap-4 mb-8">
+                <button onclick="TAUMD.ui.navigate('dashboard')" class="p-2 bg-slate-50 dark:bg-slate-800 text-taumd-textMuted hover:text-taumd-primary dark:hover:text-white rounded-lg transition-colors">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+                </button>
+                <h2 class="text-3xl font-extrabold text-taumd-primary dark:text-white">Explorer & Review Center</h2>
+            </div>
+
+            <!-- ## SEARCH BAR -->
+            <div class="relative mb-6">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                </div>
+                <input type="text" id="exp-search" placeholder="Search questions by ID, text, topic or chapter..." class="w-full pl-12 pr-4 py-4 border border-taumd-borderLight dark:border-taumd-borderDark rounded-2xl bg-white dark:bg-taumd-surfaceDark dark:text-white focus:outline-none focus:ring-2 focus:ring-taumd-accent/50 shadow-sm text-base transition-shadow">
+            </div>
+
+            <!-- ## EXPLORER TABS -->
+            <div class="flex border-b border-taumd-borderLight dark:border-taumd-borderDark mb-6 overflow-x-auto gap-2">
+                <button class="exp-tab px-6 py-3 border-b-2 font-bold text-sm border-taumd-primary text-taumd-primary dark:border-taumd-accent dark:text-taumd-accent whitespace-nowrap transition-colors" data-target="topics">Topics Overview</button>
+                <button class="exp-tab px-6 py-3 border-b-2 border-transparent font-bold text-sm text-taumd-textMuted hover:text-taumd-primary dark:hover:text-slate-200 whitespace-nowrap transition-colors" data-target="bookmarks">Bookmarks</button>
+                <button class="exp-tab px-6 py-3 border-b-2 border-transparent font-bold text-sm text-taumd-textMuted hover:text-taumd-primary dark:hover:text-slate-200 whitespace-nowrap transition-colors" data-target="search-results">Search Results</button>
+            </div>
+
+            <!-- ## EXPLORER TAB CONTENT (topics, bookmarks, search results) -->
+            <div class="flex-grow bg-white dark:bg-taumd-surfaceDark rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark overflow-hidden flex flex-col">
+                <div id="tab-topics" class="p-0 overflow-y-auto flex-grow divide-y divide-taumd-borderLight dark:divide-taumd-borderDark custom-scrollbar">
+                </div>
+                <div id="tab-bookmarks" class="hidden p-0 overflow-y-auto flex-grow divide-y divide-taumd-borderLight dark:divide-taumd-borderDark custom-scrollbar">
+                </div>
+                <div id="tab-search-results" class="hidden p-0 overflow-y-auto flex-grow divide-y divide-taumd-borderLight dark:divide-taumd-borderDark custom-scrollbar">
+                    <div class="p-12 text-center text-taumd-textMuted text-lg font-medium">Type in the search bar above to find questions.</div>
+                </div>
+            </div>
+        </div>
+        <!-- ===== END OF EXPLORER VIEW SECTION ===== -->
+
+        <!-- ===== SETTINGS VIEW SECTION (account, sync, appearance and data management) ===== -->
+        <div id="view-settings" class="hidden animate-fade-in w-full max-w-2xl mx-auto flex flex-col gap-6">
+            <div class="flex items-center gap-4 mb-4">
+                <button onclick="TAUMD.ui.navigate('dashboard')" class="p-2 bg-slate-50 dark:bg-slate-800 text-taumd-textMuted hover:text-taumd-primary dark:hover:text-white rounded-lg transition-colors">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+                </button>
+                <h2 class="text-3xl font-extrabold text-taumd-primary dark:text-white">Settings</h2>
+            </div>
+
+            <!-- ## ACCOUNT AND SYNC CARD -->
+            <div class="bg-white dark:bg-taumd-surfaceDark rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark p-8 sm:p-10">
+                <h3 class="text-sm font-bold uppercase tracking-widest text-taumd-textMuted mb-6 border-b border-taumd-borderLight dark:border-taumd-borderDark pb-3">Account &amp; Sync</h3>
+
+                <div id="settings-signed-out">
+                    <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 leading-relaxed">Sign in with Google to back up your progress, bookmarks and notes to your account and pick up where you left off on any device. Without an account, everything stays in this browser only.</p>
+                    <button onclick="TAUMD.account.signIn()" class="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-6 py-3.5 rounded-xl border border-taumd-borderLight dark:border-slate-700 bg-white dark:bg-slate-900 text-sm font-bold text-taumd-primary dark:text-slate-200 hover:border-taumd-accent hover:shadow-sm transition-all keyboard-focus">
+                        <svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+                        Continue with Google
+                    </button>
+                </div>
+
+                <div id="settings-signed-in" class="hidden">
+                    <div class="flex items-center gap-4 mb-5">
+                        <span data-avatar class="relative w-12 h-12 flex-shrink-0 rounded-full overflow-hidden bg-taumd-accent text-white font-bold text-lg flex items-center justify-center"></span>
+                        <div class="min-w-0">
+                            <div data-account-name class="font-bold text-taumd-primary dark:text-white truncate"></div>
+                            <div data-account-email class="text-sm text-taumd-textMuted truncate"></div>
+                        </div>
+                    </div>
+                    <div class="flex items-start gap-2.5 mb-6 p-4 rounded-xl bg-slate-50 dark:bg-slate-900 border border-taumd-borderLight dark:border-taumd-borderDark">
+                        <span data-sync-dot class="mt-1.5 w-2 h-2 rounded-full flex-shrink-0 bg-slate-400"></span>
+                        <div>
+                            <div data-sync-text class="text-sm font-semibold text-taumd-textDark dark:text-slate-200">Local</div>
+                            <p data-sync-tip class="text-xs text-taumd-textMuted mt-0.5 leading-relaxed"></p>
+                        </div>
+                    </div>
+                    <button onclick="TAUMD.account.signOut()" class="px-5 py-3 border border-taumd-borderLight dark:border-slate-700 rounded-xl text-sm font-bold text-taumd-primary dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm">Sign out</button>
+                </div>
+            </div>
+
+            <!-- ## APPEARANCE AND DATA MANAGEMENT CARD (font size, export, reset) -->
+            <div class="bg-white dark:bg-taumd-surfaceDark rounded-3xl shadow-card border border-taumd-borderLight dark:border-taumd-borderDark p-8 sm:p-10">
+                <h3 class="text-sm font-bold uppercase tracking-widest text-taumd-textMuted mb-6 border-b border-taumd-borderLight dark:border-taumd-borderDark pb-3">Appearance</h3>
+                
+                <div class="flex justify-between items-center mb-10">
+                    <span class="text-base font-semibold text-taumd-textDark dark:text-slate-200">Question Font Size</span>
+                    <select id="setting-fontsize" onchange="TAUMD.settings.updateFontSize(this.value)" class="p-2.5 text-sm rounded-lg border border-taumd-borderLight dark:border-slate-700 bg-slate-50 dark:bg-slate-900 dark:text-white font-medium focus:ring-2 focus:ring-taumd-accent/50 outline-none">
+                        <option value="14px">Small</option>
+                        <option value="16px" selected>Normal</option>
+                        <option value="18px">Large</option>
+                        <option value="20px">Extra Large</option>
+                    </select>
+                </div>
+
+                <h3 class="text-sm font-bold uppercase tracking-widest text-taumd-textMuted mb-4 border-b border-taumd-borderLight dark:border-taumd-borderDark pb-3">Data Management</h3>
+                <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 leading-relaxed">Progress is always saved in this browser, and also backed up to your account when you are signed in. Exporting your progress gives you a file copy you can keep before clearing your browser data.</p>
+                
+                <div class="flex flex-col gap-4">
+                    <button onclick="TAUMD.storage.exportData()" class="w-full px-5 py-3.5 border border-taumd-borderLight dark:border-slate-700 rounded-xl text-sm font-bold text-taumd-primary dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800 flex justify-between items-center transition-colors shadow-sm">
+                        Export My Progress (JSON)
+                        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                    </button>
+                    <button onclick="TAUMD.storage.resetCurrentBank()" class="w-full px-5 py-3.5 border border-feedback-danger/30 text-feedback-danger rounded-xl text-sm font-bold hover:bg-feedback-dangerBg dark:hover:bg-red-900/20 text-left transition-colors shadow-sm">
+                        Reset Progress for Current Bank
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- ===== END OF SETTINGS VIEW SECTION ===== -->
+
+    </main>
+    <!-- ===== END OF MAIN CONTENT SECTION ===== -->
+
+    <!-- ===== FUNCTIONALITY SECTION (all JavaScript: storage, sign-in, cloud sync and app logic) ===== -->
+    <script type="module">
+        // ===== SCRIPT DOCUMENTATION NOTES SECTION (how progress is saved and one-time Firebase setup) =====
+        // =====================================================================
+        //  Progress storage, Google sign-in and cloud backup
+        //
+        //  How progress is saved
+        //    * Always in this browser (localStorage). Works with no account, offline,
+        //      and even if Firebase can't be loaded.
+        //    * Signed out : localStorage key  taumd_progress_<bank>
+        //    * Signed in  : localStorage key  taumd_user_<uid>_progress_<bank>  (device copy)
+        //                   + Firestore doc   users/<uid>/banks/<bank>          (account copy)
+        //    * Signing in MERGES this device's progress with the account's progress.
+        //      Nothing is overwritten: per question the newest answer wins, bookmarks
+        //      and notes use their latest change.
+        //
+        //  One-time Firebase console setup
+        //    1. Authentication > Sign-in method          -> enable "Google"
+        //    2. Authentication > Settings > Authorized domains -> add the domain that hosts this page
+        //    3. Firestore Database -> create a database, then publish these rules
+        //       (the rules are what keep each person's progress private):
+        //
+        //         rules_version = '2';
+        //         service cloud.firestore {
+        //           match /databases/{database}/documents {
+        //             match /users/{userId}/{document=**} {
+        //               allow read, write: if request.auth != null && request.auth.uid == userId;
+        //             }
+        //           }
+        //         }
+        // =====================================================================
+        // ===== END OF SCRIPT DOCUMENTATION NOTES SECTION =====
+
+        // ===== FIREBASE CONFIGURATION SECTION (Firebase version and project keys) =====
+        const FIREBASE_VERSION = "13.0.0";
+        const firebaseConfig = {
+            apiKey: "AIzaSyDyp-TYs_xEKH8sZ1xoOhfKjmOonqjw5bY",
+            authDomain: "taumd-0.firebaseapp.com",
+            databaseURL: "https://taumd-0-default-rtdb.firebaseio.com",
+            projectId: "taumd-0",
+            storageBucket: "taumd-0.firebasestorage.app",
+            messagingSenderId: "353660180983",
+            appId: "1:353660180983:web:f291e4d39c9bf0eb2836f2"
+        };
+        // ===== END OF FIREBASE CONFIGURATION SECTION =====
+
+        // ===== PROGRESS MERGE LOGIC SECTION (pure helpers that decide how two copies of progress combine) =====
+        // <progress-core>
+        // Pure helpers (no DOM / Firebase) that decide how two copies of progress combine.
+        const Progress = (() => {
+            const isObj = v => v !== null && typeof v === 'object' && !Array.isArray(v);
+            const ms = s => { const t = Date.parse(s); return Number.isNaN(t) ? 0 : t; };
+            const hasText = v => typeof v === 'string' && v !== '';
+            const stamp = h => isObj(h) ? Math.max(ms(h.date), ms(h.confAt)) : 0;
+
+            // history:     { questionId: { correct, date, conf, confAt? } }
+            // bookmarks:   [questionId]                       (what the UI reads)
+            // bookmarkLog: { questionId: { on, t } }          (latest toggle, so un-bookmarks can sync)
+            // notes:       { questionId: text }               (what the UI reads)
+            // noteTimes:   { questionId: ISO time }           (latest edit, so deleted notes can sync)
+            // resetAt:     ISO time of the last "Reset Progress" made while signed in
+            const empty = () => ({ history: {}, bookmarks: [], notes: {}, bookmarkLog: {}, noteTimes: {}, resetAt: null });
+
+            function normalize(p) {
+                p = isObj(p) ? p : {};
+                return {
+                    history: isObj(p.history) ? p.history : {},
+                    bookmarks: Array.isArray(p.bookmarks) ? p.bookmarks : [],
+                    notes: isObj(p.notes) ? p.notes : {},
+                    bookmarkLog: isObj(p.bookmarkLog) ? p.bookmarkLog : {},
+                    noteTimes: isObj(p.noteTimes) ? p.noteTimes : {},
+                    resetAt: typeof p.resetAt === 'string' ? p.resetAt : null
+                };
+            }
+
+            function hasData(p) {
+                p = normalize(p);
+                return Object.keys(p.history).length > 0 || p.bookmarks.length > 0 || Object.keys(p.notes).length > 0 ||
+                       Object.keys(p.bookmarkLog).length > 0 || Object.keys(p.noteTimes).length > 0;
+            }
+
+            // Combine two copies. Order only matters for exact ties, where `b` wins.
+            function merge(a, b) {
+                a = normalize(a); b = normalize(b);
+                const out = empty();
+                const resetMs = Math.max(ms(a.resetAt), ms(b.resetAt));
+                out.resetAt = ms(b.resetAt) > ms(a.resetAt) ? b.resetAt : a.resetAt;
+
+                // Answers: the most recent attempt at each question wins.
+                for (const id of new Set([...Object.keys(a.history), ...Object.keys(b.history)])) {
+                    const ha = a.history[id], hb = b.history[id];
+                    const best = !isObj(ha) ? hb : !isObj(hb) ? ha : (stamp(ha) > stamp(hb) ? ha : hb);
+                    if (isObj(best) && stamp(best) >= resetMs) out.history[id] = best;
+                }
+
+                // Bookmarks: the latest on/off toggle wins; a bookmark with no log entry counts as "on, long ago".
+                const setA = new Set(a.bookmarks.map(String)), setB = new Set(b.bookmarks.map(String));
+                const original = new Map();   // keeps ids as numbers/strings exactly as the question bank has them
+                for (const v of [...a.bookmarks, ...b.bookmarks]) if (!original.has(String(v))) original.set(String(v), v);
+                const logOf = (p, set, k) => isObj(p.bookmarkLog[k]) ? p.bookmarkLog[k] : (set.has(k) ? { on: true, t: null } : null);
+                for (const k of new Set([...original.keys(), ...Object.keys(a.bookmarkLog), ...Object.keys(b.bookmarkLog)])) {
+                    const ea = logOf(a, setA, k), eb = logOf(b, setB, k);
+                    let best;
+                    if (!ea || !eb) best = ea || eb;
+                    else if (ms(ea.t) !== ms(eb.t)) best = ms(ea.t) > ms(eb.t) ? ea : eb;
+                    else best = ea.on ? ea : eb;                 // tie: keep the bookmark
+                    if (ms(best.t) < resetMs) continue;
+                    out.bookmarkLog[k] = { on: !!best.on, t: best.t || null };
+                    if (best.on) out.bookmarks.push(original.has(k) ? original.get(k) : k);
+                }
+
+                // Notes: the latest edit wins (an emptied note is remembered so the deletion syncs too).
+                for (const k of new Set([...Object.keys(a.notes), ...Object.keys(b.notes), ...Object.keys(a.noteTimes), ...Object.keys(b.noteTimes)])) {
+                    const ta = ms(a.noteTimes[k]), tb = ms(b.noteTimes[k]);
+                    const useA = ta !== tb ? ta > tb : (!hasText(b.notes[k]) && hasText(a.notes[k]));
+                    const src = useA ? a : b;
+                    if (Math.max(ta, tb) < resetMs) continue;
+                    if (hasText(src.notes[k])) out.notes[k] = src.notes[k];
+                    if (src.noteTimes[k]) out.noteTimes[k] = src.noteTimes[k];
+                }
+                return out;
+            }
+
+            return { empty, normalize, hasData, merge };
+        })();
+        // ===== END OF PROGRESS MERGE LOGIC SECTION =====
+
+        // ===== LOCAL DEVICE STORAGE SECTION (read, write and remove progress in localStorage) =====
+        // This device's copy of the progress (guest copy, or one copy per signed-in account).
+        const Local = {
+            key: (uid, bankId) => uid ? `taumd_user_${uid}_progress_${bankId}` : `taumd_progress_${bankId}`,
+            read(uid, bankId) {
+                try {
+                    const raw = localStorage.getItem(this.key(uid, bankId));
+                    return Progress.normalize(raw ? JSON.parse(raw) : null);
+                } catch (e) { return Progress.empty(); }
+            },
+            write(uid, bankId, progress) {
+                try { localStorage.setItem(this.key(uid, bankId), JSON.stringify(progress)); return true; }
+                catch (e) { console.warn('Could not save progress on this device:', e); return false; }
+            },
+            remove(uid, bankId) {
+                try { localStorage.removeItem(this.key(uid, bankId)); } catch (e) { /* ignore */ }
+            }
+        };
+        // </progress-core>
+        // ===== END OF LOCAL DEVICE STORAGE SECTION =====
+
+        // ===== APP MODULE SECTION (TAUMD: the main application object) =====
+        const TAUMD = (function() {
+            // ===== APP STATE AND DOM HELPERS SECTION (shared state and the $ and $$ shortcuts) =====
+            const state = {
+                bank: null,
+                bankId: null,
+                progress: { history: {}, bookmarks: [], notes: {} },
+                session: null,
+                timerInterval: null
+            };
+
+            const $ = id => document.getElementById(id);
+            const $$ = selector => document.querySelectorAll(selector);
+            // ===== END OF APP STATE AND DOM HELPERS SECTION =====
+
+            // ===== UI SECTION (theme toggle, view navigation, modals, sidebar, formatting) =====
+            const ui = {
+                views: ['loading', 'dashboard', 'setup', 'workspace', 'results', 'explorer', 'settings'],
+                
+                // ----- UI SETUP (theme, file upload, search, tabs, notes autosave) -----
+                init() {
+                    const isDark = localStorage.getItem('taumd_theme') === 'dark' || 
+                                  (!('taumd_theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches);
+                    if (isDark) document.documentElement.classList.add('dark');
+                    
+                    $('theme-toggle').addEventListener('click', () => {
+                        document.documentElement.classList.toggle('dark');
+                        localStorage.setItem('taumd_theme', document.documentElement.classList.contains('dark') ? 'dark' : 'light');
+                    });
+
+                    $('file-upload').addEventListener('change', data.handleFileUpload);
+
+                    let searchTimeout;
+                    $('exp-search').addEventListener('input', (e) => {
+                        clearTimeout(searchTimeout);
+                        searchTimeout = setTimeout(() => explorer.doSearch(e.target.value), 300);
+                    });
+
+                    $$('.exp-tab').forEach(tab => {
+                        tab.addEventListener('click', (e) => {
+                            $$('.exp-tab').forEach(t => {
+                                t.classList.remove('border-taumd-primary', 'text-taumd-primary', 'dark:border-taumd-accent', 'dark:text-taumd-accent');
+                                t.classList.add('border-transparent', 'text-taumd-textMuted');
+                            });
+                            const target = e.target;
+                            target.classList.remove('border-transparent', 'text-taumd-textMuted');
+                            target.classList.add('border-taumd-primary', 'text-taumd-primary', 'dark:border-taumd-accent', 'dark:text-taumd-accent');
+                            
+                            $('tab-topics').classList.add('hidden');
+                            $('tab-bookmarks').classList.add('hidden');
+                            $('tab-search-results').classList.add('hidden');
+                            $(`tab-${target.dataset.target}`).classList.remove('hidden');
+                        });
+                    });
+
+                    let notesTimeout;
+                    $('ws-notes').addEventListener('input', (e) => {
+                        clearTimeout(notesTimeout);
+                        notesTimeout = setTimeout(() => {
+                            if(state.session && state.session.questions.length > 0) {
+                                const qId = state.session.questions[state.session.currentIndex].id;
+                                storage.saveNote(qId, e.target.value);
+                                const ind = $('note-saved-indicator');
+                                ind.style.opacity = '1';
+                                setTimeout(()=> ind.style.opacity = '0', 2000);
+                            }
+                        }, 500);
+                    });
+                },
+
+                // ----- NAVIGATION BETWEEN VIEWS -----
+                navigate(viewName) {
+                    this.views.forEach(v => {
+                        const el = $(`view-${v}`);
+                        if(el) el.classList.toggle('hidden', v !== viewName);
+                    });
+                    
+                    if (viewName === 'dashboard') dashboard.render();
+                    if (viewName === 'setup') setup.render();
+                    if (viewName === 'explorer') explorer.render();
+                    
+                    window.scrollTo(0, 0);
+                },
+
+                // ----- MODAL DIALOGS (alert and confirm) -----
+                showAlert(title, message) {
+                    $('modal-title').textContent = title;
+                    $('modal-message').textContent = message;
+                    $('modal-actions').innerHTML = `<button onclick="document.getElementById('modal-overlay').classList.add('hidden')" class="bg-taumd-primary dark:bg-taumd-accent text-white px-5 py-2.5 rounded-xl font-bold shadow hover:shadow-md transition-all">OK</button>`;
+                    $('modal-overlay').classList.remove('hidden');
+                },
+
+                showConfirm(title, message, onConfirm) {
+                    $('modal-title').textContent = title;
+                    $('modal-message').textContent = message;
+                    $('modal-actions').innerHTML = `
+                        <button onclick="document.getElementById('modal-overlay').classList.add('hidden')" class="px-5 py-2.5 text-taumd-textMuted hover:text-taumd-textDark dark:hover:text-white font-bold transition-colors">Cancel</button>
+                        <button id="modal-confirm-btn" class="bg-taumd-primary hover:bg-taumd-hover dark:bg-taumd-accent dark:hover:bg-taumd-accentHover text-white px-5 py-2.5 rounded-xl font-bold shadow hover:shadow-md transition-all">Confirm</button>
+                    `;
+                    $('modal-confirm-btn').onclick = () => {
+                        $('modal-overlay').classList.add('hidden');
+                        onConfirm();
+                    };
+                    $('modal-overlay').classList.remove('hidden');
+                },
+
+                // ----- SIDEBAR, TIMER SETTING AND TIME FORMAT HELPERS -----
+                toggleSidebar() {
+                    const sb = $('workspace-sidebar');
+                    const ov = $('sidebar-overlay');
+                    if (sb.classList.contains('open')) {
+                        sb.classList.remove('open');
+                        ov.classList.remove('open');
+                    } else {
+                        sb.classList.add('open');
+                        ov.classList.add('open');
+                    }
+                },
+
+                toggleTimerSetting() {
+                    const isExam = $('setup-mode').value === 'exam';
+                    $('setup-timer-wrap').classList.toggle('hidden', !isExam);
+                },
+
+                formatTime(seconds) {
+                    const m = Math.floor(seconds / 60).toString().padStart(2, '0');
+                    const s = (seconds % 60).toString().padStart(2, '0');
+                    return `${m}:${s}`;
+                }
+            };
+            // ===== END OF UI SECTION =====
+
+            // ===== ACCOUNT AND CLOUD SYNC SECTION (Google sign-in and cloud backup) =====
+            // ---------------------------------------------------------------
+            //  Account (Google sign-in) + cloud backup
+            // ---------------------------------------------------------------
+            const SYNC_STATES = {
+                local:   { text: 'Local',        cls: 'text-taumd-textMuted',  dot: 'bg-slate-400',               tip: 'Saved on this device only. Sign in to back up to your account.' },
+                syncing: { text: 'Syncing…',     cls: 'text-feedback-warning', dot: 'bg-amber-500 animate-pulse', tip: 'Syncing with your account…' },
+                synced:  { text: 'Cloud Synced', cls: 'text-feedback-success', dot: 'bg-emerald-500',             tip: 'Saved on this device and backed up to your account.' },
+                offline: { text: 'Offline',      cls: 'text-feedback-warning', dot: 'bg-amber-500',               tip: "You're offline. Progress is saved on this device and will sync when you're back online." },
+                error:   { text: 'Sync Error',   cls: 'text-feedback-danger',  dot: 'bg-red-500',                 tip: 'Could not reach your cloud backup. Progress is still saved on this device.' }
+            };
+
+            const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+            function setSyncStatus(key, detail) {
+                account.syncState = key;
+                const s = SYNC_STATES[key];
+                const tip = detail ? `${s.tip} (${detail})` : s.tip;
+                const ind = $('sync-status-indicator');
+                if (ind) ind.title = tip;
+                const txt = $('sync-text');
+                if (txt) { txt.textContent = s.text; txt.className = `text-xs font-semibold tracking-wide ${s.cls}`; }
+                const icon = $('sync-icon');
+                if (icon) icon.setAttribute('class', `w-4 h-4 ${s.cls}`);
+                $$('[data-sync-dot]').forEach(el => { el.className = `w-2 h-2 rounded-full flex-shrink-0 ${s.dot}`; });
+                $$('[data-sync-text]').forEach(el => { el.textContent = s.text; });
+                $$('[data-sync-tip]').forEach(el => { el.textContent = tip; });
+            }
+
+            function fillAvatar(el, user) {
+                el.textContent = '';
+                const label = (user && (user.displayName || user.email)) || '?';
+                const initial = document.createElement('span');
+                initial.textContent = label.trim().charAt(0).toUpperCase() || '?';
+                el.appendChild(initial);
+                if (user && user.photoURL) {
+                    const img = document.createElement('img');
+                    img.alt = '';
+                    img.referrerPolicy = 'no-referrer';
+                    img.className = 'absolute inset-0 w-full h-full object-cover';
+                    img.onerror = () => img.remove();
+                    img.src = user.photoURL;
+                    el.appendChild(img);
+                }
+            }
+
+            function refreshView() {
+                const dash = $('view-dashboard');
+                if (dash && !dash.classList.contains('hidden')) dashboard.render();
+            }
+
+            const account = {
+                user: null,
+                status: 'loading',            // 'loading' | 'ready' | 'unavailable'
+                syncState: 'local',
+                auth: null, db: null, A: null, F: null,
+                pending: new Map(),           // progress waiting to be pushed to the cloud
+                pushTimer: null,
+                pushChain: Promise.resolve(),
+                loading: null,
+
+                uid() { return this.user ? this.user.uid : null; },
+
+                // ----- Firebase loading (dynamic import, so a blocked/offline Firebase never breaks the app) -----
+                load() {
+                    if (this.status === 'ready') return Promise.resolve(true);
+                    if (this.loading) return this.loading;
+                    this.loading = (async () => {
+                        try {
+                            const base = `https://www.gstatic.com/firebasejs/${FIREBASE_VERSION}`;
+                            const [appMod, authMod, fsMod] = await Promise.all([
+                                import(`${base}/firebase-app.js`),
+                                import(`${base}/firebase-auth.js`),
+                                import(`${base}/firebase-firestore.js`)
+                            ]);
+                            const app = appMod.initializeApp(firebaseConfig);
+                            this.A = authMod;
+                            this.F = fsMod;
+                            this.auth = authMod.getAuth(app);
+                            this.db = fsMod.getFirestore(app);
+                            authMod.onAuthStateChanged(this.auth, user => this.onUser(user));
+                            await this.auth.authStateReady();      // restores a previous sign-in before the bank loads
+                            this.status = 'ready';
+                            // Firebase was slow and a bank is already on screen: sync it now that we can
+                            if (this.user && state.bankId) this.schedulePush(this.user.uid, state.bankId, 0);
+                            return true;
+                        } catch (err) {
+                            console.warn('Cloud features unavailable - continuing with progress saved on this device only.', err);
+                            this.status = 'unavailable';
+                            return false;
+                        } finally {
+                            this.loading = null;
+                        }
+                    })();
+                    return this.loading;
+                },
+
+                async init() {
+                    this.bindUI();
+                    this.render();
+                    await Promise.race([this.load(), sleep(8000)]);
+                },
+
+                bindUI() {
+                    document.addEventListener('click', e => {
+                        const wrap = $('account-wrap');
+                        if (wrap && !wrap.contains(e.target)) this.setMenu(false);
+                    });
+                    document.addEventListener('keydown', e => { if (e.key === 'Escape') this.setMenu(false); });
+                    // Retry a failed sync as soon as the connection is back, and push before the tab is hidden/closed.
+                    window.addEventListener('online', () => {
+                        if (this.user && state.bankId) this.schedulePush(this.user.uid, state.bankId, 500);
+                    });
+                    document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') this.flush(); });
+                    window.addEventListener('pagehide', () => this.flush());
+                },
+
+                // ----- Signed-in user changed (sign in, sign out, restored session) -----
+                onUser(user) {
+                    const prev = this.uid();
+                    this.user = user || null;
+                    if (prev !== this.uid()) {
+                        clearTimeout(this.pushTimer);
+                        this.pending.clear();
+                        this.changeIdentity();
+                    } else {
+                        this.render();
+                    }
+                },
+
+                async changeIdentity() {
+                    this.render();
+                    if (!state.bankId) return;
+                    try {
+                        await storage.loadBankProgress();
+                        refreshView();
+                    } catch (err) {
+                        console.error('Could not reload progress after account change:', err);
+                    }
+                },
+
+                // ----- Sign in / out -----
+                async signIn() {
+                    this.setMenu(false);
+                    if (this.status !== 'ready') await this.load();
+                    if (this.status !== 'ready') {
+                        return ui.showAlert('Sign-in unavailable', "Couldn't reach Google sign-in right now. Check your connection and try again. Your progress is still saved on this device.");
+                    }
+                    const provider = new this.A.GoogleAuthProvider();
+                    provider.setCustomParameters({ prompt: 'select_account' });
+                    try {
+                        await this.A.signInWithPopup(this.auth, provider);
+                    } catch (err) {
+                        this.signInFailed(err);
+                    }
+                },
+
+                signInFailed(err) {
+                    const code = (err && err.code) || '';
+                    if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') return;
+                    console.error('Sign-in failed:', err);
+                    const host = location.hostname || 'this page';
+                    const messages = {
+                        'auth/popup-blocked': 'Your browser blocked the sign-in pop-up. Allow pop-ups for this site and try again.',
+                        'auth/unauthorized-domain': `Add "${host}" in the Firebase console under Authentication > Settings > Authorized domains, then try again.`,
+                        'auth/operation-not-allowed': "Google sign-in isn't enabled yet. Turn it on in the Firebase console under Authentication > Sign-in method.",
+                        'auth/operation-not-supported-in-this-environment': 'Sign-in only works when the site is opened over http(s), not from a local file.',
+                        'auth/network-request-failed': "Couldn't reach Google. Check your internet connection and try again.",
+                        'auth/web-storage-unsupported': 'This browser is blocking site data, which sign-in needs. Allow cookies and site data for this site and try again.'
+                    };
+                    ui.showAlert('Sign-in failed', messages[code] || `Something went wrong while signing in (${code || 'unknown error'}). Please try again.`);
+                },
+
+                async signOut() {
+                    this.setMenu(false);
+                    if (this.status !== 'ready') return;
+                    try {
+                        await Promise.race([this.flush(), sleep(4000)]);   // push what's pending, but never hang on a bad connection
+                        await this.A.signOut(this.auth);
+                    } catch (err) {
+                        console.error('Sign-out failed:', err);
+                        ui.showAlert('Sign-out failed', 'Something went wrong while signing out. Please try again.');
+                    }
+                },
+
+                // ----- Cloud sync: merge this device's copy with the account's copy, in one transaction -----
+                schedulePush(uid, bankId, delay = 1500) {
+                    if (this.status !== 'ready' || !uid) return;
+                    this.pending.set(`${uid}|${bankId}`, { uid, bankId });
+                    setSyncStatus('syncing');
+                    clearTimeout(this.pushTimer);
+                    this.pushTimer = setTimeout(() => this.flush(), delay);
+                },
+
+                flush() {
+                    clearTimeout(this.pushTimer);
+                    this.pushTimer = null;
+                    const jobs = [...this.pending.values()];
+                    this.pending.clear();
+                    if (jobs.length) {
+                        this.pushChain = this.pushChain
+                            .then(async () => { for (const j of jobs) await this.syncBank(j.uid, j.bankId); })
+                            .catch(() => {});
+                    }
+                    return this.pushChain;
+                },
+
+                async syncBank(uid, bankId) {
+                    if (this.status !== 'ready' || this.uid() !== uid) return false;
+                    setSyncStatus('syncing');
+                    // The bank on screen is the freshest copy; any other bank is read back from this device.
+                    const live = () => state.bankId === bankId ? state.progress : Local.read(uid, bankId);
+                    try {
+                        const { doc, runTransaction } = this.F;
+                        const ref = doc(this.db, 'users', uid, 'banks', bankId);
+                        const merged = await runTransaction(this.db, async tx => {
+                            if (this.uid() !== uid) throw new Error('identity-changed');   // never write one account's data into another's
+                            const snap = await tx.get(ref);
+                            const m = Progress.merge(live(), snap.exists() ? snap.data() : null);
+                            tx.set(ref, JSON.parse(JSON.stringify(m)));
+                            return m;
+                        });
+                        if (this.uid() !== uid) return false;
+                        const latest = Progress.merge(live(), merged);      // keep anything done while the sync was running
+                        Local.write(uid, bankId, latest);
+                        if (state.bankId === bankId) { state.progress = latest; refreshView(); }
+                        setSyncStatus('synced');
+                        return true;
+                    } catch (err) {
+                        if (err && err.message === 'identity-changed') return false;
+                        console.error('Cloud sync failed:', err);
+                        const code = (err && err.code) || '';
+                        if (code === 'permission-denied') console.error('Firestore rules are blocking access. See the setup notes at the top of this script.');
+                        const offline = !navigator.onLine || /unavailable|network|offline/i.test(`${code} ${(err && err.message) || ''}`);
+                        setSyncStatus(offline ? 'offline' : 'error', offline ? '' : (code || 'unknown error'));
+                        return false;
+                    }
+                },
+
+                // ----- UI -----
+                setMenu(open) {
+                    const menu = $('account-menu'), btn = $('btn-account');
+                    if (!menu || !btn) return;
+                    menu.classList.toggle('hidden', !open);
+                    btn.setAttribute('aria-expanded', String(!!open));
+                },
+
+                toggleMenu() {
+                    const menu = $('account-menu');
+                    if (menu) this.setMenu(menu.classList.contains('hidden'));
+                },
+
+                render() {
+                    const user = this.user;
+                    $('btn-signin').classList.toggle('hidden', !!user);
+                    $('btn-account').classList.toggle('hidden', !user);
+                    $('settings-signed-out').classList.toggle('hidden', !!user);
+                    $('settings-signed-in').classList.toggle('hidden', !user);
+                    $$('[data-avatar]').forEach(el => fillAvatar(el, user));
+                    $$('[data-account-name]').forEach(el => { el.textContent = user ? (user.displayName || user.email || 'Signed in') : ''; });
+                    $$('[data-account-email]').forEach(el => { el.textContent = (user && user.email) || ''; });
+                    if (!user) { this.setMenu(false); setSyncStatus('local'); }
+                    else if (this.syncState === 'local') setSyncStatus(this.status === 'ready' ? 'synced' : 'syncing');
+                }
+            };
+            // ===== END OF ACCOUNT AND CLOUD SYNC SECTION =====
+
+            // ===== STORAGE SECTION (settings, load and save progress, bookmarks, notes, answers, reset, export) =====
+            const storage = {
+                // ----- SETTINGS (font size) -----
+                loadSettings() {
+                    const fs = localStorage.getItem('taumd_setting_fs');
+                    if(fs) {
+                        document.documentElement.style.setProperty('--font-size-base', fs);
+                        if($('setting-fontsize')) $('setting-fontsize').value = fs;
+                    }
+                },
+                updateFontSize(val) {
+                    document.documentElement.style.setProperty('--font-size-base', val);
+                    localStorage.setItem('taumd_setting_fs', val);
+                },
+                
+                // ----- LOAD PROGRESS (this device and cloud) -----
+                async loadBankProgress() {
+                    if(!state.bankId) return;
+                    const bankId = state.bankId;
+                    const uid = account.uid();
+
+                    // 1. Instant local load: the account's copy on this device if signed in, otherwise the guest copy
+                    let progress = Local.read(uid, bankId);
+
+                    // 2. Signed in: fold in anything saved here as a guest, then retire the guest copy
+                    if (uid) {
+                        const guest = Local.read(null, bankId);
+                        if (Progress.hasData(guest)) {
+                            progress = Progress.merge(guest, progress);
+                            if (Local.write(uid, bankId, progress)) Local.remove(null, bankId);
+                        }
+                    }
+                    state.progress = progress;
+
+                    // 3. Signed in: merge with the account's copy in the cloud (don't wait forever on a bad connection)
+                    if (uid) {
+                        const lt = $('loading-text'), lv = $('view-loading');
+                        if (lt && lv && !lv.classList.contains('hidden')) lt.textContent = 'Syncing your progress...';
+                        await Promise.race([account.syncBank(uid, bankId), sleep(8000)]);
+                    } else {
+                        setSyncStatus('local');
+                    }
+                },
+
+                // ----- SAVE AND UPDATE PROGRESS (bookmarks, notes, answers) -----
+                // Saves on this device immediately; backs up to the account shortly after when signed in
+                saveBankProgress() {
+                    if(!state.bankId) return;
+                    const uid = account.uid();
+                    Local.write(uid, state.bankId, state.progress);
+                    if (uid) account.schedulePush(uid, state.bankId);
+                },
+
+                resetLocalObj() {
+                    state.progress = Progress.empty();
+                },
+
+                toggleBookmark(qId) {
+                    const p = state.progress;
+                    const idx = p.bookmarks.indexOf(qId);
+                    if(idx > -1) p.bookmarks.splice(idx, 1);
+                    else p.bookmarks.push(qId);
+                    p.bookmarkLog[qId] = { on: idx === -1, t: new Date().toISOString() };
+                    this.saveBankProgress();
+                    return idx === -1;
+                },
+
+                saveNote(qId, text) {
+                    if(!text.trim()) delete state.progress.notes[qId];
+                    else state.progress.notes[qId] = text;
+                    state.progress.noteTimes[qId] = new Date().toISOString();
+                    this.saveBankProgress();
+                },
+
+                saveAnswer(qId, isCorrect, confLevel = null) {
+                    state.progress.history[qId] = { correct: isCorrect, date: new Date().toISOString(), conf: confLevel };
+                    this.saveBankProgress();
+                },
+
+                // ----- RESET AND EXPORT -----
+                resetCurrentBank() {
+                    const where = account.user ? "on this device and in your account" : "on this device";
+                    ui.showConfirm("Reset Progress", `Are you sure? This will delete all history, bookmarks, and notes for this question bank ${where}.`, async () => {
+                        const uid = account.uid();
+                        this.resetLocalObj();
+                        // A signed-in reset is time-stamped so your other devices drop their older progress when they sync
+                        if (uid) state.progress.resetAt = new Date().toISOString();
+                        this.saveBankProgress();
+                        if (uid) await account.flush();
+
+                        if (uid && account.syncState !== 'synced') ui.showAlert("Progress reset", "Progress was reset on this device. It will be cleared from your account the next time it syncs.");
+                        else ui.showAlert("Success", "Progress has been reset.");
+                        if(state.session) ui.navigate('dashboard');
+                        else dashboard.render();
+                    });
+                },
+
+                exportData() {
+                    if(!state.bankId) return ui.showAlert("Error", "No bank loaded.");
+                    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(state.progress, null, 2));
+                    const dl = document.createElement('a');
+                    dl.setAttribute("href", dataStr);
+                    dl.setAttribute("download", `taumd_export_${state.bankId}.json`);
+                    document.body.appendChild(dl);
+                    dl.click();
+                    dl.remove();
+                }
+            };
+            // ===== END OF STORAGE SECTION =====
+
+            // ===== DATA LOADING SECTION (load question banks, JSON upload, text formatting) =====
+            const data = {
+                // ----- LOAD QUESTION BANK (manifest, questions.json, manual upload) -----
+                async initLoad() {
+                    ui.navigate('loading');
+                    const loadingTextEl = $('loading-text');
+                    
+                    try {
+                        if (loadingTextEl) loadingTextEl.textContent = "Checking for JSON manifest...";
+                        
+                        const manifestRes = await fetch('./manifest.json').catch(() => null);
+                        if (manifestRes && manifestRes.ok) {
+                            const files = await manifestRes.json();
+                            if (Array.isArray(files) && files.length > 0) {
+                                if (loadingTextEl) loadingTextEl.textContent = `Loading ${files.length} question banks...`;
+                                
+                                let allQuestions = [];
+                                let baseMetadata = { 
+                                    title: "Combined TAUMD Bank", 
+                                    description: "Multiple JSON files loaded via manifest." 
+                                };
+                                
+                                const fetchPromises = files.map(file => fetch(file).then(r => r.ok ? r.json() : null).catch(() => null));
+                                const results = await Promise.all(fetchPromises);
+                                
+                                results.forEach((json, index) => {
+                                    if (json && json.questions) {
+                                        allQuestions = allQuestions.concat(json.questions);
+                                        if (index === 0 && json.metadata) baseMetadata = json.metadata; 
+                                    }
+                                });
+                                
+                                if(allQuestions.length > 0) {
+                                    await this.process({ metadata: baseMetadata, questions: allQuestions });
+                                    return;
+                                }
+                            }
+                        }
+                        
+                        if (loadingTextEl) loadingTextEl.textContent = "Loading default question bank...";
+                        const response = await fetch('./questions.json');
+                        if (!response.ok) throw new Error("HTTP error " + response.status);
+                        const json = await response.json();
+                        await this.process(json);
+
+                    } catch (err) {
+                        console.warn("Could not fetch local files. Awaiting manual upload.", err);
+                        if (loadingTextEl) loadingTextEl.textContent = "Ready for manual upload.";
+                        ui.navigate('dashboard'); 
+                    }
+                },
+                handleFileUpload(e) {
+                    const file = e.target.files[0];
+                    if(!file) return;
+                    ui.navigate('loading');
+                    const reader = new FileReader();
+                    reader.onload = async (ev) => {
+                        try {
+                            const json = JSON.parse(ev.target.result);
+                            await data.process(json);
+                        } catch(err) {
+                            ui.showAlert("Invalid JSON", "The selected file is not a valid JSON structure.");
+                            ui.navigate('dashboard');
+                        }
+                    };
+                    reader.readAsText(file);
+                },
+                // ----- PROCESS BANK AND FORMAT TEXT -----
+                async process(json) {
+                    if (!json.questions || !Array.isArray(json.questions)) {
+                        ui.showAlert("Error", "Invalid bank schema. Missing 'questions' array.");
+                        ui.navigate('dashboard');
+                        return;
+                    }
+                    
+                    state.bank = json;
+                    const title = json.metadata?.title || "Unknown Bank";
+                    state.bankId = title.toLowerCase().replace(/[^a-z0-9]/g, '_');
+                    
+                    $('nav-bank-title').textContent = title;
+                    $('dash-bank-desc').textContent = json.metadata?.description || "Select a mode to begin.";
+                    
+                    // Await the cloud fetch before showing dashboard
+                    await storage.loadBankProgress();
+                    
+                    dashboard.render();
+                    ui.navigate('dashboard');
+                },
+                escapeHTML(str) {
+                    if(typeof str !== 'string') return '';
+                    return str.replace(/[&<>'"]/g, 
+                        tag => ({
+                            '&': '&amp;',
+                            '<': '&lt;',
+                            '>': '&gt;',
+                            "'": '&#39;',
+                            '"': '&quot;'
+                        }[tag] || tag)
+                    );
+                },
+                formatContent(text) {
+                    if(!text) return "";
+                    let html = this.escapeHTML(text);
+                    html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                    html = html.replace(/\n/g, '<br>');
+                    return html;
+                }
+            };
+            // ===== END OF DATA LOADING SECTION =====
+
+            // ===== DASHBOARD SECTION (stats cards and resume panel) =====
+            const dashboard = {
+                render() {
+                    if(!state.bank) return;
+                    
+                    const total = state.bank.questions.length;
+                    const hist = Object.values(state.progress.history);
+                    const attempted = hist.length;
+                    const correct = hist.filter(h => h.correct).length;
+                    const acc = attempted > 0 ? Math.round((correct / attempted) * 100) : 0;
+                    const bookmarks = state.progress.bookmarks.length;
+
+                    $('stat-total').textContent = total;
+                    $('stat-attempted').textContent = attempted;
+                    $('stat-accuracy').textContent = acc + '%';
+                    $('stat-bookmarks').textContent = bookmarks;
+
+                    const mistakes = hist.length - correct;
+                    const btnMistakes = $('btn-review-mistakes');
+                    if (mistakes > 0) {
+                        btnMistakes.classList.remove('hidden');
+                        btnMistakes.textContent = `Mistakes (${mistakes})`;
+                    } else {
+                        btnMistakes.classList.add('hidden');
+                    }
+
+                    if (state.session && !state.session.isFinished) {
+                        $('resume-panel').classList.remove('hidden');
+                        $('resume-text').textContent = `${state.session.mode === 'exam' ? 'Exam' : 'Tutor'} block in progress (${state.session.currentIndex + 1} / ${state.session.questions.length})`;
+                    } else {
+                        $('resume-panel').classList.add('hidden');
+                    }
+                }
+            };
+            // ===== END OF DASHBOARD SECTION =====
+
+            // ===== SETUP SECTION (block setup form: topics, chapters, filters, question count) =====
+            const setup = {
+                render() {
+                    if(!state.bank) return;
+                    
+                    const topics = new Set();
+                    state.bank.questions.forEach(q => { if(q.topic) topics.add(q.topic); });
+                    
+                    const sel = $('setup-topic');
+                    sel.innerHTML = '<option value="all">All Topics</option>';
+                    Array.from(topics).sort().forEach(t => {
+                        const opt = document.createElement('option');
+                        opt.value = t; opt.textContent = t;
+                        sel.appendChild(opt);
+                    });
+
+                    $('setup-topic').onchange = () => {                         
+                        this.renderSections();                         
+                        this.updateCount();                     
+                    };
+                    
+                    $$('input[name="q_status"]').forEach(r => r.onchange = () => this.updateCount());
+
+                    this.renderSections();
+                    this.updateCount();
+                },
+
+                renderSections() {
+                    const topic = $('setup-topic').value;
+                    const container = $('setup-sections-container');
+                    const list = $('setup-sections-list');
+                    list.innerHTML = '';
+
+                    if (topic === 'all') {
+                        container.classList.add('hidden');
+                        return;
+                    }
+
+                    const sections = new Set();
+                    state.bank.questions.forEach(q => {
+                        if (q.topic === topic && q.section) sections.add(q.section);
+                    });
+
+                    if (sections.size === 0) {
+                        container.classList.add('hidden');
+                        return;
+                    }
+
+                    container.classList.remove('hidden');
+                    
+                    Array.from(sections).sort().forEach(sec => {
+                        const label = document.createElement('label');
+                        label.className = "flex items-center gap-2 cursor-pointer bg-slate-50 dark:bg-slate-800 px-3 py-2 rounded-xl border border-taumd-borderLight dark:border-taumd-borderDark hover:border-taumd-accent transition-colors select-none";
+                        
+                        label.innerHTML = `
+                            <input type="checkbox" value="${data.escapeHTML(sec)}" class="section-checkbox appearance-none w-4 h-4 rounded border-2 border-slate-300 dark:border-slate-600 checked:bg-taumd-accent checked:border-taumd-accent focus:outline-none focus:ring-2 focus:ring-offset-1 focus:ring-taumd-accent/50 transition-colors flex-shrink-0 cursor-pointer checked:bg-[url('data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22%23fff%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M12.207%204.793a1%201%200%20010%201.414l-5%205a1%201%200%2001-1.414%200l-2-2a1%201%200%20011.414-1.414L6.5%209.086l4.293-4.293a1%201%200%20011.414%200z%22%2F%3E%3C%2Fsvg%3E')] bg-center bg-no-repeat bg-[length:100%_100%]">
+                            <span class="text-sm font-medium text-taumd-textDark dark:text-slate-200">${data.escapeHTML(sec)}</span>
+                        `;
+                        
+                        label.querySelector('input').addEventListener('change', () => this.updateCount());
+                        list.appendChild(label);
+                    });
+                },
+
+                updateCount() {
+                    const filtered = this.getFilteredQuestions();
+                    $('setup-match-count').textContent = `${filtered.length} matching questions available.`;
+                },
+
+                getFilteredQuestions() {
+                    const topic = $('setup-topic').value;
+                    const status = document.querySelector('input[name="q_status"]:checked').value;
+                    const selectedSections = Array.from(document.querySelectorAll('.section-checkbox:checked')).map(cb => cb.value);
+                    
+                    return state.bank.questions.filter(q => {
+                        if (topic !== 'all' && q.topic !== topic) return false;
+                        if (selectedSections.length > 0) {
+                            if (!q.section || !selectedSections.includes(q.section)) return false;
+                        }
+                        const history = state.progress.history[q.id];
+                        if (status === 'unanswered' && history) return false;
+                        if (status === 'incorrect' && (!history || history.correct)) return false;
+                        if (status === 'bookmarked' && !state.progress.bookmarks.includes(q.id)) return false;
+                        
+                        return true;
+                    });
+                }
+            };
+            // ===== END OF SETUP SECTION =====
+
+            // ===== SESSION SECTION (practice block: create, timer, question rendering, answers, navigation, results) =====
+            const session = {
+                // ----- CREATE, START AND TIMER -----
+                create() {
+                    const filtered = setup.getFilteredQuestions();
+                    if(filtered.length === 0) return ui.showAlert("No Questions", "Your current filters resulted in 0 questions. Please adjust them.");
+                    
+                    const sizeVal = $('setup-count').value;
+                    const count = sizeVal === 'all' ? filtered.length : Math.min(parseInt(sizeVal), filtered.length);
+                    
+                    const shuffled = [...filtered].sort(() => 0.5 - Math.random());
+                    const selectedQs = shuffled.slice(0, count);
+
+                    const mode = $('setup-mode').value;
+                    const useTimer = mode === 'exam' && $('setup-timer').checked;
+
+                    state.session = {
+                        questions: selectedQs,
+                        mode: mode,
+                        currentIndex: 0,
+                        answers: {},
+                        submitted: {}, 
+                        flags: {}, 
+                        startTime: Date.now(),
+                        timerLimit: useTimer ? count * 90 : null, 
+                        timeRemaining: useTimer ? count * 90 : null,
+                        isFinished: false
+                    };
+
+                    this.start();
+                },
+
+                start() {
+                    if(state.timerInterval) clearInterval(state.timerInterval);
+                    
+                    if(state.session.timerLimit) {
+                        $('ws-timer-panel').classList.remove('hidden');
+                        this.updateTimerDisplay();
+                        state.timerInterval = setInterval(() => {
+                            state.session.timeRemaining--;
+                            this.updateTimerDisplay();
+                            if(state.session.timeRemaining <= 0) {
+                                clearInterval(state.timerInterval);
+                                this.finish(true, true); 
+                            }
+                        }, 1000);
+                    } else {
+                        $('ws-timer-panel').classList.add('hidden');
+                    }
+
+                    this.renderWorkspace();
+                    ui.navigate('workspace');
+                },
+
+                updateTimerDisplay() {
+                    if(!state.session || state.session.timeRemaining === null) return;
+                    $('ws-timer-display').textContent = ui.formatTime(state.session.timeRemaining);
+                    if(state.session.timeRemaining < 60) $('ws-timer-display').classList.add('text-feedback-danger');
+                    else $('ws-timer-display').classList.remove('text-feedback-danger');
+                },
+
+                // ----- RENDER THE QUESTION SCREEN -----
+                renderWorkspace() {
+                    if(!state.session) return;
+                    const qIndex = state.session.currentIndex;
+                    const q = state.session.questions[qIndex];
+                    const isAnswered = !!state.session.answers[qIndex];
+                    const isSubmitted = state.session.submitted[qIndex];
+                    const isExam = state.session.mode === 'exam';
+
+                    $('ws-counter').textContent = `Q ${qIndex + 1} of ${state.session.questions.length}`;
+                    
+                    const titleStr = q.section ? `${q.topic} - ${q.section}` : (q.topic || 'General');
+                    $('ws-topic').textContent = titleStr;
+                    
+                    const btnFlag = $('btn-flag');
+                    if(state.session.flags[qIndex]) btnFlag.classList.add('text-feedback-warning', 'bg-feedback-warningBg');
+                    else btnFlag.classList.remove('text-feedback-warning', 'bg-feedback-warningBg');
+
+                    const btnBook = $('btn-bookmark');
+                    if(state.progress.bookmarks.includes(q.id)) btnBook.classList.add('text-taumd-accent', 'bg-teal-50', 'dark:bg-teal-900/20');
+                    else btnBook.classList.remove('text-taumd-accent', 'bg-teal-50', 'dark:bg-teal-900/20');
+
+                    $('ws-stem').innerHTML = data.formatContent(q.question);
+                    
+                    if(q.imagePath) {
+                        $('ws-image').src = data.escapeHTML(q.imagePath);$('ws-image-container').classList.remove('hidden');
+                    } else {
+                        $('ws-image-container').classList.add('hidden');
+                    }
+
+                    $('ws-notes').value = state.progress.notes[q.id] || "";
+                    $('note-saved-indicator').style.opacity = '0';
+
+                    const optsContainer = $('ws-options');
+                    optsContainer.innerHTML = '';
+                    
+                    for(const [key, text] of Object.entries(q.options)) {
+                        const btn = document.createElement('button');
+                        btn.className = `option-card text-left p-4 sm:p-5 rounded-2xl flex items-start gap-5 focus:outline-none keyboard-focus group`;
+                        btn.dataset.key = key;
+                        btn.tabIndex = 0;
+                        
+                        const marker = document.createElement('div');
+                        marker.className = `w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full border-2 border-slate-200 dark:border-slate-700 font-bold bg-slate-50 dark:bg-slate-800 text-slate-500 dark:text-slate-400 transition-colors group-hover:border-taumd-accent group-hover:text-taumd-accent`;
+                        marker.textContent = key;
+                        
+                        const label = document.createElement('div');
+                        label.className = `mt-1.5 flex-grow text-base dark:text-slate-200`;
+                        label.innerHTML = data.formatContent(text);
+
+                        btn.appendChild(marker);
+                        btn.appendChild(label);
+
+                        if(state.session.answers[qIndex] === key) {
+                            btn.classList.add('selected');
+                            marker.classList.add('bg-taumd-accent', 'text-white', 'border-taumd-accent');
+                            marker.classList.remove('bg-slate-50', 'dark:bg-slate-800', 'text-slate-500', 'dark:text-slate-400');
+                        }
+
+                        if(isExam) {
+                            btn.onclick = () => this.selectOption(key);
+                            btn.onkeydown = (e) => { if(e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.selectOption(key); } };
+                        } else {
+                            if(isSubmitted) {
+                                btn.classList.add('disabled');
+                                if(key === q.correctAnswer) {
+                                    btn.classList.add('correct');
+                                    marker.className = `w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full border-2 font-bold bg-feedback-success text-white border-feedback-success`;
+                                    marker.textContent = key;
+                                } else if (state.session.answers[qIndex] === key) {
+                                    btn.classList.add('incorrect');
+                                    marker.className = `w-10 h-10 flex-shrink-0 flex items-center justify-center rounded-full border-2 font-bold bg-feedback-danger text-white border-feedback-danger`;
+                                    marker.textContent = key;
+                                }
+                            } else {
+                                btn.onclick = () => this.selectOption(key);
+                                btn.onkeydown = (e) => { if(e.key === 'Enter' || e.key === ' ') { e.preventDefault(); this.selectOption(key); } };
+                            }
+                        }
+                        optsContainer.appendChild(btn);
+                    }
+
+                    if((isExam && isAnswered) || (!isExam && isSubmitted)) {
+                        $('ws-confidence-panel').classList.remove('hidden');$$('.conf-btn').forEach(b => b.classList.remove('bg-slate-800', 'text-white', 'dark:bg-slate-700', 'border-transparent'));
+                        
+                        const confData = state.progress.history[q.id]?.conf;
+                        if(confData) {
+                            const activeBtn = document.querySelector(`.conf-btn[data-val="${confData}"]`);
+                            if(activeBtn) activeBtn.classList.add('bg-slate-800', 'text-white', 'dark:bg-slate-700', 'border-transparent');
+                        }
+                    } else {
+                        $('ws-confidence-panel').classList.add('hidden');
+                    }
+
+                    $('btn-ws-prev').disabled = qIndex === 0;
+                    $('btn-ws-submit').classList.add('hidden');$('btn-ws-next').classList.add('hidden');
+                    $('btn-ws-finish').classList.add('hidden');$('ws-feedback').classList.add('hidden');
+
+                    if(isExam) {
+                        if(qIndex < state.session.questions.length - 1) $('btn-ws-next').classList.remove('hidden');
+                        else $('btn-ws-finish').classList.remove('hidden');
+                    } else {
+                        if(isSubmitted) {
+                            this.renderFeedback(q, state.session.answers[qIndex]);
+                            if(qIndex < state.session.questions.length - 1) $('btn-ws-next').classList.remove('hidden');
+                            else $('btn-ws-finish').classList.remove('hidden');
+                        } else {
+                            $('btn-ws-submit').classList.remove('hidden');
+                            if(!isAnswered) $('btn-ws-submit').disabled = true;
+                            else $('btn-ws-submit').disabled = false;
+                        }
+                    }
+
+                    this.renderNavGrid();
+                    $('ws-scroll-area').scrollTop = 0;
+                },
+
+                // ----- ANSWER SELECTION, SUBMIT AND FEEDBACK -----
+                selectOption(key) {
+                    const qIndex = state.session.currentIndex;
+                    if(state.session.mode === 'tutor' && state.session.submitted[qIndex]) return;
+
+                    state.session.answers[qIndex] = key;
+                    this.renderWorkspace(); 
+                },
+
+                submit() {
+                    const qIndex = state.session.currentIndex;
+                    if(!state.session.answers[qIndex]) return;
+
+                    const q = state.session.questions[qIndex];
+                    const isCorrect = state.session.answers[qIndex] === q.correctAnswer;
+                    
+                    state.session.submitted[qIndex] = true;
+                    storage.saveAnswer(q.id, isCorrect);
+                    
+                    this.renderWorkspace();
+                },
+
+                renderFeedback(q, userKey) {
+                    const fb = $('ws-feedback');
+                    const head = $('fb-header');
+                    const text = $('fb-text');
+                    
+                    fb.classList.remove('hidden');
+                    if(userKey === q.correctAnswer) {
+                        head.innerHTML = `<div class="p-2 bg-feedback-successBg text-feedback-success rounded-xl"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg></div> <span class="text-feedback-success tracking-tight">Correct Answer</span>`;
+                    } else {
+                        head.innerHTML = `<div class="p-2 bg-feedback-dangerBg text-feedback-danger rounded-xl"><svg class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg></div> <span class="text-feedback-danger tracking-tight">Incorrect Answer</span>`;
+                    }
+
+                    let content = '';
+                    if(q.explanation) content += `<div class="mb-6">${data.formatContent(q.explanation)}</div>`;
+                    if(q.optionExplanations) {
+                        content += '<div class="space-y-4 mt-6 border-t border-taumd-borderLight dark:border-taumd-borderDark pt-6">';
+                        for(const [k, expl] of Object.entries(q.optionExplanations)) {
+                            content += `<div class="flex gap-4"><div class="w-8 h-8 shrink-0 flex items-center justify-center rounded-full bg-slate-200 dark:bg-slate-700 text-sm font-bold text-slate-700 dark:text-slate-300">${k}</div><div class="flex-grow pt-1">${data.formatContent(expl)}</div></div>`;
+                        }
+                        content += '</div>';
+                    }
+                    if(!content) content = "No detailed explanation provided.";
+                    text.innerHTML = content;
+
+                    if(q.educationalObjective) {
+                        $('fb-objective-wrap').classList.remove('hidden');$('fb-objective-text').innerHTML = data.formatContent(q.educationalObjective);
+                    } else {
+                        $('fb-objective-wrap').classList.add('hidden');
+                    }
+                },
+
+                // ----- NAVIGATION, FLAGS, BOOKMARKS AND CONFIDENCE -----
+                next() {
+                    if(state.session.currentIndex < state.session.questions.length - 1) {
+                        state.session.currentIndex++;
+                        this.renderWorkspace();
+                    }
+                },
+
+                prev() {
+                    if(state.session.currentIndex > 0) {
+                        state.session.currentIndex--;
+                        this.renderWorkspace();
+                    }
+                },
+
+                jumpTo(idx) {
+                    state.session.currentIndex = idx;
+                    this.renderWorkspace();
+                    if(window.innerWidth <= 1024) ui.toggleSidebar();
+                },
+
+                toggleFlag() {
+                    const idx = state.session.currentIndex;
+                    state.session.flags[idx] = !state.session.flags[idx];
+                    this.renderWorkspace();
+                },
+
+                toggleBookmark() {
+                    const q = state.session.questions[state.session.currentIndex];
+                    storage.toggleBookmark(q.id);
+                    this.renderWorkspace();
+                },
+
+                setConfidence(val) {
+                    const q = state.session.questions[state.session.currentIndex];
+                    if(state.progress.history[q.id]) {
+                        state.progress.history[q.id].conf = val;
+                        state.progress.history[q.id].confAt = new Date().toISOString();
+                        storage.saveBankProgress();
+                        this.renderWorkspace(); 
+                    }
+                },
+
+                renderNavGrid() {
+                    const grid = $('ws-nav-grid');
+                    grid.innerHTML = '';
+                    for(let i=0; i<state.session.questions.length; i++) {
+                        const btn = document.createElement('button');
+                        btn.className = `h-10 w-full rounded-xl text-xs font-bold flex items-center justify-center border-2 transition-all`;
+                        btn.textContent = i + 1;
+                        
+                        let isAnsw = !!state.session.answers[i];
+                        let isFlag = !!state.session.flags[i];
+                        
+                        if (i === state.session.currentIndex) {
+                            btn.classList.add('ring-4', 'ring-taumd-accent/30', 'dark:ring-taumd-accent/20');
+                        }
+
+                        if (isFlag) {
+                            btn.classList.add('bg-feedback-warningBg', 'border-feedback-warning', 'text-feedback-warning', 'dark:bg-yellow-900/30');
+                        } else if (isAnsw) {
+                            btn.classList.add('bg-taumd-primary', 'border-taumd-primary', 'text-white', 'dark:bg-taumd-accent', 'dark:border-taumd-accent');
+                        } else {
+                            btn.classList.add('bg-white', 'border-slate-200', 'text-slate-500', 'dark:bg-slate-800', 'dark:border-slate-700', 'dark:text-slate-400');
+                        }
+
+                        btn.onclick = () => this.jumpTo(i);
+                        grid.appendChild(btn);
+                    }
+                },
+
+                // ----- FINISH BLOCK AND RESULTS -----
+                finish(promptUser = false, autoSubmit = false) {
+                    if(promptUser && !autoSubmit) {
+                        const unans = state.session.questions.length - Object.keys(state.session.answers).length;
+                        let msg = "Are you sure you want to end this block?";
+                        if(unans > 0 && state.session.mode === 'exam') msg += ` You have ${unans} unanswered questions.`;
+                        
+                        ui.showConfirm("End Block", msg, () => this.processResults());
+                    } else if (autoSubmit) {
+                        ui.showAlert("Time Up", "Your time has expired. The block will now be submitted.");
+                        this.processResults();
+                    } else {
+                        this.processResults();
+                    }
+                },
+
+                processResults() {
+                    if(state.timerInterval) clearInterval(state.timerInterval);
+                    state.session.isFinished = true;
+                    
+                    let correctCount = 0;
+                    let wrongCount = 0;
+                    let omittedCount = 0;
+
+                    if(state.session.mode === 'exam') {
+                        state.session.questions.forEach((q, idx) => {
+                            const ans = state.session.answers[idx];
+                            if(!ans) {
+                                omittedCount++;
+                            } else {
+                                const isC = ans === q.correctAnswer;
+                                if(isC) correctCount++; else wrongCount++;
+                                storage.saveAnswer(q.id, isC); 
+                            }
+                        });
+                    } else {
+                        state.session.questions.forEach((q, idx) => {
+                             if(state.session.submitted[idx]) {
+                                 if(state.session.answers[idx] === q.correctAnswer) correctCount++;
+                                 else wrongCount++;
+                             } else {
+                                 omittedCount++;
+                             }
+                        });
+                    }
+
+                    this.renderResults(correctCount, wrongCount, omittedCount);
+                },
+
+                renderResults(c, w, o) {
+                    const total = state.session.questions.length;
+                    const attempted = c + w;
+                    const score = attempted > 0 ? Math.round((c / total) * 100) : 0; 
+
+                    $('res-correct').textContent = c;
+                    $('res-incorrect').textContent = w;
+                    $('res-omitted').textContent = o;
+                    $('res-score').textContent = score + '%';
+                    
+                    const ring = $('res-ring');
+                    const offset = 276.46 - (276.46 * score) / 100;
+                    ring.style.strokeDashoffset = offset;
+
+                    if(w > 0) $('btn-res-mistakes').classList.remove('hidden');
+                    else $('btn-res-mistakes').classList.add('hidden');
+
+                    const rList = $('res-list');
+                    rList.innerHTML = '';
+                    
+                    state.session.questions.forEach((q, idx) => {
+                        const ans = state.session.answers[idx];
+                        const isSub = state.session.mode === 'exam' || state.session.submitted[idx];
+                        const isCorrect = isSub && ans === q.correctAnswer;
+                        
+                        const item = document.createElement('div');
+                        item.className = 'p-5 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors flex flex-col sm:flex-row justify-between sm:items-center gap-4 cursor-pointer group';
+                        
+                        let statusIcon = `<span class="px-3 py-1 bg-slate-100 dark:bg-slate-700 text-taumd-textMuted text-xs font-bold rounded-lg uppercase tracking-wider">Omitted</span>`;
+                        if(isSub && ans) {
+                            if(isCorrect) statusIcon = `<span class="px-3 py-1 bg-feedback-successBg text-feedback-success text-xs font-bold rounded-lg uppercase tracking-wider">Correct</span>`;
+                            else statusIcon = `<span class="px-3 py-1 bg-feedback-dangerBg text-feedback-danger text-xs font-bold rounded-lg uppercase tracking-wider">Incorrect</span>`;
+                        }
+
+                        item.innerHTML = `
+                            <div class="flex items-center gap-4">
+                                <span class="text-base font-black w-8 text-slate-300 dark:text-slate-600">Q${idx+1}</span>
+                                <div>
+                                    <div class="text-sm font-semibold text-taumd-textDark dark:text-slate-200 line-clamp-1 group-hover:text-taumd-accent transition-colors">${data.escapeHTML(q.question).substring(0,80)}...</div>
+                                    <div class="text-xs font-medium text-slate-400 mt-1">${q.topic || 'General'} ${q.section ? '• ' + q.section : ''}</div>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4 shrink-0">
+                                ${statusIcon}
+                                <svg class="w-5 h-5 text-slate-300 group-hover:text-taumd-accent transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                            </div>
+                        `;
+                        
+                        item.onclick = () => {
+                            state.session.currentIndex = idx;
+                            if(state.session.mode === 'exam' && ans) state.session.submitted[idx] = true;
+                            this.renderWorkspace();
+                            $('btn-ws-submit').classList.add('hidden'); 
+                            ui.navigate('workspace');
+                        };
+                        
+                        rList.appendChild(item);
+                    });
+
+                    ui.navigate('results');
+                }
+            };
+            // ===== END OF SESSION SECTION =====
+
+            // ===== EXPLORER SECTION (topics overview, bookmarks list, search) =====
+            const explorer = {
+                render() {
+                    if(!state.bank) return;
+                    this.renderTopics();
+                    this.renderBookmarks();
+                },
+                renderTopics() {
+                    const cont = $('tab-topics');
+                    cont.innerHTML = '';
+                    
+                    const topicData = {};
+                    state.bank.questions.forEach(q => {
+                        const t = q.topic || 'Uncategorized';
+                        if(!topicData[t]) topicData[t] = { total: 0, attempted: 0, correct: 0 };
+                        topicData[t].total++;
+                        
+                        const h = state.progress.history[q.id];
+                        if(h) {
+                            topicData[t].attempted++;
+                            if(h.correct) topicData[t].correct++;
+                        }
+                    });
+
+                    for(const [t, stats] of Object.entries(topicData).sort()) {
+                        const acc = stats.attempted > 0 ? Math.round((stats.correct/stats.attempted)*100) : 0;
+                        const row = document.createElement('div');
+                        row.className = 'p-6 flex flex-col sm:flex-row justify-between sm:items-center gap-6 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors group';
+                        row.innerHTML = `
+                            <div>
+                                <h4 class="font-bold text-lg text-taumd-primary dark:text-white mb-1 group-hover:text-taumd-accent transition-colors">${data.escapeHTML(t)}</h4>
+                                <div class="text-sm font-medium text-slate-500 flex gap-4">
+                                    <span class="flex items-center gap-1.5"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 002-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg> ${stats.total} Questions</span>
+                                    <span class="flex items-center gap-1.5"><svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg> ${stats.attempted} Attempted</span>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-6 shrink-0">
+                                <div class="flex items-center gap-3 w-40">
+                                    <div class="flex-grow bg-slate-100 dark:bg-slate-700 rounded-full h-2">
+                                        <div class="bg-taumd-accent h-2 rounded-full" style="width: ${acc}%"></div>
+                                    </div>
+                                    <span class="text-sm font-black w-10 text-right text-slate-700 dark:text-slate-300">${acc}%</span>
+                                </div>
+                                <button onclick="TAUMD.startReviewMistakes('${t}')" class="px-5 py-2 text-sm font-bold border-2 border-taumd-primary text-taumd-primary dark:border-taumd-accent dark:text-taumd-accent rounded-lg hover:bg-taumd-primary hover:text-white dark:hover:bg-taumd-accent dark:hover:text-white transition-all shadow-sm">Study</button>
+                            </div>
+                        `;
+                        cont.appendChild(row);
+                    }
+                },
+                renderBookmarks() {
+                    const cont = $('tab-bookmarks');
+                    cont.innerHTML = '';
+                    if(state.progress.bookmarks.length === 0) {
+                        cont.innerHTML = '<div class="p-12 text-center text-taumd-textMuted text-lg font-medium">You have no bookmarked questions.</div>';
+                        return;
+                    }
+
+                    state.progress.bookmarks.forEach(id => {
+                        const q = state.bank.questions.find(x => x.id === id);
+                        if(!q) return;
+                        const row = document.createElement('div');
+                        row.className = 'p-6 hover:bg-slate-50 dark:hover:bg-slate-800 flex justify-between items-center cursor-pointer group transition-colors';
+                        row.innerHTML = `
+                            <div class="pr-6">
+                                <div class="text-base font-semibold text-taumd-textDark dark:text-slate-200 line-clamp-2 mb-2 group-hover:text-taumd-accent transition-colors">${data.escapeHTML(q.question).substring(0,120)}...</div>
+                                <div class="text-xs font-bold tracking-wide uppercase text-slate-400 flex items-center gap-2">
+                                    <span class="bg-slate-100 dark:bg-slate-700 px-2 py-1 rounded text-slate-700 dark:text-slate-300">${q.id}</span>
+                                    <span>${data.escapeHTML(q.topic)} ${q.section ? '• ' + data.escapeHTML(q.section) : ''}</span>
+                                </div>
+                            </div>
+                            <button onclick="event.stopPropagation(); TAUMD.storage.toggleBookmark('${q.id}'); TAUMD.explorer.renderBookmarks();" class="p-3 text-taumd-accent bg-teal-50 dark:bg-teal-900/20 hover:bg-rose-50 hover:text-feedback-danger rounded-xl transition-all" title="Remove Bookmark">
+                                <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path></svg>
+                            </button>
+                        `;
+                        row.onclick = () => this.launchSingleQuestion(q);
+                        cont.appendChild(row);
+                    });
+                },
+                doSearch(query) {
+                    if(!query.trim()) {
+                        $('tab-search-results').innerHTML = '<div class="p-12 text-center text-taumd-textMuted text-lg font-medium">Type in the search bar above to find questions.</div>';
+                        return;
+                    }
+                    const term = query.toLowerCase();
+                    const results = state.bank.questions.filter(q => 
+                        (q.id && q.id.toLowerCase().includes(term)) ||
+                        (q.question && q.question.toLowerCase().includes(term)) ||
+                        (q.topic && q.topic.toLowerCase().includes(term)) ||
+                        (q.section && q.section.toLowerCase().includes(term))
+                    ).slice(0, 50);
+
+                    const cont = $('tab-search-results');
+                    cont.innerHTML = '';
+                    
+                    if(results.length === 0) {
+                        cont.innerHTML = '<div class="p-12 text-center text-taumd-textMuted text-lg font-medium">No questions found matching your query.</div>';
+                        return;
+                    }
+
+                    results.forEach(q => {
+                        const row = document.createElement('div');
+                        row.className = 'p-5 hover:bg-slate-50 dark:hover:bg-slate-800 cursor-pointer transition-colors group';
+                        row.innerHTML = `
+                            <div class="text-base font-semibold text-taumd-textDark dark:text-slate-200 line-clamp-2 mb-2 group-hover:text-taumd-accent transition-colors">${data.escapeHTML(q.question)}</div>
+                            <div class="text-xs font-bold tracking-wide uppercase text-slate-400 flex items-center gap-2">
+                                <span class="bg-slate-100 dark:bg-slate-700 px-2 py-1 rounded text-slate-600 dark:text-slate-300">${q.id}</span>
+                                <span>${data.escapeHTML(q.topic || 'General')} ${q.section ? '• ' + data.escapeHTML(q.section) : ''}</span>
+                            </div>
+                        `;
+                        row.onclick = () => this.launchSingleQuestion(q);
+                        cont.appendChild(row);
+                    });
+                },
+                launchSingleQuestion(q) {
+                    state.session = {
+                        questions: [q], mode: 'tutor', currentIndex: 0,
+                        answers: {}, submitted: {}, flags: {}, isFinished: false, timeRemaining: null
+                    };
+                    session.start();
+                }
+            };
+            // ===== END OF EXPLORER SECTION =====
+
+            // ===== PUBLIC API AND STARTUP SECTION (what the app exposes: init and review mistakes) =====
+            return {
+                ui, storage, data, session, explorer, account, settings: storage,
+                async init() {
+                    ui.init();
+                    storage.loadSettings();
+                    ui.navigate('loading');
+                    await account.init();     // restores a previous Google sign-in (if any) before the bank loads
+                    data.initLoad();
+                    
+                    document.addEventListener('keydown', (e) => {
+                        if(!state.session || state.session.isFinished) return;
+                        if(e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return; 
+                        
+                        if(e.key === 'ArrowRight') session.next();
+                        else if (e.key === 'ArrowLeft') session.prev();
+                        else if (['1','2','3','4','5','6','7','8','9'].includes(e.key)) {
+                            const index = parseInt(e.key) - 1;
+                            const optionsMap = Object.keys(state.session.questions[state.session.currentIndex].options);
+                            if(index < optionsMap.length) session.selectOption(optionsMap[index]);
+                        }
+                    });
+                },
+                startReviewMistakes(topicFilter = null) {
+                    const incorrectQs = state.bank.questions.filter(q => {
+                        const h = state.progress.history[q.id];
+                        if(!h || h.correct) return false;
+                        if(topicFilter && q.topic !== topicFilter) return false;
+                        return true;
+                    });
+                    
+                    if(incorrectQs.length === 0) return ui.showAlert("All Good", "No mistakes to review in this category.");
+                    
+                    ui.navigate('setup');
+                    $('setup-topic').value = topicFilter ? topicFilter : 'all';
+                    
+                    if (topicFilter) setup.renderSections();
+
+                    document.querySelector('input[name="q_status"][value="incorrect"]').checked = true;
+                    setup.updateCount();
+                }
+            };
+            // ===== END OF PUBLIC API AND STARTUP SECTION =====
+        })();
+        // ===== END OF APP MODULE SECTION =====
+
+        // ===== GLOBAL EXPORT AND STARTUP SECTION (expose TAUMD to the inline onclick handlers and start on page load) =====
+        // Make TAUMD available globally to keep existing inline onclick handlers working
+        window.TAUMD = TAUMD;
+
+        document.addEventListener('DOMContentLoaded', () => { TAUMD.init(); });
+        // ===== END OF GLOBAL EXPORT AND STARTUP SECTION =====
+    </script>
+    <!-- ===== END OF FUNCTIONALITY SECTION ===== -->
+</body>
+</html>
