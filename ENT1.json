@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "title": "ENT Question Bank",
+    "description": "ENT MCQs organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "ENT1-001",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 24-year-old male presents to the otolaryngology clinic 2 days following a blunt head injury sustained during a motor vehicle collision. He complains of sudden-onset, non-fluctuating unilateral right-sided hearing loss. He denies otorrhea, facial weakness, tinnitus, or vertigo. Otoscopic examination reveals a normal, intact, translucent tympanic membrane without hemotympanum, perforation, or retraction. Pure Tone Audiometry (PTA) is performed (shown in the attached study) demonstrating an intact contralateral ear and a substantial air-bone gap (ABG) of 35–40 dB across all frequencies in the right ear with normal bone conduction thresholds.<br><br>What is the most common cause of hearing loss associated with this case?<br><br><strong>Clinical / Radiological Finding:</strong> Audiogram Finding: Right Pure Tone Audiogram displays normal bone conduction (0–10 dB HL) with depressed air conduction (35–45 dB HL), indicating an isolated, maximum conductive hearing loss with intact sensorineural function.",
+      "options": {
+        "A": "Hemotympanum",
+        "B": "Ossicular dislocation",
+        "C": "Ruptured eardrum",
+        "D": "Ossicular sclerosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a patient presenting with post-traumatic conductive hearing loss (CHL) exceeding 30 dB following blunt temporal bone trauma with a completely normal, intact tympanic membrane and absence of middle ear fluid/blood, the primary diagnostic suspicion is ossicular chain dislocation (disruption).<br><br>The ossicular chain consists of three delicate bones (malleus, incus, and stapes). The incus is the most vulnerable and frequently injured ossicle due to its anatomical position—it is suspended between the firmly anchored malleus (embedded in the tympanic membrane) and the stapes (held tightly in the oval window by the annular ligament), with minimal soft tissue ligamentous support. The incudostapedial joint separation is the most common traumatic ossicular disruption (~80% of cases), followed by massive incudomalleolar dislocation. This mechanical discontinuity prevents sound energy from being transferred to the cochlea, creating an isolated maximum conductive hearing loss (typically 30–50 dB ABG).<br><br><strong>High-Yield:</strong> Post-traumatic conductive hearing loss + normal tympanic membrane + air-bone gap > 30 dB = Ossicular Discontinuity (most commonly incudostapedial joint separation). Exploratory tympanotomy with ossiculoplasty is definitive if it fails to resolve after hemotympanum/edema clears.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse traumatic hemotympanum with ossicular disruption. If otoscopy shows blood behind the TM, suspect hemotympanum (which typically resolves spontaneously within 3–4 weeks). If otoscopy is completely pristine/normal, ossicular disruption is the answer.",
+      "optionExplanations": {
+        "A": "Incorrect: Hemotympanum (blood within the tympanic cavity) is common after longitudinal temporal bone fracture, but otoscopy will unequivocally reveal a dark red, blue, or purple bulging/cloudy tympanic membrane. Here, otoscopic examination is explicitly normal.",
+        "B": "Correct: In a patient presenting with post-traumatic conductive hearing loss (CHL) exceeding 30 dB following blunt temporal bone trauma with a completely normal, intact tympanic membrane and absence of middle ear fluid/blood, the primary diagnostic suspicion is ossicular chain dislocation (disruption).",
+        "C": "Incorrect: Tympanic membrane rupture would be immediately visualized as a perforation on otoscopy, which is normal here.",
+        "D": "Incorrect: Ossicular sclerosis (otosclerosis) causes progressive, non-traumatic conductive hearing loss, typically presenting insidiously in young adults without temporal bone trauma."
+      },
+      "educationalObjective": "Recognize ossicular dislocation as the most common etiology of post-traumatic conductive hearing loss in the presence of a normal, intact tympanic membrane.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-002",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 24-year-old male with confirmed right-sided traumatic ossicular dislocation and an intact tympanic membrane undergoes bedside tuning fork examination with a 512-Hz tuning fork. His left ear is completely normal.<br><br>Which of the following describes the expected result of the Weber test in this patient?",
+      "options": {
+        "A": "Right positive",
+        "B": "Lateralized to left",
+        "C": "Lateralized to right",
+        "D": "Centralized"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Weber test is performed by vibrating a 512-Hz tuning fork against the patient's midline skull (forehead, bridge of nose, or vertex). Sound travels through skull bones via bone conduction directly to both cochleas simultaneously.<br><br>In unilateral conductive hearing loss (CHL), the sound energy lateralizes to the affected (abnormal) ear (here, the right ear). This occurs because the defective conductive apparatus in the right ear eliminates the normal masking ambient room noise from air conduction, while simultaneously preventing acoustic sound energy inside the skull from leaking out of the external canal (the occlusion effect). Consequently, the ipsilateral cochlea perceives the tone louder. In contrast, in unilateral sensorineural hearing loss (SNHL), the Weber test lateralizes to the normal, unaffected ear.<br><br><strong>High-Yield:</strong> Tuning fork interpretation quick rule: Conductive hearing loss = Weber lateralizes to the BAD ear, Rinne is negative in the affected ear (BC > AC). Sensorineural hearing loss = Weber lateralizes to the GOOD ear, Rinne is positive bilaterally (AC > BC).<br><br><strong>Exam Trap / Do Not Miss:</strong> Never report a Weber test as 'positive' or 'negative'—that terminology belongs strictly to the Rinne test. Describing Weber as 'positive' is an immediate board-level distractor trap.",
+      "optionExplanations": {
+        "A": "Incorrect: 'Positive' and 'negative' are designations strictly used for the Rinne test (Rinne positive = AC > BC; Rinne negative = BC ≥ AC). The Weber test is described only as lateralized (left or right) or centralized (midline).",
+        "B": "Incorrect: Lateralization to the left (unaffected) ear occurs in right-sided sensorineural hearing loss, not right conductive hearing loss.",
+        "C": "Correct: In unilateral conductive hearing loss (CHL), the sound energy lateralizes to the affected (abnormal) ear (here, the right ear).",
+        "D": "Incorrect: Centralization indicates normal symmetric hearing or symmetrical bilateral hearing loss of equal magnitude."
+      },
+      "educationalObjective": "Apply the principles of tuning fork tests: the Weber test lateralizes to the affected ear in unilateral conductive hearing loss and to the contralateral normal ear in unilateral sensorineural loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-003",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 30-year-old female presents to the clinic complaining of recurrent episodes of severe vertigo lasting approximately 15 to 30 seconds each. The episodes are characteristically provoked by rolling over in bed, looking up at top shelves, or suddenly bending forward. She reports associated nausea but no vomiting. She explicitly denies hearing loss, aural fullness, tinnitus, headache, visual changes, or focal neurological deficits.<br><br>What is the most likely diagnosis?",
+      "options": {
+        "A": "Benign paroxysmal positional vertigo (BPPV)",
+        "B": "Vestibular neuronitis",
+        "C": "Labyrinthitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The patient presents with classic features of Benign Paroxysmal Positional Vertigo (BPPV): transient paroxysms of rotational vertigo lasting seconds (< 1 minute) triggered precisely by changes in head position relative to gravity (e.g., rolling over in bed, tilting the head back).<br><br>BPPV is caused by canalithiasis: detached calcium carbonate otoconia (otoliths) from the utricular macula migrate into one of the semicircular canals (the posterior semicircular canal in >85–90% of cases). When the head moves in the plane of the affected canal, the free-floating gravity-dependent otoliths move, generating endolymphatic currents that deflect the cupula, producing inappropriate firing of the vestibular nerve perceived as violent rotational spinning. Crucially, auditory function is completely preserved because the pathology is confined to the semicircular canal.<br><br><strong>High-Yield:</strong> Vertigo Duration Cheat Sheet: Seconds (<1 min) = BPPV; Minutes to Hours (20 min – 12 hours) = Ménière's disease or TIA; Days (continuous 2–4 days) = Vestibular Neuritis (no hearing loss) or Labyrinthitis (with hearing loss).<br><br><strong>Exam Trap / Do Not Miss:</strong> Never diagnose BPPV if the patient has persistent vertigo lasting hours or if there is concurrent hearing loss. BPPV is strictly paroxysmal (seconds) and purely positional, with zero cochlear involvement.",
+      "optionExplanations": {
+        "A": "Correct: The patient presents with classic features of Benign Paroxysmal Positional Vertigo (BPPV): transient paroxysms of rotational vertigo lasting seconds (< 1 minute) triggered precisely by changes in head position relative to gravity (e.g., rolling over in bed, tilting the head back).",
+        "B": "Incorrect: Vestibular neuronitis (neuritis) causes continuous, incapacitating rotational vertigo lasting days (48–72 hours) with severe nausea/vomiting, not brief attacks lasting seconds. Auditory function is spared.",
+        "C": "Incorrect: Labyrinthitis involves inflammatory dysfunction of both vestibular and cochlear inner ear structures, presenting with severe continuous vertigo accompanied by acute sensorineural hearing loss and tinnitus."
+      },
+      "educationalObjective": "Differentiate BPPV from other peripheral vestibulopathies based on duration (seconds), positional trigger (head movement relative to gravity), and absence of auditory symptoms.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-004",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 30-year-old female presents with brief, positional vertigo lasting seconds triggered by head turns. She is suspected of having benign paroxysmal positional vertigo (BPPV).<br><br>Which of the following is the definitive diagnostic test to confirm this diagnosis?",
+      "options": {
+        "A": "Dix-Hallpike test",
+        "B": "Epley maneuver",
+        "C": "CT scan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Dix-Hallpike maneuver (or Nylén-Bárány test) is the gold standard positional provocation test to diagnose posterior semicircular canal BPPV.<br><br>Procedure: The patient sits upright on the examination table with the head turned 45 degrees toward the ear being tested. The examiner rapidly lays the patient supine with the head extended approximately 20 degrees below the horizontal plane. A positive test is characterized by:<br>1. Latency period: 2 to 5 seconds before nystagmus begins.<br>2. Crescendo-decrescendo nystagmus: Mixed torsional (rotatory) and upbeating nystagmus (beating toward the affected lower ear).<br>3. Duration: Resolves within 30 to 60 seconds.<br>4. Fatigability: Nystagmus and vertigo diminish upon immediate repetition.<br><br><strong>High-Yield:</strong> Diagnostic test = Dix-Hallpike test. Therapeutic repositioning maneuver = Epley maneuver (for posterior canal BPPV) or Lempert 360° roll maneuver (for horizontal canal BPPV).<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse the diagnostic maneuver (Dix-Hallpike) with the treatment maneuver (Epley). Dix-Hallpike confirms BPPV; Epley cures it.",
+      "optionExplanations": {
+        "A": "Correct: The Dix-Hallpike maneuver (or Nylén-Bárány test) is the gold standard positional provocation test to diagnose posterior semicircular canal BPPV.",
+        "B": "Incorrect: The Epley maneuver (canalith repositioning procedure) is the definitive TREATMENT for posterior canal BPPV, not the initial diagnostic provocation test.",
+        "C": "Incorrect: Neuroimaging (CT or MRI) is normal in BPPV and is unnecessary unless central red flags (vertical nystagmus without latency, cerebellar signs, cranial neuropathies) are present."
+      },
+      "educationalObjective": "Select the Dix-Hallpike maneuver as the definitive diagnostic provocation test for confirming posterior canal BPPV.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-005",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A high-resolution axial computed tomography (CT) scan of the petrous temporal bone at the level of the epitympanum and internal acoustic canal is presented for review. A radiopaque bony ring demonstrating a central fluid-density core is indicated by pointer number 7.<br><br>What anatomical structure does number 7 represent?<br><br><strong>Clinical / Radiological Finding:</strong> Axial Temporal Bone CT: Displays the classic doughnut-like round bony lucency of the lateral (horizontal) semicircular canal (labeled 7) situated posterior and lateral to the vestibule. Number 1 represents the incus, 2 the malleus head, 3 the facial nerve canal, and 8 the posterior semicircular canal.",
+      "options": {
+        "A": "Lateral semicircular canal (SCC)",
+        "B": "Posterior semicircular canal (SCC)",
+        "C": "Cochlea"
+      },
+      "correctAnswer": "A",
+      "explanation": "On an axial temporal bone CT scan at the level of the epitympanum, the lateral (horizontal) semicircular canal (labeled number 7) is easily identified as a complete circular bony ring ('doughnut' or 'ring sign') located lateral and slightly posterior to the vestibule.<br><br>The lateral SCC is aligned at approximately 30 degrees to the horizontal plane. Because axial CT slices are obtained roughly parallel to this plane, the entire ring of the lateral semicircular canal is captured in a single axial cut. This makes it a crucial surgical landmark during mastoidectomy: its prominence marks the medial wall of the mastoid antrum, and identifying it prevents accidental injury to the labyrinth and the underlying descending facial nerve.<br><br><strong>High-Yield:</strong> The lateral semicircular canal is the only SCC whose full circumference is viewed on a single axial CT slice. In chronic otitis media with cholesteatoma, erosion of the lateral SCC is the most common cause of a labyrinthine fistula (positive fistula test: vertigo and nystagmus induced by pneumatic otoscopy).<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse the lateral SCC with the superior or posterior canals. The lateral canal forms a horizontal ring on axial CT; the superior SCC is imaged as an arch on coronal cuts.",
+      "optionExplanations": {
+        "A": "Correct: On an axial temporal bone CT scan at the level of the epitympanum, the lateral (horizontal) semicircular canal (labeled number 7) is easily identified as a complete circular bony ring ('doughnut' or 'ring sign') located lateral and slightly posterior to the vestibule.",
+        "B": "Incorrect: The posterior semicircular canal (labeled 8) runs in a vertical sagittal plane; on axial CT, it appears as two small separate cross-sectional dots or an oblique track situated further posteriorly and inferiorly.",
+        "C": "Incorrect: The cochlea is located anteromedially in the petrous bone, presenting its classic 2.5–2.75 spiral turns ('snail shell' appearance) in lower axial sections."
+      },
+      "educationalObjective": "Identify the lateral semicircular canal on an axial temporal bone CT scan as the distinctive round bony ring adjacent to the vestibule.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-006",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 5-year-old boy is brought to the pediatric clinic by his parents due to bilateral hearing impairment and recent delay in speech articulation. His preschool teacher reported that he frequently asks for instructions to be repeated and turns the classroom television volume up loudly. He has no fever, otalgia, irritability, or systemic symptoms. Otoscopic examination of both ears reveals dull, retracted, amber-colored tympanic membranes with prominent visualization of the malleus short process, loss of the light reflex, and clearly visible air-fluid levels with meniscus and multiple trapped air bubbles behind the translucent membrane.<br><br>What is the most likely diagnosis?<br><br><strong>Clinical / Radiological Finding:</strong> Otoscopy Image: Displays an amber-yellowish, slightly dull tympanic membrane with multiple round meniscus-shaped air bubbles and an air-fluid level trapped within serous fluid in the middle ear cavity, pathognomonic for otitis media with effusion.",
+      "options": {
+        "A": "Otitis media with effusion (OME)",
+        "B": "Congenital cholesteatoma",
+        "C": "Myringosclerosis",
+        "D": "Tympanic membrane perforation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otitis Media with Effusion (OME) (also called serous otitis media or 'glue ear') is defined as the presence of non-purulent fluid in the middle ear cleft without signs or symptoms of acute infection (fever, otalgia, acute erythema).<br><br>Pathophysiologically, OME results from Eustachian tube dysfunction (frequently due to adenoid hypertrophy or post-acute otitis media resolution). Negative middle ear pressure draws transudate from mucosal capillaries into the middle ear space. The classic otoscopic signs are an amber/yellowish discoloration of the eardrum, retraction of the malleus handle, reduced drum mobility on pneumatic otoscopy, and pathognomonic air-fluid levels and air bubbles trapped within the fluid.<br><br><strong>High-Yield:</strong> OME = Fluid in middle ear WITHOUT acute inflammatory signs (no fever, no pain). AOM = Fluid in middle ear WITH acute signs (fever, severe otalgia, bulging cloudy TM). Amber eardrum + bubbles = OME.<br><br><strong>Exam Trap / Do Not Miss:</strong> Antibiotics and systemic steroids are NOT recommended for initial treatment of OME in children; watchful waiting for 3 months is the standard of care as >75% resolve spontaneously.",
+      "optionExplanations": {
+        "A": "Correct: Otitis Media with Effusion (OME) (also called serous otitis media or 'glue ear') is defined as the presence of non-purulent fluid in the middle ear cleft without signs or symptoms of acute infection (fever, otalgia, acute erythema).",
+        "B": "Incorrect: Congenital cholesteatoma presents as an isolated, discrete, pearl-white, spherical mass behind an intact, normal anterosuperior tympanic membrane in a child with no prior history of otorrhea or tympanostomy.",
+        "C": "Incorrect: Myringosclerosis (tympanosclerosis) presents as dense, chalky-white, calcified hyaline plaques within the fibrous layer of the tympanic membrane, typically as a benign scar following previous otitis media or grommet insertion.",
+        "D": "Incorrect: Tympanic membrane perforation exhibits a distinct structural defect/hole in the drum, whereas the membrane in OME is structurally intact."
+      },
+      "educationalObjective": "Diagnose otitis media with effusion based on indolent hearing loss/speech delay and otoscopic visualization of an intact amber tympanic membrane with air bubbles and fluid levels.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-007",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 5-year-old child with confirmed bilateral otitis media with effusion (OME) and conductive hearing loss (thresholds of 35 dB HL) has been managed conservatively with watchful waiting for 3 consecutive months. Follow-up audiometry and tympanometry show persistent bilateral flat Type B tympanograms and continued speech delay without spontaneous resolution.<br><br>What is the most appropriate next step in management?",
+      "options": {
+        "A": "Hearing aids",
+        "B": "Myringotomy with grommet insertion",
+        "C": "Intravenous antibiotics",
+        "D": "Intratympanic steroids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to international clinical practice guidelines (AAO-HNS), when otitis media with effusion persists for ≥ 3 months (chronic OME) and is associated with documented bilateral hearing impairment (≥ 20–30 dB threshold) or developmental/speech delay, surgical intervention with bilateral myringotomy with tympanostomy tube (grommet) insertion is the gold standard treatment of choice.<br><br>Mechanism: The grommet bypasses the non-functioning Eustachian tube, directly equalizing middle ear air pressure with the atmosphere, allowing middle ear fluid to be drained and preventing fluid re-accumulation. This immediately restores normal tympanic membrane mobility and resolves the conductive hearing loss. If adenoid hypertrophy is also causing nasal obstruction or recurrent infections, adenoidectomy is concurrently performed.<br><br><strong>High-Yield:</strong> Indications for Grommet Insertion in OME: 1) Persistent effusion ≥ 3 months with bilateral hearing loss ≥ 20 dB; 2) Speech/ language or learning delay; 3) Structural TM changes (retraction pocket, atelectasis). Grommets typically extrude spontaneously after 6–18 months.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not prescribe systemic decongestants, antihistamines, or antibiotics for uncomplicated OME—multiple randomized trials prove they do not accelerate fluid clearance and carry significant drug side effects.",
+      "optionExplanations": {
+        "A": "Incorrect: Hearing aids are reserved for children with permanent sensorineural loss or in rare surgical contraindications (e.g., severe bleeding diathesis, high anesthetic risk), not as first-line therapy for correctable chronic OME.",
+        "B": "Correct: According to international clinical practice guidelines (AAO-HNS), when otitis media with effusion persists for ≥ 3 months (chronic OME) and is associated with documented bilateral hearing impairment (≥ 20–30 dB threshold) or developmental/speech delay, surgical intervention with bilateral myringotomy with tympanostomy tube (grommet) insertion is the gold standard treatment of choice.",
+        "C": "Incorrect: Intravenous antibiotics have no role in OME; the fluid is a non-infectious inflammatory transudate/exudate, not an active acute suppurative bacterial infection.",
+        "D": "Incorrect: Intratympanic steroids are used for sudden sensorineural hearing loss or intractable Ménière's disease, not pediatric middle ear effusion."
+      },
+      "educationalObjective": "Identify myringotomy with tympanostomy tube insertion as the definitive surgical treatment for persistent otitis media with effusion lasting ≥ 3 months with hearing impairment.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-008",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "In an acoustic immittance testing suite, five tympanogram tracings (A, B, C, D, and E) are recorded from patients with different otologic complaints:<br>• Curve A: Normal peak compliance (0.3–1.6 mL) at normal atmospheric pressure (-100 to +50 daPa).<br>• Curve B: Flat horizontal line with absent compliance peak and an abnormally elevated Equivalent Ear Canal Volume (ECV = 3.8–4.5 mL).<br>• Curve C: Significant negative pressure peak (< -100 to -200 daPa) with normal peak compliance.<br>• Curve D: Normal pressure peak (around 0 daPa) but marked shallow compliance (< 0.2 mL).<br>• Curve E: Extremely high compliance peak (> 2.0 mL) that goes off the scale.<br><br>Which tympanometry tracing corresponds to a patient with a perforated tympanic membrane?",
+      "options": {
+        "A": "Curve A (Type A)",
+        "B": "Curve B (Type B with large ear canal volume)",
+        "C": "Curve C (Type C)",
+        "D": "Curve D (Type As)",
+        "E": "Curve E (Type Ad)"
+      },
+      "correctAnswer": "B",
+      "explanation": "A perforated tympanic membrane produces a Type B (flat) tympanogram with a pathologically elevated Equivalent Ear Canal Volume (ECV) (typically > 2.0–2.5 mL in children, > 2.5–3.0 mL in adults).<br><br>Biophysical Principle: The immittance probe introduces a 226-Hz probe tone and measures acoustic admittance while sweeping pressure from +200 to -400 daPa. When the eardrum is intact, the measured volume corresponds strictly to the external auditory canal (normal: 0.6–1.5 mL). However, when the eardrum is perforated (or when a functioning patent ventilation tube is present), the probe tone freely traverses the defect into the middle ear and mastoid air cell system. Consequently, the instrument measures the combined volume of the external canal plus the entire middle ear space, resulting in a flat compliance line with an abnormally large volume (e.g., > 3.5–4.5 mL).<br><br><strong>High-Yield:</strong> Type B Tympanogram Differentiation: 1) Type B with NORMAL volume (0.8–1.5 mL) = Middle Ear Effusion (OME); 2) Type B with LARGE volume (> 2.0–2.5 mL) = Tympanic Membrane Perforation or Patent Grommet; 3) Type B with SMALL volume (< 0.4 mL) = Probe blocked by canal wall or impacted cerumen.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not just memorize that Type B means fluid. Always inspect the Ear Canal Volume (ECV)! Normal volume = fluid/OME; large volume = perforation or patent grommet.",
+      "optionExplanations": {
+        "A": "Incorrect: Curve A (Type A) represents normal middle ear pressure, compliance, and volume.",
+        "B": "Correct: A perforated tympanic membrane produces a Type B (flat) tympanogram with a pathologically elevated Equivalent Ear Canal Volume (ECV) (typically > 2.0–2.5 mL in children, > 2.5–3.0 mL in adults).",
+        "C": "Incorrect: Curve C represents significant negative pressure with normal volume, characteristic of Eustachian tube dysfunction.",
+        "D": "Incorrect: Curve D (Type As) represents normal middle ear pressure with reduced compliance (stiff system), characteristic of otosclerosis or malleus fixation.",
+        "E": "Incorrect: Curve E (Type Ad) represents a flaccid or hypermobile system (e.g., ossicular chain disruption or monomeric atrophic drum)."
+      },
+      "educationalObjective": "Correlate a flat (Type B) tympanogram showing an abnormally high ear canal volume (> 2.5 mL) with tympanic membrane perforation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-009",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "Reviewing the five standard tympanometric curves (A through E):<br>Which tympanometry tracing corresponds to a patient with clinical otosclerosis?",
+      "options": {
+        "A": "Curve A (Type A)",
+        "B": "Curve B (Type B)",
+        "C": "Curve C (Type C)",
+        "D": "Curve D (Type As / Shallow Peak)",
+        "E": "Curve E (Type Ad / Disarticulation)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Otosclerosis produces a Type As tympanogram (subscript 's' stands for 'stiff' or 'shallow').<br><br>Biophysical Principle: Otosclerosis is a primary focal fibro-osseous dystrophy of the otic capsule characterized by abnormal bone remodeling at the fissula ante fenestram. Spongiotic vascular bone matures into dense, sclerotic bone that ankyloses and fixes the stapes footplate within the oval window. This immobility drastically increases the impedance and stiffness of the entire ossicular-tympanic system. On tympanometry, the peak pressure remains normal (near 0 daPa because the middle ear is normally aerated via a patent Eustachian tube), but the amplitude of peak acoustic compliance is pathologically reduced (typically < 0.25 mL or cm³).<br><br><strong>High-Yield:</strong> Classic Otosclerosis Quadrad: 1) Young female with positive family history, exacerbated by pregnancy; 2) Conductive hearing loss with normal otoscopy (or pink Schwartz sign over promontory); 3) Type As tympanogram with absent acoustic stapedial reflexes; 4) Carhart's notch at 2000 Hz on bone conduction.<br><br><strong>Exam Trap / Do Not Miss:</strong> Remember that Type As has a normal peak pressure location (between -100 and +50 daPa) but an abnormally shallow peak height. If the peak is shifted to the left, it is Type C, not As.",
+      "optionExplanations": {
+        "A": "Incorrect: Curve A (Type A) is normal, although very early otosclerosis may still fall within the lowest limits of normal Type A before overt stapedial ankylosis.",
+        "B": "Incorrect: Curve B is a flat line representing middle ear fluid or perforation.",
+        "C": "Incorrect: Curve C represents Eustachian tube dysfunction with negative peak pressure.",
+        "D": "Correct: Otosclerosis produces a Type As tympanogram (subscript 's' stands for 'stiff' or 'shallow').",
+        "E": "Incorrect: Curve E (Type Ad) indicates 'discontinuity' or hypermobility, seen in ossicular joint dislocation or atrophic monomeric eardrums."
+      },
+      "educationalObjective": "Recognize the Type As tympanogram (shallow compliance peak at normal pressure) as the classic acoustic immittance pattern of stapedial fixation in otosclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-010",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 50-year-old woman presents to the emergency room with sudden, severe hearing loss in her right ear that developed upon waking 2 days ago. She describes her right ear as feeling blocked, accompanied by constant high-pitched tinnitus. She denies previous ear trauma, loud noise exposure, fever, headache, or vertigo. Otoscopic examination is completely normal bilaterally, with intact tympanic membranes and no middle ear fluid. A pure-tone audiogram (PTA) is promptly obtained (shown in the attached test) demonstrating air and bone conduction thresholds overlapping at 50–60 dB HL across three contiguous frequencies in the right ear with zero air-bone gap. Audiometry in the left ear is entirely normal.<br><br>What is the most likely diagnosis?<br><br><strong>Clinical / Radiological Finding:</strong> Audiogram Finding: Right Pure Tone Audiogram displays identical air and bone conduction thresholds plunging down to 50–60 dB HL from 500 Hz to 4000 Hz without an air-bone gap, defining acute sensorineural hearing loss.",
+      "options": {
+        "A": "Conductive hearing loss",
+        "B": "Sensorineural hearing loss",
+        "C": "Mixed hearing loss"
+      },
+      "correctAnswer": "B",
+      "explanation": "The patient meets the formal diagnostic criteria for Sudden Sensorineural Hearing Loss (SSNHL): a sensorineural hearing loss of ≥ 30 dB over at least 3 contiguous audiometric frequencies occurring within a 72-hour window.<br><br>On the audiogram, the air conduction and bone conduction thresholds are identically depressed (no air-bone gap), confirming that the sound-conducting apparatus (canal, tympanic membrane, ossicles) is intact and the defect resides within the cochlea (hair cells) or the cochlear nerve (CN VIII). SSNHL is considered an otologic emergency. In over 85–90% of cases, the exact etiology is idiopathic, though proposed mechanisms include microvascular cochlear ischemia, viral labyrinthitis/cochleitis, or autoimmune inner ear disease.<br><br><strong>High-Yield:</strong> SSNHL Definition: ≥ 30 dB decrease across ≥ 3 contiguous frequencies within ≤ 72 hours. It is an otologic emergency! Prognosis depends on patient age, presence of vertigo, severity of initial loss, and delay in starting high-dose systemic steroids.<br><br><strong>Exam Trap / Do Not Miss:</strong> Never dismiss a patient presenting with acute 'ear fullness' and 'stuffiness' as cerumen impaction or Eustachian tube dysfunction without performing a tuning fork or audiometric test! Missing acute SSNHL beyond the 2–4 week therapeutic window leads to irreversible permanent deafness.",
+      "optionExplanations": {
+        "A": "Incorrect: Conductive hearing loss is characterized by an air-bone gap (bone conduction is normal, while air conduction is impaired). Here, bone conduction is equally depressed, ruling out an isolated conductive lesion.",
+        "B": "Correct: The patient meets the formal diagnostic criteria for Sudden Sensorineural Hearing Loss (SSNHL): a sensorineural hearing loss of ≥ 30 dB over at least 3 contiguous audiometric frequencies occurring within a 72-hour window.",
+        "C": "Incorrect: Mixed hearing loss requires both a depressed bone conduction threshold AND an air-bone gap (air conduction threshold significantly worse than bone conduction threshold)."
+      },
+      "educationalObjective": "Diagnose sudden sensorineural hearing loss when an audiogram demonstrates overlapping air and bone conduction threshold depression ≥ 30 dB across contiguous frequencies without an air-bone gap.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-011",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 50-year-old woman presents 48 hours after the acute onset of idiopathic unilateral right-sided sudden sensorineural hearing loss (SSNHL) documented on audiometry. Magnetic resonance imaging (MRI) of the brain and internal auditory canals is scheduled to rule out retrocochlear pathology.<br><br>What is the most appropriate initial management?",
+      "options": {
+        "A": "Hearing aids",
+        "B": "Intravenous antibiotics",
+        "C": "Stapedoplasty",
+        "D": "Oral corticosteroids"
+      },
+      "correctAnswer": "D",
+      "explanation": "The cornerstone, evidence-based initial treatment for acute Sudden Sensorineural Hearing Loss (SSNHL) is high-dose systemic (oral) corticosteroids (typically oral prednisone 1 mg/kg/day, maximum 60 mg/day for 10–14 days followed by a taper).<br><br>Corticosteroids reduce inner ear inflammation, relieve cochlear microvascular endothelial edema, and suppress autoimmune-mediated cellular injury. Efficacy is strictly time-dependent: the highest recovery rates (up to 70–80%) occur when steroids are initiated within the first 72 hours to 2 weeks of symptom onset. Intratympanic dexamethasone injections can be used as primary therapy in patients with contraindications to systemic steroids (e.g., poorly controlled diabetes mellitus) or as salvage therapy if oral steroids fail.<br><br><strong>High-Yield:</strong> Every patient diagnosed with SSNHL must undergo gadolinium-enhanced MRI of the brain and cerebellopontine angle/ internal auditory canals to exclude a vestibular schwannoma (acoustic neuroma), which presents with sudden SNHL in 10–15% of patients.<br><br><strong>Exam Trap / Do Not Miss:</strong> Antiviral medications (e.g., acyclovir, valacyclovir) have shown no therapeutic benefit over corticosteroids alone in multiple randomized controlled trials for idiopathic SSNHL.",
+      "optionExplanations": {
+        "A": "Incorrect: Hearing aids are evaluated as a rehabilitative option only if hearing loss fails to recover after acute medical therapy, not during the acute reversible window.",
+        "B": "Incorrect: Intravenous antibiotics are indicated for acute bacterial labyrinthitis complicating acute otitis media or meningitis, but they have no benefit in sterile idiopathic SSNHL.",
+        "C": "Incorrect: Stapedoplasty (stapedotomy) is the surgical treatment for conductive hearing loss in otosclerosis; performing it in SSNHL is completely contraindicated and harmful.",
+        "D": "Correct: The cornerstone, evidence-based initial treatment for acute Sudden Sensorineural Hearing Loss (SSNHL) is high-dose systemic (oral) corticosteroids (typically oral prednisone 1 mg/kg/day, maximum 60 mg/day for 10–14 days followed by a taper)."
+      },
+      "educationalObjective": "Select prompt administration of oral systemic corticosteroids as the primary first-line medical intervention for acute sudden sensorineural hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-012",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "The tympanic cavity (middle ear) is anatomically divided into three compartments relative to the superior and inferior margins of the tympanic membrane: the epitympanum, mesotympanum, and hypotympanum.<br><br>Which anatomical compartment of the middle ear communicates directly with the mastoid antrum and mastoid air cell system?",
+      "options": {
+        "A": "Hypotympanum",
+        "B": "Epitympanum (attic)",
+        "C": "Mesotympanum"
+      },
+      "correctAnswer": "B",
+      "explanation": "The epitympanum (or attic) is the middle ear compartment lying superior to the level of the superior margin of the tympanic membrane (the tympanic ring). It houses the head of the malleus and the body/short process of the incus.<br><br>Posteriorly, the epitympanic recess narrows into an aperture known as the aditus ad antrum ('doorway to the antrum'), which provides a direct anatomical connection between the middle ear attic and the mastoid antrum. The mastoid antrum then connects to the entire honeycomb network of pneumatized mastoid air cells. This pathway explains why untreated infections originating in the middle ear cleft (acute or chronic suppurative otitis media) readily propagate into the mastoid system to produce acute coalescent mastoiditis or facilitate the growth of attic retraction-pocket cholesteatomas.<br><br><strong>High-Yield:</strong> Tympanic Compartments: Epitympanum (attic) = contains malleus head/incus body; connects posteriorly to mastoid antrum via aditus ad antrum. Mesotympanum = directly opposite TM. Hypotympanum = bottom; overlies jugular bulb.<br><br><strong>Exam Trap / Do Not Miss:</strong> The aditus ad antrum opens from the posterior wall of the EPITYMPANUM, not the mesotympanum or hypotympanum.",
+      "optionExplanations": {
+        "A": "Incorrect: The hypotympanum is the lowest middle ear compartment lying inferior to the level of the lower tympanic sulcus, separated by a thin bony plate from the internal jugular bulb.",
+        "B": "Correct: The epitympanum (or attic) is the middle ear compartment lying superior to the level of the superior margin of the tympanic membrane (the tympanic ring). It houses the head of the malleus and the body/short process of the incus.",
+        "C": "Incorrect: The mesotympanum is the central compartment lying directly medial to the tympanic membrane, containing the handle of the malleus, long process of the incus, stapes, promontory, and oval/round windows."
+      },
+      "educationalObjective": "Identify the epitympanum (attic) as the anatomical compartment of the middle ear that connects to the mastoid antrum via the aditus ad antrum.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-013",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 32-year-old male avid cold-water ocean surfer presents with recurrent water trapping and progressive bilateral conductive hearing loss. A high-resolution computed tomography (CT) scan of the temporal bones demonstrates bilateral, symmetric, smooth, broad-based (sessile) hyperostotic bony projections arising circumferentially from the anterior and posterior walls of the osseous external auditory canal, causing significant lumen narrowing.<br><br>What is the most likely diagnosis?<br><br><strong>Clinical / Radiological Finding:</strong> Temporal Bone CT: Displays bilateral, smooth, circumferential broad-based hyperostotic bony narrowing of the bony external auditory canal, typical of canal exostosis.",
+      "options": {
+        "A": "Osteoma",
+        "B": "Exostosis",
+        "C": "Canal atresia"
+      },
+      "correctAnswer": "B",
+      "explanation": "The clinical presentation and imaging findings are characteristic of External Auditory Canal Exostoses (commonly termed 'Surfer's Ear').<br><br>Exostoses are reactive, benign hyperostotic bony outgrowths of the osseous external auditory canal stimulated by repeated chronic exposure to cold water and wind. Key differentiating features:<br>1. Number & Symmetry: Exostoses are characteristically multiple and bilateral.<br>2. Attachment: They are broad-based (sessile) mounds arising from the anterior, posterior, and inferior tympanic bone.<br>3. In contrast, an osteoma is a true benign neoplasm that is almost universally solitary, unilateral, and pedunculated (attached by a narrow stalk), arising at the tympanosquamous or tympanomastoid suture line.<br><br><strong>High-Yield:</strong> Exostosis vs. Osteoma Table: Exostosis = Multiple, Bilateral, Broad-based (sessile), Cold water exposure (Surfer's ear). Osteoma = Solitary, Unilateral, Pedunculated, True benign neoplasm at suture lines.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse solitary pedunculated osteomas with multiple sessile exostoses. CT bilateral broad-based mounds in a swimmer/surfer = Exostoses.",
+      "optionExplanations": {
+        "A": "Incorrect: An osteoma is a solitary, unilateral, pedunculated bony lesion with an overlying fibrovascular stalk. It is not associated with cold-water swimming.",
+        "B": "Correct: The clinical presentation and imaging findings are characteristic of External Auditory Canal Exostoses (commonly termed 'Surfer's Ear').",
+        "C": "Incorrect: Congenital canal atresia is a developmental failure of canal canalization present from birth, associated with severe microtia/anotia and middle ear ossicular deformities."
+      },
+      "educationalObjective": "Differentiate external auditory canal exostoses (multiple, bilateral, broad-based, cold-water exposure) from osteomas (solitary, unilateral, pedunculated).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-014",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "The vestibular labyrinth of the inner ear contains specialized sensory neuroepithelial receptor organs responsible for maintaining balance and equilibrium.<br><br>Which of the following inner ear structures is specialized to detect horizontal linear acceleration and static gravitational tilt?",
+      "options": {
+        "A": "Saccule",
+        "B": "Semicircular canal (SCC)",
+        "C": "Utricle",
+        "D": "Cochlea"
+      },
+      "correctAnswer": "C",
+      "explanation": "The utricle is the otolith organ responsible for detecting horizontal linear acceleration (e.g., riding forward in an accelerating car) and static head tilt relative to gravity.<br><br>Mechanism: The macula of the utricle is oriented predominantly in the horizontal plane. It is covered by a gelatinous layer embedded with dense calcium carbonate crystals (otoliths/otoconia). When the head experiences horizontal linear acceleration or tilt, the inertia of the heavy otoconia exerts shear forces on the underlying stereocilia of hair cells, altering their membrane potential and signaling the brain via the superior division of the vestibular nerve.<br><br><strong>High-Yield:</strong> Vestibular Function Summary: Utricle = Horizontal linear acceleration. Saccule = Vertical linear acceleration (gravity, elevators). Semicircular Canals = Angular/rotational acceleration.<br><br><strong>Exam Trap / Do Not Miss:</strong> Remember: 'U' in Utricle = horizontal, like a flat plate ('U-turn' on a horizontal road). 'S' in Saccule = Sky/vertical acceleration.",
+      "optionExplanations": {
+        "A": "Incorrect: The saccule possesses a macula oriented vertically in the sagittal plane; it detects vertical linear acceleration (e.g., riding an elevator) and gravity.",
+        "B": "Incorrect: The semicircular canals (horizontal, superior, posterior) detect angular (rotational) acceleration of the head in three orthogonal planes through displacement of the cupula within their ampullae.",
+        "C": "Correct: The utricle is the otolith organ responsible for detecting horizontal linear acceleration (e.g., riding forward in an accelerating car) and static head tilt relative to gravity.",
+        "D": "Incorrect: The cochlea detects acoustic vibrations (hearing), not balance or acceleration."
+      },
+      "educationalObjective": "Recognize the utricle as the otolith organ that transduces horizontal linear acceleration and head tilt.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-015",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "Regarding the gross anatomical structure and neurovascular innervation of the auricle (pinna), which of the following statements is correct?",
+      "options": {
+        "A": "It is a flap of hyaline cartilage",
+        "B": "The rim of the auricle is called the tragus",
+        "C": "The superior portion is called the lobule",
+        "D": "Innervated in part by the facial nerve"
+      },
+      "correctAnswer": "D",
+      "explanation": "The auricle has a complex sensory innervation contributed by four distinct nerve sources: the facial nerve (CN VII), the vagus nerve (CN X, Arnold's branch), the auriculotemporal nerve (CN V3), and the greater auricular and lesser occipital nerves (cervical plexus C2–C3).<br><br>The facial nerve (CN VII) contributes cutaneous sensory fibers to a small but clinically critical area around the concha, the antihelix, and the posterior-superior wall of the external auditory canal. This precise anatomical pathway explains why reactivation of herpes zoster virus within the geniculate ganglion of CN VII produces vesicular eruptions in the conchal bowl and external auditory meatus along with ipsilateral peripheral facial paralysis—the hallmark of Ramsay Hunt syndrome.<br><br><strong>High-Yield:</strong> Auricular Anatomy & Pathology: Pinna cartilage = Elastic cartilage (not hyaline). Earlobe = purely fibrofatty, contains zero cartilage. Therefore, perichondritis spares the earlobe, whereas cellulitis involves the earlobe.<br><br><strong>Exam Trap / Do Not Miss:</strong> Hyaline cartilage is found in the nasal septum and trachea, but the auricle and epiglottis are formed of elastic cartilage.",
+      "optionExplanations": {
+        "A": "Incorrect: The framework of the auricle is composed of a single, pliable sheet of yellow elastic fibrocartilage, NOT hyaline cartilage.",
+        "B": "Incorrect: The outer curved rim of the auricle is the helix. The tragus is the small anterior cartilaginous projection situated immediately in front of the external meatus.",
+        "C": "Incorrect: The lobule (earlobe) is the INFERIOR, non-cartilaginous, fibrofatty dependency of the auricle.",
+        "D": "Correct: The auricle has a complex sensory innervation contributed by four distinct nerve sources: the facial nerve (CN VII), the vagus nerve (CN X, Arnold's branch), the auriculotemporal nerve (CN V3), and the greater auricular and lesser occipital nerves (cervical plexus C2–C3)."
+      },
+      "educationalObjective": "Identify the facial nerve as a contributor to the sensory innervation of the auricle (conchal bowl) and recognize that the auricular framework is elastic cartilage.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-016",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 38-year-old male with poorly controlled type 2 diabetes mellitus presents with intense right ear pruritus, dull otalgia, and aural fullness. He recently completed a 2-week course of topical ciprofloxacin/dexamethasone drops prescribed for acute swimmer's ear without improvement. High-resolution otoscopic examination (shown in the attached image) reveals canal erythema and soft, moist, blotter-paper-like whitish debris studded with numerous microscopic black specks reminiscent of ground black pepper sprinkled on cotton wool.<br><br>What is the most likely diagnosis?<br><br><strong>Clinical / Radiological Finding:</strong> Otoscopy Image: Shows the external auditory canal lined with abundant fluffy whitish fungal mycelia peppered with distinctive dark black spores/conidiophores, pathognomonic for Aspergillus niger otomycosis.",
+      "options": {
+        "A": "Acute otitis media",
+        "B": "Otomycosis",
+        "C": "Cholesteatoma",
+        "D": "Serous otitis media"
+      },
+      "correctAnswer": "B",
+      "explanation": "The clinical presentation of intense ear itching, preceding topical antibiotic/steroid therapy, and the classic otoscopic finding of 'wet blotting paper' with black filamentous fruiting heads is pathognomonic for Otomycosis (fungal external otitis).<br><br>Pathophysiology: Prolonged use of broad-spectrum topical antibacterial/steroid ear drops eradicates the normal protective commensal bacterial flora of the external canal (and suppresses local immunity), creating an alkaline, moist niche ideal for opportunistic fungal proliferation. Treatment requires thorough gentle microsuction debridement (toilet) followed by topical antifungal drops (e.g., clotrimazole, econazole) or acidifying agents (2% acetic acid drops).<br><br><strong>High-Yield:</strong> Otomycosis Clues: Intense pruritus > pain; history of prolonged topical antibiotic/steroid drops or humidity; black spores = Aspergillus niger; white/yellow fluffy debris = Candida albicans; green/yellow spores = Aspergillus flavus.<br><br><strong>Exam Trap / Do Not Miss:</strong> Never treat otomycosis with more antibacterial ear drops. Antibiotic drops will worsen fungal overgrowth. Thorough microscopic debridement and topical antifungal therapy are mandatory.",
+      "optionExplanations": {
+        "A": "Incorrect: Acute otitis media is an infection of the middle ear space presenting with acute severe throbbing otalgia, fever, and a bulging, erythematous tympanic membrane without fungal fruiting bodies in the canal.",
+        "B": "Correct: The clinical presentation of intense ear itching, preceding topical antibiotic/steroid therapy, and the classic otoscopic finding of 'wet blotting paper' with black filamentous fruiting heads is pathognomonic for Otomycosis (fungal external otitis).",
+        "C": "Incorrect: Cholesteatoma is an ingrowth of keratinizing squamous epithelium within the middle ear cleft, presenting as an attic crust or white squames with bone erosion, not diffuse fungal spores.",
+        "D": "Incorrect: Serous otitis media (OME) involves middle ear fluid behind an intact drum; the external canal is completely clear."
+      },
+      "educationalObjective": "Diagnose otomycosis based on marked pruritus, prior topical antibiotic use, and otoscopic visualization of fluffy hyphal debris studded with black conidiophores.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-017",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A patient presents with severe canal pruritus and otoscopic findings demonstrating moist white debris peppered with prominent black conidiophores.<br><br>Which of the following is the most common causative organism responsible for this specific otoscopic appearance?",
+      "options": {
+        "A": "Candida albicans",
+        "B": "Aspergillus niger",
+        "C": "Aspergillus flavus",
+        "D": "Pseudomonas aeruginosa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fungal external otitis (otomycosis) is caused by fungal species in 90% of cases belonging to either Aspergillus (60–90%) or Candida (10–40%).<br><br>Among Aspergillus species, Aspergillus niger is the single most common cause and produces a distinctive, unmistakable otoscopic appearance: its dense, erect conidiophores bear spherical, jet-black spores (conidia), giving the classic appearance of 'ground black pepper' sprinkled throughout the external auditory canal. In contrast, Candida albicans produces creamy, thick white-to-cheesy exudate without pigmented spores, and Aspergillus flavus produces yellowish-green spores.<br><br><strong>High-Yield:</strong> Black spores on otoscopy = Aspergillus niger. Creamy white curd-like exudate = Candida albicans. Greenish-yellow spores = Aspergillus flavus. Greenish bacterial pus = Pseudomonas aeruginosa.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse Candida albicans (commonest yeast in the ear, white) with Aspergillus niger (commonest mold, black). The black dots are the diagnostic giveaway for Aspergillus niger.",
+      "optionExplanations": {
+        "A": "Incorrect: Candida albicans is a common cause of otomycosis (especially in hearing aid users or perforated drums), but it presents with thick white/creamy curd-like exudate and lacks black conidiophores.",
+        "B": "Correct: Among Aspergillus species, Aspergillus niger is the single most common cause and produces a distinctive, unmistakable otoscopic appearance: its dense, erect conidiophores bear spherical, jet-black spores (conidia), giving the classic appearance of 'ground black pepper' sprinkled throughout the external auditory canal.",
+        "C": "Incorrect: Aspergillus flavus produces yellowish-green fungal spore heads, not black spores.",
+        "D": "Incorrect: Pseudomonas aeruginosa is the most common BACTERIAL pathogen causing acute otitis externa ('swimmer's ear') and malignant otitis externa, producing green-tinged purulent drainage, not fungal hyphae."
+      },
+      "educationalObjective": "Identify Aspergillus niger as the classic causative organism of otomycosis characterized by black conidial spores.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-018",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A patient presents for audiometric evaluation following a sports injury. Otoscopy is entirely normal bilaterally with intact, mobile tympanic membranes. Pure Tone Audiometry (PTA) is performed (shown in the attached graph) demonstrating the following thresholds for the right ear:<br>• Bone Conduction: 10–15 dB HL at 500, 1000, 2000, and 4000 Hz.<br>• Air Conduction: 40–55 dB HL across all tested frequencies (250 to 8000 Hz).<br><br>Contralateral left ear thresholds are normal (0–15 dB HL across all frequencies).<br><br>What does this audiogram represent?<br><br><strong>Clinical / Radiological Finding:</strong> Audiogram Finding: The pure tone audiogram displays right ear bone conduction bracket symbols at 10–15 dB and air conduction round circle symbols at 40–55 dB, generating an air-bone gap of 30–40 dB, diagnostic of right-sided conductive hearing loss.",
+      "options": {
+        "A": "Right sensorineural hearing loss",
+        "B": "Mixed hearing loss",
+        "C": "Right conductive hearing loss",
+        "D": "Normal hearing"
+      },
+      "correctAnswer": "C",
+      "explanation": "An air-bone gap (ABG) of > 10 dB HL between air and bone conduction thresholds defines Conductive Hearing Loss (CHL).<br><br>In this patient's right ear, bone conduction thresholds are completely within the normal physiological range (10–15 dB HL, normal is 0–20 dB HL), confirming that cochlear hair cells, the auditory nerve, and central auditory pathways are fully functional. However, air conduction thresholds are significantly depressed to 40–55 dB HL, indicating an obstruction or mechanical discontinuity in sound transmission through the external or middle ear. Because bone conduction is normal, this is an isolated, pure right conductive hearing loss.<br><br><strong>High-Yield:</strong> Audiogram Rules: Bone conduction represents cochlear reserve. Normal bone + Depressed air = Conductive Loss. Depressed bone + Depressed air (no gap) = Sensorineural Loss. Depressed bone + Depressed air (with gap) = Mixed Loss.<br><br><strong>Exam Trap / Do Not Miss:</strong> Always subtract bone conduction from air conduction. If the difference is > 10 dB, a conductive component is definitively present.",
+      "optionExplanations": {
+        "A": "Incorrect: Sensorineural hearing loss requires depressed bone conduction thresholds (worse than 20–25 dB HL) overlapping with air conduction thresholds (no air-bone gap).",
+        "B": "Incorrect: Mixed hearing loss requires impaired bone conduction (> 25 dB) PLUS an air-bone gap of > 10 dB.",
+        "C": "Correct: Because bone conduction is normal, this is an isolated, pure right conductive hearing loss.",
+        "D": "Incorrect: Normal hearing requires all air and bone conduction thresholds to be ≤ 20–25 dB HL."
+      },
+      "educationalObjective": "Interpret a pure tone audiogram with normal bone conduction and depressed air conduction as conductive hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-019",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A patient with a documented 40-dB pure conductive hearing loss on audiometry has a completely normal otoscopic examination and an intact, pristine tympanic membrane.<br><br>Which of the following is the most likely cause of this presentation?",
+      "options": {
+        "A": "Ossicular dislocation",
+        "B": "Acute otitis media",
+        "C": "Tympanic membrane perforation",
+        "D": "Cholesteatoma"
+      },
+      "correctAnswer": "A",
+      "explanation": "When a patient presents with a large, isolated conductive hearing loss (35–50 dB) in the setting of a completely intact, normal tympanic membrane with no middle ear fluid, ossicular chain dislocation is the primary diagnostic consideration.<br><br>Because the tympanic membrane is intact, diseases that directly disrupt the membrane (such as traumatic perforation) or alter its appearance (such as the intense hyperemic bulging of acute otitis media or the visible squamous debris/ retraction of cholesteatoma) are excluded. Separation of the incudostapedial joint or dislocation of the incus produces total mechanical uncoupling, yielding maximal conductive deficit behind a visibly unremarkable eardrum.<br><br><strong>High-Yield:</strong> Isolated CHL with completely normal otoscopy = Ossicular Dislocation (trauma) or Otosclerosis (insidious progressive). In the setting of recent injury, ossicular disruption is number one.<br><br><strong>Exam Trap / Do Not Miss:</strong> Never assume an intact eardrum means the middle ear is uninjured. Shear forces across the temporal bone commonly sever the fragile incudostapedial joint while sparing the resilient eardrum.",
+      "optionExplanations": {
+        "A": "Correct: When a patient presents with a large, isolated conductive hearing loss (35–50 dB) in the setting of a completely intact, normal tympanic membrane with no middle ear fluid, ossicular chain dislocation is the primary diagnostic consideration.",
+        "B": "Incorrect: Acute otitis media produces severe pain, fever, and a markedly bulging, erythematous, opaque eardrum on otoscopy.",
+        "C": "Incorrect: Tympanic membrane perforation is directly visualized as a gaping defect in the membrane.",
+        "D": "Incorrect: Cholesteatoma presents with an attic retraction pocket, pearly-white keratin accumulation, granulation tissue, or a foul-smelling discharge."
+      },
+      "educationalObjective": "Select ossicular dislocation as the most likely etiology of substantial conductive hearing loss presenting with an intact, normal tympanic membrane.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-020",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 30-year-old patient presents with recurrent spontaneous attacks of spinning vertigo lasting from 2 to 4 hours per episode, accompanied by nausea and vomiting. During these attacks, the patient experiences ipsilateral fluctuating hearing loss, low-pitched roaring tinnitus, and a sensation of intense aural fullness. Pure tone audiometry documented during an episode demonstrates an isolated low-frequency sensorineural hearing loss.<br><br>What is the diagnosis?",
+      "options": {
+        "A": "Ménière's disease",
+        "B": "Benign paroxysmal positional vertigo",
+        "C": "Vestibular schwannoma",
+        "D": "Otosclerosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The clinical constellation of 1) recurrent spontaneous episodic vertigo lasting hours (20 minutes to 12 hours), 2) fluctuating low-frequency sensorineural hearing loss, 3) low-pitched roaring tinnitus, and 4) ipsilateral aural fullness is the classic diagnostic tetrad of Ménière's disease (idiopathic endolymphatic hydrops).<br><br>Pathophysiology: Ménière's disease is caused by an abnormal accumulation of endolymph within the membranous labyrinth, secondary to impaired resorption in the endolymphatic sac. Elevated endolymphatic pressure dilates the scala media (Reissner's membrane distention) and saccule. Microruptures of Reissner's membrane allow potassium-rich endolymph to mix with sodium-rich perilymph, depolarizing and intoxicating the auditory and vestibular nerve fibers, triggering an acute attack of vertigo and sudden hearing drop.<br><br><strong>High-Yield:</strong> Ménière's Diagnostic Tetrad: 1) Episodic vertigo (hours); 2) Fluctuating low-frequency SNHL; 3) Roaring tinnitus; 4) Aural fullness. First-line maintenance: Dietary salt restriction (< 2 g/day), caffeine/alcohol avoidance, and thiazide diuretics.<br><br><strong>Exam Trap / Do Not Miss:</strong> Remember that the audiogram in early Ménière's disease characteristically affects LOW frequencies (250–1000 Hz), unlike presbycusis, noise trauma, and acoustic neuroma, which affect HIGH frequencies.",
+      "optionExplanations": {
+        "A": "Correct: The clinical constellation of 1) recurrent spontaneous episodic vertigo lasting hours (20 minutes to 12 hours), 2) fluctuating low-frequency sensorineural hearing loss, 3) low-pitched roaring tinnitus, and 4) ipsilateral aural fullness is the classic diagnostic tetrad of Ménière's disease (idiopathic endolymphatic hydrops).",
+        "B": "Incorrect: BPPV causes vertigo lasting seconds (< 1 minute) triggered by positional head turns without hearing loss, tinnitus, or aural fullness.",
+        "C": "Incorrect: Vestibular schwannoma causes insidious, non-fluctuating high-frequency asymmetric SNHL and constant unilateral tinnitus, rather than episodic rotational attacks with low-frequency loss.",
+        "D": "Incorrect: Otosclerosis presents with conductive hearing loss (or mixed), not episodic vertigo with low-frequency SNHL."
+      },
+      "educationalObjective": "Recognize the clinical tetrad of Ménière's disease (episodic vertigo lasting hours, fluctuating low-frequency SNHL, tinnitus, and aural fullness).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-021",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 30-year-old patient with confirmed Ménière's disease presents during an acute, severe, incapacitating attack of rotational vertigo accompanied by nausea, vomiting, and sudden hearing drop.<br><br>Which of the following can be administered to manage this patient during the acute attack?",
+      "options": {
+        "A": "Intratympanic steroids",
+        "B": "Oral hydrochlorothiazide",
+        "C": "High-sodium diet",
+        "D": "Epley maneuver"
+      },
+      "correctAnswer": "A",
+      "explanation": "During an acute attack of Ménière's disease, immediate pharmacotherapy focuses on symptomatic vestibular suppression and anti-inflammatory therapy to reduce endolymphatic hydrops and prevent permanent neuroepithelial injury.<br><br>Acute medical interventions include: 1) Vestibular suppressants (e.g., meclizine, diazepam) and antiemetics (promethazine, ondansetron) for immediate symptomatic relief of nausea and spinning; and 2) Systemic or Intratympanic corticosteroids (dexamethasone). Intratympanic steroid perfusion delivers exceptionally high drug concentrations across the round window directly into the scala tympani and spiral ligament, accelerating hearing recovery and terminating the acute hydrops cycle without systemic steroid side effects. In patients with intractable frequent attacks refractory to medical maintenance, intratympanic gentamicin (chemical labyrinthectomy) or endolymphatic sac decompression is considered.<br><br><strong>High-Yield:</strong> Ménière's Treatment Protocol: Acute attacks = Vestibular suppressants (benzodiazepines/meclizine) + Steroids (oral/ intratympanic). Long-term prophylaxis = Low-salt diet (< 2 g/day) + Thiazide diuretics + Betahistine. Refractory cases = Intratympanic gentamicin or endolymphatic sac surgery.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse long-term prevention (low-salt diet, diuretics) with acute attack management (vestibular suppressants, steroids). Diuretics do not abort an acute ongoing attack.",
+      "optionExplanations": {
+        "A": "Correct: Intratympanic steroid perfusion delivers exceptionally high drug concentrations across the round window directly into the scala tympani and spiral ligament, accelerating hearing recovery and terminating the acute hydrops cycle without systemic steroid side effects.",
+        "B": "Incorrect: Oral hydrochlorothiazide (diuretic) and dietary salt restriction are prophylactic MAINTENANCE treatments aimed at reducing the baseline frequency of attacks, not acute abortive agents for an active paroxysm.",
+        "C": "Incorrect: A high-sodium diet worsens endolymphatic fluid retention and precipitates attacks.",
+        "D": "Incorrect: The Epley maneuver is specific for posterior canal BPPV and has zero therapeutic effect in Ménière's disease."
+      },
+      "educationalObjective": "Identify corticosteroids (including intratympanic steroids) and vestibular suppressants as key pharmacotherapy for acute attacks of Ménière's disease.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-022",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 15-year-old adolescent presents with slowly progressive bilateral hearing loss. Otoscopic examination is completely normal with intact, pearly-gray tympanic membranes. Pure tone audiometry demonstrates bilateral conductive hearing loss with an air-bone gap, accompanied by a distinctive artificial dip/elevation in bone conduction thresholds centered specifically at 2000 Hz (Carhart's notch).<br><br>Which type of tympanometry curve is characteristically seen in this condition?<br><br><strong>Clinical / Radiological Finding:</strong> Audiogram Graph: Displays an air-bone gap in pure tone audiometry with a characteristic localized drop in bone conduction thresholds at 2000 Hz (Carhart's notch), pathognomonic for stapedial ankylosis in otosclerosis.",
+      "options": {
+        "A": "Type As",
+        "B": "Type B",
+        "C": "Type C",
+        "D": "Type Ad"
+      },
+      "correctAnswer": "A",
+      "explanation": "The audiogram demonstrating an air-bone gap with a bone conduction dip at 2000 Hz represents the classic Carhart's notch of otosclerosis (stapedial ankylosis). On tympanometry, this produces a Type As curve.<br><br>Mechanism: Otosclerosis causes progressive fixation of the stapes footplate within the annular ligament of the oval window. This markedly reduces the compliance/mobility of the ossicular chain while maintaining normal middle ear ventilation, resulting in a normal peak pressure but abnormally shallow compliance (Type As). Carhart's notch at 2000 Hz is an artifact caused by the loss of the ossicular inertial contribution to bone conduction (the resonant frequency of the ossicular chain is approximately 2000 Hz); following successful stapedotomy, this notch resolves.<br><br><strong>High-Yield:</strong> Carhart's Notch = True hallmark of otosclerosis. It is a pseudo-sensorineural dip in bone conduction thresholds exclusively at 2000 Hz, reflecting mechanical ossicular resonance loss rather than true cochlear hair cell death.<br><br><strong>Exam Trap / Do Not Miss:</strong> Carhart's notch occurs at 2000 Hz. In contrast, noise-induced sensorineural hearing loss characteristically produces a sensorineural notch at 4000 Hz.",
+      "optionExplanations": {
+        "A": "Correct: On tympanometry, this produces a Type As curve.",
+        "B": "Incorrect: Type B represents middle ear effusion (normal volume) or perforation (large volume).",
+        "C": "Incorrect: Type C represents Eustachian tube dysfunction with negative middle ear pressure (< -100 daPa).",
+        "D": "Incorrect: Type Ad represents hypermobility or ossicular disarticulation."
+      },
+      "educationalObjective": "Correlate otosclerosis and Carhart's notch (at 2000 Hz) with a Type As tympanogram indicating increased middle ear stiffness.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-023",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 15-year-old patient with confirmed clinical otosclerosis undergoes comprehensive neurotologic evaluation.<br><br>Which of the following statements regarding this disease is FALSE?",
+      "options": {
+        "A": "Rinne test is positive",
+        "B": "The disease can be inherited in an autosomal dominant pattern",
+        "C": "Stapedial reflex is negative",
+        "D": "A hearing aid can be used as part of treatment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Statement A is FALSE because in clinical otosclerosis, the patient has a significant conductive hearing loss; therefore, the Rinne test is NEGATIVE (bone conduction is greater than air conduction, BC > AC).<br><br>A 'positive' Rinne test indicates normal hearing or sensorineural loss (AC > BC). All other statements are clinically accurate:<br>• Inheritance: Otosclerosis exhibits autosomal dominant inheritance with variable penetrance (~40%) in over 50% of familial cases.<br>• Acoustic (stapedial) reflex: Because the stapes is fixed to the oval window, contraction of the stapedius muscle cannot change ossicular impedance, rendering the acoustic stapedial reflex absent (negative).<br>• Treatment: A non-surgical amplification option—a conventional hearing aid—is a highly effective and safe treatment modality for patients who decline surgery or have surgical contraindications.<br><br><strong>High-Yield:</strong> In otosclerosis: Rinne is NEGATIVE (BC > AC) in the affected ear. Weber lateralizes to the more severely affected ear. Acoustic reflexes are absent. Definitive surgery is stapedotomy (stapedectomy) with teflon piston insertion.<br><br><strong>Exam Trap / Do Not Miss:</strong> Remember that 'Rinne positive' sounds good, but in tuning fork nomenclature, Rinne positive means normal or SNHL. Rinne NEGATIVE is abnormal (signifying conductive hearing loss).",
+      "optionExplanations": {
+        "A": "Correct: A 'positive' Rinne test indicates normal hearing or sensorineural loss (AC > BC).",
+        "B": "Incorrect: True statement. Otosclerosis frequently shows autosomal dominant transmission with reduced penetrance.",
+        "C": "Incorrect: True statement. Stapedial footplate ankylosis abolishes the acoustic stapedial reflex.",
+        "D": "Incorrect: True statement. Hearing aids provide excellent rehabilitation for conductive hearing loss in otosclerosis without surgical risk."
+      },
+      "educationalObjective": "Recognize that the Rinne test is negative (BC > AC) in conductive hearing loss from otosclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-024",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "Regarding the structural and surgical anatomy of the human ear, which of the following statements is TRUE?",
+      "options": {
+        "A": "The external auditory canal has an outer 2/3 cartilaginous and inner 1/3 bony portion",
+        "B": "The tympanic membrane forms a 40-degree angle with the deep ear canal",
+        "C": "The mastoid is attached to the middle ear via the hypotympanum",
+        "D": "The ampulla is a pear-shaped structure located at the end of the semicircular canal"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is CORRECT: The ampulla is a dilated, pear-shaped enlargement situated at one end of each of the three semicircular canals where they open into the vestibule. It houses the crista ampullaris, the sensory receptor organ consisting of neuroepithelial hair cells embedded in a gelatinous glycoprotein mass known as the cupula, which transduces angular (rotational) acceleration.<br><br>Anatomical Corrections for the False Options:<br>• Option A is FALSE: The external auditory canal (EAC) measures ~24 mm in length; the outer 1/3 is cartilaginous (contains hair follicles, sebaceous glands, and ceruminous glands), and the inner 2/3 is bony.<br>• Option B is FALSE: The tympanic membrane lies obliquely at approximately a 55-degree angle (not 40 degrees) with the floor of the external auditory meatus.<br>• Option C is FALSE: The mastoid antrum connects to the middle ear via the epitympanum (attic) through the aditus ad antrum, not the hypotympanum.<br><br><strong>High-Yield:</strong> Anatomical Dimension High-Yields: External Auditory Canal = ~24 mm (outer 1/3 cartilaginous with cerumen glands, inner 2/3 bony with thin skin). TM angle = ~55° to canal floor. Ampulla = dilated end of semicircular canals containing the crista ampullaris.<br><br><strong>Exam Trap / Do Not Miss:</strong> Board examiners love flipping the EAC fractions: remember 1/3 outer cartilage, 2/3 inner bone! Never reverse them.",
+      "optionExplanations": {
+        "A": "Incorrect: Incorrect proportions: outer is 1/3 cartilaginous, inner is 2/3 bony.",
+        "B": "Incorrect: The tympanic membrane forms a 55-degree angle with the canal floor.",
+        "C": "Incorrect: The mastoid connects to the epitympanum via the aditus, not the hypotympanum.",
+        "D": "Correct: Statement D is CORRECT: The ampulla is a dilated, pear-shaped enlargement situated at one end of each of the three semicircular canals where they open into the vestibule."
+      },
+      "educationalObjective": "Identify the ampulla as the dilated terminal expansion of each semicircular canal housing the sensory crista ampullaris.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-025",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A high-resolution axial CT scan of the temporal bone at the level of the epitympanic recess displays the classic ossicular 'ice cream cone' configuration. An anatomical structure within the anterior epitympanum is designated by number 2.<br><br>What anatomical structure is pointed to by number 2?<br><br><strong>Clinical / Radiological Finding:</strong> Axial Temporal Bone CT: Shows the classic 'ice cream cone' appearance in the attic. Number 2 points to the round anterior structure representing the 'ice cream scoop' (head of the malleus), while number 1 points to the posterior triangular 'cone' (body and short process of the incus).",
+      "options": {
+        "A": "Incus",
+        "B": "Head of malleus",
+        "C": "Semicircular canal",
+        "D": "Internal auditory canal"
+      },
+      "correctAnswer": "B",
+      "explanation": "On an axial high-resolution CT of the temporal bone at the level of the epitympanum, the incudomalleolar articulation forms the pathognomonic 'ice cream cone' sign:<br>1. Number 2 represents the head of the malleus, which forms the rounded, anterior 'ice cream scoop'.<br>2. Number 1 represents the body and short process of the incus, which projects posteriorly to form the triangular 'cone', pointing toward the aditus ad antrum.<br><br>Disruption of this 'ice cream cone' relationship on axial CT is a direct radiographic sign of traumatic incudomalleolar joint dislocation.<br><br><strong>High-Yield:</strong> Radiological 'Ice Cream Cone' Sign: Head of Malleus = Ice cream scoop (anterior). Body/Short process of Incus = Cone (posterior, pointing to mastoid). Widening or separation of the joint confirms incudomalleolar dislocation.<br><br><strong>Exam Trap / Do Not Miss:</strong> Malleus is always ANTERIOR ('M' is forward in the attic); Incus is always POSTERIOR ('I' points back to the mastoid).",
+      "optionExplanations": {
+        "A": "Incorrect: The incus is labeled number 1 (the posterior 'cone' of the ice cream cone).",
+        "B": "Correct: Number 2 represents the head of the malleus, which forms the rounded, anterior 'ice cream scoop'.",
+        "C": "Incorrect: The semicircular canals are located further posteriorly in the petrous labyrinth (lateral canal is labeled 7).",
+        "D": "Incorrect: The internal auditory canal is the medial bony channel carrying CN VII and CN VIII (labeled 5)."
+      },
+      "educationalObjective": "Identify the head of the malleus as the anterior rounded component of the 'ice cream cone' sign on axial temporal bone CT.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-026",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "During vestibular transduction, the neuroepithelial receptor organ dedicated to detecting rotational acceleration is housed inside an expanded pear-shaped structure.<br><br>The ampulla is a specialized pear-shaped anatomical structure located inside the:",
+      "options": {
+        "A": "Vestibule",
+        "B": "Semicircular canals",
+        "C": "Utricle",
+        "D": "Saccule"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ampulla is the dilated bulbous extremity found at one end of each of the three semicircular canals (horizontal, superior, and posterior) immediately before they open into the vestibule.<br><br>Inside each ampulla lies the crista ampullaris, a transverse crest composed of sensory hair cells and supporting cells. The stereocilia and kinocilia of these hair cells project into the cupula, a gelatinous diaphragmatic barrier that spans the entire lumen of the ampulla. When the head rotates, inertial drag of the endolymph pushes the cupula, bending the hair cells and generating nerve impulses in the vestibular nerve.<br><br><strong>High-Yield:</strong> Sensory Receptors of the Inner Ear: Crista ampullaris = inside Ampulla of Semicircular Canals (rotational/angular acceleration). Macula = inside Utricle & Saccule (linear acceleration & gravity). Organ of Corti = inside Cochlear Duct (auditory transduction).<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse the macula (in the utricle/saccule) with the crista (in the ampulla of semicircular canals).",
+      "optionExplanations": {
+        "A": "Incorrect: The vestibule is the central cavity of the bony labyrinth containing the utricle and saccule; it receives the five openings of the semicircular canals but does not contain the ampullae themselves.",
+        "B": "Correct: The ampulla is the dilated bulbous extremity found at one end of each of the three semicircular canals (horizontal, superior, and posterior) immediately before they open into the vestibule.",
+        "C": "Incorrect: The utricle contains the macula utriculi (detecting horizontal acceleration), not the crista ampullaris.",
+        "D": "Incorrect: The saccule contains the macula sacculi (detecting vertical acceleration)."
+      },
+      "educationalObjective": "Localize the ampulla to the terminal dilated segment of the semicircular canals.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-027",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A physician is evaluating pharmacological agents for treating ear and systemic infections. Many pharmaceutical classes are well-documented to cause cochleotoxicity or vestibulotoxicity.<br><br>Which of the following therapeutic agents is NOT an ototoxic drug?",
+      "options": {
+        "A": "Cisplatin",
+        "B": "Furosemide",
+        "C": "Gentamicin",
+        "D": "Erythromycin",
+        "E": "Ciprofloxacin"
+      },
+      "correctAnswer": "E",
+      "explanation": "Ciprofloxacin (and fluoroquinolones in general, including ofloxacin) is NOT ototoxic. Topical ciprofloxacin drops are the first-line, FDA-approved treatment of choice for acute otitis externa and chronic suppurative otitis media, even in the presence of a perforated tympanic membrane or tympanostomy tube, because they have zero vestibulocochlear toxicity.<br><br>Established Ototoxic Agents:<br>• Cisplatin & Carboplatin: Chemotherapeutic agents that cause permanent outer hair cell apoptosis via free-radical production, leading to irreversible bilateral high-frequency SNHL and tinnitus.<br>• Furosemide & Ethacrynic acid: Loop diuretics that poison the stria vascularis Na+/K+/2Cl- co-transporter, causing endolymphatic ionic collapse.<br>• Gentamicin, Amikacin, Tobramycin: Aminoglycoside antibiotics causing vestibular (gentamicin) or cochlear (amikacin) hair cell death.<br>• Erythromycin & Azithromycin: Macrolides that can cause high-dose, reversible sensorineural hearing loss (especially in renal impairment).<br><br><strong>High-Yield:</strong> Safe Ear Drops Rule: Fluoroquinolones (Ciprofloxacin, Ofloxacin) are strictly NON-ototoxic and safe in open middle ears. Aminoglycosides (Gentamicin, Neomycin/Polymyxin B) are OTOTOXIC and strictly contraindicated if the eardrum is perforated.<br><br><strong>Exam Trap / Do Not Miss:</strong> Never prescribe Cortisporin (neomycin/polymyxin B) ear drops if a tympanic membrane perforation or grommet is present— neomycin can pass through the round window and cause permanent deafness. Use ciprofloxacin drops instead.",
+      "optionExplanations": {
+        "A": "Incorrect: Cisplatin is notoriously cochleotoxic (permanent high-frequency SNHL).",
+        "B": "Incorrect: Furosemide causes stria vascularis edema and ototoxicity, especially when combined with aminoglycosides.",
+        "C": "Incorrect: Gentamicin is a classic vestibulotoxic aminoglycoside.",
+        "D": "Incorrect: Erythromycin can cause reversible SNHL at high intravenous doses.",
+        "E": "Correct: Ciprofloxacin (and fluoroquinolones in general, including ofloxacin) is NOT ototoxic."
+      },
+      "educationalObjective": "Identify ciprofloxacin as a non-ototoxic antimicrobial that is safe for topical administration in the middle ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-028",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 22-year-old female presents with severe pain, swelling, and warmth over her left ear 4 days after undergoing a high trans-cartilaginous upper ear piercing. Physical examination reveals marked erythema, edema, and exquisite tenderness strictly involving the helix, antihelix, and conchal bowl. Notably, the earlobe (lobule) is completely spared, remaining soft, non-tender, and pale pink.<br><br>What is your diagnosis?<br><br><strong>Clinical / Radiological Finding:</strong> Clinical Photograph: Demonstrates an intensely swollen, erythematous, tender auricle over the cartilaginous framework, while the non-cartilaginous earlobe remains completely uninvolved and normal, the classic 'lobe-sparing' sign of perichondritis.",
+      "options": {
+        "A": "Cellulitis",
+        "B": "Perichondritis",
+        "C": "Otitis externa"
+      },
+      "correctAnswer": "B",
+      "explanation": "The clinical appearance of marked auricular erythema and edema with strict sparing of the earlobe (lobule) following trans-cartilaginous piercing is the textbook presentation of Auricular Perichondritis (infection of the perichondrium surrounding the auricular cartilage).<br><br>Anatomical Sparing Mechanism: The auricular cartilage framework extends throughout the helix, antihelix, tragus, and concha, but the earlobe is composed exclusively of fibrofatty tissue and contains no cartilage. Therefore, a perichondrial infection is strictly confined to the cartilaginous boundaries and spares the lobule. Conversely, diffuse cutaneous cellulitis or erysipelas involves the skin and subcutaneous tissues and prominently involves the earlobe. The most common causative pathogen is Pseudomonas aeruginosa (introduced via high ear piercings through cartilage), which requires immediate antipseudomonal oral or IV antibiotics (e.g., ciprofloxacin) to prevent avascular necrosis of the cartilage and permanent 'cauliflower ear' deformity.<br><br><strong>High-Yield:</strong> The Lobe-Sparing Sign: Perichondritis = spares the lobule (no cartilage in earlobe; high piercing; Pseudomonas aeruginosa). Cellulitis = involves the lobule (skin/subcutaneous; Streptococcus/Staphylococcus).<br><br><strong>Exam Trap / Do Not Miss:</strong> Failure to treat auricular perichondritis promptly can result in subperichondrial abscess, ischemic necrosis of the auricular cartilage, and permanent cosmetic 'cauliflower ear' deformity.",
+      "optionExplanations": {
+        "A": "Incorrect: Cellulitis is a subcutaneous skin infection (commonly caused by Streptococcus pyogenes or Staphylococcus aureus) that involves the entire ear, characteristically INVOLVING the lobule.",
+        "B": "Correct: The clinical appearance of marked auricular erythema and edema with strict sparing of the earlobe (lobule) following trans-cartilaginous piercing is the textbook presentation of Auricular Perichondritis (infection of the perichondrium surrounding the auricular cartilage).",
+        "C": "Incorrect: Otitis externa involves the external auditory canal; although it can spread to the pinna, isolated cartilaginous inflammation after high piercing is primarily perichondritis."
+      },
+      "educationalObjective": "Differentiate auricular perichondritis from cellulitis based on the classic anatomical sign of earlobe sparing.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-029",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "Referring to the high-resolution axial CT scan of the temporal bone at the epitympanic level displaying the 'ice cream cone' ossicular arrangement:<br><br>What anatomical structure is pointed to by number 1?<br><br><strong>Clinical / Radiological Finding:</strong> Axial Temporal Bone CT: Displays pointer number 1 directed to the posterior triangular 'cone' of the ossicular complex, corresponding to the body and short process of the incus.",
+      "options": {
+        "A": "Incus",
+        "B": "Head of malleus",
+        "C": "Semicircular canal",
+        "D": "Internal auditory canal"
+      },
+      "correctAnswer": "A",
+      "explanation": "On an axial CT scan of the temporal bone at the level of the attic, pointer number 1 indicates the incus (body and short process).<br><br>The incus forms the posterior, tapered 'cone' of the classic 'ice cream cone' appearance. The short process of the incus projects posteriorly into the fossa incudis near the threshold of the aditus ad antrum. The rounded anterior 'scoop' is the head of the malleus (number 2). The joint between them is the incudomalleolar joint.<br><br><strong>High-Yield:</strong> Attic CT Landmarks: Scoop = Head of Malleus (Anterior). Cone = Body & Short Process of Incus (Posterior). Point of the cone points directly to the mastoid antrum.<br><br><strong>Exam Trap / Do Not Miss:</strong> Do not confuse the incus with the malleus. Remember: 1 is Incus (posterior), 2 is Malleus (anterior).",
+      "optionExplanations": {
+        "A": "Correct: On an axial CT scan of the temporal bone at the level of the attic, pointer number 1 indicates the incus (body and short process).",
+        "B": "Incorrect: The head of the malleus is labeled number 2 (anterior rounded scoop).",
+        "C": "Incorrect: Semicircular canals are located further posteromedially in the otic capsule (number 7 is the lateral semicircular canal).",
+        "D": "Incorrect: The internal auditory canal is the deep canal medial to the cochlea and vestibule (number 5)."
+      },
+      "educationalObjective": "Identify the incus (body and short process) as the posterior component of the 'ice cream cone' on axial temporal bone CT.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-030",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A patient presents with right ear hearing loss following blast trauma. Acoustic immittance testing is performed. The right ear tympanogram displays a completely flat horizontal line without a compliance peak across all pressure ranges (-400 to +200 daPa). The measured Equivalent Ear Canal Volume (ECV) is 4.04 mL (normal adult range: 0.8–2.0 mL).<br><br>Based on these tympanometry findings, what is the most likely cause of the hearing loss?<br><br><strong>Clinical / Radiological Finding:</strong> Tympanogram Graph: Displays a flat horizontal tracing without a compliance peak, prominently displaying a large Equivalent Ear Canal Volume of 4.04 mL, confirming open communication with the middle ear cleft.",
+      "options": {
+        "A": "Otosclerosis",
+        "B": "Middle ear effusion",
+        "C": "Tympanic membrane perforation"
+      },
+      "correctAnswer": "C",
+      "explanation": "A completely flat (Type B) tympanogram associated with an abnormally large Equivalent Ear Canal Volume (ECV = 4.04 mL) is definitive diagnostic proof of a tympanic membrane perforation (or a fully patent ventilation tube).<br><br>Acoustic Mechanism: The tympanometer measures the volume of air between the probe tip and the first acoustic barrier. In an ear with an intact eardrum, this barrier is the tympanic membrane itself (normal adult volume: 0.8–2.0 mL). When the membrane is perforated, the air pressure and probe tone pass directly through the tear into the middle ear and mastoid air cells. The machine therefore measures the combined volume of the canal plus the entire middle ear/ mastoid cavity (> 2.5–4.0 mL), yielding a flat line with high volume.<br><br><strong>High-Yield:</strong> Type B Volume Breakdown: ECV > 2.5 mL = Tympanic Membrane Perforation (or Patent Grommet). ECV Normal (0.8–1.5 mL) = Otitis Media with Effusion. ECV < 0.5 mL = Obstructed Probe Tip (cerumen or canal wall impaction).<br><br><strong>Exam Trap / Do Not Miss:</strong> Always check the ECV number! A flat tympanogram with ECV of 1.0 mL is middle ear effusion, but a flat tympanogram with ECV of 4.04 mL is a perforated eardrum.",
+      "optionExplanations": {
+        "A": "Incorrect: Otosclerosis presents with a Type As tympanogram (normal ear canal volume, normal peak pressure, but shallow compliance peak < 0.2 mL).",
+        "B": "Incorrect: Middle ear effusion (OME) produces a flat Type B tympanogram, but the ear canal volume is NORMAL (0.8–1.5 mL) because the tympanic membrane is intact and fluid prevents drum movement.",
+        "C": "Correct: A completely flat (Type B) tympanogram associated with an abnormally large Equivalent Ear Canal Volume (ECV = 4.04 mL) is definitive diagnostic proof of a tympanic membrane perforation (or a fully patent ventilation tube)."
+      },
+      "educationalObjective": "Diagnose tympanic membrane perforation from a flat tympanogram showing an abnormally large ear canal volume (> 2.5 mL).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-031",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 45-year-old woman presents to the acute care clinic with sudden-onset, severe, continuous rotational vertigo that began 2 days ago. She has persistent nausea and has vomited several times. She prefers lying completely still in bed with her eyes closed. She explicitly has no hearing loss, tinnitus, or aural fullness. Physical examination reveals horizontal-torsional nystagmus beating toward the left that is suppressed by visual fixation. Otoscopy, cranial nerve examination, and cerebellar testing are normal.<br><br>What is the most likely diagnosis?",
+      "options": {
+        "A": "Benign paroxysmal positional vertigo (BPPV)",
+        "B": "Ménière's disease",
+        "C": "Vestibular neuritis",
+        "D": "Acoustic neuroma"
+      },
+      "correctAnswer": "C",
+      "explanation": "The clinical scenario of acute, continuous, prolonged rotational vertigo lasting days (48–72 hours) with prominent autonomic symptoms (nausea, vomiting) and unilateral peripheral horizontal nystagmus, in the complete absence of auditory or neurological deficits, is the hallmark of Vestibular Neuritis (Neuronitis).<br><br>Pathogenesis: Vestibular neuritis is an acute inflammatory neuropathy typically attributed to post-viral or viral reactivation (often Herpes Simplex Virus type 1) selectively affecting the vestibular division of the vestibulocochlear nerve (CN VIII), most commonly the superior vestibular nerve. Because the cochlear nerve and labyrinthine hair cells are spared, hearing is entirely normal. In contrast, if acute continuous vertigo is accompanied by acute unilateral sensorineural hearing loss, the diagnosis is acute labyrinthitis.<br><br><strong>High-Yield:</strong> Acute Prolonged Vertigo Rule: Continuous vertigo for days + Normal Hearing = Vestibular Neuritis. Continuous vertigo for days + Hearing Loss = Acute Labyrinthitis.<br><br><strong>Exam Trap / Do Not Miss:</strong> Always perform the HINTS exam (Head Impulse, Nystagmus, Test of Skew) in acute continuous vertigo to rule out a cerebellar stroke mimicking vestibular neuritis. A normal head impulse test (no catch-up saccade) in acute vertigo strongly suggests a central stroke!",
+      "optionExplanations": {
+        "A": "Incorrect: BPPV causes transient paroxysms of vertigo lasting seconds provoked by positional head changes, not continuous unremitting vertigo lasting 2 days.",
+        "B": "Incorrect: Ménière's disease presents with episodic vertigo lasting hours with fluctuating low-frequency SNHL, tinnitus, and ear fullness.",
+        "C": "Correct: The clinical scenario of acute, continuous, prolonged rotational vertigo lasting days (48–72 hours) with prominent autonomic symptoms (nausea, vomiting) and unilateral peripheral horizontal nystagmus, in the complete absence of auditory or neurological deficits, is the hallmark of Vestibular Neuritis (Neuronitis).",
+        "D": "Incorrect: Acoustic neuroma (vestibular schwannoma) causes progressive asymmetric SNHL, tinnitus, and mild dysequilibrium, not acute continuous violent vertigo."
+      },
+      "educationalObjective": "Diagnose vestibular neuritis based on acute continuous vertigo lasting days with nausea/vomiting and completely intact hearing.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-032",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "A 45-year-old female presents with acute vestibular neuritis of 2 days' duration with severe nausea and continuous vertigo.<br><br>What is the most appropriate management strategy?",
+      "options": {
+        "A": "Dix-Hallpike test",
+        "B": "Supportive treatment with steroids",
+        "C": "Vestibular neurectomy",
+        "D": "Epley maneuver",
+        "E": "Intravenous antivirals"
+      },
+      "correctAnswer": "B",
+      "explanation": "The evidence-based treatment for acute Vestibular Neuritis consists of supportive symptomatic care combined with a tapering course of systemic corticosteroids.<br><br>1. Corticosteroids: Oral methylprednisolone or prednisone significantly accelerates peripheral vestibular recovery and reduces long-term caloric asymmetry when initiated within the first few days of onset.<br>2. Supportive Care: Short-term vestibular suppressants (e.g., dimenhydrinate, meclizine, diazepam) and antiemetics (ondansetron, promethazine) are used strictly for the first 24 to 48 hours to manage disabling nausea and vomiting.<br>3. Vestibular Rehabilitation: Vestibular suppressants must be discontinued after 48 hours because prolonged use delays central vestibular compensation. Early physical mobilization and vestibular rehabilitation exercises are encouraged to promote central recovery.<br><br><strong>High-Yield:</strong> Vestibular Neuritis Management: 1) Short-term vestibular suppressants (< 48 hours only); 2) Oral steroids to hasten peripheral nerve recovery; 3) Early ambulation and Vestibular Rehabilitation Therapy (VRT) for central compensation.<br><br><strong>Exam Trap / Do Not Miss:</strong> Never continue vestibular suppressants (antihistamines, benzodiazepines) long-term in vestibular neuritis. They inhibit the brainstem's ability to achieve central vestibular compensation!",
+      "optionExplanations": {
+        "A": "Incorrect: The Dix-Hallpike test is used to diagnose BPPV and will only cause distress without diagnostic utility in acute continuous neuritis.",
+        "B": "Correct: The evidence-based treatment for acute Vestibular Neuritis consists of supportive symptomatic care combined with a tapering course of systemic corticosteroids.",
+        "C": "Incorrect: Vestibular neurectomy is an invasive destructive surgical procedure reserved as a last resort for intractable Ménière's disease.",
+        "D": "Incorrect: The Epley maneuver is the repositioning treatment for BPPV; it has no role in vestibular neuritis.",
+        "E": "Incorrect: Antivirals (acyclovir/valacyclovir) have shown no efficacy in improving vestibular recovery over steroids alone in clinical trials."
+      },
+      "educationalObjective": "Select supportive therapy with short-term antiemetics/suppressants and systemic corticosteroids as the management of choice for acute vestibular neuritis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT1-033",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (Lec 1 & 2)",
+      "question": "On an axial high-resolution computed tomography (CT) scan of the petrous temporal bone at the level of the epitympanum and vestibule, pointer number 3 designates a delicate bony canal traveling anterolaterally from the fundus of the internal acoustic meatus toward the geniculate ganglion area.<br><br>What anatomical structure does number 3 represent?<br><br><strong>Clinical / Radiological Finding:</strong> Axial Temporal Bone CT: Shows pointer number 3 directed at the bony canal of the labyrinthine segment of the facial nerve, extending from the fundus of the internal auditory canal anterolaterally to the geniculate ganglion.",
+      "options": {
+        "A": "Lateral semicircular canal",
+        "B": "Cochlea",
+        "C": "Facial nerve",
+        "D": "Utricle"
+      },
+      "correctAnswer": "C",
+      "explanation": "On this axial temporal bone CT, pointer number 3 indicates the bony canal of the facial nerve (CN VII) (specifically its labyrinthine segment leading to the first genu and geniculate ganglion).<br><br>The intratemporal course of the facial nerve is divided into three primary segments:<br>1. Labyrinthine segment (labeled 3): Runs anterolaterally from the fundus o
