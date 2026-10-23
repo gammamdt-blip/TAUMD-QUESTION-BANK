@@ -1,0 +1,1120 @@
+{
+  "metadata": {
+    "title": "Elite Step 2 CK Q-Bank | ENT Final Examination",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "ENT2-001",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "The part of the ear responsible for generating auditory action potentials is:",
+      "options": {
+        "A": "Tympanic membrane",
+        "B": "Organ of Corti",
+        "C": "Eustachian tube",
+        "D": "Basilar membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The organ of Corti, situated on the basilar membrane within the cochlear duct (scala media), is the specialized sensory receptor organ for hearing. Sound waves transmitted through the ossicular chain cause vibration of the perilymph and fluid displacement within the cochlea, which induces a traveling wave along the basilar membrane. This causes shearing deflection of the stereocilia of inner hair cells against the overlying tectorial membrane. Mechanical opening of potassium (K+) channels depolarizes the inner hair cells, triggering glutamate release at the ribbon synapse and generating genuine auditory action potentials in the primary afferent bipolar neurons of the spiral ganglion (cochlear nerve / CN VIII).\n\nHigh-Yield: The organ of Corti contains inner hair cells (primary sensory transducers, 1 row, innervated by 95% of afferent auditory fibers) and outer hair cells (3 rows, motor amplifiers via prestin-mediated electromotility). Depolarization is mediated by K+ influx from the high-potassium endolymph.\n\nExam Trap / Do Not Miss: Do not confuse the basilar membrane (the passive mechanical vibratory partition) with the organ of Corti (the cellular organ housing the neuroepithelial hair cells that transduce vibration into action potentials).",
+      "optionExplanations": {
+        "A": "The tympanic membrane transduces acoustic air pressure waves into mechanical ossicular vibrations; it does not generate electrical action potentials.",
+        "B": "Correct. The organ of Corti sits on the basilar membrane; shearing of inner hair cell stereocilia against the tectorial membrane opens K+ channels, depolarizes the cell and triggers glutamate release, generating action potentials in the spiral ganglion / CN VIII afferents.",
+        "C": "The Eustachian (auditory) tube equalizes middle ear gas pressure with the nasopharynx and protects/drains middle ear secretions; it has no sensory or electrophysiological transducing function.",
+        "D": "The basilar membrane provides mechanical support and frequency tuning (tonotopic resonance: high frequencies at the stiff base, low frequencies at the compliant apex), but hair cells of the organ of Corti resting upon it are required to generate neural action potentials."
+      },
+      "educationalObjective": "Identify the organ of Corti as the neuroepithelial transducer of the cochlea that converts acoustic mechanical vibration into auditory action potentials propagated along CN VIII.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-002",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "All of the following nerves contribute to the sensory innervation of the auricle except:",
+      "options": {
+        "A": "Auriculotemporal nerve (CN V3)",
+        "B": "Facial nerve (CN VII)",
+        "C": "Vagus nerve (auricular branch)",
+        "D": "Greater auricular nerve",
+        "E": "Greater petrosal nerve"
+      },
+      "correctAnswer": "E",
+      "explanation": "The greater petrosal nerve is a preganglionic parasympathetic secretomotor branch of the facial nerve (CN VII) that originates at the geniculate ganglion, traverses the pterygoid canal, and synapses in the pterygopalatine ganglion to supply the lacrimal gland and mucous glands of the nasal cavity and palate. It provides no cutaneous sensory innervation to the external ear or auricle.\n\nThe auricle has a complex, multi-nerve sensory innervation derived from both cranial nerves and the cervical plexus: 1) Greater auricular nerve (C2–C3): supplies cranial/medial surface and posterior lower lateral auricle and lobule; 2) Lesser occipital nerve (C2): upper cranial surface; 3) Auriculotemporal nerve (CN V3): tragus, anterior helix, and crus of helix; 4) Vagus nerve (Arnold's nerve / CN X) and Facial nerve (CN VII sensory fibers): supply the concha, antihelix, and acoustic meatus.\n\nHigh-Yield: Arnold's ear-cough reflex is mediated by the auricular branch of the vagus nerve (CN X). Ramsay Hunt syndrome (herpes zoster oticus) produces vesicles in the concha and external ear canal via sensory branches of CN VII.\n\nExam Trap / Do Not Miss: Do not confuse the greater petrosal nerve (parasympathetic branch of CN VII for lacrimation) with the greater auricular nerve (cervical plexus C2-C3 somatic sensory branch to the earlobe and lower pinna).",
+      "optionExplanations": {
+        "A": "Auriculotemporal nerve (CN V3) supplies sensation to the tragus, anterior superior pinna, and anterior external canal.",
+        "B": "Facial nerve (CN VII) sends sensory twigs via the tympanic plexus/auricular branch to the concha and posterior canal wall (affected in Ramsay Hunt syndrome).",
+        "C": "Vagus nerve (Arnold's auricular branch) innervates the conchal bowl and posterior external auditory canal (triggers the ear-cough reflex during instrumentation).",
+        "D": "Greater auricular nerve (cervical plexus C2-C3) innervates the inferior half of both lateral and medial surfaces of the auricle, including the lobule.",
+        "E": "Correct (the exception). The greater petrosal nerve is a preganglionic parasympathetic secretomotor branch of CN VII (to the lacrimal gland and nasal/palatal mucous glands) and provides no cutaneous sensory innervation to the auricle."
+      },
+      "educationalObjective": "Recognize that the greater petrosal nerve carries autonomic parasympathetic fibers for lacrimation, whereas sensory innervation of the auricle is provided by CN V3, VII, X, and cervical nerves C2-C3.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-003",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "Which of the following objective hearing tests is most commonly used to screen hearing in newborns?",
+      "options": {
+        "A": "Acoustic reflex testing",
+        "B": "Auditory brainstem response (ABR)",
+        "C": "Otoacoustic emissions (OAE)",
+        "D": "Visual reinforcement audiometry (VRA)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Otoacoustic emissions (OAE) testing is the most widely utilized initial screening tool in Universal Newborn Hearing Screening (UNHS) programs. OAEs are low-intensity acoustic signals generated within the normal cochlea by the active electromotile contraction of outer hair cells (OHCs) in response to auditory clicks or tonal pairs (transient-evoked or distortion-product OAEs). The test is rapid, non-invasive, objective, automated, highly sensitive, and does not require active behavioral cooperation or electrode placement, making it ideal for well-baby nursery screening.\n\nIf an infant fails OAE screening or has high-risk criteria (e.g., NICU stay >5 days, hyperbilirubinemia requiring exchange transfusion, congenital CMV, craniofacial anomalies), an Auditory Brainstem Response (ABR) is performed to assess the auditory pathway from the cochlear nerve to the midbrain and detect auditory neuropathy spectrum disorder (ANSD).\n\nHigh-Yield: In Auditory Neuropathy Spectrum Disorder (ANSD), OAEs are NORMAL (outer hair cells intact), but ABR is ABSENT or severely abnormal (retrocochlear / neural desynchrony). Therefore, NICU infants must be screened with ABR.\n\nExam Trap / Do Not Miss: Vernix, amniotic fluid, or middle ear mesenchyme in the external canal during the first 24-48 hours can cause a false-positive 'refer' result on OAE. Re-screening prior to discharge reduces unnecessary referrals.",
+      "optionExplanations": {
+        "A": "Acoustic reflex testing assesses stapedius muscle contraction mediated by CN VII/VIII arc; it is diagnostic for middle ear and retrocochlear pathology, not a primary newborn screening tool.",
+        "B": "ABR evaluates neural integrity up to the inferior colliculus; while automated ABR (AABR) is mandatory in high-risk NICU infants, OAE remains the most common fast initial screen in healthy well-infant nurseries.",
+        "C": "Correct. OAE is the rapid, objective, non-invasive, automated test most widely used for initial universal newborn hearing screening; ABR is reserved for infants who fail OAE or have high-risk criteria.",
+        "D": "Visual reinforcement audiometry (VRA) is a subjective behavioral test used in infants aged 6 months to 2.5 years, not in neonates."
+      },
+      "educationalObjective": "Identify Otoacoustic Emissions (OAE) as the rapid, standard first-line objective screening modality for newborn hearing in well-baby nurseries.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-004",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "All of the following statements about the inner membranous labyrinth are correct except:",
+      "options": {
+        "A": "It is a series of sacs and tubes inside the bony labyrinth lined with epithelium",
+        "B": "The utricle and saccule are parts of the membranous labyrinth",
+        "C": "The endolymph has a high level of sodium ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Statement C is incorrect (the false statement / answer). Endolymph is unique among extracellular fluids in that it has a high concentration of potassium (K+ ~140–150 mEq/L) and a very low concentration of sodium (Na+ ~1–2 mEq/L), resembling intracellular cytoplasm. It is actively secreted by the stria vascularis in the cochlea and dark cells in the vestibular system, maintaining an endocochlear electrical potential of approximately +80 to +100 mV.\n\nIn contrast, perilymph fills the scala vestibuli and scala tympani (between the bony and membranous labyrinth), resembling extracellular fluid or CSF, with high sodium (Na+ ~140 mEq/L) and low potassium (K+ ~4 mEq/L).\n\nHigh-Yield: Endolymph = High K+, Low Na+ (secreted by stria vascularis, endocochlear potential +80 mV). Perilymph = High Na+, Low K+ (continuous with CSF via cochlear aqueduct).\n\nExam Trap / Do Not Miss: Do not confuse endolymph with typical extracellular fluid; endolymph has intracellular-like ionic concentrations to drive rapid K+ influx during hair cell transduction.",
+      "optionExplanations": {
+        "A": "True statement: The membranous labyrinth is indeed an interconnected network of epithelial ducts and sacs suspended within the osseous labyrinth of the petrous temporal bone.",
+        "B": "True statement: The utricle and saccule are the two otolith organs of the membranous labyrinth responsible for linear acceleration and static gravitational orientation.",
+        "C": "Correct (the false statement). Endolymph has a high potassium and very low sodium concentration, resembling intracellular fluid; it is perilymph that is high in sodium."
+      },
+      "educationalObjective": "Recognize that endolymph contains high potassium (K+) and low sodium (Na+), maintaining the positive endocochlear potential essential for acoustic hair cell depolarization.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-005",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "Which of the following is NOT a typical cause of conductive hearing loss?",
+      "options": {
+        "A": "Allergies",
+        "B": "Foreign objects in the ear canal",
+        "C": "Aging",
+        "D": "Impacted ear wax",
+        "E": "Ruptured eardrum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Aging causes presbycusis, which is the classic prototype of bilateral, symmetrical, high-frequency sensorineural hearing loss (SNHL). It is caused by progressive cumulative degenerative loss of hair cells at the basal turn of the organ of Corti, atrophy of the stria vascularis, and loss of spiral ganglion neurons. It does not cause conductive hearing loss (CHL).\n\nConductive hearing loss results from mechanical disruption or physical obstruction in the transmission of sound energy through the external auditory canal, tympanic membrane, or ossicular chain in the middle ear.\n\nHigh-Yield: Presbycusis: age-related SNHL characterized by sloping high-frequency loss, impaired speech discrimination especially in noisy backgrounds (cocktail party effect), and normal bone conduction thresholds matching air conduction (no air-bone gap).\n\nExam Trap / Do Not Miss: Remember that an 'air-bone gap' on pure tone audiometry defines conductive hearing loss. Presbycusis shows NO air-bone gap (both air and bone thresholds are equally depressed).",
+      "optionExplanations": {
+        "A": "Allergies can cause mucosal edema and Eustachian tube dysfunction (ETD), leading to middle ear negative pressure and serous effusion (OME), producing conductive hearing loss.",
+        "B": "Foreign bodies in the external auditory canal physically block acoustic wave transmission, resulting in conductive hearing loss.",
+        "C": "Correct (the exception). Aging causes presbycusis, a bilateral, symmetrical, high-frequency sensorineural hearing loss from hair cell, stria vascularis and spiral ganglion degeneration, not a conductive loss.",
+        "D": "Cerumen impaction is the most common cause of reversible conductive hearing loss encountered in clinical practice.",
+        "E": "Tympanic membrane perforation impairs sound wave capture and impedes acoustic-to-mechanical ossicular coupling, producing conductive hearing loss."
+      },
+      "educationalObjective": "Distinguish sensorineural causes of hearing loss (such as age-related presbycusis) from mechanical/conductive impediments in the external canal and middle ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-006",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "A patient has a right tympanic membrane perforation. Which of the following findings is expected?",
+      "options": {
+        "A": "Right Rinne positive and Weber lateralizes to left",
+        "B": "Right Rinne negative and Weber lateralizes to right",
+        "C": "Right Rinne positive and Weber lateralizes to right",
+        "D": "Right Rinne negative and Weber lateralizes to left"
+      },
+      "correctAnswer": "B",
+      "explanation": "A tympanic membrane perforation in the right ear produces an ipsilateral Right Conductive Hearing Loss (CHL).\n\n1. Rinne Test (Right Ear): In conductive hearing loss, bone conduction exceeds air conduction (BC > AC) because the conductive defect blocks sound via air, but direct skull vibration bypasses the external/middle ear. This is designated as a Rinne Negative result in the right ear. 2. Weber Test: The vibrating fork is placed on the vertex or forehead. In unilateral conductive loss, sound lateralizes to the affected (impaired) ear (Right) because the conductive defect eliminates ambient background masking noise on that side (occlusion effect).\n\nTherefore, the expected classic combination is: Right Rinne negative and Weber lateralizes to the right.\n\nHigh-Yield: Weber Test Rules: Lateralizes to AFFECTED ear in Conductive Hearing Loss; lateralizes to UNAFFECTED (better) ear in Sensorineural Hearing Loss. Rinne Test: Normal/Positive = AC > BC; Negative = BC > AC (indicates Conductive loss > 20 dB).\n\nExam Trap / Do Not Miss: Remember that a 'positive' Rinne test sounds desirable but is actually normal (AC > BC). A 'negative' Rinne indicates an abnormal conductive hearing loss.",
+      "optionExplanations": {
+        "A": "Rinne positive (AC > BC) and Weber lateralizing to the contralateral (left) ear is the characteristic pattern of right sensorineural hearing loss, not conductive loss.",
+        "B": "Correct. A right tympanic membrane perforation causes a right conductive hearing loss: bone conduction exceeds air conduction in the right ear (Rinne negative) and the Weber test lateralizes to the affected (right) ear.",
+        "C": "Rinne positive in the right ear contradicts conductive hearing loss; conductive defects yield Rinne negative (BC > AC).",
+        "D": "Weber lateralizing to the left ear in the presence of right Rinne negative is physiologically inconsistent unless there is a severe mixed/sensorineural deficit."
+      },
+      "educationalObjective": "Apply the principles of Rinne and Weber tuning fork evaluations to diagnose unilateral conductive hearing loss (ipsilateral negative Rinne and ipsilateral Weber lateralization).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-007",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Audiology",
+      "question": "What is the meaning of this symbol (<) on an audiogram?",
+      "options": {
+        "A": "Masked right bone conduction",
+        "B": "Unmasked left bone conduction",
+        "C": "Unmasked right bone conduction",
+        "D": "Masked left bone conduction"
+      },
+      "correctAnswer": "C",
+      "explanation": "On a standard pure tone audiogram, universally standardized symbols are used according to American Speech-Language-Hearing Association (ASHA) guidelines:\n• O (Red circle): Right ear, Air Conduction, Unmasked\n• X (Blue cross): Left ear, Air Conduction, Unmasked\n• < (Red open bracket opening to right): Right ear, Bone Conduction, Unmasked\n• > (Blue open bracket opening to left): Left ear, Bone Conduction, Unmasked\n• [ (Red square bracket): Right ear, Bone Conduction, Masked\n• ] (Blue square bracket): Left ear, Bone Conduction, Masked\n• ▲ (Red triangle): Right ear, Air Conduction, Masked\n• ■ (Blue square): Left ear, Air Conduction, Masked\n\nHigh-Yield: Mnemonic: 'Red Right Round' (Red = Right; Circle O = Air, < = Bone). Left is Blue with X (Air) and > (Bone). Square brackets ([ / ]) always indicate masking.\n\nExam Trap / Do Not Miss: Notice which side the chevron opens: '<' points leftward but opens to the right, denoting the RIGHT ear unmasked bone conduction.",
+      "optionExplanations": {
+        "A": "Masked right bone conduction is represented by a red square bracket '['.",
+        "B": "Unmasked left bone conduction is represented by the greater-than bracket '>'.",
+        "C": "Correct. On a standard audiogram '<' denotes right-ear, unmasked bone conduction.",
+        "D": "Masked left bone conduction is represented by a blue square bracket ']'."
+      },
+      "educationalObjective": "Recognize standard pure-tone audiogram symbols: '<' indicates unmasked bone conduction in the right ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-008",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "All of the following statements about otosclerosis are true except:",
+      "options": {
+        "A": "It typically causes progressive conductive hearing loss",
+        "B": "It often presents in young adults, more commonly in females",
+        "C": "Notch at 2000 Hz on bone conduction (Carhart's notch)",
+        "D": "The incus is the most commonly affected ossicle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is incorrect (the false statement / answer). The stapes footplate at the oval window (fissula ante fenestram) is by far the most commonly affected site in otosclerosis, not the incus. Abnormal bone remodeling (osteospongiosis followed by sclerotic neo-ossification) ankyloses and fixates the stapes footplate, preventing acoustic vibratory transmission to the vestibule.\n\nOtosclerosis is characterized by: an autosomal dominant inheritance with variable penetrance; progressive bilateral (70–85%) conductive hearing loss; female predilection (2:1, often accelerated by hormonal surges during pregnancy); normal tympanic membrane (occasionally with Schwartz sign: a faint flamingo-pink blush over the promontory); and Carhart's notch (a mechanical artifact showing a dip in bone conduction thresholds centered at 2000 Hz).\n\nHigh-Yield: Definitive management of otosclerosis includes hearing aids or surgical stapedotomy/stapedectomy with placement of a micro-prosthesis (piston). Fluoride supplements or bisphosphonates are occasionally used to slow active otospongiotic remodeling.\n\nExam Trap / Do Not Miss: Carhart's notch mimics sensorineural hearing loss at 2 kHz, but it is an artifact of lost ossicular inertial resonance rather than true cochlear hair cell loss; it disappears after stapedectomy.",
+      "optionExplanations": {
+        "A": "True statement: Otosclerosis characteristically produces progressive, insidious conductive hearing loss due to stapes footplate ankylosis.",
+        "B": "True statement: Otosclerosis typically manifests in young adults aged 15–45 years, with a 2:1 female-to-male ratio, frequently worsening during pregnancy.",
+        "C": "True statement: Carhart's notch (elevation of bone conduction threshold peaking at 2000 Hz) is an audiometric artifact of ossicular fixation that resolves after successful stapedectomy.",
+        "D": "Correct (the false statement). Otosclerosis most commonly affects the stapes footplate at the oval window, not the incus."
+      },
+      "educationalObjective": "Identify the stapes footplate at the oval window as the primary site of ossicular fixation in otosclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-009",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A patient presents with brief episodes of vertigo triggered by positional changes. Dix-Hallpike test is positive. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vestibular neuritis",
+        "B": "Ménière's disease",
+        "C": "Benign paroxysmal positional vertigo (BPPV)",
+        "D": "Labyrinthitis"
+      },
+      "correctAnswer": "C",
+      "explanation": "The clinical vignette describes classic Benign Paroxysmal Positional Vertigo (BPPV), the most common peripheral vestibular disorder. BPPV is caused by canalithiasis: dislodged calcium carbonate otoconia (otoliths) from the utricular macula that become displaced into a semicircular canal (most commonly the posterior semicircular canal, ~85–90% of cases).\n\nClinical hallmarks:\n• Paroxysmal, intense spinning vertigo lasting < 1 minute (usually 10–30 seconds), provoked by head movement (turning over in bed, looking up).\n• Absence of hearing loss, tinnitus, or focal neurologic deficits.\n• Dix-Hallpike maneuver confirms diagnosis: shows a latent period (2–10 seconds) followed by transient, fatiguing, torsional geotropic nystagmus (beating upward and toward the affected dependent ear).\n• Treatment: Epley canalith repositioning maneuver.\n\nHigh-Yield: Duration of vertigo differentiates peripheral disorders: BPPV = seconds (<1 min); TIA = minutes; Meniere = hours (20 min - 12 hrs); Vestibular neuritis / Labyrinthitis = days.\n\nExam Trap / Do Not Miss: Antihistamines and benzodiazepines (vestibular suppressants) are NOT first-line therapy for BPPV; the definitive treatment is particle repositioning (Epley maneuver).",
+      "optionExplanations": {
+        "A": "Vestibular neuritis presents with severe, continuous, debilitating vertigo lasting several days, accompanied by gait instability and spontaneous horizontal-torsional nystagmus, without positional paroxysms or hearing loss.",
+        "B": "Ménière's disease presents with episodic vertigo lasting hours (20 minutes to 12 hours) accompanied by unilateral fluctuating low-frequency sensorineural hearing loss, roaring tinnitus, and aural fullness.",
+        "C": "Correct. Brief (<1 minute) positional vertigo with a positive Dix-Hallpike test is classic BPPV (canalithiasis, most often of the posterior canal), treated with the Epley maneuver.",
+        "D": "Labyrinthitis presents similarly to vestibular neuritis with continuous days of vertigo, but differs by the presence of acute sensorineural hearing loss."
+      },
+      "educationalObjective": "Diagnose BPPV based on brief (<1 min) positional vertigo and a positive Dix-Hallpike test, treated definitively with the Epley maneuver.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-010",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A 45-year-old woman has sudden vertigo episodes lasting hours, with fluctuating hearing loss, ear fullness, and tinnitus. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vestibular neuritis",
+        "B": "BPPV",
+        "C": "Ménière's disease",
+        "D": "Labyrinthitis"
+      },
+      "correctAnswer": "C",
+      "explanation": "This 45-year-old female presents with the classic diagnostic tetrad of Ménière's disease (idiopathic endolymphatic hydrops): 1. Episodic rotational vertigo lasting from 20 minutes to several hours (typically 2 to 4 hours). 2. Fluctuating low-frequency sensorineural hearing loss (progressing over years to permanent flat or high-frequency SNHL). 3. Tinnitus (often described as low-pitched, roaring, or ocean-like). 4. Ipsilateral aural fullness or pressure.\n\nPathophysiology: Distension of the endolymphatic system due to impaired reabsorption of endolymph by the endolymphatic sac, leading to micro-ruptures of the membranous labyrinth and mixing of potassium-rich endolymph with perilymph, which chemically paralyzes vestibular and auditory nerve fibers. Management: Lifestyle modifications (low-sodium diet <2 g/day, caffeine and alcohol restriction), diuretics (hydrochlorothiazide/triamterene), intratympanic dexamethasone or gentamicin (chemical labyrinthectomy), and endolymphatic sac decompression for refractory disease.\n\nHigh-Yield: Diagnostic criteria for definitive Ménière's disease: ≥2 spontaneous episodes of rotational vertigo lasting 20 min to 12 hours, audiometrically documented low-to-medium frequency SNHL in the affected ear, and fluctuating aural symptoms (tinnitus, fullness).\n\nExam Trap / Do Not Miss: Do not give aminoglycosides (gentamicin) as first-line therapy; medical therapy with salt restriction and diuretics must always precede ablative interventions.",
+      "optionExplanations": {
+        "A": "Vestibular neuritis causes acute, unremitting vertigo lasting several days without any cochlear symptoms (no hearing loss, no tinnitus).",
+        "B": "BPPV lasts only seconds (<60 sec), is strictly provoked by head position changes, and does not cause hearing loss, tinnitus, or aural fullness.",
+        "C": "Correct. Episodic vertigo lasting hours with fluctuating hearing loss, tinnitus and aural fullness in a middle-aged woman is the classic presentation of Ménière's disease (endolymphatic hydrops).",
+        "D": "Labyrinthitis causes continuous vertigo and hearing loss lasting days following a viral illness, lacking the episodic, fluctuating, hours-long relapsing-remitting course of Ménière's."
+      },
+      "educationalObjective": "Recognize Ménière's disease by its classic presentation of episodic vertigo lasting hours, fluctuating low-frequency SNHL, tinnitus, and aural fullness.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-011",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A patient presents with a red, tender, and swollen outer ear sparing the lobule. The ear is warm with reduced fold definition. There is no fever. What is the most likely causative organism?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus pyogenes",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Haemophilus influenza"
+      },
+      "correctAnswer": "C",
+      "explanation": "The cardinal physical examination clue here is erythema, tenderness, and edema of the auricle SPARING THE LOBULE. The earlobe contains only fibrofatty tissue and lacks cartilage. Therefore, inflammation that affects the cartilaginous pinna while sparing the lobule definitively diagnoses auricular perichondritis / chondritis (as opposed to ear cellulitis, which involves the lobule).\n\nAuricular perichondritis frequently follows accidental ear trauma, high ear (transcartilaginous) body piercings, burns, or poorly controlled otitis externa. The overwhelmingly predominant causative organism (accounting for >90% of culture-positive bacterial cases) is Pseudomonas aeruginosa, followed by Staphylococcus aureus. Prompt treatment with antipseudomonal oral fluoroquinolones (e.g., ciprofloxacin) or IV antipseudomonals is required to prevent cartilage necrosis, subperichondrial abscess formation, and permanent 'cauliflower ear' deformity.\n\nHigh-Yield: Clinical Pearl: Sparing of the lobule = Perichondritis (Pseudomonas aeruginosa). Involvement of the lobule = Cellulitis/Erysipelas (Streptococcus pyogenes or S. aureus). Relapsing polychondritis also spares the lobule but is autoimmune, bilateral, and recurrent.\n\nExam Trap / Do Not Miss: Delaying antipseudomonal therapy in perichondritis can result in ischemic avascular necrosis of the auricular cartilage, causing irreversible cosmetic deformity.",
+      "optionExplanations": {
+        "A": "Staphylococcus aureus is the second most common cause and can cause ear cellulitis (which involves the earlobe), but Pseudomonas is the primary pathogen in perichondritis after transcartilaginous injury.",
+        "B": "Streptococcus pyogenes causes erysipelas / cellulitis of the ear, characteristically involving the lobule with well-demarcated raised borders.",
+        "C": "Correct. A red, tender, swollen auricle that spares the lobule indicates perichondritis, in which Pseudomonas aeruginosa is the predominant causative organism.",
+        "D": "Haemophilus influenzae is a common pediatric middle ear/respiratory pathogen, rarely implicated in auricular perichondritis."
+      },
+      "educationalObjective": "Differentiate auricular perichondritis (lobule-sparing, caused predominantly by Pseudomonas aeruginosa) from auricular cellulitis (involves the lobule).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-012",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A diabetic patient with a history of incomplete treatment for tonsillitis at age 14 now presents with severe ear pain, otorrhea, and granulation tissue in the external auditory canal. Which diagnostic test is most appropriate?",
+      "options": {
+        "A": "Fungal stain",
+        "B": "CT scan",
+        "C": "Antibiotic therapy",
+        "D": "Pure tone audiometry",
+        "E": "Ear swab culture"
+      },
+      "correctAnswer": "B",
+      "explanation": "This elderly or immunocompromised/diabetic patient presenting with nocturnal/severe unremitting otalgia, purulent otorrhea, and granulation tissue at the bone-cartilage junction (floor) of the external auditory canal has the hallmark presentation of Necrotizing (Malignant) Otitis Externa (NOE), an invasive skull base osteomyelitis caused by Pseudomonas aeruginosa.\n\nThe most appropriate immediate imaging investigation to evaluate cortical bone erosion, skull base demineralization, and extension through the fissures of Santorini into the stylomastoid foramen (involving CN VII, IX, X, XI) is a High-Resolution Computed Tomography (CT) scan of the temporal bone. (Note: Technetium-99m bone scanning confirms osteoblastic activity, and Gallium-67 citrate or Indium-111 SPECT is used to monitor treatment response and resolution). Prompt systemic antipseudomonal therapy (e.g., IV ciprofloxacin, cefepime, or piperacillin-tazobactam) for 6–8 weeks is required.\n\nHigh-Yield: Necrotizing Otitis Externa: Diabetic elderly patient + Severe nocturnal ear pain + Granulation tissue at EAC floor + Pseudomonas aeruginosa. Initial test of choice: High-resolution CT of the temporal bones. Most common cranial nerve complication: CN VII (Facial nerve) palsy.\n\nExam Trap / Do Not Miss: Do not treat malignant otitis externa with topical drops alone. It is an osteomyelitis of the temporal bone that mandates prolonged parenteral antipseudomonal therapy.",
+      "optionExplanations": {
+        "A": "Fungal stains are useful for otomycosis (Aspergillus niger, Candida), which presents with pruritus, fluffy debris, and visible hyphae/spores, not invasive skull base osteomyelitis.",
+        "B": "Correct. A diabetic patient with severe otalgia, otorrhea and granulation tissue in the external canal has necrotizing (malignant) otitis externa; high-resolution temporal bone CT is the key test to show bone erosion and skull base involvement.",
+        "C": "Antibiotic therapy is the treatment modality, not a diagnostic test; diagnostic staging requires radiologic assessment of bone invasion.",
+        "D": "Pure tone audiometry documents hearing thresholds but does not evaluate life-threatening skull base osteomyelitis.",
+        "E": "While ear canal discharge cultures are obtained to confirm Pseudomonas and test sensitivities, temporal bone CT is the essential diagnostic test to confirm invasive osteomyelitis and determine the anatomical extent of disease."
+      },
+      "educationalObjective": "Recognize necrotizing otitis externa in a diabetic patient with ear pain and granulation tissue, and identify temporal bone CT as the essential imaging test to diagnose skull base osteomyelitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-013",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "What is the most common bacterial cause of acute otitis media in infants and young children?",
+      "options": {
+        "A": "Haemophilus influenza",
+        "B": "Moraxella catarrhalis",
+        "C": "Streptococcus pneumoniae",
+        "D": "Staphylococcus aureus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Streptococcus pneumoniae (pneumococcus) remains the most common bacterial etiology of acute otitis media (AOM) in infants and young children, accounting for approximately 35–40% of bacterial isolates (despite reductions following the widespread adoption of pneumococcal conjugate vaccines like PCV13/PCV15). Pneumococcal AOM tends to be clinically more severe, associated with higher fevers, more intense tympanic membrane bulging, and greater risk of mastoiditis.\n\nThe classic triad of bacterial pathogens in AOM is: 1. Streptococcus pneumoniae (~35–40%) 2. Non-typeable Haemophilus influenzae (~30–35%, often associated with concurrent purulent conjunctivitis, known as otitis-conjunctivitis syndrome) 3. Moraxella catarrhalis (~10–15%, nearly 100% produce beta-lactamase).\n\nFirst-line antibiotic treatment is high-dose amoxicillin (80–90 mg/kg/day); amoxicillin-clavulanate is indicated if amoxicillin was used within the past 30 days or in otitis-conjunctivitis syndrome.\n\nHigh-Yield: AOM Pathogens: S. pneumoniae (most common, causes most severe pain/fever) > H. influenzae (otitis-conjunctivitis) > M. catarrhalis. First-line therapy: High-dose Amoxicillin (80-90 mg/kg/day).\n\nExam Trap / Do Not Miss: Remember that Haemophilus influenzae in AOM is almost always NON-TYPEABLE (unencapsulated), meaning the standard Hib vaccine does not protect against otitis media caused by H. influenzae.",
+      "optionExplanations": {
+        "A": "Non-typeable Haemophilus influenzae is the second most common cause, frequently causing concurrent conjunctivitis, but ranks behind Streptococcus pneumoniae.",
+        "B": "Moraxella catarrhalis is the third most common bacterial pathogen in AOM.",
+        "C": "Correct. Streptococcus pneumoniae is the most common bacterial cause of acute otitis media in infants and young children, ahead of non-typeable H. influenzae and Moraxella catarrhalis.",
+        "D": "Staphylococcus aureus is an uncommon cause of acute otitis media, though it is frequently isolated in chronic suppurative otitis media (CSOM) and otitis externa."
+      },
+      "educationalObjective": "Identify Streptococcus pneumoniae as the leading bacterial cause of acute otitis media in pediatric patients.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-014",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A 20-year-old patient presents with ear pain, fever, and purulent discharge from the external ear canal for 2 days. On examination, there is tenderness when pulling the pinna and swelling of the ear canal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute otitis media",
+        "B": "Otitis media with effusion",
+        "C": "Cholesteatoma",
+        "D": "Bacterial otitis externa"
+      },
+      "correctAnswer": "D",
+      "explanation": "The clinical hallmark that distinguishes Acute Otitis Externa (AOE, 'swimmer's ear') from acute otitis media is severe pain elicited by manipulation of the pinna (auricular traction) or pressure on the tragus.\n\nKey features of AOE include:\n• Rapid onset (within 48 hours) of otalgia, pruritus, aural fullness, and hearing loss.\n• Marked erythema and circumferential edema of the external auditory canal with purulent otorrhea.\n• Most common pathogens: Pseudomonas aeruginosa (38–60%) and Staphylococcus aureus (10–20%).\n• Treatment: Thorough gentle aural toilet (debridement of debris) and topical antibiotic-corticosteroid drops (e.g., ciprofloxacin-dexamethasone). An ear wick is placed if canal edema prevents drop penetration.\n\nHigh-Yield: Tragal tenderness and pain on traction of the pinna are the pathognomonic physical examination signs of acute otitis externa. First-line therapy is topical (ciprofloxacin drops); oral antibiotics are reserved for spread beyond the ear canal.\n\nExam Trap / Do Not Miss: Never use aminoglycoside ear drops (e.g., neomycin, gentamicin) if the tympanic membrane is perforated or cannot be fully visualized, due to risk of sensorineural ototoxicity.",
+      "optionExplanations": {
+        "A": "Acute otitis media presents with a bulging, erythematous, immobile tympanic membrane with middle ear effusion; pulling the pinna or tragal pressure does NOT cause exquisite pain.",
+        "B": "Otitis media with effusion (OME) presents with painless serous fluid behind an intact tympanic membrane, absence of canal inflammation, and conductive hearing loss without acute tenderness.",
+        "C": "Cholesteatoma presents with chronic, painless, foul-smelling otorrhea and conductive hearing loss; otoscopy reveals an attic retraction pocket with white keratic debris, not acute pinna tenderness.",
+        "D": "Correct. Pain on pulling the pinna or pressing the tragus, canal swelling and purulent discharge indicate acute bacterial otitis externa."
+      },
+      "educationalObjective": "Recognize acute bacterial otitis externa by its characteristic ear canal edema, purulent discharge, and hallmark tenderness upon pinna manipulation or tragal pressure.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-015",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "Which of the following best defines a cholesteatoma?",
+      "options": {
+        "A": "Collection of purulent fluid in the mastoid air cells",
+        "B": "Granulation tissue in the external auditory canal",
+        "C": "Keratinizing squamous epithelium in the middle ear",
+        "D": "Serous effusion behind an intact tympanic membrane",
+        "E": "Hypertrophied mucosa of the Eustachian tube"
+      },
+      "correctAnswer": "C",
+      "explanation": "A cholesteatoma is a non-neoplastic, destructive expanding lesion of the temporal bone defined histologically as a collection of keratinizing stratified squamous epithelium (epidermoid cyst) desquamating keratin flakes within the middle ear cavity, attic (epitympanum), or mastoid.\n\nPathogenesis: Most commonly acquired secondary to chronic Eustachian tube dysfunction, producing persistent negative middle ear pressure that pulls the flaccid portion of the tympanic membrane (pars flaccida) inward to form a deep retraction pocket. Keratin debris accumulates, inciting chronic inflammation and osteolytic enzymes (collagenases, matrix metalloproteinases, osteoclasts) that erode the ossicular chain (especially the long process of the incus), scutum, tegmen tympani, lateral semicircular canal, and fallopian canal. Presentation: Persistent, painless, foul-smelling (cheesy) purulent otorrhea, progressive conductive hearing loss, and visible pearly-white keratic mass in the attic. Management: Definitive treatment is surgical excision (tympanomastoidectomy).\n\nHigh-Yield: Cholesteatoma = Keratinizing squamous epithelium in the middle ear/mastoid. Complications: Ossicular erosion (CHL), horizontal semicircular canal erosion (vertigo/fistula test positive), facial nerve palsy, tegmen erosion leading to temporal lobe abscess or meningitis.\n\nExam Trap / Do Not Miss: Despite the name, a cholesteatoma contains NEITHER cholesterol NOR fat, and it is NOT a neoplasm; it is an epidermal cyst filled with desquamated keratin.",
+      "optionExplanations": {
+        "A": "Purulent fluid collection in mastoid air cells defines acute or coalescent mastoiditis.",
+        "B": "Granulation tissue in the EAC can occur with malignant otitis externa or chronic external otitis, but does not define a cholesteatoma.",
+        "C": "Correct. A cholesteatoma is keratinizing stratified squamous epithelium (desquamated keratin) within the middle ear/mastoid that erodes adjacent bone.",
+        "D": "Serous fluid behind an intact tympanic membrane is the definition of otitis media with effusion (OME).",
+        "E": "Mucosal hypertrophy of the Eustachian tube is a cause of Eustachian tube dysfunction, not a cholesteatoma."
+      },
+      "educationalObjective": "Define cholesteatoma as keratinizing squamous epithelium in the middle ear cavity capable of local bone erosion.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-016",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "Which of the following is NOT a feature of Otitis Media with Effusion (OME)?",
+      "options": {
+        "A": "Conductive hearing loss",
+        "B": "Aural fullness",
+        "C": "Recurrent ear pain",
+        "D": "Fluid behind an intact tympanic membrane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recurrent ear pain (otalgia) is NOT a typical feature of Otitis Media with Effusion (OME, 'serous otitis media'). By definition, OME is the presence of middle ear fluid (effusion) WITHOUT signs or symptoms of acute ear infection or inflammation (no fever, no severe otalgia, no acute tympanic bulging). Severe or recurrent ear pain and fever are the defining characteristics of Acute Otitis Media (AOM).\n\nTypical features of OME include:\n• Fluid behind an intact tympanic membrane (amber or dull gray TM, air-fluid levels, or bubbles on pneumatic otoscopy).\n• Retracted or neutral tympanic membrane with decreased mobility.\n• Mild to moderate conductive hearing loss (CHL), often presenting in children as behavioral changes, speech delay, or poor school performance.\n• Sensation of ear plug / aural fullness or popping.\n• Natural history: ~90% resolve spontaneously within 3 months (watchful waiting). Tympanostomy tube insertion is indicated if bilateral OME persists >3 months with documented hearing impairment.\n\nHigh-Yield: AOM vs. OME: AOM has acute inflammatory symptoms (fever, intense pain, bulging fiery red TM). OME is painless, afebrile, with amber/dull TM, fluid bubbles, and conductive hearing loss. In an adult with unilateral OME, always examine the nasopharynx to rule out nasopharyngeal carcinoma.\n\nExam Trap / Do Not Miss: Antibiotics, antihistamines, and systemic steroids are NOT recommended for uncomplicated OME because they do not alter long-term outcomes.",
+      "optionExplanations": {
+        "A": "Conductive hearing loss (typically 15-30 dB) is the most prominent functional impairment in OME due to fluid damping ossicular vibration.",
+        "B": "Aural fullness or a blocked-ear sensation is a classic complaint in older children and adults with OME.",
+        "C": "Correct (the exception). OME is painless middle-ear fluid behind an intact tympanic membrane with conductive hearing loss; ear pain and fever are features of acute otitis media, not OME.",
+        "D": "Fluid behind an intact eardrum is the essential diagnostic prerequisite of OME."
+      },
+      "educationalObjective": "Recognize that otitis media with effusion (OME) is characterized by painless middle ear fluid and conductive hearing loss without acute inflammatory signs such as recurrent ear pain.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-017",
+      "topic": "ENT",
+      "section": "Chapter 2: Ear Diseases",
+      "question": "A 40-year-old man who has been swimming in cold water for many years presents with gradual hearing loss and a sensation of ear blockage. Otoscopic examination reveals multiple bilateral broad-based bony swellings arising from the external auditory canal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Osteoma",
+        "B": "Exostosis",
+        "C": "Cholesteatoma",
+        "D": "Cerumen impaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "The clinical history of chronic cold water exposure (swimming, surfing) combined with the physical finding of multiple, bilateral, broad-based (sessile) bony outgrowths in the external auditory canal is the classic textbook description of Exostoses ('Surfer's ear').\n\nPathophysiology: Repeated thermal stimulation of the periosteum by cold water causes reactive hyperostosis and neo-osteogenesis of the tympanic bone. Over years, the circumferential bony mounds gradually narrow the canal lumen, leading to cerumen trapping, recurrent external otitis, and conductive hearing loss.\n\nComparison with Osteoma:\n• Exostosis: Multiple, bilateral, symmetric, broad-based (sessile), located in the medial bony canal near the tympanic ring; strongly associated with cold water.\n• Osteoma: Single, unilateral, pedunculated (narrow neck), located more laterally at the tympanosquamous or tympanomastoid suture line; not associated with cold water.\n\nHigh-Yield: Exostoses: Multiple + Bilateral + Broad-based (sessile) + Cold water exposure ('Surfer's ear'). Osteoma: Single + Unilateral + Pedunculated.\n\nExam Trap / Do Not Miss: Do not confuse exostosis with an osteoma on an exam. Look closely at the words 'multiple' and 'bilateral'—these confirm exostosis.",
+      "optionExplanations": {
+        "A": "Osteomas are solitary, unilateral, and pedunculated bony tumors arising near the bony-cartilaginous junction, unrelated to cold water exposure.",
+        "B": "Correct. Multiple, bilateral, broad-based bony swellings of the external canal after years of cold-water exposure are exostoses ('surfer's ear').",
+        "C": "Cholesteatoma presents with a keratin-filled squamous retraction pocket and bone erosion, not multiple smooth bony outgrowths.",
+        "D": "Cerumen impaction can occur secondarily behind exostoses, but the primary underlying lesions are the multiple bony canal swellings."
+      },
+      "educationalObjective": "Differentiate external auditory canal exostoses (multiple, bilateral, sessile bony outgrowths linked to cold water swimming) from solitary osteomas.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-018",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Recurrent acute rhinosinusitis is best defined as?",
+      "options": {
+        "A": "Symptoms lasting more than 12 weeks",
+        "B": "Four or more episodes with complete remission between attacks",
+        "C": "Symptoms more than 1 month",
+        "D": "Symptoms more than 3 months"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to international clinical consensus guidelines (AAO-HNS and EPOS - European Position Paper on Rhinosinusitis and Nasal Polyps):\n\n• Acute Rhinosinusitis (ARS): Symptoms lasting < 12 weeks with complete resolution.\n• Recurrent Acute Rhinosinusitis (RARS): Four (4) or more episodes of acute bacterial rhinosinusitis per year, with each episode lasting at least 7–10 days and with complete interim resolution of symptoms between episodes.\n• Chronic Rhinosinusitis (CRS): Persistent inflammatory symptoms lasting for 12 weeks (3 months) or longer without complete resolution.\n• Subacute Rhinosinusitis: Symptoms lasting between 4 and 12 weeks.\n\nHigh-Yield: Diagnostic criteria: RARS = ≥4 episodes/year with symptom-free intervals. CRS = ≥12 continuous weeks of symptoms. The cardinal triad in ARS: purulent nasal discharge, nasal obstruction, and facial pressure/pain.\n\nExam Trap / Do Not Miss: Watch the qualifier: 'with complete remission between attacks' is essential to distinguish recurrent acute episodes from chronic rhinosinusitis with acute exacerbations.",
+      "optionExplanations": {
+        "A": "Symptoms lasting more than 12 weeks defines Chronic Rhinosinusitis (CRS), not recurrent acute disease.",
+        "B": "Correct. Recurrent acute rhinosinusitis is four or more episodes per year with complete symptom resolution between episodes.",
+        "C": "Symptoms lasting between 4 and 12 weeks defines subacute rhinosinusitis.",
+        "D": "Symptoms lasting more than 3 months is equivalent to >12 weeks, defining Chronic Rhinosinusitis."
+      },
+      "educationalObjective": "Define recurrent acute rhinosinusitis as 4 or more distinct episodes of acute rhinosinusitis per year with complete symptom-free intervals between attacks.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-019",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Regarding rhinosinusitis in adults, which of the following symptoms is cornerstone for the diagnosis?",
+      "options": {
+        "A": "Facial pain",
+        "B": "Loss of smell",
+        "C": "Nasal obstruction or discharge",
+        "D": "Rhinorrhea"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under the internationally accepted EPOS (European Position Paper on Rhinosinusitis) diagnostic guidelines, the clinical diagnosis of rhinosinusitis in adults mandates the presence of two or more symptoms, one of which MUST be either: 1. Nasal blockage / obstruction / congestion, OR 2. Nasal discharge (anterior rhinorrhea or posterior nasal drip).\n\nPlus at least one of the following secondary symptoms:\n• Facial pain / pressure / fullness\n• Reduction or loss of smell (hyposmia / anosmia).\n\nBecause nasal obstruction or nasal discharge is a mandatory prerequisite (cornerstone) for the diagnosis, Option C is correct.\n\nHigh-Yield: EPOS Diagnostic Rule: Diagnosis of rhinosinusitis requires ≥2 symptoms, where at least ONE must be (1) Nasal obstruction OR (2) Nasal discharge, ± Facial pain/pressure, ± Hyposmia.\n\nExam Trap / Do Not Miss: Facial pain without nasal discharge or obstruction is far more likely to be a non-sinugenic headache (e.g., tension headache, migraine, temporomandibular joint disorder) than rhinosinusitis.",
+      "optionExplanations": {
+        "A": "Facial pain is a supportive secondary diagnostic criterion; rhinosinusitis cannot be diagnosed based on facial pain alone without nasal obstruction or discharge.",
+        "B": "Loss of smell (hyposmia) is a secondary symptom, common in chronic rhinosinusitis with nasal polyps, but not mandatory on its own.",
+        "C": "Correct. The EPOS diagnosis of rhinosinusitis requires two or more symptoms, one of which must be nasal obstruction or nasal discharge.",
+        "D": "Rhinorrhea alone is too narrow; the guideline specifically establishes that either nasal obstruction OR nasal discharge is required."
+      },
+      "educationalObjective": "Recognize that nasal obstruction or nasal discharge is a mandatory primary symptom required for the formal clinical diagnosis of rhinosinusitis in adults.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-020",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Most common bacteria associated with community-acquired rhinosinusitis is?",
+      "options": {
+        "A": "Pseudomonas aeruginosa",
+        "B": "Streptococcus pneumonia",
+        "C": "Staphylococcus aureus",
+        "D": "Anaerobes"
+      },
+      "correctAnswer": "B",
+      "explanation": "The microbiology of acute community-acquired bacterial rhinosinusitis (ABRS) closely mirrors that of acute otitis media: 1. Streptococcus pneumoniae (~30–40% of cases) is the most common bacterial pathogen. 2. Non-typeable Haemophilus influenzae (~25–35%) is the second most common. 3. Moraxella catarrhalis (~10–15%, more frequent in pediatric populations).\n\nMost cases of acute rhinosinusitis begin as viral upper respiratory infections (rhinovirus, influenza, parainfluenza). Secondary bacterial infection is diagnosed clinically when symptoms persist >10 days without improvement, worsen acutely after initial improvement ('double sickening'), or present with severe fever (≥39°C) and purulent discharge for ≥3–4 consecutive days.\n\nHigh-Yield: ABRS Bacterial Etiologies: Streptococcus pneumoniae (most common) > Haemophilus influenzae > Moraxella catarrhalis. First-line empiric treatment: Amoxicillin-clavulanate (preferred over amoxicillin alone due to increasing beta-lactamase production by H. influenzae and M. catarrhalis).\n\nExam Trap / Do Not Miss: Over 90-98% of acute rhinosinusitis episodes are VIRAL. Antibiotics should only be prescribed if clinical criteria for acute bacterial rhinosinusitis are strictly met.",
+      "optionExplanations": {
+        "A": "Pseudomonas aeruginosa is seen in nosocomial (ICU/ventilator-associated) sinusitis, cystic fibrosis, or immunocompromised hosts, not community-acquired disease.",
+        "B": "Correct. Streptococcus pneumoniae is the most common bacterial cause of acute community-acquired rhinosinusitis, followed by non-typeable H. influenzae and Moraxella catarrhalis.",
+        "C": "Staphylococcus aureus is occasionally found in chronic rhinosinusitis, orbital complications, or acute invasive disease, but is not the primary community-acquired pathogen.",
+        "D": "Anaerobic bacteria (e.g., Fusobacterium, Peptostreptococcus) are primarily implicated in chronic sinusitis and odontogenic sinusitis (associated with maxillary molar root infections)."
+      },
+      "educationalObjective": "Identify Streptococcus pneumoniae as the most common bacterial etiology of community-acquired acute rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-021",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Which of the following sinuses is mostly associated with orbital complications?",
+      "options": {
+        "A": "Ethmoid sinus",
+        "B": "Maxillary sinus",
+        "C": "Sphenoid sinus",
+        "D": "Frontal sinus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ethmoid sinus is by far the most commonly associated with orbital complications (preseptal cellulitis, postseptal/orbital cellulitis, subperiosteal abscess, orbital abscess, and cavernous sinus thrombosis).\n\nAnatomical Basis: The ethmoid sinus is separated from the orbital cavity only by the lamina papyracea (paper-thin lateral ethmoid bone). This delicate bony plate has natural dehisces, congenital microperforations, and neurovascular foramina (anterior and posterior ethmoidal vessels and nerves) that allow direct trans-osseous and retrograde valveless thrombophlebitic spread of infection directly into the periorbital and intraorbital spaces, particularly in pediatric patients whose bones are extremely thin.\n\nHigh-Yield: Chandler Classification of Orbital Complications: Group I: Preseptal cellulitis; Group II: Orbital cellulitis; Group III: Subperiosteal abscess (SPA); Group IV: Orbital abscess; Group V: Cavernous sinus thrombosis. Most common source in children = Ethmoiditis via lamina papyracea.\n\nExam Trap / Do Not Miss: Remember that proptosis, chemosis, ophthalmoplegia, or decreased visual acuity indicate postseptal orbital involvement (orbital cellulitis or abscess), which requires urgent IV antibiotics and often emergent surgical decompression.",
+      "optionExplanations": {
+        "A": "Correct. The ethmoid sinus is separated from the orbit only by the paper-thin lamina papyracea, so it is the sinus most often associated with orbital complications.",
+        "B": "Maxillary sinus infections more commonly cause dental pain or facial cellulitis; the orbital floor is thicker than the lamina papyracea.",
+        "C": "Sphenoid sinus infections are rare but carry high risk for intracranial complications (meningitis, cavernous sinus thrombosis, CN VI palsy), not direct orbital spread.",
+        "D": "Frontal sinus infections are classically associated with intracranial complications (subdural empyema, frontal lobe abscess) and osteomyelitis of the frontal bone (Pott's puffy tumor)."
+      },
+      "educationalObjective": "Recognize the ethmoid sinus as the primary origin of orbital infectious complications due to its thin separating lamina papyracea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-022",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Which of the following is true about acute invasive fungal rhinosinusitis?",
+      "options": {
+        "A": "Immunocompetent patient",
+        "B": "Immunocompromised patient",
+        "C": "Usually involves one sinus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acute Invasive Fungal Rhinosinusitis (AIFRS) is a fulminant, life-threatening infection that occurs almost exclusively in immunocompromised patients—specifically those with severe neutropenia (hematologic malignancies, leukemia, chemotherapy), uncontrolled diabetes mellitus (particularly diabetic ketoacidosis [DKA]), solid organ or stem cell transplant recipients, and advanced AIDS.\n\nKey Pathophysiology: Causative fungi (Mucorales such as Rhizopus, Mucor, or Aspergillus species) are angioinvasive. They invade arterial walls, causing vascular thrombosis, ischemic infarction, tissue necrosis, and bone destruction. On anterior rhinoscopy or nasal endoscopy, the hallmark finding is a pale, insensate, or black necrotic eschar on the inferior turbinate, middle turbinate, or nasal septum. Infection rapidly spreads to the orbit, cribriform plate, cavernous sinus, and brain. Management: Emergent surgical debridement of all necrotic tissue + high-dose IV amphotericin B + correction of underlying immunosuppression/DKA.\n\nHigh-Yield: Acute Invasive Fungal Sinusitis: Immunocompromised / DKA + Facial numbness / pain + Black necrotic eschar on turbinates. Microscopic appearance: Mucorales = broad, non-septate hyphae with 90° right-angle branching; Aspergillus = thin, septate hyphae with 45° acute-angle branching.\n\nExam Trap / Do Not Miss: Do not wait for fungal culture results to initiate therapy; tissue biopsy showing angioinvasion requires IMMEDIATE surgical debridement and IV Amphotericin B.",
+      "optionExplanations": {
+        "A": "Immunocompetent patients typically develop non-invasive fungal forms (e.g., fungal ball / mycetoma or allergic fungal rhinosinusitis [AFRS]), not acute invasive disease.",
+        "B": "Correct. Acute invasive fungal rhinosinusitis is a fulminant, angioinvasive infection seen almost exclusively in immunocompromised patients (neutropenia, uncontrolled diabetes/DKA, transplant, advanced AIDS).",
+        "C": "AIFRS is characteristically aggressive, multi-sinus, and crosses anatomic boundaries into the orbit, pterygopalatine fossa, and intracranial vault, rather than being confined to a single sinus."
+      },
+      "educationalObjective": "Identify acute invasive fungal rhinosinusitis as a fulminant disease seen predominantly in immunocompromised patients (DKA, neutropenia) characterized by angioinvasion and tissue necrosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-023",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "What is the most common organism that causes fungal ball?",
+      "options": {
+        "A": "Mucor",
+        "B": "Dematiaceous fungi",
+        "C": "Candida",
+        "D": "Aspergillus fumigatus"
+      },
+      "correctAnswer": "D",
+      "explanation": "A fungal ball (mycetoma) of the paranasal sinuses is a non-invasive fungal disease consisting of a dense, matted accumulation of fungal hyphae within a single sinus cavity, most commonly the maxillary sinus (~80%) followed by the sphenoid sinus.\n\nThe overwhelmingly predominant causative organism is Aspergillus fumigatus (followed by other Aspergillus species such as A. flavus). Fungal balls typically occur in immunocompetent, older adults (often with a history of endodontic dental work where zinc oxide paste entered the maxillary sinus). Patients are either asymptomatic or present with unilateral nasal obstruction, foul-smelling discharge, or cacosmia.\n\nRadiology: Non-contrast CT reveals unilateral sinus opacification with characteristic hyperdense calcific foci / metallic densities. Treatment: Simple surgical clearance of the fungal debris via Functional Endoscopic Sinus Surgery (FESS) with sinus aeration. Antifungal medications are not required because there is no tissue invasion.\n\nHigh-Yield: Sinus Fungal Ball: Immunocompetent host + Maxillary sinus + Aspergillus fumigatus + CT showing hyperdense calcifications ('clay-like' debris). Treatment: Endoscopic removal only (no systemic antifungals needed).\n\nExam Trap / Do Not Miss: Do not administer systemic antifungals (e.g., voriconazole, amphotericin B) for a sinus fungal ball in an immunocompetent patient; complete endoscopic evacuation is curative.",
+      "optionExplanations": {
+        "A": "Mucor causes acute fulminant invasive rhinosinusitis in diabetic and neutropenic patients; it does not typically form isolated non-invasive fungal balls in immunocompetent hosts.",
+        "B": "Dematiaceous fungi (Bipolaris, Curvularia, Alternaria) are pigmented fungi classically associated with Allergic Fungal Rhinosinusitis (AFRS).",
+        "C": "Candida is an opportunistic mucosal yeast (oral thrush), rarely causing primary sinonasal fungal balls.",
+        "D": "Correct. Aspergillus fumigatus is the predominant cause of sinus fungal ball (mycetoma), which typically occurs in immunocompetent older adults."
+      },
+      "educationalObjective": "Recognize Aspergillus fumigatus as the most common pathogen responsible for non-invasive fungal balls (mycetomas) in the paranasal sinuses.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-024",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Which of the following represents the lining of nasal vestibule?",
+      "options": {
+        "A": "Squamous epithelium with hair follicles",
+        "B": "Columnar epithelium",
+        "C": "Cuboidal epithelium",
+        "D": "Pseudostratified ciliated epithelium"
+      },
+      "correctAnswer": "A",
+      "explanation": "The nasal vestibule is the most anterior, dilated portion of the nasal cavity, situated just internal to the external nares and bounded laterally by the alae. Because it is an invagination of the external facial skin, it is lined by keratinized stratified squamous epithelium containing sebaceous glands, sweat glands, and coarse protective hairs known as vibrissae, which filter large particulate matter from inspired air.\n\nAt the limen nasi (the internal nasal valve), this stratified squamous epithelium transitions abruptly into respiratory epithelium (pseudostratified ciliated columnar epithelium with goblet cells), which lines the remainder of the nasal cavity and paranasal sinuses (except the superior olfactory strip).\n\nHigh-Yield: Clinical correlation: Nasal vestibulitis (staphylococcal infection of hair follicles within the vestibule) arises in this squamous/vibrissae lining. Because venous drainage communicates with the facial vein and ophthalmic veins (danger triangle of the face), infection can propagate to the cavernous sinus.\n\nExam Trap / Do Not Miss: Do not confuse the respiratory lining of the nasal cavity proper (pseudostratified ciliated columnar) with the vestibular lining (stratified squamous with hair follicles).",
+      "optionExplanations": {
+        "A": "Correct. The nasal vestibule is lined by keratinized stratified squamous epithelium containing hair follicles (vibrissae) and sebaceous and sweat glands.",
+        "B": "Columnar epithelium alone does not describe the multi-layered keratinized lining of the external cutaneous vestibule.",
+        "C": "Cuboidal epithelium is found in smaller conducting airways (bronchioles) or thyroid follicles, not the nasal vestibule.",
+        "D": "Pseudostratified ciliated columnar epithelium lines the nasal cavity proper, turbinates, and paranasal sinuses, but does NOT line the vestibule."
+      },
+      "educationalObjective": "Identify stratified squamous epithelium with hair follicles (vibrissae) and sebaceous glands as the histologic lining of the nasal vestibule.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-025",
+      "topic": "ENT",
+      "section": "Chapter 3: Nose Diseases 1",
+      "question": "Which of the following is an indication for FESS?",
+      "options": {
+        "A": "Nasal fracture",
+        "B": "Chronic rhinosinusitis",
+        "C": "Otitis media",
+        "D": "Epistaxis"
+      },
+      "correctAnswer": "B",
+      "explanation": "The primary and most common clinical indication for Functional Endoscopic Sinus Surgery (FESS) is Chronic Rhinosinusitis (CRS)—both with nasal polyps (CRSwNP) and without nasal polyps (CRSsNP)—that is refractory to maximal medical therapy (e.g., prolonged courses of intranasal corticosteroids, high-volume saline irrigations, and appropriate oral antibiotics/corticosteroids).\n\nPrinciple of FESS: Pioneered by Messerklinger and Stammberger, FESS aims to restore physiological mucociliary clearance and ventilation by targeted endoscopic clearance of obstructive disease within the osteomeatal complex (OMC), preserving normal mucosal surfaces. Other indications include: recurrent acute rhinosinusitis, antrochoanal polyps, allergic fungal rhinosinusitis, sinonasal fungal ball, mucoceles, orbital decompression, and endoscopic repair of CSF rhinorrhea.\n\nHigh-Yield: Preoperative prerequisite for FESS: Non-contrast high-resolution CT of the paranasal sinuses (axial and coronal views) after maximal medical therapy to evaluate sinus anatomy, aeration, and critical danger areas (skull base height - Keros classification, lamina papyracea, anterior ethmoid artery).\n\nExam Trap / Do Not Miss: FESS is indicated only AFTER failure of comprehensive medical therapy; it is rarely performed as initial first-line therapy for uncomplicated chronic sinusitis.",
+      "optionExplanations": {
+        "A": "Nasal bone fractures are managed by closed or open reduction within 7–14 days, not by endoscopic sinus surgery.",
+        "B": "Correct. Chronic rhinosinusitis refractory to maximal medical therapy is the primary indication for FESS.",
+        "C": "Otitis media involves the middle ear cavity and is treated with antibiotics, myringotomy, or tympanostomy tubes, not FESS.",
+        "D": "While refractory posterior epistaxis may occasionally undergo endoscopic sphenopalatine artery ligation, it is not a standard primary indication for full FESS; chronic rhinosinusitis is the definitive hallmark indication."
+      },
+      "educationalObjective": "Recognize medically refractory chronic rhinosinusitis as the primary indication for Functional Endoscopic Sinus Surgery (FESS).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-026",
+      "topic": "ENT",
+      "section": "Chapter 4: Nose Diseases 2",
+      "question": "Which of the following investigations is helpful in diagnosing Wegener's granulomatosis?",
+      "options": {
+        "A": "Biopsy",
+        "B": "c-ANCA",
+        "C": "ACE",
+        "D": "RF"
+      },
+      "correctAnswer": "B",
+      "explanation": "Granulomatosis with Polyangiitis (GPA, formerly Wegener's granulomatosis) is a necrotizing granulomatous small-to-medium vessel vasculitis with a classic predilection for the upper respiratory tract (90%), lower respiratory tract (pulmonary nodules/cavitations, 85%), and kidneys (rapidly progressive crescentic glomerulonephritis, 75%).\n\nThe hallmark, highly specific serological investigation is c-ANCA (cytoplasmic Antineutrophil Cytoplasmic Antibodies), which is targeted against Proteinase 3 (PR3-ANCA). Seropositivity correlates strongly with active generalized disease (>90% sensitivity and >95% specificity). While surgical tissue biopsy (nasal, lung, or renal) demonstrating necrotizing granulomatous vasculitis provides definitive histopathology, c-ANCA is the essential, rapid, and universally recognized serological investigation that guides immediate diagnosis and disease activity monitoring.\n\nHigh-Yield: GPA Clinical Presentation: Recurrent refractory sinusitis + bloody/crusting rhinorrhea + saddle-nose deformity (septal cartilage destruction) + pulmonary cavitary nodules + hematuria/RBC casts. Diagnostic test: c-ANCA (anti-PR3). Treatment: High-dose corticosteroids + Cyclophosphamide or Rituximab.\n\nExam Trap / Do Not Miss: Microscopic polyangiitis (MPA) and Churg-Strauss (EGPA) are associated with p-ANCA (anti-myeloperoxidase / MPO), whereas GPA is classically associated with c-ANCA (anti-PR3).",
+      "optionExplanations": {
+        "A": "Nasal biopsy often shows only nonspecific acute and chronic inflammation with necrosis; open lung biopsy has higher diagnostic yield, but c-ANCA is the primary non-invasive serological hallmark.",
+        "B": "Correct. c-ANCA (anti-PR3) is the highly specific serological investigation used in diagnosing granulomatosis with polyangiitis (Wegener's granulomatosis).",
+        "C": "Serum Angiotensin-Converting Enzyme (ACE) is elevated in sarcoidosis (non-caseating granulomas), not GPA.",
+        "D": "Rheumatoid Factor (RF) is a marker for rheumatoid arthritis and can be nonspecifically elevated in other connective tissue diseases, but lacks specificity for GPA."
+      },
+      "educationalObjective": "Recognize c-ANCA (PR3-ANCA) as the primary serological marker in the diagnostic evaluation of Granulomatosis with Polyangiitis (Wegener's).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-027",
+      "topic": "ENT",
+      "section": "Chapter 4: Nose Diseases 2",
+      "question": "Which of the following is persistent in choanal atresia?",
+      "options": {
+        "A": "Buccopharyngeal membrane",
+        "B": "Phrenoesophageal membrane",
+        "C": "Branchial cleft",
+        "D": "Cloacal membrane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Choanal atresia is the congenital failure of the posterior nasal aperture (choana) to communicate with the nasopharynx. It is the most common congenital anomaly of the nose, occurring in ~1 in 7,000 live births.\n\nEmbryological Basis: The condition results from the persistence of the embryological buccopharyngeal membrane (or the bucconasal membrane of Hochstetter) due to failure of physiological canalization and rupture during the 6th to 7th week of embryonic development. The atretic plate is mixed bony-membranous in ~70% of cases and purely bony in ~30%.\n\nClinical Features:\n• Bilateral choanal atresia: Manifests at birth as an acute neonatal airway emergency with cyclical cyanosis (cyanotic when quiet/feeding, relieved when crying, as neonates are obligate nasal breathers).\n• Unilateral choanal atresia: Often diagnosed later in childhood or adulthood with persistent unilateral mucoid rhinorrhea and nasal obstruction.\n• Strongly associated with the CHARGE syndrome (Coloboma, Heart defects, Atresia choanae, Retardation of growth, Genital hypoplasia, Ear abnormalities).\n\nHigh-Yield: Clinical Diagnosis: Inability to pass a 6-Fr or 8-Fr suction catheter through the nares into the oropharynx confirms choanal obstruction. Definitive imaging: Axial thin-cut CT scan of the skull base and midface. Remember: Bilateral choanal atresia presents with cyclical cyanosis relieved by crying!\n\nExam Trap / Do Not Miss: Do not attempt blind puncture of an atretic plate in a neonate; transnasal endoscopic repair with or without stenting under direct vision is the modern standard of care.",
+      "optionExplanations": {
+        "A": "Correct. Choanal atresia results from persistence of the buccopharyngeal (bucconasal) membrane.",
+        "B": "The phrenoesophageal membrane connects the esophagus to the diaphragm at the esophageal hiatus; abnormalities may contribute to hiatal hernias, not nasal pathology.",
+        "C": "Persistence of branchial clefts leads to branchial cleft anomalies (cysts, sinuses, or fistulae in the lateral neck), not posterior choanal occlusion.",
+        "D": "Persistent cloacal membrane leads to imperforate anus or urogenital sinus malformations."
+      },
+      "educationalObjective": "Identify persistence of the buccopharyngeal (bucconasal) membrane as the embryological basis of choanal atresia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-028",
+      "topic": "ENT",
+      "section": "Chapter 4: Nose Diseases 2",
+      "question": "What is the required time for reaching the maximum early IgE reaction?",
+      "options": {
+        "A": "5 minutes",
+        "B": "10 minutes",
+        "C": "24 hours",
+        "D": "15 minutes"
+      },
+      "correctAnswer": "D",
+      "explanation": "An immediate (early-phase) Type I hypersensitivity reaction occurs when a sensitized individual is exposed to an allergen that cross-links allergen-specific IgE antibodies bound to high-affinity FcεRI receptors on mast cells and basophils.\n\nThis cross-linking triggers rapid intracellular calcium mobilization, leading to explosive exocytosis and degranulation of preformed inflammatory mediators (principally histamine, along with tryptase, heparin, and carboxypeptidase). Histamine binds to H1 receptors on vascular endothelial cells and smooth muscle, inducing intense vasodilation, increased capillary permeability, edema, and sensory nerve stimulation (pruritus and sneezing).\n\nThis early-phase reaction begins within seconds, peaks at 15 to 30 minutes (typically maximum at ~15 minutes), and subsides over 60–90 minutes. This rapid kinetic profile is the scientific basis for reading Skin Prick Tests (SPT) precisely at 15 to 20 minutes.\n\nHigh-Yield: Type I Hypersensitivity Phases: Early Phase (peaks at 15-30 min): Preformed histamine degranulation (wheal, flare, sneezing, rhinorrhea). Late Phase (peaks at 6-12 hours): Newly synthesized leukotrienes (LTC4, LTD4), prostaglandins, and Th2 cytokine-driven eosinophil infiltration (mucosal congestion).\n\nExam Trap / Do Not Miss: Antihistamines should be discontinued for 5–7 days prior to skin prick testing because they block H1 receptors and suppress the 15-minute early-phase wheal-and-flare response.",
+      "optionExplanations": {
+        "A": "At 5 minutes, mast cell mediator release is actively underway and initial wheal and erythema are developing, but the maximum reaction diameter has not yet peaked.",
+        "B": "Ten minutes is near the ascending phase, but standard diagnostic and physiologic maximum wheal-and-flare response is reached at 15–20 minutes.",
+        "C": "Twenty-four hours represents the late-phase allergic reaction (or delayed-type hypersensitivity), characterized by eosinophil and Th2 lymphocyte recruitment peaking at 6–12 hours and persisting for 24–48 hours.",
+        "D": "Correct. The early-phase IgE-mediated reaction peaks at about 15 minutes, which is why skin prick tests are read at 15-20 minutes."
+      },
+      "educationalObjective": "Recognize that the peak of the immediate, IgE-mediated mast cell degranulation (early-phase response) occurs at approximately 15 minutes.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-029",
+      "topic": "ENT",
+      "section": "Chapter 4: Nose Diseases 2",
+      "question": "Rhinitis medicamentosa occurs when using vasoconstrictors for more than?",
+      "options": {
+        "A": "1 month",
+        "B": "7 days",
+        "C": "3 days",
+        "D": "1 day"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhinitis medicamentosa (rebound nasal congestion) is a drug-induced, non-allergic condition caused by the prolonged, overuse of topical alpha-adrenergic vasoconstrictor nasal sprays (such as oxymetazoline, xylometazoline, phenylephrine, or naphazoline).\n\nPathophysiology: Repeated topical alpha-1 and alpha-2 adrenergic stimulation initially causes intense precapillary vasoconstriction of the nasal cavernous sinusoids. However, continued application for more than 5 to 7 days causes tachyphylaxis, down-regulation and desensitization of alpha receptors, endogenous norepinephrine depletion, and persistent secondary parasympathetic rebound vasodilation with interstitial edema. This traps the patient in a vicious cycle of escalating spray usage to relieve worsening obstruction.\n\nPhysical Exam: Beefy red, hyperemic, severely swollen, and boggy nasal mucosa with absent secretions. Treatment: Immediate cessation of the topical decongestant, initiation of intranasal corticosteroids (e.g., fluticasone or mometasone), frequent saline nasal rinses, and a short tapering course of oral corticosteroids (prednisone) for severe obstructive distress.\n\nHigh-Yield: Clinical Rule: Topical alpha-adrenergic decongestants should NEVER be prescribed for more than 3 to 5 (maximum 7) consecutive days. If rebound congestion occurs, discontinue the spray and prescribe intranasal corticosteroids ± a short oral steroid bridge.\n\nExam Trap / Do Not Miss: Do not confuse the pale, boggy, bluish mucosa of allergic rhinitis with the beefy-red, hyperemic, dry/edematous mucosa of rhinitis medicamentosa.",
+      "optionExplanations": {
+        "A": "Using topical decongestants for 1 month causes severe chronic rhinitis medicamentosa, but the threshold for developing the condition occurs much earlier (after 5-7 days).",
+        "B": "Correct. Rhinitis medicamentosa develops with continued use of topical vasoconstrictor sprays beyond about 5-7 days, through tachyphylaxis, receptor down-regulation and rebound vasodilation.",
+        "C": "While package inserts advise limiting use to 3-5 days to avoid the initial onset of tachyphylaxis, textbooks and formal guidelines establish that clinical rhinitis medicamentosa manifests after continuous use beyond 5 to 7 days.",
+        "D": "One day of use produces normal physiological decongestion without receptor downregulation or rebound."
+      },
+      "educationalObjective": "Recognize that rhinitis medicamentosa is caused by the prolonged use of topical alpha-adrenergic nasal decongestants beyond 5 to 7 days.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-030",
+      "topic": "ENT",
+      "section": "Chapter 4: Nose Diseases 2",
+      "question": "Multiple polyps could be found in:",
+      "options": {
+        "A": "Otitis media",
+        "B": "Bronchial asthma",
+        "C": "Chronic sinusitis",
+        "D": "Acute pharyngitis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bilateral, multiple nasal polyps are strongly associated with lower airway inflammatory diseases, most prominently bronchial asthma and Aspirin-Exacerbated Respiratory Disease (AERD, or Samter's triad).\n\nSamter's Triad (AERD): 1. Bronchial asthma 2. Bilateral nasal polyposis 3. Hypersensitivity to aspirin (acetylsalicylic acid) and non-steroidal anti-inflammatory drugs (NSAIDs).\n\nMechanism of AERD: NSAID-mediated inhibition of the cyclooxygenase-1 (COX-1) enzyme shunts arachidonic acid metabolism down the 5-lipoxygenase pathway, leading to massive overproduction of cysteinyl leukotrienes (LTC4, LTD4, LTE4). This triggers severe bronchospasm, rhinorrhea, and eosinophilic mucosal edema driving polyp formation.\n\nNote: In children presenting with multiple nasal polyps, Cystic Fibrosis (CF) must always be ruled out by sweat chloride testing.\n\nHigh-Yield: Board Associations for Nasal Polyps: Adults with multiple polyps -> Think Asthma and Aspirin Sensitivity (Samter's triad). Children with polyps -> Mandatory sweat chloride test to rule out Cystic Fibrosis. Unilateral polyp in any patient -> Mandatory biopsy/imaging to rule out malignancy, inverted papilloma, or encephalocele.\n\nExam Trap / Do Not Miss: Never prescribe aspirin or NSAIDs to a patient with asthma and nasal polyps without prior desensitization, as it can induce life-threatening acute bronchospasm.",
+      "optionExplanations": {
+        "A": "Otitis media is an infection of the middle ear; while an aural polyp can protrude through a tympanic perforation in CSOM/cholesteatoma, multiple sinonasal polyps are not found.",
+        "B": "Correct. Multiple bilateral nasal polyps are strongly associated with bronchial asthma and aspirin-exacerbated respiratory disease (Samter's triad).",
+        "C": "While polyps occur in chronic rhinosinusitis with nasal polyps (CRSwNP), solitary unilateral polyps (like antrochoanal polyps) arise from chronic sinus inflammation; widespread bilateral multiple polyposis is classically paired with bronchial asthma.",
+        "D": "Acute pharyngitis is an acute mucosal infection of the oropharynx, completely unrelated to sinonasal polyposis."
+      },
+      "educationalObjective": "Recognize the clinical association between multiple bilateral nasal polyps and bronchial asthma (AERD / Samter's triad).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-031",
+      "topic": "ENT",
+      "section": "Chapter 5: Nose Diseases 3",
+      "question": "NARES stands for?",
+      "options": {
+        "A": "Nonallergic Rhinitis with Eosinophilia Syndrome",
+        "B": "Nonallergic Respiratory Eosinophilia Syndrome",
+        "C": "Non-immune Rhinitis Eosinophilia Syndrome"
+      },
+      "correctAnswer": "A",
+      "explanation": "NARES stands for Nonallergic Rhinitis with Eosinophilia Syndrome.\n\nNARES is a subtype of non-allergic chronic rhinitis characterized by:\n• Symptoms mimicking perennial allergic rhinitis (profuse clear rhinorrhea, bouts of sneezing, nasal pruritus, and nasal congestion).\n• Negative allergy testing: Normal total and specific serum IgE, and completely negative skin prick tests (SPT).\n• Marked nasal smear eosinophilia: Nasal cytology reveals prominent eosinophil infiltration (>5% to 20% of all cells on nasal smear).\n• It typically presents in adults without a personal history of atopy.\n• Crucially, patients with NARES show an excellent clinical response to intranasal corticosteroids (e.g., fluticasone, budesonide), and a subset of patients may subsequently go on to develop nasal polyps, asthma, or aspirin sensitivity over time.\n\nHigh-Yield: NARES Profile: Perennial rhinitis symptoms + Negative allergy skin tests + Eosinophils on nasal cytology (>20%). First-line treatment: Intranasal corticosteroids (topical steroids work exceptionally well due to eosinophil sensitivity).\n\nExam Trap / Do Not Miss: Do not dismiss a patient as 'non-allergic' and withhold intranasal steroids; NARES patients respond just as robustly to topical steroids as allergic rhinitis patients.",
+      "optionExplanations": {
+        "A": "Correct. NARES stands for Nonallergic Rhinitis with Eosinophilia Syndrome: allergic-like symptoms, negative allergy testing and prominent eosinophils on nasal smear.",
+        "B": "Incorrect expansion; 'Respiratory' is not part of the standard medical acronym.",
+        "C": "Incorrect expansion; 'Non-immune' is inaccurate terminology."
+      },
+      "educationalObjective": "Define NARES as Nonallergic Rhinitis with Eosinophilia Syndrome, characterized by allergic-like symptoms, negative skin prick tests, and prominent eosinophils on nasal smear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-032",
+      "topic": "ENT",
+      "section": "Chapter 5: Nose Diseases 3",
+      "question": "Regarding vasomotor rhinitis, which of the following is true?",
+      "options": {
+        "A": "Negative allergy test",
+        "B": "Positive allergy test",
+        "C": "IgE-mediated",
+        "D": "Treated with antibiotics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vasomotor rhinitis (idiopathic or non-allergic rhinopathy) is a chronic condition characterized by autonomic dysregulation of the nasal mucosa with relative parasympathetic hyperreactivity over sympathetic tone.\n\nKey Characteristics:\n• Triggered by non-specific environmental changes rather than immunologic allergens: cold air, temperature or barometric shifts, dry air, strong perfumes/odors, tobacco smoke, chemical fumes, or hot/spicy foods (gustatory rhinitis).\n• Cardinal symptoms: Profuse, watery anterior rhinorrhea and alternating nasal congestion.\n• Negative allergy tests: Both skin prick tests and allergen-specific serum IgE are completely negative, and nasal cytology shows no eosinophilia or infection.\n• Treatment: Avoidance of known physical triggers; topical ipratropium bromide (anticholinergic, drug of choice for prominent rhinorrhea); and intranasal antihistamines (e.g., azelastine) or topical corticosteroids.\n\nHigh-Yield: Vasomotor Rhinitis Treatment: Ipratropium bromide nasal spray is the most effective pharmacotherapy for clear watery rhinorrhea triggered by cold air or food (anticholinergic block of parasympathetic secretomotor fibers from the sphenopalatine ganglion).\n\nExam Trap / Do Not Miss: Antibiotics and oral antihistamines are generally ineffective in vasomotor rhinitis because neither bacteria nor histamine drives the autonomic hyperreactivity.",
+      "optionExplanations": {
+        "A": "Correct. Vasomotor rhinitis is a non-allergic, non-IgE-mediated autonomic rhinopathy, so allergy tests are negative.",
+        "B": "Allergy testing is negative; positive allergy tests confirm allergic rhinitis.",
+        "C": "Vasomotor rhinitis is an autonomic neurovascular phenomenon, not an IgE-mediated immune reaction.",
+        "D": "Vasomotor rhinitis is entirely non-infectious; antibacterial agents have no role and represent inappropriate antibiotic stewardship."
+      },
+      "educationalObjective": "Recognize that vasomotor rhinitis is a non-IgE-mediated autonomic condition with negative allergy testing, characterized by nasal hyperreactivity to temperature, odors, and environmental triggers.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-033",
+      "topic": "ENT",
+      "section": "Chapter 5: Nose Diseases 3",
+      "question": "Which of the following is the most common definitive test for atopy?",
+      "options": {
+        "A": "Skin prick test",
+        "B": "Intradermal test",
+        "C": "RAST",
+        "D": "Patch test"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Skin Prick Test (SPT) is universally recognized as the primary, most common, and definitive first-line in vivo diagnostic test for confirming IgE-mediated atopic sensitivity (e.g., allergic rhinitis, asthma, food allergy).\n\nProcedure & Interpretation: A drop of allergen extract is placed on the volar forearm or back, and a sterile lancet is introduced through the drop to gently puncture the epidermis without inducing bleeding. A positive test is defined as a wheal diameter ≥3 mm greater than the negative control (saline), accompanied by erythema (flare), measured at 15–20 minutes.\n\nAdvantages: High sensitivity and specificity, rapid results within minutes, low cost, and direct visualization of mast cell reactivity.\n\nHigh-Yield: Skin Prick Test Controls: Positive control = Histamine (verifies normal skin reactivity; must be positive). Negative control = Saline/glycerol (rules out dermographism; must be negative). Antihistamines must be stopped for 5-7 days before testing.\n\nExam Trap / Do Not Miss: Do not use Patch testing to evaluate allergic rhinitis or atopy; patch tests evaluate Type IV contact allergies (e.g., nickel, poison ivy), not IgE-mediated aeroallergens.",
+      "optionExplanations": {
+        "A": "Correct. The skin prick test is the most common, rapid, sensitive and low-cost in vivo test for confirming IgE-mediated atopic sensitization.",
+        "B": "Intradermal testing is more invasive, carries a higher risk of systemic anaphylaxis, has higher false-positive rates, and is reserved only as a second-line test when SPT is negative despite high clinical suspicion.",
+        "C": "RAST (radioallergosorbent test) / serum specific IgE (ImmunoCAP) is an in vitro blood test; it is more expensive, slower, and generally reserved for patients with severe eczema/dermographism or those who cannot discontinue antihistamines.",
+        "D": "Patch testing is used exclusively to evaluate Type IV delayed-type cell-mediated hypersensitivity (allergic contact dermatitis), read at 48 to 72 hours, not IgE-mediated atopy."
+      },
+      "educationalObjective": "Identify the Skin Prick Test as the most common, cost-effective, and definitive initial in vivo test for diagnosing IgE-mediated atopic sensitization.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-034",
+      "topic": "ENT",
+      "section": "Chapter 5: Nose Diseases 3",
+      "question": "Why do second generation antihistamines cause less sedation?",
+      "options": {
+        "A": "CNS excitation",
+        "B": "Do not readily cross BBB",
+        "C": "Block serotonin receptors",
+        "D": "Bind to cholinesterase receptors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Second-generation H1 antihistamines (e.g., cetirizine, loratadine, fexofenadine, desloratadine) cause significantly less sedation and psychomotor impairment than first-generation antihistamines (e.g., diphenhydramine, hydroxyzine, chlorpheniramine) because they do not readily cross the blood-brain barrier (BBB) into the central nervous system.\n\nPharmacokinetic Mechanisms: 1. Higher lipophobicity / lower lipid solubility: They possess polar side chains (e.g., carboxyl groups in cetirizine/fexofenadine) that impede passive diffusion across cerebral capillary endothelia.\n\n2. P-glycoprotein efflux substrates: Many second-generation agents are actively pumped out of the brain parenchyma by the endothelial P-glycoprotein multidrug resistance transporter. 3. High peripheral H1 selectivity: They have minimal affinity for central muscarinic anticholinergic, alpha-adrenergic, or serotonergic receptors.\n\nHigh-Yield: First-Gen vs. Second-Gen Antihistamines: First-gen (diphenhydramine) = lipophilic, crosses BBB, blocks central H1 (sedation) + blocks muscarinic receptors (anticholinergic toxicity: dry mouth, blurred vision, urinary retention in BPH). Second-gen (fexofenadine, loratadine) = lipophobic, substrate for P-glycoprotein, minimal CNS penetration, non-sedating.\n\nExam Trap / Do Not Miss: Among second-generation agents, cetirizine has a slightly higher rate of mild somnolence (~10%) compared to fexofenadine, which has zero central sedation (the preferred agent for pilots/drivers).",
+      "optionExplanations": {
+        "A": "Second-generation antihistamines do not cause central excitation; their lack of sedation is due to absence of central CNS receptor occupancy.",
+        "B": "Correct. Second-generation antihistamines are polar (lipophobic) and P-glycoprotein substrates, so they do not readily cross the blood-brain barrier and cause little sedation.",
+        "C": "They are highly selective for peripheral H1 receptors and do not act via serotonin receptor blockade.",
+        "D": "They do not bind acetylcholinesterase; first-generation antihistamines cause dry mouth and urinary retention by blocking muscarinic acetylcholine receptors."
+      },
+      "educationalObjective": "Explain that second-generation H1 antihistamines cause minimal sedation because of their lipophobic properties and P-glycoprotein efflux, preventing them from readily crossing the blood-brain barrier.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-035",
+      "topic": "ENT",
+      "section": "Chapter 6: Tonsils & Adenoids",
+      "question": "Which of the following is the predominant cell in tonsils?",
+      "options": {
+        "A": "T-cell",
+        "B": "B-cell",
+        "C": "Neutrophils",
+        "D": "Mast cells",
+        "E": "Macrophages"
+      },
+      "correctAnswer": "B",
+      "explanation": "The palatine tonsils are secondary (peripheral) lymphoid organs situated in the tonsillar fossa of the oropharynx between the palatoglossal and palatopharyngeal arches. They form an integral component of Waldeyer's lymphoid ring (along with the adenoid/pharyngeal tonsil, tubal tonsils, and lingual tonsil).\n\nHistologically, the tonsillar parenchyma contains numerous lymphoid follicles with prominent germinal centers. Because germinal centers are specialized microenvironments dedicated to clonal proliferation, somatic hypermutation, and affinity maturation of antibody-producing cells, B lymphocytes (B-cells) represent the predominant cell population, accounting for approximately 50% to 65% of all lymphocytes in the tonsil.\n\nT lymphocytes (T-cells, ~30–40%) are located predominantly in the interfollicular/parafollicular zones where they provide helper signals to B cells. The surface crypt epithelium functions as an active antigen-sampling membrane (featuring specialized M-cells).\n\nHigh-Yield: Waldeyer's Ring Components: Pharyngeal tonsil (Adenoid - roof of nasopharynx, pseudostratified epithelium) + Tubal tonsils (Gerlach's) + Palatine tonsils (oropharynx, stratified squamous epithelium with crypts) + Lingual tonsil (base of tongue). Predominant cell = B-cell.\n\nExam Trap / Do Not Miss: Do not confuse lymph nodes (where T cells dominate the paracortex) with tonsils, where hypertrophic follicular germinal centers make B cells the most abundant cell type.",
+      "optionExplanations": {
+        "A": "T lymphocytes comprise ~30-40% of tonsillar cells and reside primarily in the interfollicular regions, outnumbered by follicular B cells.",
+        "B": "Correct. B lymphocytes (about 50-65% of tonsillar lymphocytes, concentrated in the follicles and germinal centers) are the predominant cell type in the tonsils.",
+        "C": "Neutrophils are scarce in healthy tonsillar lymphoid tissue; they infiltrate in large numbers only during acute bacterial tonsillitis, forming purulent crypt exudates.",
+        "D": "Mast cells are resident connective tissue immune cells present in low numbers in the capsule and septa, not the predominant parenchymal cell.",
+        "E": "Macrophages (tingible body macrophages) reside within germinal centers to phagocytose apoptotic B cells, but represent a minor fraction of the total cell count."
+      },
+      "educationalObjective": "Identify B lymphocytes as the predominant cell type within the lymphoid follicles and germinal centers of the palatine tonsils.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-036",
+      "topic": "ENT",
+      "section": "Chapter 6: Tonsils & Adenoids",
+      "question": "Tonsillar hypertrophy reaching the midline is classified as:",
+      "options": {
+        "A": "Grade I",
+        "B": "Grade II",
+        "C": "Grade III",
+        "D": "Grade IV",
+        "E": "Grade V"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Brodsky Tonsillar Hypertrophy Grading Scale is the universally standardized objective clinical classification used to assess the degree of oropharyngeal airway narrowing caused by enlarged palatine tonsils:\n\n• Grade 0: Tonsils reside completely within the tonsillar fossa (or surgically absent).\n• Grade 1: Tonsils occupy ≤ 25% of the oropharyngeal width (hidden behind the anterior tonsillar pillars).\n• Grade 2: Tonsils occupy 26% to 50% of the oropharynx (extend to the pillars, midway to the uvula).\n• Grade 3: Tonsils occupy 51% to 75% of the oropharyngeal width (extend beyond the pillars, encroaching toward midline).\n• Grade 4: Tonsils occupy > 75% of the oropharynx, meeting or reaching each other at the midline ('kissing tonsils').\n\nGrade 4 tonsillar hypertrophy is a classic cause of pediatric obstructive sleep apnea (OSA), dysphagia, and upper airway resistance.\n\nHigh-Yield: Brodsky Scale: Grade 1 (<25%), Grade 2 (25-50%), Grade 3 (50-75%), Grade 4 (>75% / kissing tonsils). Symptomatic Grade 3 or 4 hypertrophy with documented pediatric OSA is the primary modern indication for adenotonsillectomy.\n\nExam Trap / Do Not Miss: Remember that the Brodsky scale stops at Grade 4; any option listing Grade 5 is an invalid distractor.",
+      "optionExplanations": {
+        "A": "Grade 1 fills <25% of the oropharynx.",
+        "B": "Grade 2 fills 26-50% of the oropharynx.",
+        "C": "Grade 3 fills 51-75% of the oropharynx without touching in the midline.",
+        "D": "Correct. Grade 4 tonsils occupy more than 75% of the oropharynx and meet in the midline ('kissing tonsils').",
+        "E": "There is no Grade V in the Brodsky grading system; the scale ranges strictly from Grade 0 to Grade 4."
+      },
+      "educationalObjective": "Apply the Brodsky grading scale to classify tonsillar hypertrophy reaching the midline ('kissing tonsils') as Grade IV.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-037",
+      "topic": "ENT",
+      "section": "Chapter 6: Tonsils & Adenoids",
+      "question": "Secondary post-tonsillectomy bleeding occurs in:",
+      "options": {
+        "A": "Day 1",
+        "B": "Day 3",
+        "C": "Day 5-7",
+        "D": "Day 30",
+        "E": "Day 14"
+      },
+      "correctAnswer": "C",
+      "explanation": "Post-tonsillectomy hemorrhage is classified temporally into two distinct clinical entities:\n\n1. Primary Post-Tonsillectomy Hemorrhage: Occurs within the first 24 hours following surgery (most commonly within the first 6 to 8 hours). It is caused by surgical technique issues, dislodgement of a ligature, or rebound hypertension/vasodilation as local anesthetic wearing off. It requires immediate resuscitation and often emergent return to the operating room for surgical hemostasis.\n\n2. Secondary Post-Tonsillectomy Hemorrhage: Occurs > 24 hours postoperatively, most typically peaking at Day 5 to 7 (range: Days 5–10). This critical window coincides with the natural lysis, contraction, and premature sloughing of the protective fibrin eschar/scab from the tonsillar bed, exposing granulating microvessels or branches of the tonsillar artery. Minor 'herald bleeds' must be evaluated urgently, as catastrophic massive hemorrhage can follow.\n\nHigh-Yield: Post-Tonsillectomy Bleeding Rules: Primary = First 24 hours (surgical/anesthetic rebound). Secondary = Days 5-7 (sloughing of white fibrin eschar). Any child presenting with secondary bleeding must be admitted for close observation and evaluation for operative control.\n\nExam Trap / Do Not Miss: Never dismiss a 'minor' post-tonsillectomy bleed on post-op day 6; a small trickle can be a 'herald bleed' preceding life-threatening arterial hemorrhage.",
+      "optionExplanations": {
+        "A": "Bleeding on Day 1 (<24 hours) is defined as primary hemorrhage, not secondary.",
+        "B": "Day 3 is before the typical window of eschar maturation and sloughing.",
+        "C": "Correct. Secondary post-tonsillectomy hemorrhage (after the first 24 hours) typically occurs on days 5-7, when the fibrin eschar sloughs.",
+        "D": "Day 30 is well past mucosal healing, which is complete within 2 to 3 weeks.",
+        "E": "Day 14 is at the extreme tail end; the vast majority of secondary hemorrhages cluster around Days 5 to 7."
+      },
+      "educationalObjective": "Recognize that secondary post-tonsillectomy hemorrhage characteristically occurs between postoperative days 5 and 7 due to sloughing of the fibrin eschar.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-038",
+      "topic": "ENT",
+      "section": "Chapter 6: Tonsils & Adenoids",
+      "question": "The gold standard for pediatric OSA diagnosis is:",
+      "options": {
+        "A": "CT",
+        "B": "Pulse oximetry",
+        "C": "Polysomnography",
+        "D": "X-ray"
+      },
+      "correctAnswer": "C",
+      "explanation": "Overnight in-laboratory Polysomnography (PSG) is universally established by the American Academy of Pediatrics (AAP) and American Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) as the definitive gold standard diagnostic test for pediatric Obstructive Sleep Apnea (OSA).\n\nDiagnostic Criteria in Children: Unlike adults (where apnea-hypopnea index [AHI] ≥ 5 is abnormal), pediatric criteria are far stricter:\n• Normal: AHI < 1 event per hour.\n• Mild OSA: AHI 1 to < 5 events/hr.\n• Moderate OSA: AHI 5 to < 10 events/hr.\n• Severe OSA: AHI ≥ 10 events/hr (or nadir SpO2 < 80%).\n\nPSG is essential to distinguish benign primary snoring from true obstructive hypoventilation/apnea, quantify hypoxia and hypercapnia, and risk-stratify children before surgical adenotonsillectomy (the first-line treatment for pediatric OSA with adenotonsillar hypertrophy).\n\nHigh-Yield: Pediatric OSA: First-line diagnosis = Polysomnography (PSG; abnormal if AHI ≥ 1). Most common cause = Adenotonsillar hypertrophy. First-line definitive cure = Adenotonsillectomy. High-risk kids requiring inpatient post-op monitoring: age <3, severe OSA (AHI ≥10), craniofacial anomalies, or obesity.\n\nExam Trap / Do Not Miss: Clinical history and physical exam alone cannot reliably differentiate primary snoring from obstructive sleep apnea in children; PSG is required.",
+      "optionExplanations": {
+        "A": "CT scans expose children to unnecessary ionizing radiation and evaluate only static airway dimensions, failing to assess dynamic sleep architecture or gas exchange.",
+        "B": "Nocturnal pulse oximetry can identify desaturations in severe cases, but has low sensitivity for mild/moderate hypopneas and cannot stage sleep or rule out OSA.",
+        "C": "Correct. Overnight in-laboratory polysomnography is the gold-standard diagnostic test for pediatric obstructive sleep apnea.",
+        "D": "Lateral soft tissue neck X-rays evaluate adenoid size/nasopharyngeal air column, but structural adenoid enlargement correlates poorly with functional sleep apnea severity."
+      },
+      "educationalObjective": "Identify overnight polysomnography (PSG) as the definitive gold standard for the diagnosis of pediatric obstructive sleep apnea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-039",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "What is the required treatment for a patient diagnosed with acute epiglottitis?",
+      "options": {
+        "A": "Oral antibiotics",
+        "B": "Observation",
+        "C": "Steroids",
+        "D": "Airway maintenance + IV antibiotics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Acute epiglottitis (supraglottitis) is a medical and surgical airway emergency characterized by rapidly progressive cellulitis and edema of the epiglottis, aryepiglottic folds, and surrounding supraglottic structures, risking complete and sudden laryngospasm and fatal asphyxiation.\n\nImmediate Management Priorities: 1. AIRWAY MAINTENANCE FIRST: Keep the patient calm in their position of comfort (tripod or sniffing position). Avoid upsetting the patient; do NOT perform direct oral examination with a tongue depressor outside of a controlled operating room setting. Secure the airway via endotracheal intubation in the operating room with ENT and anesthesia teams prepared for emergent surgical cricothyroidotomy/tracheostomy if intubation fails. 2. INTRAVENOUS ANTIMICROBIAL THERAPY: Once the airway is secured, initiate broad-spectrum IV antibiotics covering Haemophilus influenzae type b (Hib), Streptococcus pneumoniae, Group A Streptococcus, and Staphylococcus aureus (e.g., IV Ceftriaxone or Cefotaxime + Vancomycin). 3. Adjunctive IV dexamethasone is often added to accelerate reduction of supraglottic mucosal edema.\n\nHigh-Yield: Epiglottitis Presentation: 4 D's = Drooling, Dysphagia, Dysphonia ('hot potato' voice), Distress (tripod posture, inspiratory stridor). Lateral neck X-ray = 'Thumbprint sign'. Rule: Never agitate the patient or use a tongue blade; manage airway in the OR!\n\nExam Trap / Do Not Miss: Do not send a patient with suspected acute epiglottitis unescorted to radiology for an X-ray. Clinical suspicion warrants immediate transport to the operating room.",
+      "optionExplanations": {
+        "A": "Oral antibiotics are entirely inadequate and contraindicated due to impending airway obstruction, dysphagia, and risk of fatal aspiration.",
+        "B": "Observation alone without active airway protection and IV antibiotics carries an unacceptably high mortality rate (>10-20%).",
+        "C": "Steroids are useful adjuncts, but steroids alone without immediate airway readiness and broad-spectrum IV antibiotics fail to treat the underlying bacterial infection or protect the airway.",
+        "D": "Correct. Acute epiglottitis is an airway emergency: the airway is secured first in a controlled setting, followed by broad-spectrum intravenous antibiotics."
+      },
+      "educationalObjective": "Recognize that acute epiglottitis requires immediate definitive airway maintenance in a controlled setting paired with broad-spectrum intravenous antibiotics.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-040",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "What is the most common cause of chronic stridor in pediatric patients?",
+      "options": {
+        "A": "Croup (Laryngotracheobronchitis)",
+        "B": "Epiglottitis",
+        "C": "Recurrent respiratory papillomatosis",
+        "D": "Laryngomalacia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Laryngomalacia is the most common congenital anomaly of the larynx (60–70% of congenital laryngeal defects) and the single most common cause of chronic inspiratory stridor in infants and young children.\n\nPathophysiology: Delayed maturation/hypotonia of the cartilaginous framework of the supraglottic larynx, resulting in dynamic collapse of flaccid supraglottic tissue (aryepiglottic folds, arytenoids, and epiglottis) into the laryngeal inlet during negative pressure of inspiration.\n\nClinical Features:\n• High-pitched, fluttering inspiratory stridor that manifests in the first 2 to 6 weeks of life.\n• Stridor characteristically worsens in the supine position, with feeding, agitation, or upper respiratory tract infections, and improves in the prone position with neck extension.\n• Diagnosis: Confirmed by awake flexible fiberoptic laryngoscopy, revealing an omega-shaped (Ω) epiglottis with shortened aryepiglottic folds and redundant arytenoid mucosa prolapsing into the glottis during inspiration.\n• Management: Spontaneous resolution occurs in >90% by 12–24 months. Surgical supraglottoplasty is indicated only for severe cases (severe retractile breathing, failure to thrive, feeding cyanosis, cor pulmonale).\n\nHigh-Yield: Laryngomalacia Classic Profile: Infant 2-6 weeks old + Inspiratory stridor worse when supine/crying, better when prone + Omega-shaped epiglottis on flexible laryngoscopy. 90% resolve conservatively with supportive care and reflux management.\n\nExam Trap / Do Not Miss: Do not perform imaging (CT/X-ray) as the primary diagnostic tool; direct bedside flexible nasopharyngolaryngoscopy while the infant is awake and breathing is the diagnostic gold standard.",
+      "optionExplanations": {
+        "A": "Croup (parainfluenza virus) is the most common cause of ACUTE pediatric stridor (barking cough, hoarseness), not chronic stridor.",
+        "B": "Epiglottitis is an acute, fulminant airway infection with sudden onset over hours, not a chronic stridor condition.",
+        "C": "Recurrent respiratory papillomatosis causes progressive hoarseness and biphasic stridor in young children, but is far less common than laryngomalacia.",
+        "D": "Correct. Laryngomalacia is the most common congenital laryngeal anomaly and the leading cause of chronic inspiratory stridor in infants and young children."
+      },
+      "educationalObjective": "Identify laryngomalacia as the most common congenital laryngeal disorder and leading cause of chronic inspiratory stridor in pediatric patients.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-041",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "Recurrent respiratory papillomatosis is most commonly associated with which HPV types?",
+      "options": {
+        "A": "HPV 16",
+        "B": "HPV 18",
+        "C": "HPV 6 and 11",
+        "D": "HPV 31 and 33"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recurrent Respiratory Papillomatosis (RRP) is a benign neoplasm of the respiratory tract characterized by the formation of multiple exophytic, cauliflower-like, wart-like squamous papillomas, most frequently clustering on the true and false vocal cords, subglottis, and carina.\n\nRRP is caused by infection with low-risk Human Papillomavirus (HPV), predominantly types 6 and 11 (accounting for >90–95% of cases). Juvenile-onset RRP (JORRP) is typically acquired vertically during passage through an infected birth canal with maternal condylomata acuminata. HPV-11 is associated with a significantly more aggressive clinical course, higher recurrence rates, and greater risk of tracheal/pulmonary dissemination.\n\nClinical Presentation: Progressive dysphonia (hoarseness), stridor, and upper airway obstruction. Treatment: Repeated surgical debulking (microdebrider or KTP/CO2 laser) to preserve the airway and voice, supplemented in aggressive cases with adjuvant cidofovir, bevacizumab (anti-VEGF), or quadrivalent/nonavalent HPV vaccination.\n\nHigh-Yield: HPV Types Summary: HPV 6 & 11 = Condylomata acuminata (genital warts) and Recurrent Respiratory Papillomatosis (benign, but recurrent). HPV 16 & 18 = High-risk oncogenic types (Oropharyngeal SCC, Cervical SCC).\n\nExam Trap / Do Not Miss: Malignant transformation of RRP to squamous cell carcinoma is rare (<2-3%), but risk increases significantly with HPV-11 infection and prior ionizing radiation exposure (radiation is strictly contraindicated).",
+      "optionExplanations": {
+        "A": "HPV-16 is a high-risk oncogenic type responsible for oropharyngeal (tonsillar/base of tongue) squamous cell carcinoma and cervical cancer, not benign RRP.",
+        "B": "HPV-18 is a high-risk oncogenic type strongly linked to cervical adenocarcinoma and anogenital squamous cell cancers.",
+        "C": "Correct. Recurrent respiratory papillomatosis is caused predominantly by the low-risk HPV types 6 and 11.",
+        "D": "HPV-31 and 33 are intermediate/high-risk oncogenic types linked to dysplastic lesions and cervical malignancy."
+      },
+      "educationalObjective": "Identify HPV types 6 and 11 as the primary viral etiologies of recurrent respiratory papillomatosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-042",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "Which nerve provides sensory innervation to the larynx above the glottis?",
+      "options": {
+        "A": "Recurrent laryngeal nerve",
+        "B": "External laryngeal nerve",
+        "C": "Internal laryngeal nerve",
+        "D": "Glossopharyngeal nerve"
+      },
+      "correctAnswer": "C",
+      "explanation": "Innervation of the larynx is derived entirely from branches of the Vagus nerve (CN X):\n\n1. Internal Laryngeal Nerve (internal branch of Superior Laryngeal Nerve [SLN]):\n• Pierces the thyrohyoid membrane alongside the superior laryngeal artery.\n• Provides pure somatic sensory innervation to the supraglottic larynx (mucosa above the vocal cords), including the epiglottis, vallecula, aryepiglottic folds, and laryngeal vestibule. It mediates the afferent limb of the laryngeal cough reflex against aspiration.\n\n2. Recurrent Laryngeal Nerve (RLN):\n• Provides sensory innervation to the infraglottic larynx (mucosa below the vocal cords down to the trachea).\n• Provides motor innervation to ALL intrinsic laryngeal muscles EXCEPT the cricothyroid.\n\n3. External Laryngeal Nerve (external branch of SLN):\n• Provides pure motor innervation to the Cricothyroid muscle (tenses and elongates vocal folds; injury causes inability to produce high-pitch sounds / voice fatigue).\n\nHigh-Yield: Larynx Neuroanatomy Rule: Above vocal folds = Internal laryngeal nerve (sensory). Below vocal folds = Recurrent laryngeal nerve (sensory). Cricothyroid muscle = External laryngeal nerve (motor). All other intrinsic laryngeal muscles = Recurrent laryngeal nerve (motor).\n\nExam Trap / Do Not Miss: Iatrogenic injury to the internal laryngeal nerve during carotid endarterectomy or thyroid surgery abolishes supraglottic sensation, leading to silent aspiration of liquids.",
+      "optionExplanations": {
+        "A": "The recurrent laryngeal nerve provides sensation BELOW the vocal folds (subglottic larynx) and motor supply to all intrinsic muscles except cricothyroid.",
+        "B": "The external laryngeal nerve is purely motor to the cricothyroid muscle; it has no sensory distribution in the larynx.",
+        "C": "Correct. The internal laryngeal nerve (internal branch of the superior laryngeal nerve, from CN X) provides sensation to the supraglottic larynx above the vocal folds.",
+        "D": "The glossopharyngeal nerve (CN IX) provides sensation to the posterior third of the tongue, tonsillar fossa, and oropharynx (afferent limb of the gag reflex), not the interior larynx."
+      },
+      "educationalObjective": "Recognize that the internal branch of the superior laryngeal nerve (internal laryngeal nerve) mediates sensory innervation to the supraglottic larynx above the vocal folds.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-043",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "What is the appropriate treatment for Reinke's edema?",
+      "options": {
+        "A": "Oral antibiotics",
+        "B": "Voice rest only",
+        "C": "Smoking cessation + microlaryngoscopic incision",
+        "D": "Radiotherapy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reinke's edema (polypoid corditis / diffuse polypoid degeneration) is characterized by diffuse, symmetric, gelatinous, pale swelling of the superficial lamina propria (Reinke's space) of the true vocal folds.\n\nEtiology & Demographics: Almost universally found in heavy chronic cigarette smokers (especially middle-aged women) with concurrent vocal abuse and gastroesophageal/laryngopharyngeal reflux (LPR). It causes an abnormally deep, husky, low-pitched, raspy voice ('whiskey voice' or virilization of the female voice).\n\nManagement Strategy: 1. Smoking cessation is the mandatory first step: Halting smoking arrests progression and may allow mild edema to regress. 2. Proton pump inhibitors for reflux and voice therapy. 3. Surgical intervention (Microlaryngoscopy): For patients with airway compromise, severe dysphonia, or lesions refractory to conservative therapy. Treatment involves a longitudinal lateral cordotomy incision on the superior surface of the vocal fold, suction evacuation of gelatinous fluid, and redraping of the mucosal flap (preserving the delicate vibratory mucosal margin). Staged or unilateral surgery is often performed to prevent anterior web formation.\n\nHigh-Yield: Reinke's Edema Summary: Middle-aged female smoker + Unusually low-pitched/gravelly voice + Bilateral floppy translucent watery vocal fold bags. Treatment: Absolute smoking cessation + cold-knife microlaryngoscopic incision with suction decompression.\n\nExam Trap / Do Not Miss: Laser ablation of Reinke's edema directly on the vocal fold edge is discouraged due to thermal injury to the vocal ligament; micro-instrument cold-knife flap preservation is standard.",
+      "optionExplanations": {
+        "A": "Oral antibiotics have no efficacy; Reinke's edema is an inflammatory/mechanical degenerative fluid collection, not an infectious process.",
+        "B": "Voice rest alone fails to resolve the chronic myxoid gelatinous matrix in the superficial lamina propria.",
+        "C": "Correct. Reinke's edema is treated with smoking cessation, plus microlaryngoscopic incision with suction decompression and mucosal flap redraping for significant disease.",
+        "D": "Radiotherapy is completely contraindicated for this benign condition and would induce severe mucosal scarring and potential malignant transformation."
+      },
+      "educationalObjective": "Identify smoking cessation combined with surgical microlaryngoscopic cordotomy and suction decompression as the treatment of choice for significant Reinke's edema.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-044",
+      "topic": "ENT",
+      "section": "Chapter 7: Larynx",
+      "question": "Which of the following is the typical sign of bilateral vocal cord paralysis?",
+      "options": {
+        "A": "Respiratory failure",
+        "B": "Aphonia",
+        "C": "No symptoms",
+        "D": "Severe airway obstruction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bilateral vocal cord (fold) paralysis occurs most frequently as an iatrogenic complication following total thyroidectomy, esophageal surgery, anterior cervical spine instrumentation, or central neurologic insults.\n\nParadoxical Clinical Presentation:\n• Because both recurrent laryngeal nerves are injured, all abductor (posterior cricoarytenoid) and adductor muscles are denervated. The vocal cords fall passively into the median or paramedian position.\n• Voice is deceptively well-preserved: Because the cords remain closely approximated in the midline, the patient's phonation is near-normal or only mildly strained (NOT aphonic!).\n• AIRWAY IS CRITICALLY COMPROMISED: The glottic aperture is reduced to a slit, producing severe upper airway obstruction, marked inspiratory stridor, and severe dyspnea, particularly during exertion or sleep.\n\nEmergency Treatment: Immediate airway stabilization via endotracheal intubation or emergency tracheostomy. Subsequent restorative procedures include endoscopic posterior cordotomy or arytenoidectomy.\n\nHigh-Yield: Vocal Cord Paralysis Clinical Contrast: Unilateral RLN Paralysis -> Breathy hoarseness + aspiration risk, but NORMAL airway. Bilateral RLN Paralysis -> Good/near-normal voice, but LIFE-THREATENING AIRWAY OBSTRUCTION / STRIDOR (cords fixed in median position).\n\nExam Trap / Do Not Miss: Do not be fooled by a patient with bilateral RLN injury who speaks with a normal or near-normal voice; their glottic airway is critically compromised and can obstruct completely at any moment.",
+      "optionExplanations": {
+        "A": "While prolonged untreated obstruction leads to hypercapnic respiratory failure, 'severe airway obstruction' is the direct and specific hallmark laryngeal mechanical sign.",
+        "B": "Aphonia does NOT occur; because cords are fixed in the median/paramedian position, phonation is surprisingly well-preserved. (Aphonia occurs when cords are paralyzed in extreme lateral abduction).",
+        "C": "Bilateral paralysis is never asymptomatic; it produces profound inspiratory dyspnea and stridor.",
+        "D": "Correct. In bilateral vocal cord paralysis the cords lie in the median/paramedian position, so the voice is preserved but the glottic airway is critically narrowed, causing severe obstruction and inspiratory stridor."
+      },
+      "educationalObjective": "Recognize that bilateral vocal cord paralysis presents with severe upper airway obstruction and inspiratory stridor with deceptively preserved voice quality due to median cord fixation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-045",
+      "topic": "ENT",
+      "section": "Chapter 8: Facial Nerve",
+      "question": "What is the smallest segment of the facial nerve?",
+      "options": {
+        "A": "Labyrinthine",
+        "B": "Mastoid",
+        "C": "Cranial",
+        "D": "Meatal",
+        "E": "Tympanic"
+      },
+      "correctAnswer": "A",
+      "explanation": "The intratemporal course of the Facial Nerve (CN VII) within the Fallopian (facial) canal is divided into four distinct anatomical segments:\n\n1. Labyrinthine Segment: This is the shortest (~3 to 4 mm in length) and narrowest (<0.7 mm diameter) segment. It extends from the fundus of the internal auditory meatus (IAM) to the geniculate ganglion. Because of its extreme narrowness, any inflammatory edema (as occurs in Bell's palsy or Ramsay Hunt syndrome) causes rapid ischemic strangulation and conduction block at this site. 2. Meatal Segment: Traverses the IAM (~8–10 mm). 3. Tympanic (Horizontal) Segment: Runs along the medial wall of the middle ear (~8–11 mm), passing superior to the oval window. 4. Mastoid (Vertical) Segment: Extends from the second genu to the stylomastoid foramen; it is the longest intratemporal segment (~13 mm) and gives off the nerve to the stapedius and the chorda tympani.\n\nHigh-Yield: Facial Nerve Segments Quick Facts: Labyrinthine segment = Shortest (3-4 mm) + Narrowest (<0.7 mm) -> Site of entrapment in Bell's palsy. Mastoid segment = Longest intratemporal segment (~13 mm). Tympanic segment = Most commonly dehiscent (prone to iatrogenic injury during middle ear surgery).\n\nExam Trap / Do Not Miss: Remember that while the labyrinthine segment is the shortest, its clinical significance is immense as the anatomical choke-point in Bell's palsy.",
+      "optionExplanations": {
+        "A": "Correct. The labyrinthine segment (about 3-4 mm long, <0.7 mm wide) is the shortest and narrowest segment of the facial nerve.",
+        "B": "The mastoid (vertical) segment is the longest intratemporal segment (~13 mm), not the shortest.",
+        "C": "The intracranial/cisternal segment traverses the cerebellopontine angle (~23-24 mm), far longer than the labyrinthine segment.",
+        "D": "The meatal segment spans ~8-10 mm within the internal auditory canal.",
+        "E": "The tympanic segment spans ~8-11 mm within the middle ear cavity."
+      },
+      "educationalObjective": "Identify the labyrinthine segment as the shortest and narrowest segment of the facial nerve.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-046",
+      "topic": "ENT",
+      "section": "Chapter 8: Facial Nerve",
+      "question": "What is the first-line treatment for Bell's palsy?",
+      "options": {
+        "A": "Intratympanic steroid",
+        "B": "Anti-viral",
+        "C": "Surgery",
+        "D": "Antibiotic",
+        "E": "Oral steroid"
+      },
+      "correctAnswer": "E",
+      "explanation": "Bell's palsy (acute idiopathic peripheral facial palsy) is the most common cause of unilateral lower motor neuron facial weakness. It is attributed to herpes simplex virus (HSV-1) reactivation causing inflammation, edema, and ischemic compression of CN VII in the narrow labyrinthine segment.\n\nFirst-Line Medical Therapy: High-dose Oral Corticosteroids (e.g., Prednisone 60–80 mg/day for 7–10 days) initiated within 72 hours of symptom onset. Multiple large randomized controlled trials (e.g., the Scottish Bell's Palsy Study) have unequivocally demonstrated that early oral corticosteroids significantly increase rates of complete functional facial nerve recovery.\n\nAntivirals (Valacyclovir or Acyclovir): Ineffective as monotherapy. Addition of an antiviral to oral steroids is optional and may offer modest benefit only in severe presentations (House-Brackmann Grade IV–VI). Eye Care: Crucial adjunct (lubricating artificial tears by day, ophthalmic ointment and eye taping at night) to prevent exposure keratitis.\n\nHigh-Yield: Bell's Palsy Management: First-line = Oral prednisone within 72 hours. Protect the cornea (artificial tears, bedtime eye taping). Upper vs. Lower Motor Neuron: LMN lesion (Bell's palsy) = involves forehead (cannot wrinkle forehead or close eye); UMN lesion (stroke) = spares forehead due to bilateral cortical innervation.\n\nExam Trap / Do Not Miss: Never prescribe antivirals alone for Bell's palsy; oral corticosteroid monotherapy is the proven cornerstone of treatment.",
+      "optionExplanations": {
+        "A": "Intratympanic steroids are used for sudden sensorineural hearing loss (SSNHL) or refractory Meniere's disease, not standard Bell's palsy.",
+        "B": "Antiviral monotherapy does not improve recovery compared to placebo and is NOT first-line therapy.",
+        "C": "Surgical decompression is controversial and reserved only for patients with >90% degeneration on electroneurography (ENoG) within 14 days, not first-line.",
+        "D": "Antibiotics have no efficacy against Bell's palsy (unless facial palsy is secondary to Lyme disease or acute otitis media).",
+        "E": "Correct. Oral corticosteroids started within 72 hours of onset are the first-line, evidence-based treatment for Bell's palsy."
+      },
+      "educationalObjective": "Recognize oral corticosteroids initiated within 72 hours as the primary evidence-based first-line treatment for Bell's palsy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-047",
+      "topic": "ENT",
+      "section": "Chapter 8: Facial Nerve",
+      "question": "Which of the following treats facial palsy after otitis media?",
+      "options": {
+        "A": "Observation",
+        "B": "Immediate surgery (graft)",
+        "C": "Nerve reanastomosis",
+        "D": "Steroids + Antibiotics + Myringotomy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Facial nerve paresis or paralysis developing in the setting of Acute Otitis Media (AOM) is caused by inflammatory edema spreading from the infected middle ear mucosa to the facial nerve sheath through a congenital bony dehiscence in the tympanic segment of the Fallopian canal (present in ~30–50% of normal individuals).\n\nTreatment Protocol for Facial Palsy in AOM: 1. Intravenous/Oral Antibiotics: High-dose systemic broad-spectrum antibiotics to rapidly eradicate middle ear pathogens. 2. Systemic Corticosteroids: High-dose steroids to reduce acute perineural edema and prevent permanent neural ischemia. 3. Urgent Myringotomy (± Tympanostomy Tube Insertion): Wide incision of the tympanic membrane to immediately decompress the purulent middle ear effusion, relieve tissue tension against the dehiscent nerve, and obtain fluid for culture and sensitivities.\n\nWith this conservative triad (Steroids + Antibiotics + Myringotomy), complete facial recovery occurs in >95% of cases. (Note: In contrast, facial palsy occurring with chronic suppurative otitis media / cholesteatoma mandates immediate surgical mastoidectomy and nerve decompression).\n\nHigh-Yield: Facial Palsy in Otitis Media Algorithm: In Acute Otitis Media (AOM) -> Medical therapy (IV/oral antibiotics + high-dose steroids) + wide Myringotomy with grommet. In Chronic Suppurative Otitis Media / Cholesteatoma -> Urgent surgical Mastoidectomy + facial nerve decompression.\n\nExam Trap / Do Not Miss: Do not perform mastoidectomy or facial nerve canal decompression for uncomplicated facial palsy secondary to acute otitis media; myringotomy with medical therapy suffices.",
+      "optionExplanations": {
+        "A": "Observation is inappropriate and dangerous; ongoing purulent tension and ischemia can convert neuropraxia into permanent axonotmesis.",
+        "B": "Immediate nerve grafting is indicated only for complete surgical or traumatic nerve transection, not inflammatory neuropraxia in AOM.",
+        "C": "Nerve reanastomosis is reserved for structural nerve disruption/transection.",
+        "D": "Correct. Facial palsy complicating acute otitis media is treated with systemic antibiotics, corticosteroids and urgent myringotomy."
+      },
+      "educationalObjective": "Identify the combination of systemic antibiotics, corticosteroids, and urgent myringotomy as the definitive management of facial palsy complicating acute otitis media.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-048",
+      "topic": "ENT",
+      "section": "Chapter 9: Head & Neck Tumors",
+      "question": "Which of the following groups is most commonly affected by juvenile nasopharyngeal angiofibroma (JNA)?",
+      "options": {
+        "A": "Adult males",
+        "B": "Adolescent males",
+        "C": "Adolescent females",
+        "D": "Children of both sexes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Juvenile Nasopharyngeal Angiofibroma (JNA) is a histologically benign, but locally aggressive, highly vascular, non-encapsulated tumor that occurs almost exclusively in adolescent males (typically between 9 and 19 years of age, median ~14–15 years).\n\nEtiology & Receptor Dependency: Tumor growth is closely linked to androgenic hormone receptor stimulation (testosterone-dependent), explaining its overwhelming male restriction. The tumor arises posterolaterally in the margin of the sphenopalatine foramen.\n\nClinical Triad: 1. Recurrent, painless, unprovoked severe epistaxis. 2. Progressive unilateral nasal obstruction. 3. Adolescent male patient.\n\nRadiology: Contrast CT/MRI reveals a hypervascular mass widening the pterygopalatine fossa with anterior bowing of the posterior maxillary wall (Holman-Miller sign / antral sign). Management: Preoperative transcatheter angiographic embolization of the internal maxillary artery followed by endoscopic or open surgical resection.\n\nHigh-Yield: CRITICAL ZERO-MISTAKE RULE: BIOPSY IS STRICTLY CONTRAINDICATED in suspected JNA due to the risk of catastrophic, uncontrollable, life-threatening hemorrhage! Diagnosis is made purely on clinical presentation and contrast imaging/angiography.\n\nExam Trap / Do Not Miss: Never attempt an in-office biopsy of a red-purple vascular nasopharyngeal mass in a teenage boy with nosebleeds; confirm with CT/MRI and embolize before surgery.",
+      "optionExplanations": {
+        "A": "Adult males rarely present with newly diagnosed JNA; adult presentations are typically late recurrences of adolescent lesions.",
+        "B": "Correct. JNA is a benign, androgen-dependent, highly vascular tumor that occurs almost exclusively in adolescent males.",
+        "C": "JNA is extraordinarily rare in females; an adolescent female presenting with a suspected JNA mandates genetic karyotyping to rule out Turner syndrome or testicular feminization.",
+        "D": "JNA does not affect children of both sexes equally; its androgen-dependent biology restricts it to adolescent males."
+      },
+      "educationalObjective": "Recognize adolescent males as the demographic group almost exclusively affected by juvenile nasopharyngeal angiofibroma (JNA).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-049",
+      "topic": "ENT",
+      "section": "Chapter 9: Head & Neck Tumors",
+      "question": "What is the most common site of nasopharyngeal carcinoma?",
+      "options": {
+        "A": "Posterior nasal cavity",
+        "B": "Oropharynx",
+        "C": "Fossa of Rosenmüller",
+        "D": "Soft palate"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Fossa of Rosenmüller (pharyngeal recess) is by far the most common anatomical site of origin (accounting for >80% of cases) for Nasopharyngeal Carcinoma (NPC).\n\nAnatomy & Clinical Relevance: The fossa of Rosenmüller is a deep mucosal recess located in the posterolateral wall of the nasopharynx, situated immediately behind the cartilaginous torus tubarius of the Eustachian tube. Because of this location: 1. Unilateral Eustachian Tube Obstruction: Tumors expanding into the tubal orifice block aeration, causing unilateral Otitis Media with Effusion (OME) and conductive hearing loss. (High-yield rule: ANY adult with new-onset unilateral serous otitis media must undergo nasopharyngoscopy to rule out NPC!). 2. Cervical Lymphadenopathy: Early lymphatic drainage to the retropharyngeal nodes (Rouvière's node) and upper deep cervical nodes (Level II/posterior triangle Level V) means >60% of patients present with an asymptomatic, painless neck lump as their initial complaint. 3. Etiology: Strongly associated with Epstein-Barr Virus (EBV) infection (especially non-keratinizing WHO Type II and III), dietary nitrosamines (salted fish), and Southeast Asian/North African descent. 4. Treatment: NPC is highly radiosensitive and chemosensitive; primary treatment is definitive chemoradiotherapy, not primary surgery.\n\nHigh-Yield: Nasopharyngeal Carcinoma Cardinal Clinical Triad: 1) Painless neck mass (Level II lymph node metastasis - most common presentation), 2) Unilateral conductive hearing loss / aural fullness (serous otitis media due to Eustachian tube obstruction), 3) Epistaxis / nasal obstruction. Site = Fossa of Rosenmüller. Virus = EBV.\n\nExam Trap / Do Not Miss: An adult presenting with unilateral serous otitis media does NOT need just a tympanostomy tube; they MUST have flexible nasopharyngoscopy to inspect the fossa of Rosenmüller.",
+      "optionExplanations": {
+        "A": "Posterior nasal cavity is an uncommon primary site; inverted papillomas or esthesioneuroblastomas arise there, but NPC arises in the nasopharynx.",
+        "B": "Oropharynx (tonsils, base of tongue) is the primary site of HPV-mediated squamous cell carcinoma, anatomically distinct from the nasopharynx.",
+        "C": "Correct. The fossa of Rosenmüller (the pharyngeal recess behind the torus tubarius) is the most common site of origin of nasopharyngeal carcinoma.",
+        "D": "Soft palate is an oropharyngeal structure, not the primary site of origin for nasopharyngeal carcinoma."
+      },
+      "educationalObjective": "Identify the fossa of Rosenmüller (posterolateral pharyngeal recess) as the most frequent anatomical site of origin for nasopharyngeal carcinoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT2-050",
+      "topic": "ENT",
+      "section": "Chapter 9: Head & Neck Tumors",
+      "question": "Plummer-Vinson syndrome is associated with an increased risk of:",
+      "options": {
+        "A": "Hypopharyngeal carcinoma",
+        "B": "Laryngeal carcinoma",
+        "C": "Oral cavity carcinoma",
+        "D": "Nasopharyngeal carcinoma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plummer-Vinson syndrome (also known as Paterson-Brown Kelly syndrome) is a classic clinical triad consisting of: 1. Severe, chronic iron deficiency anemia (microcytic hypochromic, often accompanied by spoon-shaped brittle nails [koilonychia], cheilosis/angular stomatitis, and atrophic glossitis). 2. Cervical / upper esophageal webs (thin anterior mucosal folds in the postcricoid hypopharynx/cervical esophagus). 3. Painless, progressive solid dysphagia.\n\nMalignant Transformation: Chronic iron depletion in mucosal epithelial cells impairs cytochrome oxidase and iron-dependent cellular respiratory enzymes, producing mucosal atrophy and dysplasia. Plummer-Vinson syndrome is a well-established premalignant condition carrying an increased risk (up to 5–15%) of Squamous Cell Carcinoma of the Postcricoid region of the Hypopharynx and upper cervical esophagus, typically presenting in middle-aged women.\n\nManagement: Oral or IV iron repletion (often leads to web regression), mechanical endoscopic esophageal dilation for refractory dysphagia, and long-term endoscopic surveillance.\n\nHigh-Yield: Plummer-Vinson (Paterson-Kelly) Triad: 1) Iron deficiency anemia, 2) Dysphagia, 3) Esophageal webs. Increased risk of: Postcricoid Hypopharyngeal Squamous Cell Carcinoma. Demographic: Middle-aged females.\n\nExam Trap / Do Not Miss: Do not confuse esophageal webs (upper esophagus/hypopharynx, associated with iron deficiency in Plummer-Vinson) with Schatzki rings (lower esophageal mucosal rings at the squamocolumnar junction, associated with hiatal hernia and GERD).",
+      "optionExplanations": {
+        "A": "Correct. Plummer-Vinson (Paterson-Brown Kelly) syndrome predisposes to squamous cell carcinoma of the postcricoid hypopharynx and upper esophagus.",
+        "B": "Laryngeal carcinoma is predominantly caused by tobacco smoking and heavy alcohol consumption, not Plummer-Vinson syndrome.",
+        "C": "Oral cavity carcinoma is strongly linked to betel quid/tobacco chewing and smoking/alcohol; while oral mucosal atrophy occurs in Plummer-Vinson, the classic malignant site is postcricoid hypopharynx.",
+        "D": "Nasopharyngeal carcinoma is linked to Epstein-Barr Virus (EBV) and dietary nitrosamines, not Plummer-Vinson syndrome."
+      },
+      "educationalObjective": "Recognize that Plummer-Vinson syndrome predisposes patients to an increased risk of postcricoid hypopharyngeal and upper esophageal squamous cell carcinoma.",
+      "imagePath": ""
+    }
+  ]
+}
