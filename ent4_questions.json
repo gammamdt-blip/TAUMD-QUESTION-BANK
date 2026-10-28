@@ -1,0 +1,1534 @@
+{
+  "metadata": {
+    "title": "ENT Athar Final Examination - Elite Step 2 CK Q-Bank",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "ENT4-001",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Question 24: A negative Rinne test indicates which of the following?",
+      "options": {
+        "A": "Sensorineural hearing loss",
+        "B": "Conductive hearing loss",
+        "C": "Normal hearing",
+        "D": "Mixed hearing loss"
+      },
+      "correctAnswer": "B",
+      "explanation": "A negative Rinne test indicates that bone conduction is perceived louder or longer than air conduction (BC > AC). In a normal ear or pure sensorineural hearing loss, air conduction is superior to bone conduction (AC > BC, positive Rinne). A negative Rinne test indicates a mechanical impediment to sound conduction in the external auditory canal or middle ear (e.g., cerumen impaction, tympanic membrane perforation, middle ear effusion, or ossicular chain pathology), definitively establishing conductive hearing loss (CHL).\n\nHigh-Yield Clinical Pearl: Rinne Test: Positive = AC > BC (Normal or SNHL). Negative = BC > AC (Conductive Hearing Loss). Weber Test: Lateralizes to the affected ear in CHL, and to the unaffected (better) ear in SNHL.\n\nExam Trap: Beware of a 'false negative Rinne': in severe unilateral SNHL, bone vibration crosses the skull to stimulate the contralateral healthy cochlea, giving the illusion of BC > AC unless masking is applied.\n\n[Extraction note: The stem begins with the source's own text \"Question 24:\", preserved as printed.]",
+      "optionExplanations": {
+        "A": "In sensorineural hearing loss, AC remains greater than BC (positive Rinne), although both thresholds are elevated.",
+        "B": "Correct. A negative Rinne test indicates that bone conduction is perceived louder or longer than air conduction (BC > AC). In a normal ear or pure sensorineural hearing loss, air conduction is superior to bone conduction (AC > BC, positive Rinne).",
+        "C": "Normal hearing demonstrates AC > BC (positive Rinne test).",
+        "D": "Mixed hearing loss may produce a negative Rinne test if the air-bone gap exceeds 15–20 dB, but isolated conductive loss is the primary diagnostic entity."
+      },
+      "educationalObjective": "Recognize that a negative Rinne test (BC > AC) is diagnostic of conductive hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-002",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following hearing tests is most appropriate for an 8-month-old infant?",
+      "options": {
+        "A": "Visual reinforcement audiometry",
+        "B": "Distraction test",
+        "C": "Conditioned play audiometry",
+        "D": "Pure tone audiometry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hearing assessment in pediatric patients is tailored strictly to developmental age. For an 8-month-old infant (typical age bracket 6–9 months), the distraction test is the standard behavioral screening modality. In this test, one examiner engages the infant's attention in front while a second examiner presents calibrated sound stimuli from outside the visual field to observe reflexive head-turning toward the sound source.\n\nHigh-Yield Clinical Pearl: Pediatric Audiometry Hierarchy: 0–6 months: OAE & A-ABR (objective); 6–9 months: Distraction test; 7–24 months: Visual Reinforcement Audiometry (VRA); 2.5–5 years: Conditioned Play Audiometry (CPA); ≥ 5 years: Standard Pure Tone Audiometry (PTA).\n\nExam Trap: Never select play audiometry for infants under 2 years old; they lack the developmental and cognitive maturity to follow conditional play rules.\n\n[Flag: the source's own analysis lists VRA as suitable for infants aged 7–24 months, which also includes 8 months, so option A is arguably defensible. Source key B retained.]",
+      "optionExplanations": {
+        "A": "Visual Reinforcement Audiometry (VRA) is typically used for infants aged 7–24 months who can be operantly conditioned to turn toward an illuminated animated toy.",
+        "B": "Correct. Hearing assessment in pediatric patients is tailored strictly to developmental age. For an 8-month-old infant (typical age bracket 6–9 months), the distraction test is the standard behavioral screening modality.",
+        "C": "Conditioned Play Audiometry (CPA) requires active motor participation (e.g., dropping a block in a bucket when a sound is heard), suitable for children aged 2.5 to 5 years.",
+        "D": "Pure Tone Audiometry (PTA) requires voluntary button pressing, validated only for cooperative children ≥ 5 years of age."
+      },
+      "educationalObjective": "Select the distraction test as the appropriate behavioral hearing assessment for infants aged 6 to 9 months.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-003",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following objective hearing tests is most commonly used to screen hearing in newborns?",
+      "options": {
+        "A": "Acoustic reflex testing",
+        "B": "Auditory brainstem response (ABR)",
+        "C": "Otoacoustic emissions (OAE)",
+        "D": "Visual reinforcement audiometry (VRA)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Otoacoustic emissions (OAE) is the most common objective, automated screening test for hearing in healthy newborns. It records low-level sounds generated by the active electromotility of outer hair cells (OHCs) within the cochlea in response to auditory click stimuli. It is rapid, non-invasive, and cost-effective.\n\nHigh-Yield Clinical Pearl: Universal Newborn Hearing Screening: OAE assesses outer hair cell micromechanics. A-ABR assesses the neural pathway from the cochlea to the upper brainstem (mandatory for NICU infants to detect auditory neuropathy).\n\nExam Trap: OAE tests only pre-neural cochlear outer hair cell function; an infant with Auditory Neuropathy Spectrum Disorder (ANSD) will pass an OAE screen!",
+      "optionExplanations": {
+        "A": "Acoustic reflex testing evaluates the stapedius muscle contraction and is not a neonatal screening tool.",
+        "B": "A-ABR is also used, particularly in neonatal intensive care units (NICU) to assess retrocochlear function, but OAE is the most common initial screen in healthy well-infant nurseries.",
+        "C": "Correct. Otoacoustic emissions (OAE) is the most common objective, automated screening test for hearing in healthy newborns. It records low-level sounds generated by the active electromotility of outer hair cells (OHCs) within the cochlea in response to auditory click stimuli.",
+        "D": "Visual reinforcement audiometry is a subjective behavioral test used after 6–7 months of age."
+      },
+      "educationalObjective": "Identify otoacoustic emissions (OAE) as the most common objective primary screening test for hearing in newborns.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-004",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which structure in the cochlea is responsible for converting mechanical sound vibrations into electrical signals for auditory transmission?",
+      "options": {
+        "A": "Basilar membrane",
+        "B": "Organ of Corti",
+        "C": "Round window",
+        "D": "Tympanic membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Organ of Corti, situated upon the basilar membrane within the cochlear duct (scala media), is the sensory transducer of hearing. It houses sensory inner hair cells and electromotile outer hair cells. Sound waves displace perilymph, vibrating the basilar membrane and shearing stereocilia against the tectorial membrane to open mechanically gated potassium channels, depolarizing the cells and initiating action potentials along CN VIII.\n\nHigh-Yield Clinical Pearl: Organ of Corti = Sensory organ of hearing. Inner hair cells (1 row) provide 95% of afferent auditory signaling to CN VIII. Outer hair cells (3 rows) provide electromotile cochlear amplification.\n\nExam Trap: Do not confuse the basilar membrane (supporting floor) with the Organ of Corti (sensory transducer).",
+      "optionExplanations": {
+        "A": "The basilar membrane provides mechanical tonotopic resonance but does not perform sensory electrical transduction.",
+        "B": "Correct. The Organ of Corti, situated upon the basilar membrane within the cochlear duct (scala media), is the sensory transducer of hearing. It houses sensory inner hair cells and electromotile outer hair cells.",
+        "C": "The round window functions as a pressure relief valve for fluid waves within the rigid otic capsule.",
+        "D": "The tympanic membrane transduces acoustic air pressure waves into mechanical ossicular motion in the middle ear."
+      },
+      "educationalObjective": "Identify the Organ of Corti as the cochlear structure responsible for converting mechanical sound vibrations into electrical neural signals.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-005",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following statements about the inner membranous labyrinth are correct except:",
+      "options": {
+        "A": "It is a series of sacs and tubes inside the bony labyrinth lined with epithelium",
+        "B": "The utricle and saccule are parts of the membranous labyrinth",
+        "C": "The endolymph has a high level of sodium ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "The membranous labyrinth contains endolymph, an unusual extracellular fluid produced by the stria vascularis that resembles intracellular fluid: it possesses a high potassium (K+ ~150 mEq/L) and low sodium (Na+ ~1–2 mEq/L) concentration. In contrast, perilymph (filling the scala vestibuli and scala tympani) resembles extracellular fluid and CSF, with high sodium and low potassium. Therefore, the statement that 'endolymph has a high level of sodium ions' is FALSE.\n\nHigh-Yield Clinical Pearl: Endolymph (Scala media): High K+, Low Na+ (secreted by stria vascularis, maintains +80 mV endocochlear potential). Perilymph (Scala vestibuli & tympani): High Na+, Low K+ (resembles CSF).\n\nExam Trap: Remember: Endolymph = INtracellular composition (K+); Perilymph = EXtracellular composition (Na+).",
+      "optionExplanations": {
+        "A": "True statement: the membranous labyrinth is an epithelial network of communicating sacs and ducts suspended within the bony labyrinth.",
+        "B": "True statement: the utricle and saccule are otolithic components of the membranous labyrinth sensing linear acceleration.",
+        "C": "Correct. The membranous labyrinth contains endolymph, an unusual extracellular fluid produced by the stria vascularis that resembles intracellular fluid: it possesses a high potassium (K+ ~150 mEq/L) and low sodium (Na+ ~1–2 mEq/L) concentration."
+      },
+      "educationalObjective": "Recall that endolymph contains high potassium and low sodium concentrations, maintaining the endocochlear potential.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-006",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following nerves contribute to the sensory innervation of the auricle except:",
+      "options": {
+        "A": "Auriculotemporal nerve (CN V3)",
+        "B": "Facial nerve (CN VII)",
+        "C": "Vagus nerve (auricular branch)",
+        "D": "Greater auricular nerve (C2, C3)",
+        "E": "Greater petrosal nerve"
+      },
+      "correctAnswer": "E",
+      "explanation": "Cutaneous sensory innervation of the auricle is supplied by: 1) Auriculotemporal nerve (CN V3) (tragus, crus of helix, anterior helix); 2) Greater auricular nerve (C2, C3) (medial surface, posterior-inferior lateral surface, and lobule); 3) Lesser occipital nerve (C2) (superior medial surface); 4) Arnold's nerve (auricular branch of CN X) (concha, antihelix, posterior EAC); and 5) Facial nerve (CN VII) twigs to the concha. The greater petrosal nerve is a preganglionic parasympathetic branch of CN VII that supplies the lacrimal gland; it provides NO sensory innervation to the auricle.\n\nHigh-Yield Clinical Pearl: Auricular sensory innervation: V3 (tragus/crus), C2-C3 Greater auricular (lobule/helix), CN X Arnold's (concha), CN VII (conchal twigs). Greater petrosal nerve = parasympathetic to lacrimal gland only!\n\nExam Trap: Referred otalgia can occur via CN V (teeth/TMJ), CN IX (tonsils/base of tongue), CN X (larynx/hypopharynx), or C2-C3 (cervical spine).",
+      "optionExplanations": {
+        "A": "Auriculotemporal nerve (CN V3) supplies the tragus and anterosuperior auricle.",
+        "B": "Facial nerve (CN VII) provides cutaneous twigs to the concha and external meatus (involved in Ramsay Hunt zoster).",
+        "C": "Vagus nerve (CN X, Arnold's nerve) innervates the conchal bowl and posterior canal wall.",
+        "D": "Greater auricular nerve (C2, C3) innervates the helix, antihelix, and ear lobule.",
+        "E": "Correct. The greater petrosal nerve is a preganglionic parasympathetic branch of CN VII that supplies the lacrimal gland; it provides NO sensory innervation to the auricle."
+      },
+      "educationalObjective": "Differentiate the cutaneous sensory innervation of the auricle from the autonomic branches of the facial nerve.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-007",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following statements about otosclerosis are true except:",
+      "options": {
+        "A": "It typically causes progressive conductive hearing loss",
+        "B": "It often presents in young adults, more commonly in females",
+        "C": "Notch at 2000 Hz on bone conduction (Carhart's notch)",
+        "D": "The incus is the most commonly affected ossicle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Otosclerosis is an autosomal dominant disorder of abnormal bone turnover in the otic capsule, most commonly affecting young adult women (often accelerated during pregnancy). The hallmark site of involvement is the fistula ante fenestram, resulting in progressive fixation of the stapes footplate in the oval window (NOT the incus). This causes progressive conductive hearing loss. Audiometry classically demonstrates Carhart's notch (an apparent dip in bone conduction thresholds maximal at 2000 Hz due to disruption of ossicular inertia).\n\nHigh-Yield Clinical Pearl: Otosclerosis: Stapes footplate fixation in the oval window. Autosomal dominant with incomplete penetrance. Carhart's notch at 2 kHz. Treatment: Hearing aids or Stapedotomy with piston prosthesis.\n\nExam Trap: The incus is the most commonly dislocated ossicle in blunt head trauma, but the stapes footplate is fixed in otosclerosis.",
+      "optionExplanations": {
+        "A": "True statement: otosclerosis classically presents with progressive conductive hearing loss (CHL).",
+        "B": "True statement: it typically presents in young adults (20s–40s) with a 2:1 female preponderance.",
+        "C": "True statement: Carhart's notch at 2000 Hz on bone conduction is a classic audiometric artifact of stapes fixation.",
+        "D": "Correct. The hallmark site of involvement is the fistula ante fenestram, resulting in progressive fixation of the stapes footplate in the oval window (NOT the incus)."
+      },
+      "educationalObjective": "Identify the stapes footplate at the oval window as the anatomical site affected in otosclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-008",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A patient presents with brief episodes of vertigo triggered by positional changes. The Dix-Hallpike test is positive. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vestibular neuritis",
+        "B": "Ménière's disease",
+        "C": "Benign paroxysmal positional vertigo (BPPV)",
+        "D": "Labyrinthitis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Benign paroxysmal positional vertigo (BPPV) is caused by detached calcium carbonate otoconia (canalithiasis) from the utricle becoming displaced into a semicircular canal (posterior canal in ~85–90% of cases). Patients report brief (< 1 minute), recurrent episodes of spinning vertigo provoked by changes in head position (e.g., rolling over in bed, looking up). The Dix-Hallpike maneuver is diagnostic, producing torsional geotropic upbeating nystagmus with a characteristic latency (2–10 seconds) and fatigability (< 60 seconds).\n\nHigh-Yield Clinical Pearl: BPPV: Brief positional vertigo (<1 min), positive Dix-Hallpike (torsional/geotropic upbeating nystagmus with latency and fatigue). Definitive cure: Epley canalith repositioning maneuver.\n\nExam Trap: BPPV has NO hearing loss, tinnitus, or focal neurologic signs. If auditory symptoms are present with vertigo, suspect Ménière's disease or labyrinthitis.",
+      "optionExplanations": {
+        "A": "Vestibular neuritis causes continuous, severe vertigo lasting days to weeks with spontaneous nystagmus and gait ataxia, unrelated to brief positional triggers.",
+        "B": "Ménière's disease presents with episodic vertigo lasting hours (20 min to 12 hours) accompanied by unilateral fluctuating low-frequency SNHL, tinnitus, and aural fullness.",
+        "C": "Correct. Benign paroxysmal positional vertigo (BPPV) is caused by detached calcium carbonate otoconia (canalithiasis) from the utricle becoming displaced into a semicircular canal (posterior canal in ~85–90% of cases).",
+        "D": "Labyrinthitis causes continuous acute vertigo lasting days accompanied by acute sensorineural hearing loss."
+      },
+      "educationalObjective": "Diagnose BPPV in patients with brief episodes of vertigo triggered by head position changes and a positive Dix-Hallpike test.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-009",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following is NOT a typical cause of conductive hearing loss?",
+      "options": {
+        "A": "Allergies",
+        "B": "Foreign objects in the ear canal",
+        "C": "Aging",
+        "D": "Impacted earwax",
+        "E": "Ruptured eardrum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conductive hearing loss (CHL) results from impaired transmission of sound waves through the external canal, tympanic membrane, or middle ear ossicles to the oval window. Causes include impacted cerumen, foreign objects, eardrum perforation, middle ear effusion, and otosclerosis. In contrast, aging produces presbycusis, which is the progressive, symmetric degeneration of cochlear hair cells (especially in the basal turn) and spiral ganglion neurons, resulting in sensorineural hearing loss (SNHL).\n\nHigh-Yield Clinical Pearl: Presbycusis: Age-related bilateral, symmetric, high-frequency sensorineural hearing loss with difficulty understanding speech in noisy backgrounds.\n\nExam Trap: Always distinguish conductive (impaired air conduction with normal bone conduction) from sensorineural (impaired air and bone conduction equally).",
+      "optionExplanations": {
+        "A": "Allergies cause Eustachian tube dysfunction and middle ear effusion, leading to conductive hearing loss.",
+        "B": "Foreign bodies physically obstruct the external auditory canal, causing conductive hearing loss.",
+        "C": "Correct. In contrast, aging produces presbycusis, which is the progressive, symmetric degeneration of cochlear hair cells (especially in the basal turn) and spiral ganglion neurons, resulting in sensorineural hearing loss (SNHL).",
+        "D": "Impacted earwax (cerumen) is the most common external canal etiology of conductive hearing loss.",
+        "E": "A ruptured eardrum disrupts sound pressure conversion, causing conductive hearing loss."
+      },
+      "educationalObjective": "Recognize that aging (presbycusis) causes sensorineural hearing loss, distinguishing it from conductive etiologies.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-010",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 45-year-old woman has sudden vertigo episodes lasting hours, with fluctuating hearing loss, ear fullness, and tinnitus. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vestibular neuritis",
+        "B": "BPPV",
+        "C": "Ménière's disease",
+        "D": "Labyrinthitis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ménière's disease is caused by endolymphatic hydrops (distention of the endolymphatic system from impaired resorption by the endolymphatic sac). The classic diagnostic tetrad consists of: 1) Episodic rotational vertigo lasting 20 minutes to several hours (typically 2–4 hours); 2) Fluctuating, progressive sensorineural hearing loss (initially affecting low frequencies); 3) Roaring tinnitus; and 4) Aural fullness in the affected ear.\n\nHigh-Yield Clinical Pearl: Ménière's disease tetrad: Episodic vertigo (hours) + Fluctuating low-frequency SNHL + Roaring tinnitus + Aural fullness. Initial management: Low-salt diet (<2 g/day), caffeine/alcohol restriction, and thiazide diuretics.\n\nExam Trap: Vertigo attack duration is key: BPPV = seconds; Ménière's = hours; Vestibular neuritis/Labyrinthitis = days.",
+      "optionExplanations": {
+        "A": "Vestibular neuritis causes prolonged continuous vertigo lasting days, without hearing loss or aural fullness.",
+        "B": "BPPV episodes last seconds (<1 minute) provoked by head turns, with normal hearing and no tinnitus.",
+        "C": "Correct. Ménière's disease is caused by endolymphatic hydrops (distention of the endolymphatic system from impaired resorption by the endolymphatic sac).",
+        "D": "Labyrinthitis causes severe prolonged vertigo with permanent or subacute hearing loss, usually following viral infection, not recurrent discrete multi-hour attacks."
+      },
+      "educationalObjective": "Identify the clinical tetrad of Ménière's disease: episodic vertigo lasting hours, fluctuating hearing loss, tinnitus, and aural fullness.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-011",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A patient presents with a red, tender, and swollen outer ear sparing the lobule. The ear is warm with reduced fold definition. There is no fever. What is the most likely causative organism?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Streptococcus pyogenes",
+        "C": "Pseudomonas aeruginosa",
+        "D": "Haemophilus influenzae"
+      },
+      "correctAnswer": "C",
+      "explanation": "Auricular perichondritis is an infection of the perichondrium of the pinna, commonly developing after high ear piercings, trauma, or burns. The hallmark clinical sign is erythema, swelling, and severe warmth that spares the ear lobule (since the lobule lacks cartilage). The most common causative pathogen is Pseudomonas aeruginosa (>90%), followed by Staphylococcus aureus. Prompt antipseudomonal therapy (e.g., ciprofloxacin) is mandatory to prevent ischemic cartilage necrosis (cauliflower ear).\n\nHigh-Yield Clinical Pearl: Auricular perichondritis spares the earlobe (no cartilage in lobule!). Most common pathogen = Pseudomonas aeruginosa. Treatment = Oral/IV ciprofloxacin.\n\nExam Trap: Erysipelas involves the earlobe; Perichondritis spares the earlobe.",
+      "optionExplanations": {
+        "A": "S. aureus is the second most common pathogen, but Pseudomonas is the primary and classic causative agent in cartilaginous infections.",
+        "B": "Streptococcus pyogenes causes erysipelas or classic cellulitis of the pinna, which characteristically involves the ear lobule.",
+        "C": "Correct. Auricular perichondritis is an infection of the perichondrium of the pinna, commonly developing after high ear piercings, trauma, or burns. The hallmark clinical sign is erythema, swelling, and severe warmth that spares the ear lobule (since the lobule lacks cartilage).",
+        "D": "Haemophilus influenzae is a pathogen of otitis media and epiglottitis, not auricular chondritis."
+      },
+      "educationalObjective": "Identify Pseudomonas aeruginosa as the most common pathogen in auricular perichondritis and recall that the lobule is spared.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-012",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "What is the most common bacterial cause of acute otitis media in infants and young children?",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Moraxella catarrhalis",
+        "C": "Streptococcus pneumoniae",
+        "D": "Staphylococcus aureus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acute otitis media (AOM) is the most common pediatric bacterial infection requiring antimicrobial therapy. The most common bacterial causes are: 1) Streptococcus pneumoniae (~35–40%, most virulent and most likely to cause suppurative complications); 2) Non-typeable Haemophilus influenzae (~30–35%); and 3) Moraxella catarrhalis (~10–15%). High-dose amoxicillin (80–90 mg/kg/day) is the first-line treatment of choice.\n\nHigh-Yield Clinical Pearl: AOM Microbiology: 1) Streptococcus pneumoniae, 2) Non-typeable H. influenzae, 3) Moraxella catarrhalis. First-line therapy: High-dose Amoxicillin.\n\nExam Trap: If child has concurrent purulent conjunctivitis, suspect non-typeable H. influenzae -> treat with Amoxicillin-Clavulanate.",
+      "optionExplanations": {
+        "A": "Haemophilus influenzae is the second most frequent pathogen (and most common in otitis-conjunctivitis syndrome).",
+        "B": "Moraxella catarrhalis is the third most frequent pathogen, with near 100% beta-lactamase production.",
+        "C": "Correct. The most common bacterial causes are: 1) Streptococcus pneumoniae (~35–40%, most virulent and most likely to cause suppurative complications); 2) Non-typeable Haemophilus influenzae (~30–35%); and 3) Moraxella catarrhalis (~10–15%).",
+        "D": "Staphylococcus aureus is uncommon in acute otitis media, more typical of otitis externa or chronic suppurative otitis media."
+      },
+      "educationalObjective": "Recognize Streptococcus pneumoniae as the leading bacterial pathogen in pediatric acute otitis media.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-013",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A diabetic patient with a history of incomplete treatment for tonsillitis at age 14 now presents with severe ear pain, otorrhea, and granulation tissue in the external auditory canal. Which diagnostic test is most appropriate to assess this case?",
+      "options": {
+        "A": "Fungal stain",
+        "B": "CT scan",
+        "C": "Antibiotic therapy",
+        "D": "Pure tone audiometry",
+        "E": "Ear swab culture"
+      },
+      "correctAnswer": "B",
+      "explanation": "In an elderly or diabetic patient presenting with severe nocturnal otalgia, persistent purulent otorrhea, and granulation tissue at the bony-cartilaginous junction of the external canal, malignant otitis externa (MOE) (skull base osteomyelitis caused by Pseudomonas aeruginosa) is the working diagnosis. The most appropriate diagnostic imaging test to assess cortical bone erosion, skull base destruction, and deep tissue extension is a high-resolution CT scan of the temporal bone.\n\nHigh-Yield Clinical Pearl: Malignant Otitis Externa: Diabetic/immunocompromised patient + severe ear pain + granulation tissue at EAC floor + Pseudomonas aeruginosa. Assessment: High-resolution temporal bone CT. Treatment: Prolonged IV/oral fluoroquinolones (ciprofloxacin).\n\nExam Trap: Malignant otitis externa is an osteomyelitis, not a neoplasm. If it extends to the stylomastoid foramen, facial nerve palsy (CN VII) ensues, marking advanced disease.",
+      "optionExplanations": {
+        "A": "Fungal stains diagnose otomycosis (Aspergillus/Candida), which presents with pruritus and fungal hyphae/spores, not skull base osteomyelitis.",
+        "B": "Correct. The most appropriate diagnostic imaging test to assess cortical bone erosion, skull base destruction, and deep tissue extension is a high-resolution CT scan of the temporal bone.",
+        "C": "Antibiotic therapy is treatment, not a diagnostic test to assess disease extent.",
+        "D": "Pure tone audiometry evaluates hearing thresholds but cannot visualize bone erosion or skull base involvement.",
+        "E": "Ear swab culture confirms the pathogen and sensitivities, but imaging (CT) is necessary to assess the structural extent and bone destruction."
+      },
+      "educationalObjective": "Select temporal bone CT scan as the most appropriate test to evaluate bone erosion in suspected malignant otitis externa.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-014",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "What is the most common extracranial complication of acute otitis media?",
+      "options": {
+        "A": "Mastoiditis",
+        "B": "Facial nerve palsy",
+        "C": "Meningitis",
+        "D": "Labyrinthitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Complications of acute otitis media are categorized as extracranial or intracranial. Acute mastoiditis is the most common extracranial complication. It occurs when purulent infection spreads into the mastoid air cells, leading to osteitis and coalescence of bony septa (coalescent mastoiditis). Physical signs include post-auricular erythema, swelling, tenderness, and downward/outward displacement of the auricle.\n\nHigh-Yield Clinical Pearl: AOM Complications: Extracranial most common = Acute Mastoiditis. Intracranial most common = Meningitis (followed by epidural abscess and sigmoid sinus thrombosis).\n\nExam Trap: Effacement of the retroauricular crease with an anteriorly displaced ear is the classic physical finding of acute mastoiditis.",
+      "optionExplanations": {
+        "A": "Correct. Complications of acute otitis media are categorized as extracranial or intracranial. Acute mastoiditis is the most common extracranial complication.",
+        "B": "Facial nerve palsy is an extracranial complication resulting from canal dehiscence or inflammatory edema, but it is less frequent than acute mastoiditis.",
+        "C": "Meningitis is the most common intracranial complication of otitis media.",
+        "D": "Labyrinthitis is an uncommon inner ear complication characterized by acute vertigo and SNHL."
+      },
+      "educationalObjective": "Identify acute mastoiditis as the most common extracranial complication of acute otitis media.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-015",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 20-year-old patient presents with ear pain, fever, and purulent discharge from the external ear canal for 2 days. On examination, there is tenderness when pulling the pinna and swelling of the ear canal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute otitis media",
+        "B": "Otitis media with effusion",
+        "C": "Cholesteatoma",
+        "D": "Bacterial otitis externa"
+      },
+      "correctAnswer": "D",
+      "explanation": "The patient presents with classic features of acute bacterial otitis externa ('swimmer's ear'): severe ear pain, fever, purulent discharge, canal edema, and exquisite tenderness on traction of the pinna or pressure on the tragus. This physical finding reliably differentiates otitis externa from otitis media (where pinna manipulation is painless). The primary pathogen is Pseudomonas aeruginosa, followed by Staphylococcus aureus. Treatment consists of gentle aural toilet and topical antibiotic/ corticosteroid drops.\n\nHigh-Yield Clinical Pearl: Acute Otitis Externa: Pain on manipulation of the tragus/pinna + canal erythema/edema + purulent otorrhea. Common pathogens: Pseudomonas aeruginosa > S. aureus. First-line therapy: Topical fluoroquinolone drops.\n\nExam Trap: Avoid aminoglycoside ear drops (e.g., neomycin) if the tympanic membrane is perforated due to potential cochleotoxicity.",
+      "optionExplanations": {
+        "A": "Acute otitis media involves middle ear inflammation behind a bulging, erythematous tympanic membrane; pinna traction is painless.",
+        "B": "Otitis media with effusion presents with painless conductive hearing loss and serous fluid behind an intact, retracted TM without external canal inflammation.",
+        "C": "Cholesteatoma presents with chronic, painless, foul-smelling otorrhea without acute canal tenderness or fever.",
+        "D": "Correct. The patient presents with classic features of acute bacterial otitis externa ('swimmer's ear'): severe ear pain, fever, purulent discharge, canal edema, and exquisite tenderness on traction of the pinna or pressure on the tragus."
+      },
+      "educationalObjective": "Diagnose acute bacterial otitis externa based on acute otalgia, canal edema, and tenderness on pinna traction.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-016",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following best defines a cholesteatoma?",
+      "options": {
+        "A": "Collection of purulent fluid in the mastoid air cells",
+        "B": "Granulation tissue in the external auditory canal",
+        "C": "Keratinizing squamous epithelium in the middle ear",
+        "D": "Serous effusion behind an intact tympanic membrane",
+        "E": "Hypertrophied mucosa of the Eustachian tube"
+      },
+      "correctAnswer": "C",
+      "explanation": "A cholesteatoma is histopathologically defined as an abnormal accumulation of keratinizing stratified squamous epithelium within the middle ear cleft, attic, or mastoid. The trapped desquamated epithelial debris produces osteolytic enzymes (collagenases, matrix metalloproteinases) that destroy surrounding bony structures, including ossicles (especially the long process of the incus), the tegmen tympani, the fallopian canal (facial palsy), and the lateral semicircular canal (causing labyrinthine fistula).\n\nHigh-Yield Clinical Pearl: Cholesteatoma: Keratinizing squamous epithelium producing destructive keratin debris in the middle ear. Otoscopy reveals a white, pearly attic mass with foul-smelling, scanty otorrhea. Treatment: Surgical eradication (tympanomastoidectomy).\n\nExam Trap: Despite its name, cholesteatoma is NOT a neoplasm and does not contain primary cholesterol crystals; it is an epidermal cyst-like lesion.",
+      "optionExplanations": {
+        "A": "Purulent fluid in the mastoid air cells defines acute coalescent mastoiditis.",
+        "B": "Granulation tissue in the external canal is typical of malignant otitis externa or contact otitis.",
+        "C": "Correct. A cholesteatoma is histopathologically defined as an abnormal accumulation of keratinizing stratified squamous epithelium within the middle ear cleft, attic, or mastoid.",
+        "D": "Serous effusion behind an intact tympanic membrane defines otitis media with effusion (OME).",
+        "E": "Hypertrophied Eustachian tube mucosa describes chronic Eustachian tube dysfunction."
+      },
+      "educationalObjective": "Define cholesteatoma as a destructive collection of keratinizing squamous epithelium in the middle ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-017",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following statements about otitis media with effusion is FALSE?",
+      "options": {
+        "A": "The disease affects children aged 5-8 years",
+        "B": "Caused by malfunctioning Eustachian tube",
+        "C": "Otoscopic examination shows a dull and retracted tympanic membrane",
+        "D": "More than 50% of patients present with recurrent ear pain",
+        "E": "It may resolve spontaneously in many cases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Otitis media with effusion (OME) is defined as fluid in the middle ear space without acute signs or symptoms of infection. Statement D is FALSE because ear pain is characteristically absent or minimal in OME; patients typically present with painless conductive hearing loss, speech delay, or poor school performance. More than 75–90% of OME cases resolve spontaneously within 3 months of watchful waiting.\n\nHigh-Yield Clinical Pearl: Otitis Media with Effusion (Glue Ear): Painless conductive hearing loss + dull/retracted TM + Type B (flat) tympanogram. Management: Watchful waiting for 3 months; if persistent with bilateral hearing loss, insert tympanostomy tubes (grommets).\n\nExam Trap: Unilateral OME in an adult is a red flag for nasopharyngeal carcinoma obstructing the Eustachian tube; nasopharyngoscopy is mandatory.",
+      "optionExplanations": {
+        "A": "True statement: OME predominantly affects young pediatric populations aged 2–8 years.",
+        "B": "True statement: Eustachian tube dysfunction is the central pathophysiological mechanism.",
+        "C": "True statement: Otoscopy shows a dull, retracted, amber/gray TM with decreased mobility on pneumatic otoscopy.",
+        "D": "Correct. Otitis media with effusion (OME) is defined as fluid in the middle ear space without acute signs or symptoms of infection. Statement D is FALSE because ear pain is characteristically absent or minimal in OME; patients typically present with painless conductive hearing loss, speech delay, or poor school performance.",
+        "E": "True statement: Spontaneous resolution occurs in the vast majority of patients within 3 months."
+      },
+      "educationalObjective": "Recognize that otitis media with effusion presents with painless conductive hearing loss and typically resolves spontaneously.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-018",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A male swimmer with eye complaints woke up one day with fluid on his pillow. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute otitis media",
+        "B": "Otitis externa",
+        "C": "Acute otitis externa"
+      },
+      "correctAnswer": "B",
+      "explanation": "A swimmer waking up with fluid on the pillow (otorrhea) and ear complaints has acute otitis externa ('swimmer's ear'). Water exposure macerates the canal stratum corneum and elevates canal pH, creating an ideal environment for Pseudomonas aeruginosa proliferation. Treatment involves topical antibiotic/steroid drops and water precautions.\n\nHigh-Yield Clinical Pearl: Swimmer's Ear = Otitis Externa. Moisture exposure leads to maceration and alkaline pH shift, predisposing to Pseudomonas aeruginosa infection.\n\nExam Trap: Do not place ear drops containing aminoglycosides if tympanic membrane integrity cannot be confirmed.\n\n[Flag: the source stem says \"eye complaints\" although its explanation refers to ear complaints/otorrhea, and options B (\"Otitis externa\") and C (\"Acute otitis externa\") overlap. Source key B retained.]",
+      "optionExplanations": {
+        "A": "Acute otitis media typically presents following an upper respiratory infection with severe otalgia and fever before tympanic membrane rupture occurs.",
+        "B": "Correct. A swimmer waking up with fluid on the pillow (otorrhea) and ear complaints has acute otitis externa ('swimmer's ear'). Water exposure macerates the canal stratum corneum and elevates canal pH, creating an ideal environment for Pseudomonas aeruginosa proliferation.",
+        "C": "[Independent – not in source] The source gave placeholder text only for this option. Acute otitis externa is the same condition as the source's rationale (\"swimmer's ear\") and overlaps with keyed option B, which the source designates as the broad diagnosis; this option is therefore ambiguous."
+      },
+      "educationalObjective": "Identify otitis externa as the most likely diagnosis in a swimmer presenting with otorrhea and canal irritation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-019",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All are true regarding audiometry except:",
+      "options": {
+        "A": "Measures the sound emitted from the cochlea",
+        "B": "Gives the type of deafness",
+        "C": "Gives the possible cause of deafness",
+        "D": "Gives hearing loss in dB",
+        "E": "Helps in selecting a hearing aid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pure tone audiometry (PTA) is a psychoacoustic subjective behavioral test that determines the hearing threshold (in decibels, dB) across various sound frequencies (250–8000 Hz). It reliably identifies the degree of hearing loss and the type of hearing loss (conductive, sensorineural, or mixed) by comparing air and bone conduction thresholds, and guides hearing aid selection. However, PTA CANNOT determine the definitive etiology/cause of deafness (e.g., whether SNHL is due to acoustic neuroma, viral labyrinthitis, or ototoxic drugs requires clinical history, examination, and imaging/MRI).\n\nHigh-Yield Clinical Pearl: Audiometry defines the TYPE (conductive vs sensorineural) and SEVERITY (dB) of hearing loss, but NOT the underlying etiology.\n\nExam Trap: Never rely on an audiogram alone to diagnose the underlying pathology; an acoustic neuroma and sudden idiopathic SNHL can produce identical pure-tone curves.\n\n[Flag: option A (measuring sound emitted from the cochlea) describes otoacoustic emissions rather than audiometry, so it also appears false. Source key C retained.]",
+      "optionExplanations": {
+        "A": "True statement: While OAE measures cochlear emissions, speech/impedance/audiometric suites assess various cochlear and middle ear responses.",
+        "B": "True statement: Audiometry differentiates conductive, sensorineural, and mixed deafness.",
+        "C": "Correct. Pure tone audiometry (PTA) is a psychoacoustic subjective behavioral test that determines the hearing threshold (in decibels, dB) across various sound frequencies (250–8000 Hz).",
+        "D": "True statement: Thresholds are quantified in decibels (dB HL).",
+        "E": "True statement: Audiometry is fundamental for selecting and programming hearing aids."
+      },
+      "educationalObjective": "Understand that pure tone audiometry determines hearing thresholds and loss type, but cannot establish the specific pathological etiology.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-020",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Middle ear effusion:",
+      "options": {
+        "A": "Negative Rinne test ipsilateral",
+        "B": "Positive Rinne test ipsilateral"
+      },
+      "correctAnswer": "A",
+      "explanation": "Middle ear effusion creates a mechanical barrier that impedes the vibration of the tympanic membrane and ossicles, resulting in conductive hearing loss. On tuning fork examination, conductive hearing loss produces a negative Rinne test on the ipsilateral side (bone conduction heard louder than air conduction, BC > AC).\n\nHigh-Yield Clinical Pearl: Middle Ear Effusion = Conductive Hearing Loss = Negative Rinne on ipsilateral ear (BC > AC) + Weber lateralizes to affected ear.\n\nExam Trap: Remember that a negative Rinne test requires an air-bone gap of at least 15–20 dB to overcome normal air conduction efficiency.",
+      "optionExplanations": {
+        "A": "Correct. Middle ear effusion creates a mechanical barrier that impedes the vibration of the tympanic membrane and ossicles, resulting in conductive hearing loss.",
+        "B": "A positive Rinne test (AC > BC) is normal or seen in pure sensorineural hearing loss, not middle ear effusion."
+      },
+      "educationalObjective": "Associate middle ear effusion with an ipsilateral negative Rinne test (BC > AC).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-021",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Malignant otitis externa is characterized by:",
+      "options": {
+        "A": "Mitotic figures",
+        "B": "Granulation tissue",
+        "C": "Old age",
+        "D": "Pseudomonas aeruginosa",
+        "E": "Immunocompromised state"
+      },
+      "correctAnswer": "A",
+      "explanation": "Malignant (necrotizing) otitis externa is an aggressive, invasive osteomyelitis of the external auditory canal and skull base caused by Pseudomonas aeruginosa, typically affecting elderly diabetic or immunocompromised patients. It is characterized by granulation tissue, deep nocturnal otalgia, and Pseudomonas infection. It is NOT characterized by mitotic figures because it is an inflammatory osteomyelitis, not a true neoplastic malignancy (though biopsy is performed to rule out squamous cell carcinoma).\n\nHigh-Yield Clinical Pearl: Malignant Otitis Externa is an infection, NOT a neoplasm. Mitotic figures are absent. Hallmark: Granulation tissue at EAC floor + Pseudomonas aeruginosa in elderly diabetics.\n\nExam Trap: The term 'malignant' refers to its aggressive, historically lethal clinical behavior, not to histopathological malignancy.\n\n[Flag: as printed, the stem (\"is characterized by\") conflicts with the source key and explanation, which state that mitotic figures are NOT a feature. A negation (\"...is NOT characterized by\") was probably lost. Source key A retained.]",
+      "optionExplanations": {
+        "A": "Correct. Malignant (necrotizing) otitis externa is an aggressive, invasive osteomyelitis of the external auditory canal and skull base caused by Pseudomonas aeruginosa, typically affecting elderly diabetic or immunocompromised patients.",
+        "B": "Granulation tissue at the bony-cartilaginous junction of the external auditory canal is the classic hallmark sign.",
+        "C": "Elderly age is a major epidemiological risk factor.",
+        "D": "Pseudomonas aeruginosa is the causative organism in >95% of cases.",
+        "E": "Immunocompromised states (especially diabetes mellitus) are present in virtually all patients."
+      },
+      "educationalObjective": "Recognize that malignant otitis externa is an aggressive bacterial osteomyelitis, lacking neoplastic features like mitotic figures.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-022",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The hearing test used for infants is:",
+      "options": {
+        "A": "Auditory brainstem response (ABR)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Auditory Brainstem Response (ABR) is the gold standard electrophysiological test for assessing hearing thresholds in infants. It records electrical potentials generated by the auditory nerve and brainstem pathways (Waves I–V) in response to sound clicks, independent of patient cooperation.\n\nHigh-Yield Clinical Pearl: ABR (BAER): Objective electrophysiologic test assessing auditory pathway from CN VIII to inferior colliculus. Wave I = CN VIII; Wave III = Superior olivary complex; Wave V = Inferior colliculus (most robust, used for threshold estimation).\n\nExam Trap: ABR requires that the infant be quiet, asleep, or sedated to prevent myogenic artifact from obscuring brainstem waves.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The Auditory Brainstem Response (ABR) is the gold standard electrophysiological test for assessing hearing thresholds in infants. It records electrical potentials generated by the auditory nerve and brainstem pathways (Waves I–V) in response to sound clicks, independent of patient cooperation."
+      },
+      "educationalObjective": "Identify auditory brainstem response (ABR) as the objective electrophysiologic test used to establish hearing thresholds in infants.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-023",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The normal hearing threshold for adults is:",
+      "options": {
+        "A": "20 dB"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard normal hearing threshold in adults is defined as sound detection at 0 to 20 dB HL (or up to 25 dB HL in clinical practice) across all speech frequencies (250–8000 Hz). Thresholds above 20–25 dB HL signify hearing impairment: Mild (26– 40 dB), Moderate (41–55 dB), Moderately Severe (56–70 dB), Severe (71–90 dB), and Profound (>90 dB).\n\nHigh-Yield Clinical Pearl: Hearing Loss Classification (dB HL): Normal: 0–20 dB; Mild: 26–40 dB; Moderate: 41–55 dB; Severe: 71–90 dB; Profound: >90 dB.\n\nExam Trap: A threshold of 0 dB does not mean absence of sound; it represents the average hearing threshold of healthy young adults.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The standard normal hearing threshold in adults is defined as sound detection at 0 to 20 dB HL (or up to 25 dB HL in clinical practice) across all speech frequencies (250–8000 Hz)."
+      },
+      "educationalObjective": "Recall that normal adult hearing thresholds are 20 dB HL or better across standard audiometric frequencies.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-024",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A cause of sensorineural hearing loss is:",
+      "options": {
+        "A": "Presbycusis",
+        "B": "Longitudinal fracture of the temporal bone",
+        "C": "Otosclerosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Presbycusis is age-related sensorineural hearing loss resulting from the progressive loss of cochlear hair cells, stria vascularis degeneration, and auditory neuron atrophy. It produces bilateral, symmetric high-frequency sensorineural hearing loss with reduced speech discrimination.\n\nHigh-Yield Clinical Pearl: Temporal bone fractures: Longitudinal = Conductive hearing loss, bleeding from EAC, facial nerve spared (80%). Transverse = Sensorineural hearing loss, severe vertigo, hemotympanum, facial palsy (50%).\n\nExam Trap: Longitudinal temporal bone fractures cause CHL; transverse fractures cross the otic capsule and cause permanent SNHL and severe vertigo.",
+      "optionExplanations": {
+        "A": "Correct. Presbycusis is age-related sensorineural hearing loss resulting from the progressive loss of cochlear hair cells, stria vascularis degeneration, and auditory neuron atrophy.",
+        "B": "Longitudinal temporal bone fractures (80% of skull fractures) typically spare the otic capsule and disrupt the ossicular chain, causing conductive hearing loss (transverse fractures cause SNHL).",
+        "C": "Otosclerosis causes conductive hearing loss due to stapes footplate fixation."
+      },
+      "educationalObjective": "Identify presbycusis as a cause of sensorineural hearing loss, distinguishing it from ossicular and conductive pathology.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-025",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A peripheral cause of episodic vertigo is:",
+      "options": {
+        "A": "Benign paroxysmal positional vertigo (BPPV)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Benign Paroxysmal Positional Vertigo (BPPV) is the most frequent peripheral vestibular cause of episodic vertigo. It is caused by free-floating otoconia in the semicircular canals (canalithiasis), provoking brief (< 1 min) paroxysms of vertigo upon head positional changes.\n\nHigh-Yield Clinical Pearl: Peripheral Vertigo Causes: BPPV (seconds, positional), Ménière's disease (hours, hearing loss/tinnitus), Vestibular neuritis (days, post-viral, no hearing loss).\n\nExam Trap: Peripheral vertigo exhibits visual fixation suppression, unidirectional nystagmus, and no focal neurologic deficits; central vertigo lacks latency, does not fatigue, and is not suppressed by fixation.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Benign Paroxysmal Positional Vertigo (BPPV) is the most frequent peripheral vestibular cause of episodic vertigo. It is caused by free-floating otoconia in the semicircular canals (canalithiasis), provoking brief (< 1 min) paroxysms of vertigo upon head positional changes."
+      },
+      "educationalObjective": "Recognize BPPV as the classic peripheral vestibular disorder causing brief, episodic vertigo.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-026",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Itchy ear due to aspergillosis infection is treated with:",
+      "options": {
+        "A": "Toileting and topical antifungal",
+        "B": "Oral antifungal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otomycosis is a fungal infection of the external auditory canal, most commonly caused by Aspergillus niger (black spores) or Candida albicans (white/cottony debris). Patients present with intense pruritus, ear fullness, and grayish-black discharge. The definitive first-line treatment is thorough microscopic aural toileting (suction/debridement) followed by topical antifungal therapy (e.g., clotrimazole, econazole, or 2% acetic acid drops). Oral antifungals are reserved for refractory or invasive disease.\n\nHigh-Yield Clinical Pearl: Otomycosis: Intense pruritus + wet newspaper debris with black spores (Aspergillus niger). Treatment: Meticulous aural toilet + Topical antifungal (Clotrimazole) or acidifying drops (acetic acid).\n\nExam Trap: Topical antibacterial drops worsen otomycosis by eradicating normal bacterial flora, allowing fungal overgrowth.",
+      "optionExplanations": {
+        "A": "Correct. Otomycosis is a fungal infection of the external auditory canal, most commonly caused by Aspergillus niger (black spores) or Candida albicans (white/cottony debris).",
+        "B": "Oral antifungals are unnecessary for uncomplicated otomycosis and carry risks of systemic hepatotoxicity and drug interactions."
+      },
+      "educationalObjective": "Identify meticulous aural toileting and topical antifungal application as the mainstay of therapy for otomycosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-027",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Otitis media with effusion without any acute symptoms. The most appropriate management is:",
+      "options": {
+        "A": "Watchful waiting"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an asymptomatic child with otitis media with effusion (OME) and no acute infectious symptoms or systemic signs, the initial management of choice is watchful waiting (observation) for 3 months. Over 75–90% of OME episodes resolve spontaneously without intervention. Decongestants, antihistamines, and systemic antibiotics are NOT recommended because they do not alter long-term resolution rates.\n\nHigh-Yield Clinical Pearl: OME Clinical Practice Guidelines: Watchful waiting for 3 months from diagnosis. If effusion persists > 3 months with bilateral hearing loss, perform hearing evaluation and consider tympanostomy tube (grommet) placement.\n\nExam Trap: Antihistamines, oral decongestants, and antibiotics have no proven benefit in uncomplicated OME and should not be prescribed.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. In an asymptomatic child with otitis media with effusion (OME) and no acute infectious symptoms or systemic signs, the initial management of choice is watchful waiting (observation) for 3 months."
+      },
+      "educationalObjective": "Recommend watchful waiting as the initial management strategy for asymptomatic otitis media with effusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-028",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Hyperacusis is associated with which muscle?",
+      "options": {
+        "A": "Stapedius muscle",
+        "B": "Chorda tympani"
+      },
+      "correctAnswer": "A",
+      "explanation": "The stapedius muscle, innervated by the nerve to stapedius from the facial nerve (CN VII), inserts onto the neck of the stapes. In response to loud acoustic stimuli (> 70–90 dB), it contracts reflexively to pull the stapes posteriorly, dampening ossicular vibrations and protecting the cochlea from acoustic trauma. Paralysis of the stapedius muscle (as in Bell's palsy or proximal facial nerve injury) leads to loss of this protective damping reflex, causing hyperacusis (painful sensitivity to ordinary sounds).\n\nHigh-Yield Clinical Pearl: Stapedius muscle = Innervated by CN VII. Dampens loud sounds. Lesion proximal to stapedial nerve -> Hyperacusis. Tensor tympani = Innervated by CN V3 (mandibular nerve), dampens chewing sounds.\n\nExam Trap: Do not confuse the stapedius muscle (CN VII) with the tensor tympani (CN V3).",
+      "optionExplanations": {
+        "A": "Correct. The stapedius muscle, innervated by the nerve to stapedius from the facial nerve (CN VII), inserts onto the neck of the stapes. In response to loud acoustic stimuli (> 70–90 dB), it contracts reflexively to pull the stapes posteriorly, dampening ossicular vibrations and protecting the cochlea from acoustic trauma.",
+        "B": "The chorda tympani carries taste fibers from the anterior two-thirds of the tongue and parasympathetic fibers to the submandibular/sublingual glands; it has no motor action on middle ear ossicles."
+      },
+      "educationalObjective": "Understand that hyperacusis results from paralysis of the stapedius muscle due to loss of the acoustic attenuation reflex.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-029",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The correct definition or statement about otitis media with effusion is:",
+      "options": {
+        "A": "Accumulation of fluid in the middle ear"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otitis media with effusion (OME) is defined as the accumulation of non-purulent fluid in the middle ear cleft behind an intact tympanic membrane, in the absence of signs and symptoms of acute infection (no acute otalgia, fever, or prominent TM bulging).\n\nHigh-Yield Clinical Pearl: Otitis Media with Effusion: Fluid in the middle ear WITHOUT acute infection. Characterized by conductive hearing loss and flat (Type B) tympanogram.\n\nExam Trap: Distinguish OME from Acute Otitis Media (AOM): AOM requires acute onset, middle ear effusion, AND acute signs of TM inflammation (erythema, intense pain, bulging).\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Otitis media with effusion (OME) is defined as the accumulation of non-purulent fluid in the middle ear cleft behind an intact tympanic membrane, in the absence of signs and symptoms of acute infection (no acute otalgia, fever, or prominent TM bulging)."
+      },
+      "educationalObjective": "Define otitis media with effusion as the presence of middle ear fluid without acute inflammatory symptoms.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-030",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "In a case of BPPV with a positive Dix-Hallpike maneuver, the finding is:",
+      "options": {
+        "A": "Geometric nystagmus",
+        "B": "Gaze nystagmus",
+        "C": "Vertical nystagmus"
+      },
+      "correctAnswer": "A",
+      "explanation": "During a positive Dix-Hallpike maneuver for posterior canal BPPV, the characteristic nystagmus is torsional, geotropic (fast phase beating toward the lower ear/ground), and upbeating, exhibiting a latency of 2–10 seconds and resolving within 30–60 seconds (fatigable). In horizontal canal BPPV, horizontal geotropic nystagmus occurs.\n\nHigh-Yield Clinical Pearl: Dix-Hallpike Nystagmus in Posterior BPPV: Torsional, geotropic, upbeating with latency (2–10s), brief duration (<60s), and fatigability on repeat testing. Pure vertical nystagmus = Central lesion!\n\nExam Trap: Pure vertical nystagmus without a torsional component or latency indicates a CENTRAL intracranial lesion, NOT BPPV!\n\n[Flag: option A reads \"Geometric nystagmus\" in the source; the explanation indicates \"geotropic\" nystagmus. Wording preserved as printed.]",
+      "optionExplanations": {
+        "A": "Correct. During a positive Dix-Hallpike maneuver for posterior canal BPPV, the characteristic nystagmus is torsional, geotropic (fast phase beating toward the lower ear/ground), and upbeating, exhibiting a latency of 2–10 seconds and resolving within 30–60 seconds (fatigable).",
+        "B": "Gaze-evoked nystagmus suggests central nervous system (cerebellar or brainstem) pathology.",
+        "C": "Pure vertical (downbeating or upbeating) nystagmus without torsion is a red flag for central pathology (e.g., Chiari malformation, cerebellar stroke)."
+      },
+      "educationalObjective": "Recognize that BPPV typically produces torsional, geotropic nystagmus with latency and fatigue during the Dix-Hallpike test.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-031",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Communication between the middle ear and Eustachian tube is obliterated in which procedure?",
+      "options": {
+        "A": "Radical mastoidectomy",
+        "B": "Modified mastoidectomy",
+        "C": "Grommet insertion"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a radical mastoidectomy, all mastoid air cells, the posterior canal wall, tympanic membrane remnants, malleus, and incus are completely removed, exteriorizing the mastoid cavity and middle ear into a common exteriorized cavity. In addition, the Eustachian tube opening is surgically obliterated to prevent persistent mucus rhinorrhea and middle ear contamination.\n\nHigh-Yield Clinical Pearl: Radical Mastoidectomy: Converts middle ear and mastoid into a single open cavity, sacrifices hearing mechanism, and obliterates the Eustachian tube orifice.\n\nExam Trap: Modified radical mastoidectomy aims to preserve hearing function; radical mastoidectomy prioritizes complete disease eradication when hearing cannot be saved.",
+      "optionExplanations": {
+        "A": "Correct. In addition, the Eustachian tube opening is surgically obliterated to prevent persistent mucus rhinorrhea and middle ear contamination.",
+        "B": "Modified radical mastoidectomy preserves the middle ear space and remaining ossicles for hearing reconstruction; the Eustachian tube remains patent.",
+        "C": "Grommet insertion is a minor outpatient procedure to ventilate the middle ear in OME."
+      },
+      "educationalObjective": "Identify radical mastoidectomy as the surgical procedure in which the Eustachian tube orifice is obliterated.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-032",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Regarding a foreign body in the ear:",
+      "options": {
+        "A": "A chargeable battery should be emergently removed",
+        "B": "Occurs only in children",
+        "C": "Forceps are used for removal",
+        "D": "Epistaxis is more common"
+      },
+      "correctAnswer": "A",
+      "explanation": "A button battery (rechargeable or alkaline disc battery) in the ear canal or nasal cavity is an absolute surgical emergency. The moisture of canal skin and secretions completes an electrical circuit, causing hydroxide generation and severe alkaline liquefaction necrosis. Perforation of the tympanic membrane, necrosis of ossicles, canal stenosis, and facial nerve injury can occur within 2 to 4 hours. Immediate removal is mandatory. Water irrigation is strictly contraindicated as moisture accelerates current discharge and chemical burns.\n\nHigh-Yield Clinical Pearl: Button Battery in Ear/Nose: True surgical emergency! Rapid liquefaction necrosis in 2–4 hours. Do NOT irrigate! Immediate extraction under direct vision.\n\nExam Trap: Never irrigate a button battery or organic vegetable matter (e.g., beans will swell and cause severe canal impaction).",
+      "optionExplanations": {
+        "A": "Correct. A button battery (rechargeable or alkaline disc battery) in the ear canal or nasal cavity is an absolute surgical emergency. The moisture of canal skin and secretions completes an electrical circuit, causing hydroxide generation and severe alkaline liquefaction necrosis.",
+        "B": "Aural foreign bodies occur in both children and adults (e.g., cotton swabs, insects, broken earplugs).",
+        "C": "Forceps should be avoided for smooth, spherical foreign bodies because they tend to push the object deeper; right-angle hooks or suction loops are preferred.",
+        "D": "Epistaxis is associated with nasal foreign bodies, not ear foreign bodies."
+      },
+      "educationalObjective": "Recognize an aural button battery as a medical emergency requiring emergent removal without irrigation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-033",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Episodic hearing loss with vertigo and nausea is characteristic of:",
+      "options": {
+        "A": "Ménière's disease"
+      },
+      "correctAnswer": "A",
+      "explanation": "The triad/tetrad of episodic vertigo lasting hours, fluctuating low-frequency sensorineural hearing loss, roaring tinnitus, and nausea/vomiting is characteristic of Ménière's disease (endolymphatic hydrops).\n\nHigh-Yield Clinical Pearl: Ménière's Disease: Episodic vertigo (hours) + Fluctuating low-frequency SNHL + Tinnitus + Aural fullness. Initial management: Low-salt diet (<2 g/day) and thiazide diuretics.\n\nExam Trap: BPPV causes vertigo lasting seconds (<1 min) with normal hearing; vestibular neuritis causes vertigo lasting days with normal hearing.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The triad/tetrad of episodic vertigo lasting hours, fluctuating low-frequency sensorineural hearing loss, roaring tinnitus, and nausea/vomiting is characteristic of Ménière's disease (endolymphatic hydrops)."
+      },
+      "educationalObjective": "Identify Ménière's disease as the cause of episodic hearing loss accompanied by vertigo and nausea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-034",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The definition of cholesteatoma is:",
+      "options": {
+        "A": "Keratin debris"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cholesteatoma consists of an accumulation of desquamated keratin debris produced by a matrix of keratinizing stratified squamous epithelium in the middle ear or mastoid cavity.\n\nHigh-Yield Clinical Pearl: Cholesteatoma = Keratin debris surrounded by keratinizing squamous epithelium in the middle ear space.\n\nExam Trap: Cholesteatoma is not a neoplasm and does not contain primary cholesterol crystals.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. A cholesteatoma consists of an accumulation of desquamated keratin debris produced by a matrix of keratinizing stratified squamous epithelium in the middle ear or mastoid cavity."
+      },
+      "educationalObjective": "Define cholesteatoma as a collection of keratin debris within the middle ear cleft.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-035",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Next step in a Chinese patient with middle ear effusion (glue ear) and a history of tonsillitis at age 18, now with loud tinnitus:",
+      "options": {
+        "A": "MRI",
+        "B": "CT",
+        "C": "Nasoendoscopy"
+      },
+      "correctAnswer": "C",
+      "explanation": "In an adult—especially of Chinese or Southeast Asian descent—presenting with new-onset unilateral middle ear effusion (glue ear), aural fullness, and loud tinnitus, nasopharyngeal carcinoma (NPC) must be ruled out immediately. NPC characteristically arises in the fossa of Rosenmüller and obstructs the Eustachian tube orifice. The mandatory next diagnostic step is nasoendoscopy (flexible fiberoptic examination of the nasopharynx) to inspect the fossa of Rosenmüller and obtain biopsy.\n\nHigh-Yield Clinical Pearl: Adult with UNILATERAL Otitis Media with Effusion: Rule out Nasopharyngeal Carcinoma! Next step = Flexible nasopharyngoscopy to examine the fossa of Rosenmüller.\n\nExam Trap: Never place a ventilation tube in an adult with unilateral middle ear effusion without first examining the nasopharynx to exclude a tumor.",
+      "optionExplanations": {
+        "A": "MRI is used for local tumor staging and skull base assessment, but direct endoscopic visualization and biopsy is the mandatory first step.",
+        "B": "CT evaluates bony erosion, but direct visual examination via nasoendoscopy is the immediate priority.",
+        "C": "Correct. In an adult—especially of Chinese or Southeast Asian descent—presenting with new-onset unilateral middle ear effusion (glue ear), aural fullness, and loud tinnitus, nasopharyngeal carcinoma (NPC) must be ruled out immediately."
+      },
+      "educationalObjective": "Recommend immediate nasoendoscopy for an adult presenting with unilateral middle ear effusion to rule out nasopharyngeal carcinoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-036",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A tumor behind the ear with the ear displaced forward is most likely:",
+      "options": {
+        "A": "Mastoiditis"
+      },
+      "correctAnswer": "A",
+      "explanation": "An inflammatory mass or swelling behind the ear that displaces the auricle forward and downward (loss of the postauricular crease) is the classic presentation of acute coalescent mastoiditis with a subperiosteal abscess (Bezold's or postauricular abscess).\n\nHigh-Yield Clinical Pearl: Acute Mastoiditis: Postauricular erythema, swelling, tenderness, and downward/forward displacement of the pinna.\n\nExam Trap: Do not mistake acute mastoiditis for simple cellulitis or parotitis; forward ear displacement and retroauricular sulcus effacement confirm mastoid origin.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. An inflammatory mass or swelling behind the ear that displaces the auricle forward and downward (loss of the postauricular crease) is the classic presentation of acute coalescent mastoiditis with a subperiosteal abscess (Bezold's or postauricular abscess)."
+      },
+      "educationalObjective": "Identify acute mastoiditis as the cause of post-auricular swelling with forward displacement of the ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-037",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 40-year-old male patient with no previous medical history complains of severe ear pain of one day duration, ear blockage, and white cheesy discharge from the right ear. Which statement is true?",
+      "options": {
+        "A": "Weber will be lateralized to the left",
+        "B": "History of previous upper respiratory tract infection is significant in this condition",
+        "C": "The most common cause of this condition is Streptococcus pneumoniae",
+        "D": "Treated with topical antibiotics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Acute severe ear pain, ear blockage, and white cheesy/purulent discharge in an otherwise healthy 40-year-old male is diagnostic of acute otitis externa (bacterial or fungal otomycosis). It is treated definitively with meticulous aural toilet and topical antibiotic or antifungal drops. Systemic antibiotics are unnecessary for uncomplicated disease confined to the canal.\n\nHigh-Yield Clinical Pearl: Acute Otitis Externa: Treat with topical antibiotic/corticosteroid drops and thorough aural toilet. Weber lateralizes to the affected (blocked) ear.\n\nExam Trap: Avoid oral antibiotics in uncomplicated otitis externa; topical drops achieve 1000x higher local concentrations without systemic side effects.\n\n[Flag (minor): a white cheesy discharge suggests fungal otitis externa, for which topical antifungal drops would be expected; the source rationale accepts topical antibiotic or antifungal. Source key D retained.]",
+      "optionExplanations": {
+        "A": "In right-sided conductive hearing loss due to canal blockage, the Weber test lateralizes to the right (affected) ear, not the left.",
+        "B": "Prior upper respiratory infections are significant for acute otitis media, not otitis externa.",
+        "C": "Streptococcus pneumoniae causes acute otitis media; otitis externa is primarily caused by Pseudomonas aeruginosa and S. aureus.",
+        "D": "Correct. Acute severe ear pain, ear blockage, and white cheesy/purulent discharge in an otherwise healthy 40-year-old male is diagnostic of acute otitis externa (bacterial or fungal otomycosis)."
+      },
+      "educationalObjective": "Recognize that acute otitis externa is treated with topical antimicrobial therapy and aural toilet.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-038",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The most common congenital auricular deformity is:",
+      "options": {
+        "A": "Microtia",
+        "B": "Preauricular tag",
+        "C": "Preauricular sinus",
+        "D": "Prominent ear deformity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Prominent ear deformity (bat ear) is the most common congenital auricular anomaly, occurring in approximately 5% of the general population. It is caused by an underdeveloped antihelical fold and/or excessive conchal cartilage bowl depth. It is repaired surgically via otoplasty around age 5 to 6 years.\n\nHigh-Yield Clinical Pearl: Most common congenital ear anomaly = Prominent ear deformity (due to poorly developed antihelix and deep conchal bowl). Correction: Otoplasty at age 5–6.\n\nExam Trap: Otoplasty is delayed until age 5–6 to allow auricular cartilage to reach adult size and minimize psychological trauma from school bullying.",
+      "optionExplanations": {
+        "A": "Microtia is a rare congenital anomaly occurring in 1:6,000 to 1:12,000 live births.",
+        "B": "Preauricular tags are common minor hillock anomalies, but prominent ears are the most frequent structural pinna deformity.",
+        "C": "Preauricular sinus is common, but prominent ear deformity is the most prevalent anatomical auricular malformation.",
+        "D": "Correct. Prominent ear deformity (bat ear) is the most common congenital auricular anomaly, occurring in approximately 5% of the general population. It is caused by an underdeveloped antihelical fold and/or excessive conchal cartilage bowl depth."
+      },
+      "educationalObjective": "Identify prominent ear deformity as the most common congenital auricular malformation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-039",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which grade of microtia may not require bone-anchored hearing aids if there is no sensorineural hearing loss?",
+      "options": {
+        "A": "Grade 2",
+        "B": "Grade 3 and 1",
+        "C": "Grade 1",
+        "D": "Grade 1 and 2"
+      },
+      "correctAnswer": "C",
+      "explanation": "In Grade 1 microtia, the external ear is slightly smaller than normal but all anatomical landmarks (helix, antihelix, tragus, concha) are present, and the external auditory canal is patent and normal in caliber. If there is no sensorineural hearing loss, middle ear ossicular transmission is typically normal, and the patient does NOT require a bone-anchored hearing aid (BAHA).\n\nHigh-Yield Clinical Pearl: Microtia: Grade 1 = Small ear with patent canal (no BAHA needed if hearing is intact). Grade 2 = Partial ear with stenosis/atresia. Grade 3 = Peanut ear with complete canal atresia (requires BAHA).\n\nExam Trap: In bilateral canal atresia (Grade 3), early BAHA on a softband must be fitted within the first months of life to prevent auditory deprivation and speech delay.",
+      "optionExplanations": {
+        "A": "Grade 2 microtia often exhibits canal stenosis or atresia with substantial conductive hearing loss requiring amplification.",
+        "B": "Grade 3 microtia has complete canal atresia with severe conductive hearing loss, universally requiring BAHA.",
+        "C": "Correct. In Grade 1 microtia, the external ear is slightly smaller than normal but all anatomical landmarks (helix, antihelix, tragus, concha) are present, and the external auditory canal is patent and normal in caliber.",
+        "D": "Grade 2 typically requires hearing aid intervention."
+      },
+      "educationalObjective": "Recognize that Grade 1 microtia with a patent ear canal does not require bone-anchored hearing aids if hearing is normal.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-040",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 36-year-old male patient presents with ear discharge for 7 months, scanty amount and foul-smelling, not responding to treatment. What is the next step?",
+      "options": {
+        "A": "MRI",
+        "B": "Posterior rhinoscopy",
+        "C": "Temporal bone CT",
+        "D": "Otoscopic examination"
+      },
+      "correctAnswer": "D",
+      "explanation": "A patient presenting with chronic (7 months), scanty, foul-smelling ear discharge that fails medical therapy has the classic presentation of a cholesteatoma or chronic suppurative otitis media with attic retraction. The immediate next diagnostic step is a careful otoscopic examination (ideally under an operative microscope) to inspect the attic (pars flaccida) and posterior-superior quadrant for a retraction pocket, keratin debris, or polyps.\n\nHigh-Yield Clinical Pearl: Scanty, foul-smelling, persistent otorrhea = Cholesteatoma until proven otherwise. Initial step: Microscopic otoscopic examination to inspect the pars flaccida.\n\nExam Trap: Never order advanced imaging before performing a thorough otoscopic examination.",
+      "optionExplanations": {
+        "A": "MRI is helpful for assessing intracranial extension or differentiating recurrence from scar tissue, but otoscopy is the essential initial examination.",
+        "B": "Posterior rhinoscopy evaluates the nasopharynx; it does not visualize middle ear disease.",
+        "C": "Temporal bone CT is essential for surgical planning, but physical otoscopic examination under the microscope must be performed first.",
+        "D": "Correct. A patient presenting with chronic (7 months), scanty, foul-smelling ear discharge that fails medical therapy has the classic presentation of a cholesteatoma or chronic suppurative otitis media with attic retraction."
+      },
+      "educationalObjective": "Select otoscopic examination as the immediate next step in evaluating chronic foul-smelling otorrhea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-041",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which statement is true about malignant otitis externa?",
+      "options": {
+        "A": "Most cases are caused by S. aureus",
+        "B": "Mortality is 15-40%",
+        "C": "Symptoms do not exceed 1 month duration",
+        "D": "Elderly patients with uncontrolled diabetes have a higher risk for malignant otitis externa"
+      },
+      "correctAnswer": "D",
+      "explanation": "Malignant (necrotizing) otitis externa occurs predominantly in elderly patients with poorly controlled diabetes mellitus (>90% of cases) or other severe immunocompromised conditions. Microangiopathy, impaired polymorphonuclear chemotaxis, and elevated cerumen pH in diabetics facilitate tissue invasion by Pseudomonas aeruginosa.\n\nHigh-Yield Clinical Pearl: Malignant Otitis Externa: Strongest risk factor is elderly diabetes mellitus. Hallmark: Severe nocturnal otalgia + granulation tissue at EAC floor + Pseudomonas aeruginosa.\n\nExam Trap: Look for cranial neuropathy (facial nerve CN VII is most commonly involved) as a sign of skull base extension.",
+      "optionExplanations": {
+        "A": "Pseudomonas aeruginosa causes >95% of cases; S. aureus is an extremely rare cause.",
+        "B": "Historically mortality was high, but with modern antipseudomonal fluoroquinolones, mortality is significantly lower (<10– 15%).",
+        "C": "Symptoms are characteristically indolent and progressive, frequently lasting several weeks to months before diagnosis.",
+        "D": "Correct. Malignant (necrotizing) otitis externa occurs predominantly in elderly patients with poorly controlled diabetes mellitus (>90% of cases) or other severe immunocompromised conditions."
+      },
+      "educationalObjective": "Identify elderly patients with uncontrolled diabetes as having the highest risk for malignant otitis externa.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-042",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "What is the most common cause of malignant otitis externa?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Streptococcus pyogenes",
+        "D": "Escherichia coli"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pseudomonas aeruginosa is the causative organism in greater than 95% of cases of malignant (necrotizing) otitis externa. It utilizes exotoxin A, elastase, and collagenases to produce necrotizing vasculitis and osteomyelitis of the temporal bone.\n\nHigh-Yield Clinical Pearl: Malignant Otitis Externa = Pseudomonas aeruginosa in >95% of cases. Treatment requires high-dose antipseudomonal therapy (e.g., ciprofloxacin).\n\nExam Trap: Always obtain tissue culture and sensitivity before or during therapy to guide targeted antipseudomonal treatment.",
+      "optionExplanations": {
+        "A": "S. aureus is a rare cause, seen occasionally in HIV-infected patients.",
+        "B": "Correct. Pseudomonas aeruginosa is the causative organism in greater than 95% of cases of malignant (necrotizing) otitis externa. It utilizes exotoxin A, elastase, and collagenases to produce necrotizing vasculitis and osteomyelitis of the temporal bone.",
+        "C": "Streptococcus pyogenes causes erysipelas and cellulitis, not skull base osteomyelitis.",
+        "D": "E. coli is an uncommon coliform pathogen in ear disease."
+      },
+      "educationalObjective": "Identify Pseudomonas aeruginosa as the most common cause of malignant otitis externa.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-043",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following is not a risk factor for acute otitis media?",
+      "options": {
+        "A": "Breastfeeding"
+      },
+      "correctAnswer": "A",
+      "explanation": "Breastfeeding is a protective factor (NOT a risk factor) against acute otitis media. Maternal secretory IgA antibodies and the physiological horizontal nursing posture protect infants against middle ear infections. Known risk factors for AOM include day-care attendance, pacifier use, passive tobacco smoke exposure, cleft palate, and bottle-feeding in the supine position.\n\nHigh-Yield Clinical Pearl: AOM Risk Factors: Daycare attendance, secondhand tobacco smoke, supine bottle-feeding, pacifier use, craniofacial abnormalities (cleft palate, Down syndrome). Protective factor: Breastfeeding for at least 6 months.\n\nExam Trap: Breastfeeding is universally protective against respiratory and middle ear infections.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Breastfeeding is a protective factor (NOT a risk factor) against acute otitis media. Maternal secretory IgA antibodies and the physiological horizontal nursing posture protect infants against middle ear infections."
+      },
+      "educationalObjective": "Recognize breastfeeding as a protective factor against acute otitis media rather than a risk factor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-044",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which condition does not cause sensorineural hearing loss?",
+      "options": {
+        "A": "Uncomplicated chronic suppurative otitis media (CSOM)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uncomplicated chronic suppurative otitis media (CSOM) involves tympanic membrane perforation and ossicular pathology, causing conductive hearing loss. It does not cause sensorineural hearing loss unless complications occur (e.g., labyrinthitis, labyrinthine fistula, or round window membrane permeability to bacterial toxins).\n\nHigh-Yield Clinical Pearl: Uncomplicated CSOM causes conductive hearing loss (CHL). SNHL develops only if bacterial exotoxins penetrate the round window into the basal turn of the cochlea.\n\nExam Trap: Do not assume all chronic ear infections cause sensorineural deafness; conductive hearing loss is the hallmark of uncomplicated middle ear disease.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Uncomplicated chronic suppurative otitis media (CSOM) involves tympanic membrane perforation and ossicular pathology, causing conductive hearing loss."
+      },
+      "educationalObjective": "Understand that uncomplicated chronic suppurative otitis media typically produces conductive hearing loss without sensorineural impairment.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-045",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following are objectively diagnosed except:",
+      "options": {
+        "A": "Otosclerosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otosclerosis is primarily diagnosed clinically and audiometrically (subjective pure tone audiometry demonstrating an air-bone gap with Carhart's notch, absent stapedial reflexes, and normal tympanic membrane on otoscopy). Unlike conditions verified by direct histological biopsy or objective imaging, clinical otosclerosis relies on subjective audiologic responses unless intraoperatively confirmed during stapedectomy.\n\nHigh-Yield Clinical Pearl: Otosclerosis Diagnosis: Normal otoscopy (or pink Schwartze's sign) + Conductive hearing loss + Carhart's notch at 2 kHz + Absent acoustic reflex.\n\nExam Trap: Schwartze's sign (flamingo pink blush over the promontory due to hypervascular active otospongiosis) is seen in only ~10% of cases.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Otosclerosis is primarily diagnosed clinically and audiometrically (subjective pure tone audiometry demonstrating an air-bone gap with Carhart's notch, absent stapedial reflexes, and normal tympanic membrane on otoscopy)."
+      },
+      "educationalObjective": "Recognize that otosclerosis is diagnosed clinically and audiometrically rather than by routine objective laboratory testing.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-046",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The typical age for acute otitis media is:",
+      "options": {
+        "A": "6-11 months"
+      },
+      "correctAnswer": "A",
+      "explanation": "The peak incidence of acute otitis media occurs between 6 and 11 months of age (and broadly within the first 2 years of life). This susceptibility is due to an anatomically shorter, wider, and more horizontal Eustachian tube, combined with an immature immune system.\n\nHigh-Yield Clinical Pearl: Peak age for AOM = 6–11 months. Infant Eustachian tube: Shorter, wider, more horizontal -> easier reflux of nasopharyngeal pathogens into middle ear.\n\nExam Trap: AOM incidence declines markedly after age 6–7 as the Eustachian tube assumes its adult 45-degree angulation and immune competence matures.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The peak incidence of acute otitis media occurs between 6 and 11 months of age (and broadly within the first 2 years of life). This susceptibility is due to an anatomically shorter, wider, and more horizontal Eustachian tube, combined with an immature immune system."
+      },
+      "educationalObjective": "Recall that the peak incidence of acute otitis media is between 6 and 11 months of age.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-047",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following is not a complication of acute otitis media?",
+      "options": {
+        "A": "Intracranial abscess",
+        "B": "Labyrinthine fistula",
+        "C": "Otitic hydrocephalus",
+        "D": "Pott's puffy tumor"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess and osteomyelitis of the frontal bone secondary to frontal sinusitis, NOT otitis media. Known complications of AOM include acute mastoiditis, intracranial abscess, labyrinthine fistula, otitic hydrocephalus, and sigmoid sinus thrombosis.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor = Frontal bone osteomyelitis from FRONTAL SINUSITIS, not otitis media!\n\nExam Trap: Do not confuse mastoid subperiosteal abscess (complication of AOM) with Pott's puffy tumor (complication of frontal sinusitis).",
+      "optionExplanations": {
+        "A": "Intracranial abscess (epidural, subdural, or brain abscess) is a recognized intracranial complication of AOM.",
+        "B": "Labyrinthine fistula is an inner ear complication caused by bony erosion (more common in cholesteatoma, but can occur in AOM).",
+        "C": "Otitic hydrocephalus (raised ICP secondary to lateral sinus thrombosis) is a recognized complication of otitis media.",
+        "D": "Correct. Pott's puffy tumor is a subperiosteal abscess and osteomyelitis of the frontal bone secondary to frontal sinusitis, NOT otitis media. Known complications of AOM include acute mastoiditis, intracranial abscess, labyrinthine fistula, otitic hydrocephalus, and sigmoid sinus thrombosis."
+      },
+      "educationalObjective": "Distinguish Pott's puffy tumor (frontal sinusitis complication) from the complications of acute otitis media.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-048",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which of the following is not an absolute contraindication for stapedectomy?",
+      "options": {
+        "A": "Only hearing ear",
+        "B": "Sensorineural hearing loss",
+        "C": "None of the above",
+        "D": "Rapidly progressive disease"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rapidly progressive otosclerosis is NOT an absolute contraindication for stapedectomy (it can be managed surgically or with sodium fluoride). Absolute contraindications for stapedectomy include: 1) Stapedectomy on the patient's only hearing ear (due to risk of sensorineural deafness), 2) Active external or middle ear infection, 3) Tympanic membrane perforation, 4) Coexisting uncontrolled Ménière's disease, and 5) Severe vestibular dysfunction.\n\nHigh-Yield Clinical Pearl: Absolute Contraindications to Stapedectomy: 1) Only hearing ear (cardinal rule!), 2) Active middle ear infection, 3) Perforated tympanic membrane, 4) Active Ménière's disease.\n\nExam Trap: Never perform stapedectomy on an only-hearing ear; hearing aid amplification is the only safe management.",
+      "optionExplanations": {
+        "A": "Operating on an only-hearing ear is an absolute contraindication due to the 1% risk of permanent total sensorineural deafness.",
+        "B": "Pure sensorineural hearing loss with no air-bone gap provides no conductive component to fix; stapedectomy is contraindicated.",
+        "C": "[Independent – not in source] The source gave placeholder text only for this option. \"None of the above\" is incorrect because option D (rapidly progressive disease) is not an absolute contraindication, so one of the listed choices does satisfy the stem.",
+        "D": "Correct. Rapidly progressive otosclerosis is NOT an absolute contraindication for stapedectomy (it can be managed surgically or with sodium fluoride)."
+      },
+      "educationalObjective": "Identify the absolute contraindications to stapedectomy and recognize that rapidly progressive disease is not an absolute contraindication.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-049",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The most common site for cholesteatoma is:",
+      "options": {
+        "A": "Posterior mesotympanum",
+        "B": "Posterior hypotympanum",
+        "C": "Posterior epitympanum",
+        "D": "Anterior epitympanum"
+      },
+      "correctAnswer": "C",
+      "explanation": "The most common anatomical site for acquired cholesteatoma is the posterior epitympanum (specifically within Prussak's space, bounded laterally by the pars flaccida and medially by the neck of the malleus). Invagination of the pars flaccida forms a retraction pocket that traps desquamated keratin debris, expanding into the epitympanum and mastoid antrum.\n\nHigh-Yield Clinical Pearl: Most common site of acquired cholesteatoma = Posterior epitympanum (Prussak's space / pars flaccida retraction pocket).\n\nExam Trap: Congenital cholesteatomas classically present in the anterior-superior middle ear behind an intact tympanic membrane, whereas acquired cholesteatomas arise in the posterior epitympanum.",
+      "optionExplanations": {
+        "A": "The mesotympanum contains the handle of the malleus and long process of incus; secondary extension occurs here, but the primary origin is the epitympanum.",
+        "B": "The hypotympanum is located in the floor of the middle ear and is rarely the primary site.",
+        "C": "Correct. The most common anatomical site for acquired cholesteatoma is the posterior epitympanum (specifically within Prussak's space, bounded laterally by the pars flaccida and medially by the neck of the malleus).",
+        "D": "The anterior epitympanum is less common than the posterior epitympanum."
+      },
+      "educationalObjective": "Identify the posterior epitympanum (Prussak's space) as the most frequent anatomical site of origin for acquired cholesteatoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-050",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Regarding cholesteatoma, which statement is wrong?",
+      "options": {
+        "A": "Should be treated with modified radical or radical mastoidectomy",
+        "B": "Congenital cholesteatoma can be seen as a pearly mass behind an intact tympanic membrane",
+        "C": "Males are affected more than females",
+        "D": "The discharge is usually scanty",
+        "E": "The most common site is the anterior epitympanum"
+      },
+      "correctAnswer": "E",
+      "explanation": "Statement E is WRONG (false) because the most common site of origin for acquired cholesteatoma is the posterior epitympanum (Prussak's space), NOT the anterior epitympanum. Cholesteatomas are treated surgically with modified radical or radical mastoidectomy to eradicate disease and prevent fatal intracranial complications.\n\nHigh-Yield Clinical Pearl: Cholesteatoma: Arises in the posterior epitympanum (Prussak's space). Scanty, fetid otorrhea. Requires surgical excision (tympanomastoidectomy).\n\nExam Trap: Never treat a cholesteatoma with medical therapy alone; surgery is mandatory to prevent bone erosion and complications.",
+      "optionExplanations": {
+        "A": "True: Definitive treatment requires modified radical or canal wall up/down mastoidectomy.",
+        "B": "True: Congenital cholesteatoma appears as a white pearly mass behind an intact tympanic membrane without prior otorrhea.",
+        "C": "True: Males are affected slightly more frequently than females.",
+        "D": "True: The otorrhea of cholesteatoma is characteristically scanty and foul-smelling.",
+        "E": "Correct. Statement E is WRONG (false) because the most common site of origin for acquired cholesteatoma is the posterior epitympanum (Prussak's space), NOT the anterior epitympanum."
+      },
+      "educationalObjective": "Recall that the posterior epitympanum is the primary site of cholesteatoma and identify incorrect anatomical statements.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-051",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Regarding middle ear anatomy and tympanic membrane anatomy, which is wrong?",
+      "options": {
+        "A": "Chorda tympani carries taste sensation from the anterior 2/3 of the tongue",
+        "B": "Arnold's nerve innervates the posterior half of the lateral surface",
+        "C": "The tympanic membrane is slightly oval in shape and makes a 55-degree angle with the external auditory canal",
+        "D": "Jacobson's nerve innervates the anterior half of the lateral surface"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is WRONG (false) because Jacobson's nerve (tympanic branch of the glossopharyngeal nerve, CN IX) forms the tympanic plexus supplying the medial mucosal surface of the tympanic cavity and middle ear, NOT the anterior half of the lateral (cutaneous) surface of the tympanic membrane. The lateral surface of the TM is innervated anteriorly by the auriculotemporal nerve (CN V3) and posteriorly by Arnold's nerve (vagus, CN X).\n\nHigh-Yield Clinical Pearl: Tympanic Membrane Innervation: Lateral (outer) surface: Anterior = Auriculotemporal (CN V3); Posterior = Arnold's nerve (CN X). Medial (inner) surface = Jacobson's nerve (tympanic branch of CN IX via tympanic plexus).\n\nExam Trap: Referred otalgia from tonsillar or base-of-tongue cancer travels via Jacobson's nerve (CN IX).",
+      "optionExplanations": {
+        "A": "True: Chorda tympani carries special sensory taste fibers from the anterior 2/3 of the tongue.",
+        "B": "True: Arnold's nerve (auricular branch of vagus) innervates the posterior half of the lateral surface of the TM.",
+        "C": "True: The tympanic membrane is oval and forms an angle of approximately 55 degrees with the floor of the external auditory canal.",
+        "D": "Correct. Statement D is WRONG (false) because Jacobson's nerve (tympanic branch of the glossopharyngeal nerve, CN IX) forms the tympanic plexus supplying the medial mucosal surface of the tympanic cavity and middle ear, NOT the anterior half of the lateral (cutaneous) surface of the tympanic membrane."
+      },
+      "educationalObjective": "Differentiate the sensory innervation of the lateral cutaneous surface of the tympanic membrane (CN V3 and CN X) from its medial mucosal surface (CN IX).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-052",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A patient with a perforated tympanic membrane. After 8 weeks, what is the probability that the patient will regain hearing?",
+      "options": {
+        "A": "10%",
+        "B": "30%",
+        "C": "70%",
+        "D": "90%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Traumatic tympanic membrane perforations (caused by barotrauma, slap to the ear, or cotton swab injury) have an excellent prognosis. Approximately 90% of traumatic perforations heal spontaneously within 6 to 8 weeks without surgical intervention, provided the ear is kept dry and uninfected.\n\nHigh-Yield Clinical Pearl: Traumatic TM Perforation: ~90% heal spontaneously within 6–8 weeks. Management: Strict water precautions, avoid ear drops unless infected, observation. Tympanoplasty is indicated if unhealed after 3 months.\n\nExam Trap: Do NOT prescribe ear drops for a clean, dry traumatic TM perforation; keep the ear dry and observe.",
+      "optionExplanations": {
+        "A": "10% is far too low; only a small minority fail to heal.",
+        "B": "30% is incorrect.",
+        "C": "70% is lower than the actual observed spontaneous closure rate.",
+        "D": "Correct. Traumatic tympanic membrane perforations (caused by barotrauma, slap to the ear, or cotton swab injury) have an excellent prognosis. Approximately 90% of traumatic perforations heal spontaneously within 6 to 8 weeks without surgical intervention, provided the ear is kept dry and uninfected."
+      },
+      "educationalObjective": "Recall that approximately 90% of traumatic tympanic membrane perforations heal spontaneously within 8 weeks.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-053",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 4-year-old male patient diagnosed with otitis media with effusion. The tympanogram for this patient will be:",
+      "options": {
+        "A": "Peak pressure at -300 daPa",
+        "B": "Peak pressure at 0 daPa",
+        "C": "Shallow peak",
+        "D": "Flat tympanogram"
+      },
+      "correctAnswer": "D",
+      "explanation": "In a 4-year-old child with otitis media with effusion (OME), fluid fills the middle ear space, immobilizing the tympanic membrane. The tympanogram displays a flat curve with no compliance peak, classified as a Jerger Type B tympanogram. A normal ear canal volume with a flat Type B curve is diagnostic of middle ear fluid.\n\nHigh-Yield Clinical Pearl: Tympanogram Types: Type A = Normal (peak at 0 daPa). Type B (normal volume) = Otitis media with effusion. Type B (large volume) = TM perforation or patent grommet. Type C = Negative pressure (Eustachian tube dysfunction). Type As = Shallow (Otosclerosis). Type Ad = Deep/disarticulation.\n\nExam Trap: Always check ear canal volume with a flat Type B curve: normal volume = effusion; large volume = perforation or patent tube!",
+      "optionExplanations": {
+        "A": "Type C tympanogram (peak pressure < -100 to -300 daPa) indicates Eustachian tube dysfunction with significant negative middle ear pressure, but not dense fluid.",
+        "B": "Type A tympanogram (peak pressure at 0 daPa, normal compliance) represents normal middle ear status.",
+        "C": "Type As tympanogram (shallow peak at normal pressure) indicates reduced ossicular mobility, classic for otosclerosis.",
+        "D": "Correct. In a 4-year-old child with otitis media with effusion (OME), fluid fills the middle ear space, immobilizing the tympanic membrane. The tympanogram displays a flat curve with no compliance peak, classified as a Jerger Type B tympanogram."
+      },
+      "educationalObjective": "Identify a flat (Type B) tympanogram as diagnostic of otitis media with effusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-054",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The tensor tympani muscle is innervated by:",
+      "options": {
+        "A": "Mandibular division of the trigeminal nerve (CN V3)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The tensor tympani muscle originates from the cartilaginous part of the Eustachian tube and sphenoid bone, inserting into the handle of the malleus. It is innervated by the mandibular division of the trigeminal nerve (CN V3) via the nerve to the medial pterygoid. Its contraction tenses the tympanic membrane to dampen internal chewing and swallowing noises.\n\nHigh-Yield Clinical Pearl: Middle Ear Muscles: Tensor tympani = Mandibular nerve (CN V3) via medial pterygoid nerve. Stapedius muscle = Facial nerve (CN VII).\n\nExam Trap: Do not confuse the innervation of the tensor tympani (CN V3) with the stapedius (CN VII).\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. It is innervated by the mandibular division of the trigeminal nerve (CN V3) via the nerve to the medial pterygoid."
+      },
+      "educationalObjective": "Recall that the tensor tympani muscle is innervated by the mandibular division of the trigeminal nerve (CN V3).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-055",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "In a case of otitis media with effusion, which finding is expected?",
+      "options": {
+        "A": "Negative Rinne air conduction test for the ipsilateral ear"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otitis media with effusion causes conductive hearing loss due to fluid dampening tympanic membrane and ossicular mobility. The hallmark finding on tuning fork testing is a negative Rinne test (bone conduction better than air conduction, BC > AC) in the affected ipsilateral ear.\n\nHigh-Yield Clinical Pearl: Otitis Media with Effusion: Negative Rinne (BC > AC) on ipsilateral ear + Weber lateralizes to affected ear + Type B tympanogram.\n\nExam Trap: A positive Rinne indicates normal hearing or sensorineural loss, never middle ear effusion.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Otitis media with effusion causes conductive hearing loss due to fluid dampening tympanic membrane and ossicular mobility. The hallmark finding on tuning fork testing is a negative Rinne test (bone conduction better than air conduction, BC > AC) in the affected ipsilateral ear."
+      },
+      "educationalObjective": "Recognize that otitis media with effusion characteristically produces an ipsilateral negative Rinne test.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-056",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following diseases can be associated with vertigo and sensorineural hearing loss except:",
+      "options": {
+        "A": "Syphilis",
+        "B": "Labyrinthitis",
+        "C": "Perilymphatic fistula",
+        "D": "Vestibular neuritis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Vestibular neuritis is an isolated inflammation of the vestibular portion of the eighth cranial nerve (CN VIII), causing acute prolonged vertigo, nausea, and gait ataxia WITHOUT hearing loss or tinnitus. In contrast, syphilis (luetic labyrinthitis), suppurative/serous labyrinthitis, and perilymphatic fistula involve both auditory and vestibular inner ear structures, producing both vertigo and sensorineural hearing loss.\n\nHigh-Yield Clinical Pearl: Vertigo + Hearing Loss: Ménière's disease, Labyrinthitis, Perilymphatic fistula, Acoustic neuroma. Vertigo WITHOUT Hearing Loss: BPPV (seconds), Vestibular neuritis (days).\n\nExam Trap: If hearing loss is absent during acute continuous vertigo, diagnose Vestibular Neuritis; if hearing loss is present, diagnose Labyrinthitis.",
+      "optionExplanations": {
+        "A": "Congenital or tertiary syphilis causes luetic hydrops with profound episodic vertigo and progressive bilateral SNHL.",
+        "B": "Labyrinthitis involves both the vestibular labyrinth and cochlea, causing acute vertigo AND sensorineural hearing loss.",
+        "C": "Perilymphatic fistula causes fluctuating SNHL and episodic vertigo triggered by pressure changes (Hennebert's sign / Tullio phenomenon).",
+        "D": "Correct. Vestibular neuritis is an isolated inflammation of the vestibular portion of the eighth cranial nerve (CN VIII), causing acute prolonged vertigo, nausea, and gait ataxia WITHOUT hearing loss or tinnitus."
+      },
+      "educationalObjective": "Differentiate vestibular neuritis (pure vertigo without hearing loss) from disorders that combine vertigo with sensorineural hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-057",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Regarding sensorineural hearing loss, which statement is true?",
+      "options": {
+        "A": "Hypoxia does not put a neonate at increased risk of SNHL",
+        "B": "Presbycusis starts at age 50",
+        "C": "Aspirin-associated hearing loss is usually permanent",
+        "D": "Noise-induced hearing loss occurs initially maximal at 1000 Hz",
+        "E": "The most common cause of infectious congenital hearing loss is CMV"
+      },
+      "correctAnswer": "E",
+      "explanation": "Cytomegalovirus (CMV) is the most common congenital and non-genetic infectious cause of sensorineural hearing loss in children. Congenital CMV can cause progressive, fluctuating, unilateral or bilateral SNHL that may not be apparent at birth but manifests during infancy or early childhood.\n\nHigh-Yield Clinical Pearl: Congenital SNHL: CMV is the most common non-genetic / infectious cause. Noise-induced hearing loss: Acoustic notch at 4000 Hz. Aspirin ototoxicity: Reversible SNHL and tinnitus.\n\nExam Trap: Noise-induced hearing loss is maximal at 4000 Hz (4 kHz), NOT 1000 Hz.",
+      "optionExplanations": {
+        "A": "Perinatal hypoxia is a major recognized risk factor for sensorineural hearing loss.",
+        "B": "Presbycusis typically begins with insidious high-frequency decline starting in the 5th to 6th decades, but subclinical cochlear decline begins earlier.",
+        "C": "Aspirin (salicylate) toxicity causes reversible tinnitus and high-frequency SNHL that resolves upon drug discontinuation.",
+        "D": "Noise-induced hearing loss characteristically displays an initial acoustic dip maximal at 4000 Hz (4 kHz notch), not 1000 Hz.",
+        "E": "Correct. Cytomegalovirus (CMV) is the most common congenital and non-genetic infectious cause of sensorineural hearing loss in children. Congenital CMV can cause progressive, fluctuating, unilateral or bilateral SNHL that may not be apparent at birth but manifests during infancy or early childhood."
+      },
+      "educationalObjective": "Identify cytomegalovirus (CMV) as the leading infectious cause of congenital sensorineural hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-058",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which statement is wrong regarding inner ear anatomy?",
+      "options": {
+        "A": "The cochlea is coiled around the modiolus",
+        "B": "The cochlea is arranged tonotopically with high frequency at the apex and low frequency at the base",
+        "C": "The ampullae of the semicircular canals open into the vestibule through five orifices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statement B is WRONG (false) because the cochlea is organized tonotopically with HIGH frequencies detected at the basal turn (near the oval and round windows) and LOW frequencies detected at the apex (near the helicotrema). This occurs because the basilar membrane is narrow and stiff at the base (resonating to high frequencies) and wide and compliant at the apex (resonating to low frequencies).\n\nHigh-Yield Clinical Pearl: Cochlear Tonotopy: Base = Narrow, stiff basilar membrane -> HIGH frequency sound detection. Apex (Helicotrema) = Wide, flexible basilar membrane -> LOW frequency sound detection.\n\nExam Trap: High frequencies are at the BASE; low frequencies are at the APEX. Basal hair cells are damaged first in presbycusis and ototoxicity.",
+      "optionExplanations": {
+        "A": "True: The cochlea makes approximately 2.5 to 2.75 turns coiled around a central bony pillar called the modiolus.",
+        "B": "Correct. Statement B is WRONG (false) because the cochlea is organized tonotopically with HIGH frequencies detected at the basal turn (near the oval and round windows) and LOW frequencies detected at the apex (near the helicotrema).",
+        "C": "True: The three semicircular canals have five orifices opening into the vestibule because the superior and posterior canals share a common crus (crus commune)."
+      },
+      "educationalObjective": "Recall that high-frequency sounds are transduced at the cochlear base and low-frequency sounds at the apex.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-059",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Absolute contraindications for the Dix-Hallpike test include all except:",
+      "options": {
+        "A": "Severe rheumatoid arthritis",
+        "B": "Atlantoaxial and occipitoatlantal instability",
+        "C": "Neck surgery",
+        "D": "Orthopnea"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Dix-Hallpike maneuver requires rapid hyperextension and 45-degree rotation of the patient's cervical spine. Absolute contraindications include severe cervical spine instability (e.g., atlantoaxial instability in Down syndrome or severe rheumatoid arthritis), recent cervical spine surgery, severe carotid stenosis, and cervical disc herniation with radiculopathy. Orthopnea is a symptom of heart failure/respiratory difficulty when flat, but is NOT an absolute orthopedic/neurologic contraindication.\n\nHigh-Yield Clinical Pearl: Dix-Hallpike Contraindications: Cervical spine instability, atlantoaxial subluxation (RA, Down syndrome), recent neck surgery, carotid artery dissection. If present, use the side-lying test instead.\n\nExam Trap: In patients with severe cervical spine disease, perform the alternate side-lying maneuver to diagnose BPPV without neck hyperextension.",
+      "optionExplanations": {
+        "A": "Severe rheumatoid arthritis carries high risk of atlantoaxial subluxation and spinal cord compression.",
+        "B": "Atlantoaxial instability carries risk of odontoid displacement and fatal cervical cord transection.",
+        "C": "Recent neck surgery can be disrupted by rapid neck extension and rotation.",
+        "D": "Correct. Orthopnea is a symptom of heart failure/respiratory difficulty when flat, but is NOT an absolute orthopedic/neurologic contraindication."
+      },
+      "educationalObjective": "Identify conditions that constitute contraindications to the Dix-Hallpike maneuver and recognize that orthopnea is not an absolute contraindication.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-060",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which is not considered sensory innervation of the ear?",
+      "options": {
+        "A": "Cervical C1, C2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The C1 spinal nerve (suboccipital nerve) is purely motor to the suboccipital muscles and lacks a cutaneous sensory ganglion or dermatomal sensory distribution. Cutaneous sensory supply from the cervical plexus to the auricle and periauricular region is derived from C2 and C3 (via the greater auricular and lesser occipital nerves). Therefore, C1 does not contribute sensory innervation to the ear.\n\nHigh-Yield Clinical Pearl: Cervical sensory supply to the ear: C2 and C3 via the Greater Auricular Nerve (lobule, angle of mandible, lower pinna) and Lesser Occipital Nerve (upper medial pinna). C1 has NO cutaneous sensory branch!\n\nExam Trap: Remember that C1 has no sensory dermatome in humans.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The C1 spinal nerve (suboccipital nerve) is purely motor to the suboccipital muscles and lacks a cutaneous sensory ganglion or dermatomal sensory distribution."
+      },
+      "educationalObjective": "Understand that the C1 spinal nerve does not provide cutaneous sensory innervation to the ear.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-061",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Which statement is not true regarding Ménière's disease?",
+      "options": {
+        "A": "Diuretics can be used to augment treatment",
+        "B": "Characterized by vertigo, hearing loss, tinnitus, and aural fullness",
+        "C": "It is the result of endolymphatic hydrops",
+        "D": "Vertigo burns out with time",
+        "E": "The vertigo lasts for a week"
+      },
+      "correctAnswer": "E",
+      "explanation": "Statement E is NOT true (false) because vertigo in Ménière's disease characteristically lasts for 20 minutes to several hours (typically 2 to 4 hours, rarely exceeding 12–24 hours). Vertigo lasting continuously for an entire week suggests vestibular neuritis, labyrinthitis, or central demyelinating disease (multiple sclerosis).\n\nHigh-Yield Clinical Pearl: Ménière's Disease Attack Duration: 20 minutes to several hours (NOT days or weeks!). Duration rules: BPPV (seconds) < Ménière's (hours) < Vestibular Neuritis (days).\n\nExam Trap: If vertigo persists continuously for weeks without fluctuating attacks, rule out central CNS pathology or multiple sclerosis.",
+      "optionExplanations": {
+        "A": "True: Thiazide diuretics (e.g., hydrochlorothiazide/triamterene) reduce endolymphatic volume and are standard first-line maintenance therapy.",
+        "B": "True: The disease is characterized by episodic vertigo, fluctuating SNHL, roaring tinnitus, and aural fullness.",
+        "C": "True: The underlying histopathological hallmark is endolymphatic hydrops.",
+        "D": "True: In late stages ('burnout'), vertigo episodes diminish in severity and frequency, leaving residual stable moderate-to-severe SNHL.",
+        "E": "Correct. Statement E is NOT true (false) because vertigo in Ménière's disease characteristically lasts for 20 minutes to several hours (typically 2 to 4 hours, rarely exceeding 12–24 hours)."
+      },
+      "educationalObjective": "Recognize that vertiginous attacks in Ménière's disease typically last hours, not weeks.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-062",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Vertigo can last for weeks in all of the following conditions except:",
+      "options": {
+        "A": "Multiple sclerosis",
+        "B": "CNS disorder",
+        "C": "Benign paroxysmal positional vertigo (BPPV)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Benign Paroxysmal Positional Vertigo (BPPV) causes brief, transient paroxysms of vertigo lasting less than one minute (< 30– 60 seconds) triggered strictly by head position changes. Vertigo that lasts continuously for days to weeks is seen in central nervous system disorders (e.g., cerebellar stroke, brainstem lesions) and multiple sclerosis plaques.\n\nHigh-Yield Clinical Pearl: Vertigo Timelines: BPPV = seconds (< 1 min); TIA = minutes; Ménière's = hours (20 min - 12 hr); Vestibular Neuritis = days (1–3 days); Central / MS / Tumor = weeks to months.\n\nExam Trap: Vertigo lasting > 24 hours is never BPPV.",
+      "optionExplanations": {
+        "A": "Multiple sclerosis demyelinating plaques in the root entry zone of CN VIII or brainstem can cause continuous vertigo lasting weeks.",
+        "B": "Central CNS disorders (cerebellopontine lesions, strokes) can produce persistent vertigo for weeks.",
+        "C": "Correct. Benign Paroxysmal Positional Vertigo (BPPV) causes brief, transient paroxysms of vertigo lasting less than one minute (< 30– 60 seconds) triggered strictly by head position changes."
+      },
+      "educationalObjective": "Recall that BPPV episodes last seconds, differentiating it from central and demyelinating conditions that produce prolonged vertigo.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-063",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A false negative Rinne test indicates:",
+      "options": {
+        "A": "Severe conductive hearing loss in the contralateral ear",
+        "B": "Mild conductive hearing loss in the contralateral ear",
+        "C": "Mild conductive hearing loss in the ipsilateral ear",
+        "D": "Mild sensorineural hearing loss in the contralateral ear",
+        "E": "Severe sensorineural hearing loss in the ipsilateral ear"
+      },
+      "correctAnswer": "E",
+      "explanation": "A false negative Rinne test occurs in a patient with severe, profound unilateral sensorineural hearing loss in the tested ear. When the tuning fork is placed on the mastoid of the diseased ear, the sound travels by bone conduction across the cranial bones to stimulate the contralateral normal cochlea. The patient perceives this bone conduction sound clearly, but hears nothing when the fork is placed next to the diseased ear's canal (air conduction). This mimics BC > AC (a negative Rinne), falsely suggesting conductive loss.\n\nHigh-Yield Clinical Pearl: False Negative Rinne: Caused by severe unilateral SNHL in the tested ear. Sound crosses the skull to stimulate the contralateral healthy cochlea during bone conduction testing. Prevent with contralateral masking (Barany noise box).\n\nExam Trap: Always perform the Weber test alongside Rinne: in severe unilateral SNHL, the Weber will lateralize away from the diseased ear to the normal ear, immediately exposing the false negative Rinne.",
+      "optionExplanations": {
+        "A": "Severe conductive loss in the opposite ear does not create a false negative Rinne in the tested ear.",
+        "B": "Mild contralateral conductive loss has no crossover effect on the tested ear.",
+        "C": "Mild ipsilateral conductive loss produces a true negative Rinne test, not a false negative.",
+        "D": "Contralateral SNHL would diminish crossover perception rather than cause it.",
+        "E": "Correct. A false negative Rinne test occurs in a patient with severe, profound unilateral sensorineural hearing loss in the tested ear. When the tuning fork is placed on the mastoid of the diseased ear, the sound travels by bone conduction across the cranial bones to stimulate the contralateral normal cochlea."
+      },
+      "educationalObjective": "Explain the mechanism of a false negative Rinne test resulting from severe unilateral sensorineural hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-064",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "The tympanic membrane is attached to the tympanic sulcus by:",
+      "options": {
+        "A": "Umbo",
+        "B": "Pars flaccida",
+        "C": "Annulus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The tympanic membrane is firmly attached to the bony tympanic sulcus of the temporal bone around its circumference by a fibrocartilaginous ring known as the annulus fibrosus (annulus tympanicus). Superiorly, the sulcus is deficient at the notch of Rivinus, where the pars flaccida lacks an annulus.\n\nHigh-Yield Clinical Pearl: Tympanic membrane attachment: Annulus fibrosus attaches the pars tensa to the bony tympanic sulcus. Absent superiorly at the notch of Rivinus (pars flaccida).\n\nExam Trap: The pars flaccida lacks a fibrous annulus, making it prone to retraction pockets and primary acquired cholesteatoma.",
+      "optionExplanations": {
+        "A": "The umbo is the most depressed central point of the tympanic membrane where the tip of the malleus handle attaches.",
+        "B": "The pars flaccida (Shrapnell's membrane) is the small, triangular upper portion of the TM lacking the fibrous middle layer.",
+        "C": "Correct. The tympanic membrane is firmly attached to the bony tympanic sulcus of the temporal bone around its circumference by a fibrocartilaginous ring known as the annulus fibrosus (annulus tympanicus)."
+      },
+      "educationalObjective": "Identify the annulus fibrosus as the structure securing the tympanic membrane to the tympanic sulcus.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-065",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "All of the following drugs are known causes of tinnitus except:",
+      "options": {
+        "A": "Furosemide",
+        "B": "Neomycin",
+        "C": "Salicylates",
+        "D": "Quinine",
+        "E": "Meclizine"
+      },
+      "correctAnswer": "E",
+      "explanation": "Ototoxic drugs known to cause tinnitus and sensorineural hearing loss include aminoglycosides (neomycin, gentamicin), loop diuretics (furosemide), salicylates (high-dose aspirin), platinum chemotherapeutics (cisplatin), and quinine. In contrast, meclizine is a first-generation antihistamine with anticholinergic properties used as a vestibular suppressant to alleviate vertigo; it does NOT cause tinnitus.\n\nHigh-Yield Clinical Pearl: Tinnitus-inducing ototoxic drugs: Loop diuretics (furosemide), Aminoglycosides, Aspirin/Salicylates, Cisplatin, Quinine. Meclizine is a vestibular suppressant, NOT ototoxic.\n\nExam Trap: Aspirin-induced tinnitus is dose-dependent and reversible upon stopping the drug, whereas aminoglycoside and cisplatin damage is typically permanent.",
+      "optionExplanations": {
+        "A": "Furosemide is a loop diuretic that damages the stria vascularis, causing tinnitus and hearing loss.",
+        "B": "Neomycin is an aminoglycoside that causes irreversible cochlear outer hair cell damage and severe tinnitus.",
+        "C": "Salicylates cause reversible high-frequency sensorineural hearing loss and roaring tinnitus via outer hair cell membrane inhibition.",
+        "D": "Quinine causes cinchonism (tinnitus, hearing loss, vertigo, headache).",
+        "E": "Correct. In contrast, meclizine is a first-generation antihistamine with anticholinergic properties used as a vestibular suppressant to alleviate vertigo; it does NOT cause tinnitus."
+      },
+      "educationalObjective": "Identify meclizine as a vestibular suppressant that does not cause ototoxicity or tinnitus.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-066",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Conductive hearing loss on the right is characterized by:",
+      "options": {
+        "A": "Rinne: bone conduction better than air, and Weber positive on the right"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a patient with right-sided conductive hearing loss (CHL): 1) The Rinne test on the right ear is negative (bone conduction heard louder than air conduction, BC > AC); and 2) The Weber test lateralizes to the right (affected) ear because ambient room noise is blocked in the diseased ear and bone conduction resonance is enhanced.\n\nHigh-Yield Clinical Pearl: Right Conductive Hearing Loss: Right Rinne negative (BC > AC) + Weber lateralizes to the right ear. Right Sensorineural Hearing Loss: Right Rinne positive (AC > BC) + Weber lateralizes to the left (normal) ear.\n\nExam Trap: Weber lateralizes to the POOR ear in conductive loss, but to the GOOD ear in sensorineural loss.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. In a patient with right-sided conductive hearing loss (CHL): 1) The Rinne test on the right ear is negative (bone conduction heard louder than air conduction, BC > AC); and 2) The Weber test lateralizes to the right (affected) ear because ambient room noise is blocked in the diseased ear and bone conduction resonance is enhanced."
+      },
+      "educationalObjective": "Describe the tuning fork findings in right-sided conductive hearing loss: negative Rinne on the right and Weber lateralizing to the right.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-067",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "Otoacoustic emissions are produced by:",
+      "options": {
+        "A": "Outer hair cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Otoacoustic emissions (OAEs) are generated by the outer hair cells (OHCs) of the Organ of Corti. Outer hair cells possess electromotility driven by the motor protein prestin in their lateral membranes, physically expanding and contracting to amplify basilar membrane vibrations and emitting low-level acoustic energy detectable in the external ear canal.\n\nHigh-Yield Clinical Pearl: OAE = Outer hair cell electromotility (prestin). Absent in outer hair cell damage (ototoxicity, noise trauma). Preserved in pure retrocochlear lesions (auditory neuropathy).\n\nExam Trap: Inner hair cells provide sensory afferent input to CN VIII; Outer hair cells provide mechanical amplification and generate OAEs.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Otoacoustic emissions (OAEs) are generated by the outer hair cells (OHCs) of the Organ of Corti."
+      },
+      "educationalObjective": "Identify cochlear outer hair cells as the biological origin of otoacoustic emissions.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-068",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 31-year-old male with no previous medical history complains of left-sided hearing loss of one day duration with loud tinnitus. Physical examination shows a normal tympanic membrane, Weber lateralized to the right, and Rinne normal. The most likely diagnosis is:",
+      "options": {
+        "A": "Noise-induced hearing loss",
+        "B": "Ménière's disease",
+        "C": "Chronic suppurative otitis media",
+        "D": "Idiopathic sensorineural hearing loss (sudden sensorineural hearing loss)"
+      },
+      "correctAnswer": "D",
+      "explanation": "A young adult presenting with sudden-onset unilateral hearing loss over 24 hours accompanied by loud tinnitus, normal tympanic membrane, and Weber lateralizing to the contralateral (normal) right ear has idiopathic sudden sensorineural hearing loss (SSNHL). SSNHL is an otologic emergency defined as SNHL ≥ 30 dB across at least 3 contiguous frequencies occurring over ≤ 72 hours. Prompt administration of high-dose systemic corticosteroids (oral prednisone 1 mg/kg/day or intratympanic dexamethasone) is essential to maximize hearing recovery.\n\nHigh-Yield Clinical Pearl: Sudden Sensorineural Hearing Loss (SSNHL): Sudden unilateral SNHL over < 72 hours + normal otoscopy. True otologic emergency! Treat immediately with high-dose oral corticosteroids.\n\nExam Trap: Do not dismiss sudden hearing loss as 'wax' or 'Eustachian tube dysfunction' when the tympanic membrane is normal; early steroid treatment within 2 weeks determines recovery.",
+      "optionExplanations": {
+        "A": "Noise-induced hearing loss presents with bilateral, symmetric high-frequency loss with an acoustic notch at 4 kHz, preceded by acute or chronic noise exposure.",
+        "B": "Ménière's disease requires true episodic rotational vertigo lasting hours, fluctuating low-frequency SNHL, and aural fullness; no vertigo is reported here.",
+        "C": "CSOM requires chronic otorrhea and a perforated tympanic membrane, both absent here.",
+        "D": "Correct. A young adult presenting with sudden-onset unilateral hearing loss over 24 hours accompanied by loud tinnitus, normal tympanic membrane, and Weber lateralizing to the contralateral (normal) right ear has idiopathic sudden sensorineural hearing loss (SSNHL)."
+      },
+      "educationalObjective": "Recognize sudden sensorineural hearing loss as an otologic emergency requiring prompt corticosteroid therapy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-069",
+      "topic": "ENT",
+      "section": "Chapter 1: Ear Anatomy & Diseases (LEC 1 & 2)",
+      "question": "A 60-year-old female complains of right-sided tinnitus for one year. Audiogram shows right-sided sensorineural hearing loss; the left side is normal. What should be done next?",
+      "options": {
+        "A": "Hearing aids only",
+        "B": "Reassurance",
+        "C": "Cochlear implant",
+        "D": "Brain MRI with contrast"
+      },
+      "correctAnswer": "D",
+      "explanation": "In an adult with unilateral tinnitus and asymmetric sensorineural hearing loss for one year, the primary diagnosis to rule out is a vestibular schwannoma (acoustic neuroma) of the cerebellopontine angle arising from the vestibular nerve (CN VIII). The gold standard imaging modality is a brain/internal auditory canal (IAC) MRI with gadolinium contrast.\n\nHigh-Yield Clinical Pearl: Asymmetric SNHL or Unilateral Tinnitus = Acoustic Neuroma (Vestibular Schwannoma) until proven otherwise. Gold standard diagnostic test: Brain/IAC MRI with gadolinium contrast.\n\nExam Trap: Vestibular schwannomas originate on the vestibular nerve (inferior vestibular nerve), but hearing loss and tinnitus are the earliest and most common presenting symptoms.",
+      "optionExplanations": {
+        "A": "Providing hearing aids without diagnostic imaging risks missing a growing retrocochlear neoplasm.",
+        "B": "Reassurance is dangerous medical neglect in asymmetric SNHL with unilateral tinnitus.",
+        "C": "Cochlear implants are indicated for bilateral profound SNHL refractory to hearing aids, not unilateral mild-moderate acoustic neuroma workup.",
+        "D": "Correct. In an adult with unilateral tinnitus and asymmetric sensorineural hearing loss for one year, the primary diagnosis to rule out is a vestibular schwannoma (acoustic neuroma) of the cerebellopontine angle arising from the vestibular nerve (CN VIII)."
+      },
+      "educationalObjective": "Recommend brain MRI with contrast as the mandatory next step to evaluate unilateral tinnitus and asymmetric sensorineural hearing loss.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-070",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which immunoglobulin is present in allergic rhinitis?",
+      "options": {
+        "A": "IgE",
+        "B": "IgA",
+        "C": "IgM",
+        "D": "IgG"
+      },
+      "correctAnswer": "A",
+      "explanation": "Allergic rhinitis is a classic Type I (immediate) IgE-mediated hypersensitivity reaction. Inhaled aeroallergens cross-link allergen-specific IgE bound to high-affinity Fc-epsilon-RI receptors on sensitized mucosal mast cells and basophils, triggering immediate degranulation and release of histamine, leukotrienes, and prostaglandins.\n\nHigh-Yield Clinical Pearl: Allergic Rhinitis: Type I IgE-mediated hypersensitivity. Hallmark: Sneezing, pale/boggy bluish turbinates, clear rhinorrhea, allergic shiners, transverse nasal crease. First-line therapy: Intranasal corticosteroids.\n\nExam Trap: Do not confuse secretory IgA (mucosal defense) with IgE (allergic mediator).",
+      "optionExplanations": {
+        "A": "Correct. Allergic rhinitis is a classic Type I (immediate) IgE-mediated hypersensitivity reaction.",
+        "B": "IgA is the predominant secretory antibody in mucosal secretions providing barrier defense, but it does not mediate allergic hypersensitivity.",
+        "C": "IgM is the primary early pentameric antibody produced in primary humoral responses.",
+        "D": "IgG mediates Type II and Type III hypersensitivity reactions (and IgG4 acts as a blocking antibody in allergen immunotherapy)."
+      },
+      "educationalObjective": "Identify IgE as the immunoglobulin responsible for mediating allergic rhinitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-071",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 37-year-old male complains of nasal obstruction, sneezing, and rhinorrhea just when exposed to stress. Which of the following is the best option for treatment?",
+      "options": {
+        "A": "Immunotherapy",
+        "B": "Oral prednisolone",
+        "C": "Second-generation antihistamine",
+        "D": "Systemic decongestant",
+        "E": "Anticholinergic spray"
+      },
+      "correctAnswer": "E",
+      "explanation": "Vasomotor rhinitis is a form of non-allergic, non-infectious rhinitis characterized by autonomic dysregulation (parasympathetic hyperreactivity and sympathetic hyporeactivity). Triggers include temperature shifts, cold air, strong odors, eating (gustatory), and emotional stress. Excessive cholinergic parasympathetic output stimulates seromucinous glands, producing profuse watery rhinorrhea. The most effective treatment for cholinergic rhinorrhea is an intranasal anticholinergic spray (ipratropium bromide), which competitively antagonizes muscarinic receptors.\n\nHigh-Yield Clinical Pearl: Vasomotor Rhinitis: Autonomic imbalance triggered by cold air, smells, or stress. Treatment of choice for profuse watery rhinorrhea = Intranasal Ipratropium Bromide (anticholinergic).\n\nExam Trap: Oral antihistamines do not work well for vasomotor rhinitis because symptoms are driven by cholinergic parasympathetic hyperactivity, not histamine release.",
+      "optionExplanations": {
+        "A": "Allergen immunotherapy is effective only for verified IgE-mediated allergic rhinitis confirmed by skin prick or RAST testing.",
+        "B": "Oral prednisolone is unnecessary and carries significant systemic toxicities for non-allergic vasomotor symptoms.",
+        "C": "Second-generation oral antihistamines treat histamine-mediated itching and sneezing in allergic rhinitis, but have minimal effect on autonomic vasomotor rhinorrhea.",
+        "D": "Systemic decongestants (pseudoephedrine) relieve congestion via alpha-agonism but carry hypertension/insomnia risks and do not curb watery rhinorrhea.",
+        "E": "Correct. The most effective treatment for cholinergic rhinorrhea is an intranasal anticholinergic spray (ipratropium bromide), which competitively antagonizes muscarinic receptors."
+      },
+      "educationalObjective": "Select intranasal anticholinergic spray (ipratropium bromide) as the optimal treatment for stress-induced or vasomotor rhinorrhea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-072",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 36-year-old male presents with a history of nasal obstruction for years. The patient feels good only by using topical vasoconstrictor agents. What is the most likely diagnosis?",
+      "options": {
+        "A": "Atrophic rhinitis",
+        "B": "Occupational rhinitis",
+        "C": "Hormonal rhinitis",
+        "D": "Rhinitis medicamentosa",
+        "E": "Vasomotor rhinitis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rhinitis medicamentosa is a condition of rebound nasal congestion caused by the overuse of topical alpha-adrenergic nasal decongestant sprays (e.g., oxymetazoline, xylometazoline, phenylephrine) for more than 3 to 5 consecutive days. Prolonged alpha-agonism causes down-regulation of alpha-receptors, endogenous norepinephrine depletion, and paradoxical mucosal ischemia followed by severe rebound rebound mucosal hyperemia, edema, and chronic obstruction. Management requires complete cessation of the topical decongestant and initiation of intranasal corticosteroids.\n\nHigh-Yield Clinical Pearl: Rhinitis Medicamentosa: Rebound severe congestion from topical decongestants (oxymetazoline) used > 3–5 days. Management: Immediately stop spray + start intranasal fluticasone.\n\nExam Trap: Patients often get trapped in a vicious cycle of escalating spray frequency because the rebound congestion feels worse than the initial cold.\n\n[Extraction note: Note: question 073 is near-identical (different patient age/sex and a different option set).]",
+      "optionExplanations": {
+        "A": "Atrophic rhinitis involves progressive mucosal atrophy, crusting, fetid odor, and paradoxical obstruction, typically post-surgery.",
+        "B": "Occupational rhinitis is triggered by workplace allergens or chemical irritants.",
+        "C": "Hormonal rhinitis occurs during pregnancy or hypothyroidism due to estrogen/progesterone vascular effects.",
+        "D": "Correct. Rhinitis medicamentosa is a condition of rebound nasal congestion caused by the overuse of topical alpha-adrenergic nasal decongestant sprays (e.g., oxymetazoline, xylometazoline, phenylephrine) for more than 3 to 5 consecutive days.",
+        "E": "Vasomotor rhinitis is non-allergic autonomic rhinitis triggered by weather/odors, not rebound drug dependency."
+      },
+      "educationalObjective": "Diagnose rhinitis medicamentosa in patients with chronic nasal obstruction dependent on topical vasoconstrictor sprays.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-073",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 37-year-old female presents with a history of nasal obstruction for years. The patient feels good only by using topical vasoconstrictor agents. What is the most likely diagnosis?",
+      "options": {
+        "A": "Rhinitis medicamentosa",
+        "B": "Chronic rhinosinusitis with nasal polyps",
+        "C": "Hormonal rhinitis",
+        "D": "Vasomotor rhinitis",
+        "E": "Chronic rhinosinusitis without nasal polyps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rhinitis medicamentosa is a condition of rebound nasal congestion caused by the overuse of topical alpha-adrenergic nasal decongestant sprays (e.g., oxymetazoline, xylometazoline, phenylephrine) for more than 3 to 5 consecutive days. Prolonged alpha-agonism causes down-regulation of alpha-receptors, endogenous norepinephrine depletion, and paradoxical mucosal ischemia followed by severe rebound rebound mucosal hyperemia, edema, and chronic obstruction. Management requires complete cessation of the topical decongestant and initiation of intranasal corticosteroids.\n\nHigh-Yield Clinical Pearl: Rhinitis Medicamentosa: Rebound severe congestion from topical decongestants (oxymetazoline) used > 3–5 days. Management: Immediately stop spray + start intranasal fluticasone.\n\nExam Trap: Patients often get trapped in a vicious cycle of escalating spray frequency because the rebound congestion feels worse than the initial cold.\n\n[Flag: the source's incorrect-options analysis for this question was copied from question 072 and does not match this option set (it describes atrophic and occupational rhinitis, which are not options here, and omits B and E). Matching source text was kept for options C and D; options B and E are independently written. Near-duplicate of question 072.]",
+      "optionExplanations": {
+        "A": "Correct. Rhinitis medicamentosa is a condition of rebound nasal congestion caused by the overuse of topical alpha-adrenergic nasal decongestant sprays (e.g., oxymetazoline, xylometazoline, phenylephrine) for more than 3 to 5 consecutive days.",
+        "B": "[Independent – not in source] Chronic rhinosinusitis with nasal polyps causes chronic obstruction, rhinorrhea and hyposmia with polyps on endoscopy, but the stem's key feature is relief only from topical vasoconstrictors, which points to rebound dependence (rhinitis medicamentosa).",
+        "C": "Hormonal rhinitis occurs during pregnancy or hypothyroidism due to estrogen/progesterone vascular effects.",
+        "D": "Vasomotor rhinitis is non-allergic autonomic rhinitis triggered by weather/odors, not rebound drug dependency.",
+        "E": "[Independent – not in source] Chronic rhinosinusitis without nasal polyps causes chronic congestion, facial pressure and discharge, but dependence on topical vasoconstrictors for relief points to rebound congestion (rhinitis medicamentosa) rather than primary sinus disease."
+      },
+      "educationalObjective": "Diagnose rhinitis medicamentosa in patients with chronic nasal obstruction dependent on topical vasoconstrictor sprays.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-074",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 20-year-old female presents with watery clear rhinorrhea, anosmia, congestion, lacrimation, and low-grade fever for 1 week. What is the most likely pathogen?",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Respiratory syncytial virus",
+        "C": "Parainfluenza virus",
+        "D": "Rhinovirus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Acute viral rhinosinusitis (the common cold) presents with clear/watery rhinorrhea, nasal congestion, anosmia/hyposmia, sneezing, lacrimation, and low-grade fever lasting up to 7 to 10 days. The most common causative pathogen is Rhinovirus (responsible for 30–50% of viral URIs), followed by Coronavirus, Influenza, Parainfluenza, and Adenovirus. Treatment is purely symptomatic (saline irrigation, NSAIDs, hydration).\n\nHigh-Yield Clinical Pearl: Common Cold = Rhinovirus in >50% of cases. Symptoms peak on days 2–3 and resolve within 7–10 days. Bacterial sinusitis is suspected only if symptoms persist >10 days without improvement or worsen after initial improvement ('double sickening').\n\nExam Trap: Do not prescribe antibiotics for acute rhinosinusitis lasting < 10 days; viral etiologies predominate and antibiotics provide no benefit.",
+      "optionExplanations": {
+        "A": "Haemophilus influenzae is a bacterial pathogen causing secondary acute bacterial rhinosinusitis (typically after 10 days or with 'double sickening').",
+        "B": "Respiratory Syncytial Virus (RSV) primarily causes bronchiolitis and pneumonia in infants and young children.",
+        "C": "Parainfluenza virus is the classic etiologic agent of croup (laryngotracheobronchitis) in toddlers.",
+        "D": "Correct. Acute viral rhinosinusitis (the common cold) presents with clear/watery rhinorrhea, nasal congestion, anosmia/hyposmia, sneezing, lacrimation, and low-grade fever lasting up to 7 to 10 days."
+      },
+      "educationalObjective": "Identify Rhinovirus as the most common viral pathogen causing acute viral rhinosinusitis.",
+      "imagePath": ""
+    }
+  ]
+}

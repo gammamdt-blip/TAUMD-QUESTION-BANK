@@ -1,0 +1,1566 @@
+{
+  "metadata": {
+    "title": "ENT Athar Final Examination - Elite Step 2 CK Q-Bank",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "ENT4-075",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is false regarding choanal atresia?",
+      "options": {
+        "A": "Bilateral atresia presents with immediate cyclical cyanosis",
+        "B": "Unilateral atresia can remain hidden for years",
+        "C": "Results from persistence of the buccopharyngeal membrane",
+        "D": "More common in females",
+        "E": "Unilateral atresia occurs more frequently on the left side"
+      },
+      "correctAnswer": "E",
+      "explanation": "Choanal atresia is the congenital failure of the posterior nasal cavity to communicate with the nasopharynx due to persistence of the embryologic buccopharyngeal (or bucconasal) membrane. It is more common in females (~2:1 ratio) and is unilateral in ~65% of cases. Unilateral atresia occurs MORE FREQUENTLY ON THE RIGHT SIDE (statement E/A claiming left predominance or 1:7 male ratio is FALSE). Bilateral atresia presents at birth with acute respiratory distress and cyclical cyanosis relieved by crying (infants are obligate nasal breathers).\n\nHigh-Yield Clinical Pearl: Choanal Atresia: 2:1 Female predominance. Unilateral is more common on the RIGHT side. Bilateral = Emergency cyclical cyanosis in newborns (pink when crying, blue when resting). Diagnosis: Inability to pass a 6-Fr catheter through nares; confirm with axial CT.\n\nExam Trap: Always evaluate infants with choanal atresia for CHARGE syndrome (Coloboma, Heart defects, Atresia choanae, Retarded growth, Genital anomalies, Ear anomalies).",
+      "optionExplanations": {
+        "A": "True: Bilateral atresia presents with cyclical cyanosis (pink when crying, cyanotic when calm/feeding).",
+        "B": "True: Unilateral atresia often remains undiagnosed for years until unilateral persistent rhinorrhea is investigated.",
+        "C": "True: It results from failure of the buccopharyngeal membrane to rupture during the 6th week of gestation.",
+        "D": "True: It is twice as common in females as in males.",
+        "E": "Correct. Unilateral atresia occurs MORE FREQUENTLY ON THE RIGHT SIDE (statement E/A claiming left predominance or 1:7 male ratio is FALSE)."
+      },
+      "educationalObjective": "Recognize the clinical presentation and anatomical characteristics of choanal atresia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-076",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is not part of the ostiomeatal complex (OMC)?",
+      "options": {
+        "A": "Ethmoid bulla",
+        "B": "Middle meatus",
+        "C": "Inferior turbinate",
+        "D": "Uncinate process",
+        "E": "Maxillary sinus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Ostiomeatal Complex (OMC) is the critical functional anatomical unit located in the middle meatus that serves as the common drainage and aeration pathway for the anterior paranasal sinuses (frontal sinus, anterior ethmoid air cells, and maxillary sinus). Key anatomical components include: the uncinate process, ethmoid bulla, hiatus semilunaris, infundibulum, middle meatus, and maxillary sinus ostium. The inferior turbinate and inferior meatus (which receives the nasolacrimal duct) are NOT part of the ostiomeatal complex.\n\nHigh-Yield Clinical Pearl: Ostiomeatal Complex (OMC): In the MIDDLE meatus. Drains Frontal, Maxillary, and Anterior Ethmoid sinuses. Superior meatus drains Posterior ethmoids and Sphenoid (sphenoethmoidal recess). Inferior meatus drains Nasolacrimal duct.\n\nExam Trap: Inferior turbinate is NOT part of the OMC; obstruction of the middle meatus OMC causes secondary sinusitis.",
+      "optionExplanations": {
+        "A": "The ethmoid bulla forms the superior/posterior boundary of the hiatus semilunaris and is a key component of the OMC.",
+        "B": "The middle meatus houses the OMC structures.",
+        "C": "Correct. The inferior turbinate and inferior meatus (which receives the nasolacrimal duct) are NOT part of the ostiomeatal complex.",
+        "D": "The uncinate process forms the medial/inferior boundary of the infundibulum and is the first structure excised in FESS uncinectomy.",
+        "E": "The maxillary sinus ostium drains directly into the ethmoid infundibulum of the OMC."
+      },
+      "educationalObjective": "Identify the anatomical components of the ostiomeatal complex and recognize that the inferior turbinate is excluded.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-077",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A child presents with recent trauma to the nose and unilateral nasal obstruction. You should raise suspicion for which of the following diagnoses?",
+      "options": {
+        "A": "Nasal polyps",
+        "B": "Cribriform fracture",
+        "C": "Septal hematoma",
+        "D": "Injury to the inferior turbinate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Following nasal trauma or fracture in children, accumulation of blood between the septal cartilage and its overlying mucoperichondrium creates a nasal septal hematoma. Because the avascular septal cartilage depends entirely on diffusion from its perichondrium for oxygen and nutrients, a hematoma strips the perichondrium and causes ischemic necrosis of the septal cartilage within 24 to 72 hours. Furthermore, bacterial colonization of the hematoma causes septal abscess, intracranial cavernous sinus thrombosis, and permanent 'saddle nose' deformity. Immediate bilateral incision, drainage, and anterior nasal packing are mandatory.\n\nHigh-Yield Clinical Pearl: Septal Hematoma: Boggy, fluctuant, red/purple midline septal swelling following trauma. True surgical emergency! Complications: Cartilage necrosis, septal perforation, saddle nose deformity, septal abscess. Treatment: Urgent incision, drainage, and packing.\n\nExam Trap: Always inspect the nasal septum with a speculum after any facial/nasal trauma. Do not mistake a septal hematoma for a deviated septum (a hematoma is soft/fluctuant; a deviated septum is firm/bony).",
+      "optionExplanations": {
+        "A": "Nasal polyps are pale, insensitive, non-tender gelatinous masses seen in chronic rhinosinusitis or cystic fibrosis, not acute post-traumatic swelling.",
+        "B": "Cribriform plate fractures cause CSF rhinorrhea (clear watery fluid positive for beta-2 transferrin), not a boggy red septal mass.",
+        "C": "Correct. Following nasal trauma or fracture in children, accumulation of blood between the septal cartilage and its overlying mucoperichondrium creates a nasal septal hematoma.",
+        "D": "Inferior turbinate injury does not create a midline boggy septal mass."
+      },
+      "educationalObjective": "Identify nasal septal hematoma as a surgical emergency requiring immediate incision and drainage to prevent saddle nose deformity.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-078",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 23-year-old male presents with a painless genital ulcer and nasal septal perforation. What is the most likely cause?",
+      "options": {
+        "A": "Anterior septal perforation due to syphilis",
+        "B": "Posterior septal perforation due to syphilis",
+        "C": "Anterior septal perforation due to tuberculosis",
+        "D": "Posterior septal perforation due to gonorrhea",
+        "E": "Posterior septal perforation due to tuberculosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tertiary syphilis produces obliterative endarteritis and destructive gummatous necrosis that characteristically targets the BONY (posterior) nasal septum (vomer and perpendicular plate of the ethmoid), causing posterior septal perforation and saddle nose collapse. This patient also has a history of a painless genital chancre (primary syphilis). In contrast, tuberculosis, Wegener's granulomatosis (GPA), cocaine abuse, and digital trauma typically erode the anterior CARTILAGINOUS septum (quadrangular cartilage).\n\nHigh-Yield Clinical Pearl: Septal Perforation Etiology by Location: BONY (Posterior) = Syphilis (gumma). CARTILAGINOUS (Anterior) = Digital trauma, cocaine abuse, septal surgery, Wegener's (GPA), Tuberculosis.\n\nExam Trap: Remember: Syphilis attacks BONE (posterior septum); Cocaine and GPA attack CARTILAGE (anterior septum).",
+      "optionExplanations": {
+        "A": "Syphilis characteristically destroys the posterior bony septum, whereas anterior cartilaginous perforation is typical of trauma, cocaine, or Wegener's.",
+        "B": "Correct. Tertiary syphilis produces obliterative endarteritis and destructive gummatous necrosis that characteristically targets the BONY (posterior) nasal septum (vomer and perpendicular plate of the ethmoid), causing posterior septal perforation and saddle nose collapse.",
+        "C": "Tuberculosis affects the anterior cartilaginous septum and does not cause a painless genital chancre.",
+        "D": "Gonorrhea causes purulent urethritis, not gummatous bony septal perforation.",
+        "E": "Tuberculosis does not typically cause posterior bony perforation."
+      },
+      "educationalObjective": "Associate posterior bony septal perforation with tertiary syphilis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-079",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A patient undergoes aggressive nasal surgeries. Which type of rhinitis is most likely to develop?",
+      "options": {
+        "A": "Allergic rhinitis",
+        "B": "Vasomotor rhinitis",
+        "C": "Atrophic rhinitis",
+        "D": "Hormonal rhinitis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Aggressive or excessive surgical resection of the inferior and middle turbinates (radical turbinectomy) destroys the humidifying and aerodynamic surface of the nasal mucosa, resulting in secondary atrophic rhinitis (Empty Nose Syndrome). Patients suffer from chronic mucosal crusting, foul-smelling odor (ozaena), dryness, and paradoxical nasal obstruction (despite an anatomically wide patent airway, loss of mucosal thermoreceptors creates the sensation of suffocation). Treatment involves aggressive nasal saline irrigations, emollients, and humidification.\n\nHigh-Yield Clinical Pearl: Atrophic Rhinitis (Empty Nose Syndrome): Caused by over-resection of turbinates or Klebsiella ozaenae. Triad: Mucosal atrophy + foul-smelling green crusting (ozaena) + paradoxical nasal obstruction.\n\nExam Trap: Patients report severe nasal obstruction despite physical examination showing widely patent, cavernous nasal cavities ('paradoxical obstruction').",
+      "optionExplanations": {
+        "A": "Allergic rhinitis is an IgE-mediated hypersensitivity characterized by pale/boggy turbinate hypertrophy, not post-surgical atrophy.",
+        "B": "Vasomotor rhinitis is autonomic hyperreactivity without mucosal crusting or tissue destruction.",
+        "C": "Correct. Aggressive or excessive surgical resection of the inferior and middle turbinates (radical turbinectomy) destroys the humidifying and aerodynamic surface of the nasal mucosa, resulting in secondary atrophic rhinitis (Empty Nose Syndrome).",
+        "D": "Hormonal rhinitis causes vascular engorgement and turbinate hypertrophy, opposite of atrophic destruction."
+      },
+      "educationalObjective": "Recognize atrophic rhinitis as a complication of aggressive turbinate surgery.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-080",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 13-year-old boy presents with unilateral nasal congestion and obstruction. Which of the following is the most likely diagnosis?",
+      "options": {
+        "A": "Nasopharyngeal carcinoma",
+        "B": "Adenoid hypertrophy",
+        "C": "Allergic rhinitis",
+        "D": "Choanal atresia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Unilateral choanal atresia can remain undiagnosed throughout childhood and present in late childhood or adolescence (around age 13) with persistent unilateral nasal obstruction and thick, unilateral mucoid rhinorrhea. Because the contralateral choana is patent, these patients do not exhibit neonatal respiratory distress. The diagnosis is confirmed by inability to pass a small catheter through the affected nostril and axial maxillofacial CT.\n\nHigh-Yield Clinical Pearl: Choanal Atresia: Bilateral presents immediately at birth with cyclical cyanosis. Unilateral presents later in childhood/adolescence with persistent unilateral obstruction and mucoid discharge.\n\nExam Trap: A unilateral foul-smelling nasal discharge in a toddler suggests a foreign body; in an adolescent without foreign body history, think unilateral choanal atresia or antrochoanal polyp.",
+      "optionExplanations": {
+        "A": "Nasopharyngeal carcinoma presents with epistaxis, neck masses, and unilateral serous otitis media, typically in adults.",
+        "B": "Adenoid hypertrophy causes bilateral nasal obstruction, snoring, and obligate mouth breathing.",
+        "C": "Allergic rhinitis causes bilateral itching, sneezing, and clear watery discharge.",
+        "D": "Correct. Unilateral choanal atresia can remain undiagnosed throughout childhood and present in late childhood or adolescence (around age 13) with persistent unilateral nasal obstruction and thick, unilateral mucoid rhinorrhea."
+      },
+      "educationalObjective": "Identify unilateral choanal atresia as a cause of long-standing unilateral nasal obstruction in pediatric and adolescent patients.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-081",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "What is the typical presentation of bilateral choanal atresia in a newborn?",
+      "options": {
+        "A": "Respiratory distress",
+        "B": "Chronic cough",
+        "C": "Stridor on exertion",
+        "D": "Failure to thrive",
+        "E": "Nasal discharge only during sleep"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bilateral choanal atresia is a neonatal respiratory emergency. Newborns are obligate nasal breathers until approximately 4 to 6 weeks of age. When both posterior choanae are occluded, the infant suffers severe acute respiratory distress with cyclical cyanosis: the neonate becomes progressively cyanotic while resting or feeding with the mouth closed, which promptly clears when the infant cries and breathes through the open mouth ('pink when crying, blue when quiet'). Immediate management requires an oral airway (McGovern nipple or endotracheal tube) followed by definitive transnasal endoscopic repair.\n\nHigh-Yield Clinical Pearl: Bilateral Choanal Atresia: Newborn with cyclical cyanosis that resolves when crying. Initial airway management: McGovern nipple. Definitive repair: Transnasal endoscopic puncture/dilation.\n\nExam Trap: If a newborn becomes cyanotic during breastfeeding but turns pink when crying, suspect bilateral choanal atresia immediately!",
+      "optionExplanations": {
+        "A": "Correct. Bilateral choanal atresia is a neonatal respiratory emergency. Newborns are obligate nasal breathers until approximately 4 to 6 weeks of age.",
+        "B": "Chronic cough is a sign of tracheoesophageal fistula or aspiration, not cyclical nasal occlusion.",
+        "C": "Stridor on exertion suggests subglottic stenosis or laryngomalacia.",
+        "D": "Failure to thrive occurs chronically if undiagnosed, but the acute newborn presentation is respiratory distress.",
+        "E": "[Independent – not in source] Nasal discharge only during sleep is not the typical newborn presentation: bilateral choanal atresia causes respiratory distress with cyclical cyanosis from birth (cyanotic at rest, pink when crying), not discharge confined to sleep."
+      },
+      "educationalObjective": "Recognize respiratory distress with cyclical cyanosis relieved by crying as the classic presentation of bilateral choanal atresia in a newborn.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-082",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are true regarding Pott's puffy tumor except:",
+      "options": {
+        "A": "Most often seen in adolescents and young adults",
+        "B": "It can be associated with intracranial extension with epidural abscess",
+        "C": "Patient needs admission and IV antibiotics",
+        "D": "The most common offending organism is S. pneumoniae",
+        "E": "The underlying cause is invasion of diploic veins"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet. It is most commonly seen in adolescents and young adults (due to increased vascularity of developing diploic spaces). The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE). Patients require hospital admission, IV broad-spectrum antibiotics, and surgical drainage.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor: Forehead doughy swelling/abscess + Frontal osteomyelitis from FRONTAL SINUSITIS. Spread via diploic veins. Most common organism = Staphylococcus aureus. Treatment: IV antibiotics + surgical drainage.\n\nExam Trap: Pott's puffy tumor arises from the FRONTAL sinus, never the sphenoid sinus. High risk of epidural abscess!",
+      "optionExplanations": {
+        "A": "True statement: Pott's puffy tumor is most prevalent in adolescents due to frontal sinus and diploic vein maturation.",
+        "B": "True statement: Intracranial extension (epidural abscess, subdural empyema, dural sinus thrombosis) occurs in up to 30% of cases.",
+        "C": "True statement: All patients require urgent inpatient admission and IV antimicrobial therapy.",
+        "D": "Correct. The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE).",
+        "E": "True statement: Retrograde thrombophlebitis through diploic veins of the frontal bone is the primary mechanism of spread."
+      },
+      "educationalObjective": "Identify the clinical characteristics, etiology (frontal sinusitis, S. aureus), and complications of Pott's puffy tumor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-083",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is wrong about ophthalmic complications of sinusitis?",
+      "options": {
+        "A": "Subperiosteal abscess is caused by S. aureus",
+        "B": "Usually self-limited",
+        "C": "Subperiosteal abscess is found between the orbit and lamina papyracea",
+        "D": "Needs admission and IV antibiotics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Orbital complications of acute bacterial sinusitis (Chandler Classification: I Preseptal cellulitis, II Orbital cellulitis, III Subperiosteal abscess, IV Orbital abscess, V Cavernous sinus thrombosis) are medical emergencies that are NOT self-limited (statement B claiming they are self-limited is WRONG). Untreated, they rapidly cause permanent visual loss (optic neuritis/ ischemia) or intracranial abscess. Subperiosteal abscess occurs between the periorbita and the thin lamina papyracea of the ethmoid bone. Management requires hospital admission, high-dose IV antibiotics, and surgical drainage if vision is threatened or no improvement occurs within 24–48 hours.\n\nHigh-Yield Clinical Pearl: Chandler Classification of Orbital Complications: I: Preseptal cellulitis; II: Orbital cellulitis (proptosis, chemosis, ophthalmoplegia); III: Subperiosteal abscess; IV: Orbital abscess (loss of vision); V: Cavernous sinus thrombosis (bilateral signs). Most common source = Ethmoid sinus (lamina papyracea).\n\nExam Trap: Preseptal cellulitis has NO proptosis, NO visual deficit, and normal eye movements. Orbital cellulitis has proptosis, painful ophthalmoplegia, and chemosis!",
+      "optionExplanations": {
+        "A": "True: Subperiosteal abscess is often polymicrobial with S. aureus and Streptococcus species.",
+        "B": "Correct. Orbital complications of acute bacterial sinusitis (Chandler Classification: I Preseptal cellulitis, II Orbital cellulitis, III Subperiosteal abscess, IV Orbital abscess, V Cavernous sinus thrombosis) are medical emergencies that are NOT self-limited (statement B claiming they are self-limited is WRONG).",
+        "C": "True: Subperiosteal abscess collects between the orbital periosteum and lamina papyracea of the ethmoid sinus.",
+        "D": "True: All post-septal complications mandate immediate hospital admission and IV antibiotic therapy."
+      },
+      "educationalObjective": "Recognize orbital complications of sinusitis as medical emergencies requiring admission and IV antibiotics, distinguishing preseptal from postseptal infection.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-084",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "First-line treatment for allergic rhinitis is:",
+      "options": {
+        "A": "Avoidance",
+        "B": "Second-generation antihistamine",
+        "C": "Antihistamine spray",
+        "D": "Mast cell stabilizer",
+        "E": "Cromolyn"
+      },
+      "correctAnswer": "A",
+      "explanation": "The first-line management strategy for allergic rhinitis is allergen avoidance (environmental control measures to eliminate or reduce exposure to identified aeroallergens such as house dust mites, pollen, pet dander, and mold). Pharmacologically, intranasal corticosteroids (e.g., fluticasone, mometasone) are the most effective first-line medication.\n\nHigh-Yield Clinical Pearl: Allergic Rhinitis Management: 1) Allergen avoidance is first-line non-pharmacologic intervention. 2) Intranasal corticosteroids are the most effective first-line pharmacotherapy.\n\nExam Trap: Oral decongestants should be avoided in patients with uncontrolled hypertension or narrow-angle glaucoma.",
+      "optionExplanations": {
+        "A": "Correct. The first-line management strategy for allergic rhinitis is allergen avoidance (environmental control measures to eliminate or reduce exposure to identified aeroallergens such as house dust mites, pollen, pet dander, and mold).",
+        "B": "Second-generation oral antihistamines (cetirizine, loratadine) are effective for mild symptoms, but allergen avoidance is the foundational first step.",
+        "C": "Antihistamine sprays (azelastine) provide rapid symptom relief but are secondary to avoidance and nasal steroids.",
+        "D": "Mast cell stabilizers (cromolyn) require frequent dosing (4x daily) and are less effective.",
+        "E": "Cromolyn sodium is a secondary agent used primarily for prophylaxis before acute exposure."
+      },
+      "educationalObjective": "Identify allergen avoidance as the initial first-line management for allergic rhinitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-085",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is incorrect regarding preseptal cellulitis?",
+      "options": {
+        "A": "No vision loss",
+        "B": "No need for antibiotics and it is self-limited",
+        "C": "It is prevalent in the pediatric population",
+        "D": "The source of infection is usually the ethmoid sinus",
+        "E": "No proptosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Preseptal (periorbital) cellulitis is an infection of the eyelid and soft tissues anterior to the orbital septum. Statement B ('no need for antibiotics and it is self-limited') is INCORRECT because preseptal cellulitis requires prompt antibiotic therapy (oral or IV) to prevent progression into the deep orbit. Unlike postseptal orbital cellulitis, preseptal cellulitis exhibits NO proptosis, NO ophthalmoplegia, NO pain with eye movement, and NO visual impairment.\n\nHigh-Yield Clinical Pearl: Preseptal vs Orbital Cellulitis: Preseptal = Eyelid swelling/erythema only; normal vision, normal extraocular movements, NO proptosis. Orbital = Proptosis, painful ophthalmoplegia, chemosis, decreased visual acuity.\n\nExam Trap: If a patient with periorbital erythema develops diplopia, proptosis, or sluggish pupillary response, they have progressed to orbital cellulitis -> order immediate contrast CT of orbits/sinuses!",
+      "optionExplanations": {
+        "A": "True statement: Visual acuity is fully preserved in preseptal cellulitis.",
+        "B": "Correct. Statement B ('no need for antibiotics and it is self-limited') is INCORRECT because preseptal cellulitis requires prompt antibiotic therapy (oral or IV) to prevent progression into the deep orbit.",
+        "C": "True statement: Preseptal cellulitis is predominantly seen in children < 5 years of age following trauma, insect bites, or ethmoid sinusitis.",
+        "D": "True statement: Sinusitis, especially of the ethmoid sinus, is a frequent source.",
+        "E": "True statement: Proptosis is absent because the infection is confined anterior to the orbital septum."
+      },
+      "educationalObjective": "Differentiate preseptal cellulitis from orbital cellulitis and recognize the necessity of antibiotic treatment.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-086",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "About acute bacterial sinusitis, which one is false?",
+      "options": {
+        "A": "Low-grade fever",
+        "B": "Localized pain",
+        "C": "Double sickening",
+        "D": "Purulent discharge",
+        "E": "Elevated ESR"
+      },
+      "correctAnswer": "A",
+      "explanation": "Statement A ('low-grade fever') is FALSE regarding acute bacterial rhinosinusitis (ABRS), because ABRS typically presents with high fever (≥ 39°C / 102°F) accompanied by purulent nasal discharge, intense localized facial pain/pressure, 'double sickening' (worsening after initial improvement), and elevated inflammatory markers (ESR/CRP). Low-grade fever is more characteristic of viral upper respiratory tract infections.\n\nHigh-Yield Clinical Pearl: Acute Bacterial Rhinosinusitis (ABRS) Diagnostic Criteria (IDSA): 1) Persistent symptoms ≥ 10 days without clinical improvement; 2) Severe onset with high fever (≥39°C) and purulent discharge for ≥ 3–4 consecutive days; OR 3) 'Double sickening' (worsening after initial recovery).\n\nExam Trap: Purulent (green/yellow) discharge alone does NOT prove bacterial infection; in viral colds, neutrophilic turnover turns mucus green by days 3–5. Duration (>10 days) or severity is required.",
+      "optionExplanations": {
+        "A": "Correct. Statement A ('low-grade fever') is FALSE regarding acute bacterial rhinosinusitis (ABRS), because ABRS typically presents with high fever (≥ 39°C / 102°F) accompanied by purulent nasal discharge, intense localized facial pain/pressure, 'double sickening' (worsening after initial improvement), and elevated inflammatory markers (ESR/CRP).",
+        "B": "True: Severe localized unilateral facial pain or maxillary toothache is a diagnostic hallmark of bacterial sinusitis.",
+        "C": "True: 'Double sickening' (biphasic illness: worsening fever/headache after a typical 5–6 day cold) strongly indicates secondary bacterial infection.",
+        "D": "True: Thick, purulent, opaque nasal and post-nasal discharge is a major diagnostic criterion.",
+        "E": "True: Erythrocyte sedimentation rate (ESR) and CRP are elevated in acute bacterial infection."
+      },
+      "educationalObjective": "Identify the clinical presentation and diagnostic criteria of acute bacterial rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-087",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 35-year-old patient presents with year-round sneezing, nasal congestion, rhinorrhea, and nasal itching. He has no known allergies, and skin prick testing is negative. Nasal smear shows a high eosinophil count. There is no history of asthma or atopy. What is the most characteristic feature of this condition?",
+      "options": {
+        "A": "Positive skin allergy testing",
+        "B": "Seasonal variation in symptoms",
+        "C": "Symptoms of perennial rhinitis",
+        "D": "IgE-mediated hypersensitivity reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-Allergic Rhinitis with Eosinophilia Syndrome (NARES) is characterized by perennial (year-round) symptoms of sneezing, profuse rhinorrhea, nasal congestion, and pruritus in patients who have negative skin prick tests and normal serum IgE levels, but display abundant eosinophils (>20%) on nasal cytology smears. The hallmark feature is symptoms of perennial rhinitis without an identifiable IgE-mediated allergic trigger. Patients are highly responsive to intranasal corticosteroids.\n\nHigh-Yield Clinical Pearl: NARES: Allergic rhinitis symptoms + Negative allergy skin tests/IgE + Eosinophils on nasal smear (>20%). Treatment: Intranasal corticosteroids (highly effective).\n\nExam Trap: Do not mistake NARES for allergic rhinitis; allergy testing is negative, but nasal smear eosinophilia provides the definitive clue.",
+      "optionExplanations": {
+        "A": "Skin prick testing and allergen-specific IgE are characteristically negative in NARES.",
+        "B": "Symptoms are perennial (year-round), not seasonal.",
+        "C": "Correct. Non-Allergic Rhinitis with Eosinophilia Syndrome (NARES) is characterized by perennial (year-round) symptoms of sneezing, profuse rhinorrhea, nasal congestion, and pruritus in patients who have negative skin prick tests and normal serum IgE levels, but display abundant eosinophils (>20%) on nasal cytology smears.",
+        "D": "NARES is non-IgE mediated; eosinophil accumulation occurs through alternate inflammatory cytokine pathways."
+      },
+      "educationalObjective": "Identify the features of non-allergic rhinitis with eosinophilia syndrome (NARES): perennial rhinitis symptoms with nasal eosinophilia and negative allergy tests.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-088",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "22) Site of the piriform sinus:",
+      "options": {
+        "A": "Lateral to the aryepiglottic folds",
+        "B": "Inferior to the aryepiglottic fold"
+      },
+      "correctAnswer": "A",
+      "explanation": "The piriform sinus (piriform recess/fossa) is a bilateral pear-shaped pouch of the hypopharynx located on either side of the laryngeal inlet. It is bounded medially by the aryepiglottic fold and arytenoid cartilage, and laterally by the medial surface of the thyroid cartilage and thyrohyoid membrane. Thus, its location is lateral to the aryepiglottic folds.\n\nHigh-Yield Clinical Pearl: Piriform Sinus: Located in the hypopharynx, LATERAL to the aryepiglottic fold. Innervated by the internal branch of the superior laryngeal nerve (CN X). Common site for occult squamous cell carcinoma.\n\nExam Trap: Foreign bodies (e.g., fish bones) frequently lodge in the piriform sinus; carcinoma here often remains clinically silent until presenting with cervical nodal metastasis.\n\n[Extraction note: The stem begins with the source's own numbering text \"22)\", preserved as printed.]",
+      "optionExplanations": {
+        "A": "Correct. The piriform sinus (piriform recess/fossa) is a bilateral pear-shaped pouch of the hypopharynx located on either side of the laryngeal inlet.",
+        "B": "Inferior to the aryepiglottic fold lies the laryngeal ventricle and true vocal cord, not the piriform sinus."
+      },
+      "educationalObjective": "Identify the anatomical location of the piriform sinus lateral to the aryepiglottic fold.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-089",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 41-year-old male complains of nasal obstruction, sneezing, and rhinorrhea just when exposed to stress. Which one of the following is the best option for treatment?",
+      "options": {
+        "A": "Immunotherapy",
+        "B": "Oral prednisolone",
+        "C": "Second-generation antihistamine",
+        "D": "Systemic decongestant",
+        "E": "Anticholinergic spray"
+      },
+      "correctAnswer": "E",
+      "explanation": "Vasomotor rhinitis is a form of non-allergic, non-infectious rhinitis characterized by autonomic dysregulation (parasympathetic hyperreactivity and sympathetic hyporeactivity). Triggers include temperature shifts, cold air, strong odors, eating (gustatory), and emotional stress. Excessive cholinergic parasympathetic output stimulates seromucinous glands, producing profuse watery rhinorrhea. The most effective treatment for cholinergic rhinorrhea is an intranasal anticholinergic spray (ipratropium bromide), which competitively antagonizes muscarinic receptors.\n\nHigh-Yield Clinical Pearl: Vasomotor Rhinitis: Autonomic imbalance triggered by cold air, smells, or stress. Treatment of choice for profuse watery rhinorrhea = Intranasal Ipratropium Bromide (anticholinergic).\n\nExam Trap: Oral antihistamines do not work well for vasomotor rhinitis because symptoms are driven by cholinergic parasympathetic hyperactivity, not histamine release.",
+      "optionExplanations": {
+        "A": "Allergen immunotherapy is effective only for verified IgE-mediated allergic rhinitis confirmed by skin prick or RAST testing.",
+        "B": "Oral prednisolone is unnecessary and carries significant systemic toxicities for non-allergic vasomotor symptoms.",
+        "C": "Second-generation oral antihistamines treat histamine-mediated itching and sneezing in allergic rhinitis, but have minimal effect on autonomic vasomotor rhinorrhea.",
+        "D": "Systemic decongestants (pseudoephedrine) relieve congestion via alpha-agonism but carry hypertension/insomnia risks and do not curb watery rhinorrhea.",
+        "E": "Correct. The most effective treatment for cholinergic rhinorrhea is an intranasal anticholinergic spray (ipratropium bromide), which competitively antagonizes muscarinic receptors."
+      },
+      "educationalObjective": "Select intranasal anticholinergic spray (ipratropium bromide) as the optimal treatment for stress-induced or vasomotor rhinorrhea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-090",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Best imaging modality for sinusitis:",
+      "options": {
+        "A": "CT"
+      },
+      "correctAnswer": "A",
+      "explanation": "High-resolution non-contrast computed tomography (CT) of the paranasal sinuses (specifically coronal and axial bone algorithm views) is the gold standard imaging modality for evaluating paranasal sinus disease. It clearly depicts the bony architecture of the ostiomeatal complex, sinus opacification, mucosal thickening, bone remodeling, and skull base/orbital landmarks before functional endoscopic sinus surgery (FESS).\n\nHigh-Yield Clinical Pearl: Sinus Imaging: Non-contrast coronal CT is the modality of choice for chronic sinusitis and surgical planning. Plain X-rays (Water's view) are obsolete. MRI is reserved for suspected fungal sinusitis, neoplasms, or intracranial/orbital extension.\n\nExam Trap: CT scan is NOT indicated for uncomplicated acute viral or bacterial rhinosinusitis; it is reserved for chronic sinusitis (>12 weeks), complications, or preoperative FESS evaluation.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. High-resolution non-contrast computed tomography (CT) of the paranasal sinuses (specifically coronal and axial bone algorithm views) is the gold standard imaging modality for evaluating paranasal sinus disease."
+      },
+      "educationalObjective": "Select CT scan as the best imaging modality for evaluating paranasal sinus anatomy and pathology.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-091",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Correct about antrochoanal polyp:",
+      "options": {
+        "A": "Unilateral nasal obstruction"
+      },
+      "correctAnswer": "A",
+      "explanation": "An antrochoanal polyp (Killian's polyp) is a benign, solitary, unilateral polypoid lesion that arises from the mucosa of the maxillary sinus antrum. It exits through the natural or accessory maxillary ostium into the middle meatus, grows posteriorly along the nasal floor, and enters the choana and nasopharynx. It characteristically produces unilateral nasal obstruction in young adults and adolescents. Surgical treatment is FESS with complete removal of the antral base.\n\nHigh-Yield Clinical Pearl: Antrochoanal Polyp: Solitary, UNILATERAL polyp originating in the maxillary sinus, extending into the choana. Most common in young adults. Presents with unilateral nasal obstruction. Treatment: Endoscopic resection including antral attachment.\n\nExam Trap: Unlike multiple bilateral allergic/inflammatory polyps, an antrochoanal polyp is almost always strictly UNILATERAL.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. An antrochoanal polyp (Killian's polyp) is a benign, solitary, unilateral polypoid lesion that arises from the mucosa of the maxillary sinus antrum."
+      },
+      "educationalObjective": "Recognize that antrochoanal polyps typically present with unilateral nasal obstruction originating from the maxillary sinus.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-092",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following can be treated by trans-nasal endoscopic surgery except:",
+      "options": {
+        "A": "Deviated septum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Trans-nasal endoscopic surgery (FESS and extended skull base approaches) is routinely employed for chronic rhinosinusitis, nasal polyposis, antrochoanal polyps, sinonasal tumors, pituitary adenoma resection, and skull base / CSF leak repairs. However, a deviated nasal septum is treated primarily via traditional open or closed septoplasty using a Freer/Killian incision under direct vision or headlight illumination, NOT standard trans-nasal endoscopic sinus surgery.\n\nHigh-Yield Clinical Pearl: FESS Indications: Refractory chronic rhinosinusitis, massive nasal polyposis, antrochoanal polyps, recurrent acute sinusitis, orbital decompression, CSF leak repair, pituitary tumor resection.\n\nExam Trap: Septoplasty is primarily a cartilaginous/bony reconstruction of the nasal septum, distinct from endoscopic sinus opening.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. However, a deviated nasal septum is treated primarily via traditional open or closed septoplasty using a Freer/Killian incision under direct vision or headlight illumination, NOT standard trans-nasal endoscopic sinus surgery."
+      },
+      "educationalObjective": "Identify conditions managed by functional endoscopic sinus surgery and recognize that septal deviation is primarily treated by septoplasty.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-093",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Characteristic of bacterial rhinosinusitis in an acute case:",
+      "options": {
+        "A": "Headache worse with leaning forward",
+        "B": "Bilateral facial pain",
+        "C": "Fever less than 24 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hallmark feature of acute bacterial rhinosinusitis is localized facial pain, pressure, and headache that characteristically worsens upon bending forward, coughing, or straining. Leaning forward increases hydrostatic gravitational venous pressure and fluid pressure against the sinus ostia, intensifying pain over the affected frontal, maxillary, or ethmoid sinus.\n\nHigh-Yield Clinical Pearl: Sinus Headache: Dull, aching, throbbing pressure localized over the sinus (maxillary, frontal, ethmoid) that worsens when leaning forward or coughing.\n\nExam Trap: Many patients presenting with self-described 'sinus headaches' actually have migraines without aura (which can also cause nasal autonomic symptoms like congestion).",
+      "optionExplanations": {
+        "A": "Correct. A hallmark feature of acute bacterial rhinosinusitis is localized facial pain, pressure, and headache that characteristically worsens upon bending forward, coughing, or straining.",
+        "B": "Bacterial rhinosinusitis is classically unilateral or asymmetrically localized to the infected sinus; diffuse bilateral pain is more common in viral colds or tension headache.",
+        "C": "Fever in acute bacterial sinusitis typically persists for more than 3 to 4 consecutive days, rather than lasting less than 24 hours."
+      },
+      "educationalObjective": "Recognize that headache and facial pressure worsening when bending forward are characteristic of acute bacterial rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-094",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Caused by IgE-mediated immunopathologic events:",
+      "options": {
+        "A": "Allergic rhinitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Allergic rhinitis is driven by IgE-mediated immunopathologic events (Type I hypersensitivity). Exposure to environmental aeroallergens induces B-cell class-switching to IgE, which binds to mast cells. Re-exposure causes cross-linking of IgE, mast cell degranulation, and immediate histamine release followed by late-phase eosinophil infiltration.\n\nHigh-Yield Clinical Pearl: Allergic Rhinitis = Type I IgE-mediated hypersensitivity reaction. Hallmark findings: Allergic shiners (venous congestion), Dennie-Morgan lines (infraorbital folds), allergic salute/crease.\n\nExam Trap: Do not mistake vasomotor rhinitis or non-allergic rhinitis for allergic rhinitis; allergy testing (skin prick or serum IgE) must be positive to confirm allergic rhinitis.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Allergic rhinitis is driven by IgE-mediated immunopathologic events (Type I hypersensitivity). Exposure to environmental aeroallergens induces B-cell class-switching to IgE, which binds to mast cells."
+      },
+      "educationalObjective": "Recall that allergic rhinitis is caused by IgE-mediated immunopathologic events.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-095",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Not a typical feature of allergic rhinitis:",
+      "options": {
+        "A": "Fatigue",
+        "B": "Sore throat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Typical features of allergic rhinitis include paroxysmal sneezing, clear watery rhinorrhea, nasal congestion, nasal and palatal pruritus, ocular tearing, and chronic fatigue (due to allergic sleep disruption). In contrast, sore throat is NOT a typical primary feature of allergic rhinitis; its presence suggests infectious pharyngitis or viral upper respiratory infection (although mild throat irritation from post-nasal drip can occur).\n\nHigh-Yield Clinical Pearl: Allergic Rhinitis Symptoms: Sneezing, clear rhinorrhea, nasal itching, congestion, allergic shiners, fatigue. Sore throat and fever point to viral or bacterial infection.\n\nExam Trap: Fever and sore throat are NOT features of allergic rhinitis; their presence should prompt investigation for infectious pharyngitis.",
+      "optionExplanations": {
+        "A": "Fatigue ('allergic fatigue') is common due to nasal congestion disrupting restful sleep.",
+        "B": "Correct. In contrast, sore throat is NOT a typical primary feature of allergic rhinitis; its presence suggests infectious pharyngitis or viral upper respiratory infection (although mild throat irritation from post-nasal drip can occur)."
+      },
+      "educationalObjective": "Identify typical versus atypical symptoms of allergic rhinitis, noting that sore throat is not a primary feature.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-096",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 20-year-old female presents with watery clear rhinorrhea, anosmia, congestion, lacrimation, and low-grade fever for 1 week. What is the most likely pathogen?",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Respiratory syncytial virus",
+        "C": "Parainfluenza virus",
+        "D": "Rhinovirus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Acute viral rhinosinusitis (the common cold) presents with clear/watery rhinorrhea, nasal congestion, anosmia/hyposmia, sneezing, lacrimation, and low-grade fever lasting up to 7 to 10 days. The most common causative pathogen is Rhinovirus (responsible for 30–50% of viral URIs), followed by Coronavirus, Influenza, Parainfluenza, and Adenovirus. Treatment is purely symptomatic (saline irrigation, NSAIDs, hydration).\n\nHigh-Yield Clinical Pearl: Common Cold = Rhinovirus in >50% of cases. Symptoms peak on days 2–3 and resolve within 7–10 days. Bacterial sinusitis is suspected only if symptoms persist >10 days without improvement or worsen after initial improvement ('double sickening').\n\nExam Trap: Do not prescribe antibiotics for acute rhinosinusitis lasting < 10 days; viral etiologies predominate and antibiotics provide no benefit.",
+      "optionExplanations": {
+        "A": "Haemophilus influenzae is a bacterial pathogen causing secondary acute bacterial rhinosinusitis (typically after 10 days or with 'double sickening').",
+        "B": "Respiratory Syncytial Virus (RSV) primarily causes bronchiolitis and pneumonia in infants and young children.",
+        "C": "Parainfluenza virus is the classic etiologic agent of croup (laryngotracheobronchitis) in toddlers.",
+        "D": "Correct. Acute viral rhinosinusitis (the common cold) presents with clear/watery rhinorrhea, nasal congestion, anosmia/hyposmia, sneezing, lacrimation, and low-grade fever lasting up to 7 to 10 days."
+      },
+      "educationalObjective": "Identify Rhinovirus as the most common viral pathogen causing acute viral rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-097",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 3-year-old with nasal polyps. The initial step is:",
+      "options": {
+        "A": "Rule out cystic fibrosis",
+        "B": "Prick test",
+        "C": "Nasal steroid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The discovery of nasal polyps in a young child (under 10–12 years of age) is abnormal and represents CYSTIC FIBROSIS until proven otherwise. Nasal polyps occur in up to 40–50% of patients with cystic fibrosis due to thick, dehydrated secretions and chronic infection. The mandatory initial diagnostic step is to rule out cystic fibrosis using a quantitative pilocarpine iontophoresis sweat chloride test (sweat test) or CFTR genetic analysis.\n\nHigh-Yield Clinical Pearl: Nasal Polyps in a Child: Rule out CYSTIC FIBROSIS! Initial test: Quantitative sweat chloride test (pilocarpine iontophoresis). Chloride ≥ 60 mmol/L is diagnostic.\n\nExam Trap: In adults, polyps are often associated with asthma and aspirin sensitivity (Samter's triad). In children, polyps = Cystic Fibrosis!",
+      "optionExplanations": {
+        "A": "Correct. The discovery of nasal polyps in a young child (under 10–12 years of age) is abnormal and represents CYSTIC FIBROSIS until proven otherwise.",
+        "B": "Allergy skin prick testing may be performed later, but ruling out cystic fibrosis is the urgent primary priority.",
+        "C": "Nasal corticosteroids reduce polyp size, but obtaining a diagnostic sweat test takes precedence."
+      },
+      "educationalObjective": "Identify cystic fibrosis as the primary condition to rule out when nasal polyps are diagnosed in a young child.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-098",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Nasal hematoma is:",
+      "options": {
+        "A": "Blood collection between the nasal mucosa and perichondrium",
+        "B": "Benign tumor",
+        "C": "Aspiration"
+      },
+      "correctAnswer": "A",
+      "explanation": "A nasal septal hematoma is defined as an accumulation of blood within the subperichondrial space between the nasal septal cartilage (quadrangular cartilage) and its overlying mucoperichondrium. Because cartilage is avascular, stripping of the perichondrium deprives the cartilage of blood supply, causing ischemic cartilage necrosis within 24 to 72 hours.\n\nHigh-Yield Clinical Pearl: Nasal Hematoma = Blood collection between nasal cartilage and mucoperichondrium. Requires urgent incision and bilateral anterior packing.\n\nExam Trap: If left untreated, a septal hematoma becomes an abscess, leading to cartilage resorption and permanent saddle nose deformity.",
+      "optionExplanations": {
+        "A": "Correct. A nasal septal hematoma is defined as an accumulation of blood within the subperichondrial space between the nasal septal cartilage (quadrangular cartilage) and its overlying mucoperichondrium.",
+        "B": "A hematoma is a traumatic blood collection, not a neoplastic growth.",
+        "C": "Aspiration alone is insufficient; formal incision, drainage, and packing are required to prevent re-accumulation."
+      },
+      "educationalObjective": "Define a nasal hematoma as blood collection between the nasal septal cartilage and its overlying perichondrium.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-099",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Formation of the external nose:",
+      "options": {
+        "A": "1/3 bone, 2/3 cartilage"
+      },
+      "correctAnswer": "A",
+      "explanation": "The structural framework of the external nose is divided anatomically into an upper bony portion and a lower cartilaginous portion: approximately the upper 1/3 is bone (composed of the paired nasal bones and the frontal processes of the maxilla), while the lower 2/3 is cartilaginous (composed of the upper lateral cartilages, lower lateral/alar cartilages, and the cartilaginous septum).\n\nHigh-Yield Clinical Pearl: External Nose Composition: Upper 1/3 = Bony vault (nasal bones + maxilla). Lower 2/3 = Cartilaginous vault (upper lateral + lower alar + septal cartilage).\n\nExam Trap: Trauma to the upper 1/3 fractures bone; trauma to the lower 2/3 dislocates or tears cartilage.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The structural framework of the external nose is divided anatomically into an upper bony portion and a lower cartilaginous portion: approximately the upper 1/3 is bone (composed of the paired nasal bones and the frontal processes of the maxilla), while the lower 2/3 is cartilaginous (composed of the upper lateral cartilages, lower lateral/alar cartilages, and the cartilaginous septum)."
+      },
+      "educationalObjective": "Recall that the external nose framework consists of one-third bone and two-thirds cartilage.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-100",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The correct statement regarding the blood supply of the nose is:",
+      "options": {
+        "A": "Facial artery from the external carotid artery",
+        "B": "No connection with the sagittal sinus",
+        "C": "External carotid artery only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The blood supply of the nose is derived from both the internal carotid artery (ICA) and external carotid artery (ECA). The facial artery, a major branch of the external carotid artery, ascends over the mandible to supply the anterior nose via the superior labial artery (which contributes to Kiesselbach's plexus). Other ECA contributors include the sphenopalatine and greater palatine arteries (from the maxillary artery). The ophthalmic artery (from the ICA) supplies the ethmoidal arteries.\n\nHigh-Yield Clinical Pearl: Nasal Arterial Supply: Dual supply from ECA (Sphenopalatine, Greater palatine, Superior labial) and ICA (Anterior and Posterior ethmoidal via Ophthalmic artery).\n\nExam Trap: The facial danger triangle communicates directly with the cavernous sinus through valveless facial and ophthalmic veins.",
+      "optionExplanations": {
+        "A": "Correct. The blood supply of the nose is derived from both the internal carotid artery (ICA) and external carotid artery (ECA). The facial artery, a major branch of the external carotid artery, ascends over the mandible to supply the anterior nose via the superior labial artery (which contributes to Kiesselbach's plexus).",
+        "B": "False: Nasal veins communicate with the sagittal sinus and cavernous sinus via the foramen cecum and ophthalmic veins ('danger area of the face').",
+        "C": "False: The nose receives blood from BOTH the external carotid artery (maxillary, facial) and internal carotid artery (ophthalmic -> anterior/posterior ethmoidal)."
+      },
+      "educationalObjective": "Identify the facial artery (from the external carotid artery) as a major contributor to the nasal blood supply.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-101",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Question 1: Why do we preserve the cartilage in septoplasty?",
+      "options": {
+        "A": "To prevent saddle deformity"
+      },
+      "correctAnswer": "A",
+      "explanation": "During septoplasty (or submucous resection), surgeons must strictly preserve a continuous L-shaped cartilaginous strut of at least 10 to 15 mm along both the dorsal and caudal borders of the nasal septum ('L-strut'). This preserved cartilage is essential to support the nasal dorsum and tip; resecting or compromising this strut leads to loss of dorsal nasal height, resulting in a permanent 'saddle nose' (pug-nose) deformity.\n\nHigh-Yield Clinical Pearl: Septoplasty Cardinal Rule: Always preserve a 10–15 mm dorsal and caudal cartilaginous 'L-strut' to maintain structural support and prevent saddle nose deformity.\n\nExam Trap: Over-resection of dorsal septal cartilage causes saddle nose deformity; over-resection of caudal septum causes columellar retraction and tip ptosis.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]\n\n[Extraction note: The stem begins with the source's own text \"Question 1:\", preserved as printed.]",
+      "optionExplanations": {
+        "A": "Correct. During septoplasty (or submucous resection), surgeons must strictly preserve a continuous L-shaped cartilaginous strut of at least 10 to 15 mm along both the dorsal and caudal borders of the nasal septum ('L-strut')."
+      },
+      "educationalObjective": "Explain why an L-shaped cartilaginous strut must be preserved during septoplasty to prevent saddle nose deformity.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-102",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is not part of the anatomy of the nasal septum?",
+      "options": {
+        "A": "Perpendicular plate of the palatine bone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The skeletal framework of the nasal septum is composed of three primary structures: 1) Quadrangular (septal) cartilage anteriorly, 2) Perpendicular plate of the ethmoid bone superiorly, and 3) Vomer bone postero-inferiorly (assisted by small crests of the maxillary and palatine bones). There is NO 'perpendicular plate of the palatine bone' contributing to the nasal septum (the palatine bone has a horizontal plate forming the posterior hard palate and a perpendicular plate forming the lateral nasal wall).\n\nHigh-Yield Clinical Pearl: Nasal Septum Components: 1) Quadrangular cartilage (anterior); 2) Perpendicular plate of ethmoid (posterosuperior); 3) Vomer (posteroinferior). Maxillary and palatine crests form the inferior base.\n\nExam Trap: Do not confuse the perpendicular plate of the ethmoid (septum) with the perpendicular plate of the palatine bone (lateral nasal wall).\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. There is NO 'perpendicular plate of the palatine bone' contributing to the nasal septum (the palatine bone has a horizontal plate forming the posterior hard palate and a perpendicular plate forming the lateral nasal wall)."
+      },
+      "educationalObjective": "Identify the anatomical components of the nasal septum and recognize that the perpendicular plate of the palatine bone is not part of the septum.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-103",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The most common site of epistaxis is:",
+      "options": {
+        "A": "Anterior nasal septum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greater than 90% of all epistaxis episodes arise from the anterior nasal septum at Little's area, where Kiesselbach's arterial plexus is located. This plexus represents an anastomotic confluence of four arteries: the anterior ethmoidal, sphenopalatine, superior labial, and greater palatine arteries. It is highly susceptible to drying, digital trauma, and environmental exposure.\n\nHigh-Yield Clinical Pearl: Most Common Site of Epistaxis = Anterior nasal septum (Little's area / Kiesselbach's plexus, >90%). Posterior epistaxis (~10%) arises from Woodruff's plexus (sphenopalatine artery branches) in older hypertensive patients.\n\nExam Trap: Anterior epistaxis is easily controlled with direct pressure or chemical cautery (silver nitrate); posterior epistaxis requires posterior balloon packing or endoscopic sphenopalatine artery ligation.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Greater than 90% of all epistaxis episodes arise from the anterior nasal septum at Little's area, where Kiesselbach's arterial plexus is located."
+      },
+      "educationalObjective": "Identify the anterior nasal septum (Kiesselbach's plexus) as the most frequent site of epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-104",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A complication of septoplasty surgery is:",
+      "options": {
+        "A": "Nasal perforation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nasal septal perforation is a classic recognized surgical complication of septoplasty. It occurs when bilateral, opposing mucosal lacerations/tears are created during flap elevation at matching sites on both sides of the quadrangular cartilage, leading to ischemic necrosis and a permanent defect. Patients present with whistling, crusting, and recurrent epistaxis.\n\nHigh-Yield Clinical Pearl: Septoplasty Complications: Septal perforation (from matching bilateral mucosal tears), septal hematoma/abscess, saddle nose deformity (loss of L-strut), persistent deviation, anosmia.\n\nExam Trap: Matching mucosal tears on both sides of the septum must be sutured or covered with interposition grafts to prevent postoperative perforation.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Nasal septal perforation is a classic recognized surgical complication of septoplasty. It occurs when bilateral, opposing mucosal lacerations/tears are created during flap elevation at matching sites on both sides of the quadrangular cartilage, leading to ischemic necrosis and a permanent defect."
+      },
+      "educationalObjective": "Recognize nasal septal perforation as a major complication of septoplasty.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-105",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A patient complains of a constant foul-smelling odor from the nose after undergoing aggressive nasal surgery. Physical examination shows no signs of nasal obstruction. What is the most likely diagnosis?",
+      "options": {
+        "A": "Drug-induced rhinitis",
+        "B": "Gustatory rhinitis",
+        "C": "Vasomotor rhinitis",
+        "D": "Non-allergic rhinitis with eosinophilia syndrome (NARES)",
+        "E": "Atrophic rhinitis"
+      },
+      "correctAnswer": "E",
+      "explanation": "Aggressive or excessive surgical resection of the inferior and middle turbinates (radical turbinectomy) destroys the humidifying and aerodynamic surface of the nasal mucosa, resulting in secondary atrophic rhinitis (Empty Nose Syndrome). Patients suffer from chronic mucosal crusting, foul-smelling odor (ozaena), dryness, and paradoxical nasal obstruction (despite an anatomically wide patent airway, loss of mucosal thermoreceptors creates the sensation of suffocation). Treatment involves aggressive nasal saline irrigations, emollients, and humidification.\n\nHigh-Yield Clinical Pearl: Atrophic Rhinitis (Empty Nose Syndrome): Caused by over-resection of turbinates or Klebsiella ozaenae. Triad: Mucosal atrophy + foul-smelling green crusting (ozaena) + paradoxical nasal obstruction.\n\nExam Trap: Patients report severe nasal obstruction despite physical examination showing widely patent, cavernous nasal cavities ('paradoxical obstruction').\n\n[Flag: the source's option analysis for this question does not match its option set (it appears to be copied from ENT4-079). The vasomotor-rhinitis entry was re-keyed from B to C; the source entries for allergic and hormonal rhinitis are not options here and were not used; options A, B and D are independently written.]",
+      "optionExplanations": {
+        "A": "[Independent – not in source] Drug-induced rhinitis (for example rhinitis medicamentosa from topical decongestants) causes rebound congestion and obstruction, not a foul odor with a patent airway after nasal surgery.",
+        "B": "[Independent – not in source] Gustatory rhinitis causes watery rhinorrhea triggered by eating, especially hot or spicy food; it is not associated with crusting or a foul odor after nasal surgery.",
+        "C": "Vasomotor rhinitis is autonomic hyperreactivity without mucosal crusting or tissue destruction.",
+        "D": "[Independent – not in source] NARES presents with perennial sneezing, rhinorrhea and nasal eosinophilia with negative allergy tests; it does not follow aggressive nasal surgery and does not produce crusting with a foul odor.",
+        "E": "Correct. Aggressive or excessive surgical resection of the inferior and middle turbinates (radical turbinectomy) destroys the humidifying and aerodynamic surface of the nasal mucosa, resulting in secondary atrophic rhinitis (Empty Nose Syndrome)."
+      },
+      "educationalObjective": "Recognize atrophic rhinitis as a complication of aggressive turbinate surgery.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-106",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Samter's triad consists of asthma, nasal polyps, and:",
+      "options": {
+        "A": "Choanal atresia",
+        "B": "Acute sinusitis",
+        "C": "Atrophic rhinitis",
+        "D": "Allergic rhinitis",
+        "E": "NSAID intolerance"
+      },
+      "correctAnswer": "E",
+      "explanation": "Samter's triad (Aspirin-Exacerbated Respiratory Disease, AERD) is a non-IgE pseudoallergic syndrome characterized by the triad of: 1) Bronchial asthma, 2) Recurrent bilateral nasal polyposis, and 3) NSAID/aspirin intolerance (bronchospasm, severe rhinorrhea, or flushing upon ingestion). It results from dysregulated arachidonic acid metabolism with cyclooxygenase-1 (COX-1) inhibition shunting arachidonate down the 5-lipoxygenase pathway, producing massive levels of cysteinyl leukotrienes.\n\nHigh-Yield Clinical Pearl: Samter's Triad (AERD): Asthma + Nasal Polyps + Aspirin/NSAID Sensitivity. Mechanism: COX-1 inhibition shunts arachidonic acid to 5-lipoxygenase -> leukotriene surge. Treatment: Leukotriene receptor antagonists (Montelukast) and aspirin desensitization.\n\nExam Trap: Patients with nasal polyps and asthma should never be prescribed non-selective NSAIDs or aspirin without prior allergy evaluation.",
+      "optionExplanations": {
+        "A": "Choanal atresia is a congenital anatomical malformation unrelated to AERD.",
+        "B": "Acute sinusitis is an infectious complication, not a defining arm of Samter's triad.",
+        "C": "Atrophic rhinitis is mucosal destruction, not part of AERD.",
+        "D": "Allergic rhinitis is IgE-mediated, whereas AERD is a biochemical leukotriene dysregulation.",
+        "E": "Correct. Samter's triad (Aspirin-Exacerbated Respiratory Disease, AERD) is a non-IgE pseudoallergic syndrome characterized by the triad of: 1) Bronchial asthma, 2) Recurrent bilateral nasal polyposis, and 3) NSAID/aspirin intolerance (bronchospasm, severe rhinorrhea, or flushing upon ingestion)."
+      },
+      "educationalObjective": "Identify NSAID intolerance as the third component of Samter's triad alongside asthma and nasal polyps.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-107",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which condition is not an indication for functional endoscopic sinus surgery (FESS)?",
+      "options": {
+        "A": "Nasal polyps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Functional Endoscopic Sinus Surgery (FESS) is primarily indicated for chronic rhinosinusitis refractory to maximum medical therapy, obstructive nasal polyposis, antrochoanal polyps, allergic fungal sinusitis, mucocele drainage, and orbital decompression. In board recall question contexts, asymptomatic non-obstructive minor mucosal thickening or simple isolated polyps responsive to steroids are treated medically first.\n\nHigh-Yield Clinical Pearl: FESS Indications: Chronic rhinosinusitis refractory to 4–6 weeks of medical therapy; extensive polyposis unresponsive to steroids; recurrent acute sinusitis (≥4/yr); sinus mucoceles; orbital/intracranial complications.\n\nExam Trap: Medical management (intranasal steroids, saline irrigations, antibiotics) must always be exhausted before scheduling FESS.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]\n\n[Flag: the keyed answer (nasal polyps as a non-indication) conflicts with the source's own statements (this rationale and ENT4-141 list obstructive nasal polyposis as a FESS indication). Source key retained.]",
+      "optionExplanations": {
+        "A": "Correct. In board recall question contexts, asymptomatic non-obstructive minor mucosal thickening or simple isolated polyps responsive to steroids are treated medically first."
+      },
+      "educationalObjective": "Understand the clinical indications for functional endoscopic sinus surgery.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-108",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following arteries participate in Kiesselbach's plexus formation except:",
+      "options": {
+        "A": "Septal branches of the superior labial artery",
+        "B": "Septal branch of the sphenopalatine artery",
+        "C": "Anterior ethmoidal artery",
+        "D": "Lesser palatine artery"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kiesselbach's plexus (Little's area) on the anterior nasal septum is an anastomosis of four arteries: 1) Septal branch of the Superior Labial artery (from Facial / ECA); 2) Septal branch of the Sphenopalatine artery (from Maxillary / ECA); 3) Greater Palatine artery (from Maxillary / ECA); and 4) Anterior Ethmoidal artery (from Ophthalmic / ICA). The Lesser Palatine artery supplies the soft palate and tonsillar area; it does NOT participate in Kiesselbach's plexus.\n\nHigh-Yield Clinical Pearl: Kiesselbach's Plexus Contributors: 'PLEAS' = Posterior/anterior ethmoidal (ICA), Labial (superior labial), Epistaxis site, Ascending/ greater palatine, Sphenopalatine. Lesser palatine does NOT contribute!\n\nExam Trap: Greater palatine enters Kiesselbach's plexus through the incisive canal; Lesser palatine supplies the soft palate only.",
+      "optionExplanations": {
+        "A": "Superior labial artery participates via its septal branch.",
+        "B": "Sphenopalatine artery provides the major posterior contribution.",
+        "C": "Anterior ethmoidal artery provides the superior/ICA contribution.",
+        "D": "Correct. The Lesser Palatine artery supplies the soft palate and tonsillar area; it does NOT participate in Kiesselbach's plexus."
+      },
+      "educationalObjective": "Identify the arteries that form Kiesselbach's plexus and recognize that the lesser palatine artery is excluded.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-109",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which structure drains the posterior ethmoid sinuses?",
+      "options": {
+        "A": "Inferior meatus",
+        "B": "Sphenoethmoidal recess",
+        "C": "Middle meatus",
+        "D": "Superior meatus"
+      },
+      "correctAnswer": "D",
+      "explanation": "The superior meatus drains the posterior ethmoid air cells (and the sphenoid sinus drains into the sphenoethmoidal recess just above it). In contrast, the middle meatus receives drainage from the frontal sinus, maxillary sinus, and anterior ethmoid sinuses (via the ostiomeatal complex). The inferior meatus receives the nasolacrimal duct.\n\nHigh-Yield Clinical Pearl: Sinus Drainage Map: Sphenoethmoidal recess = Sphenoid sinus; Superior meatus = Posterior ethmoid cells; Middle meatus = Frontal, Maxillary, Anterior ethmoids; Inferior meatus = Nasolacrimal duct.\n\nExam Trap: Posterior ethmoids drain into the SUPERIOR meatus; Anterior ethmoids drain into the MIDDLE meatus.",
+      "optionExplanations": {
+        "A": "Inferior meatus receives only the nasolacrimal duct (valve of Hasner).",
+        "B": "Sphenoethmoidal recess drains the sphenoid sinus.",
+        "C": "Middle meatus drains the frontal, maxillary, and anterior ethmoid sinuses.",
+        "D": "Correct. The superior meatus drains the posterior ethmoid air cells (and the sphenoid sinus drains into the sphenoethmoidal recess just above it). In contrast, the middle meatus receives drainage from the frontal sinus, maxillary sinus, and anterior ethmoid sinuses (via the ostiomeatal complex)."
+      },
+      "educationalObjective": "Identify the superior meatus as the drainage site for the posterior ethmoid sinuses.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-110",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are advantages of the radioallergosorbent test (RAST) except:",
+      "options": {
+        "A": "Highly specific",
+        "B": "Can be used in patients with skin disorders",
+        "C": "Can be used in cases of equivocal skin test results",
+        "D": "No risk of anaphylaxis",
+        "E": "Rapid test results"
+      },
+      "correctAnswer": "E",
+      "explanation": "The Radioallergosorbent Test (RAST) / in vitro ImmunoCAP measures allergen-specific IgE antibodies in serum. Advantages include: no risk of anaphylaxis, can be performed in patients with severe eczema/dermatographism, and unaffected by antihistamine medications. However, RAST does NOT provide rapid test results (it requires in vitro laboratory processing taking several days), whereas in vivo skin prick testing yields results in 15 to 20 minutes.\n\nHigh-Yield Clinical Pearl: RAST (In Vitro IgE) vs Skin Prick Test (In Vivo): Skin prick is FASTER (15 min), CHEAPER, and MORE SENSITIVE. RAST is SAFER (no anaphylaxis risk) and usable in severe skin disease or patients unable to stop antihistamines.\n\nExam Trap: Antihistamines must be discontinued 5–7 days before skin prick testing, but do NOT affect RAST blood results.",
+      "optionExplanations": {
+        "A": "True: In vitro specific IgE assays have high specificity.",
+        "B": "True: RAST is ideal for patients with generalized skin disease (eczema, psoriasis) where skin testing cannot be performed.",
+        "C": "True: It is used when skin testing produces equivocal or conflicting results.",
+        "D": "True: In vitro blood draws carry zero risk of triggering systemic anaphylaxis.",
+        "E": "Correct. However, RAST does NOT provide rapid test results (it requires in vitro laboratory processing taking several days), whereas in vivo skin prick testing yields results in 15 to 20 minutes."
+      },
+      "educationalObjective": "Compare the advantages and limitations of RAST versus allergy skin prick testing.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-111",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are true regarding choanal atresia except:",
+      "options": {
+        "A": "Female-to-male ratio is 1:7",
+        "B": "Unilateral atresia occurs more frequently on the right side",
+        "C": "Severity of presentation depends on whether it is unilateral or bilateral",
+        "D": "Results from persistence of the buccopharyngeal membrane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Choanal atresia is the congenital failure of the posterior nasal cavity to communicate with the nasopharynx due to persistence of the embryologic buccopharyngeal (or bucconasal) membrane. It is more common in females (~2:1 ratio) and is unilateral in ~65% of cases. Unilateral atresia occurs MORE FREQUENTLY ON THE RIGHT SIDE (statement E/A claiming left predominance or 1:7 male ratio is FALSE). Bilateral atresia presents at birth with acute respiratory distress and cyclical cyanosis relieved by crying (infants are obligate nasal breathers).\n\nHigh-Yield Clinical Pearl: Choanal Atresia: 2:1 Female predominance. Unilateral is more common on the RIGHT side. Bilateral = Emergency cyclical cyanosis in newborns (pink when crying, blue when resting). Diagnosis: Inability to pass a 6-Fr catheter through nares; confirm with axial CT.\n\nExam Trap: Always evaluate infants with choanal atresia for CHARGE syndrome (Coloboma, Heart defects, Atresia choanae, Retarded growth, Genital anomalies, Ear anomalies).\n\n[Flag: the source's option analysis was copied from ENT4-075 and does not match this option set. The entry about the buccopharyngeal membrane was re-keyed to option D; options B and C are independently written.]",
+      "optionExplanations": {
+        "A": "Correct. It is more common in females (~2:1 ratio) and is unilateral in ~65% of cases.",
+        "B": "[Independent – not in source] True: unilateral choanal atresia occurs more frequently on the right side, as stated in the source rationale.",
+        "C": "[Independent – not in source] True: bilateral atresia presents at birth with respiratory distress and cyclical cyanosis, whereas unilateral atresia can remain undiagnosed for years, so the severity of presentation depends on laterality.",
+        "D": "True: It results from failure of the buccopharyngeal membrane to rupture during the 6th week of gestation."
+      },
+      "educationalObjective": "Recognize the clinical presentation and anatomical characteristics of choanal atresia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-112",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following can be treated by trans-nasal endoscopic surgery except:",
+      "options": {
+        "A": "Pituitary tumors",
+        "B": "Skull base defects",
+        "C": "Sinonasal tumors",
+        "D": "Septal deviation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Trans-nasal endoscopic surgery (FESS and extended skull base approaches) is routinely employed for chronic rhinosinusitis, nasal polyposis, antrochoanal polyps, sinonasal tumors, pituitary adenoma resection, and skull base / CSF leak repairs. However, a deviated nasal septum is treated primarily via traditional open or closed septoplasty using a Freer/Killian incision under direct vision or headlight illumination, NOT standard trans-nasal endoscopic sinus surgery.\n\nHigh-Yield Clinical Pearl: FESS Indications: Refractory chronic rhinosinusitis, massive nasal polyposis, antrochoanal polyps, recurrent acute sinusitis, orbital decompression, CSF leak repair, pituitary tumor resection.\n\nExam Trap: Septoplasty is primarily a cartilaginous/bony reconstruction of the nasal septum, distinct from endoscopic sinus opening.\n\n[Extraction note: The source gave no option analysis for this question; options A–C are independently written from the source rationale.]",
+      "optionExplanations": {
+        "A": "[Independent – not in source] True: pituitary adenoma resection is performed by the trans-nasal endoscopic (extended skull base) approach, as listed in the source rationale.",
+        "B": "[Independent – not in source] True: skull base defects and CSF leaks are repaired by trans-nasal endoscopic surgery, as listed in the source rationale.",
+        "C": "[Independent – not in source] True: sinonasal tumors are treated by trans-nasal endoscopic surgery, as listed in the source rationale.",
+        "D": "Correct. However, a deviated nasal septum is treated primarily via traditional open or closed septoplasty using a Freer/Killian incision under direct vision or headlight illumination, NOT standard trans-nasal endoscopic sinus surgery."
+      },
+      "educationalObjective": "Identify conditions managed by functional endoscopic sinus surgery and recognize that septal deviation is primarily treated by septoplasty.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-113",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is not part of the ostiomeatal complex (OMC)?",
+      "options": {
+        "A": "Ethmoid bulla",
+        "B": "Middle turbinate",
+        "C": "Maxillary sinus",
+        "D": "Inferior meatus",
+        "E": "Inferior turbinate"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Ostiomeatal Complex (OMC) is the critical functional anatomical unit located in the middle meatus that serves as the common drainage and aeration pathway for the anterior paranasal sinuses (frontal sinus, anterior ethmoid air cells, and maxillary sinus). Key anatomical components include: the uncinate process, ethmoid bulla, hiatus semilunaris, infundibulum, middle meatus, and maxillary sinus ostium. The inferior turbinate and inferior meatus (which receives the nasolacrimal duct) are NOT part of the ostiomeatal complex.\n\nHigh-Yield Clinical Pearl: Ostiomeatal Complex (OMC): In the MIDDLE meatus. Drains Frontal, Maxillary, and Anterior Ethmoid sinuses. Superior meatus drains Posterior ethmoids and Sphenoid (sphenoethmoidal recess). Inferior meatus drains Nasolacrimal duct.\n\nExam Trap: Inferior turbinate is NOT part of the OMC; obstruction of the middle meatus OMC causes secondary sinusitis.\n\n[Flag: option E (inferior turbinate) is also excluded from the OMC by the source rationale, so two options satisfy the stem. Source key D (inferior meatus) retained. The source's option analysis was partly mismatched: the maxillary-sinus entry was re-keyed from E to C; options B and E are independently written.]",
+      "optionExplanations": {
+        "A": "The ethmoid bulla forms the superior/posterior boundary of the hiatus semilunaris and is a key component of the OMC.",
+        "B": "[Independent – not in source] The source rationale lists the OMC components (uncinate process, ethmoid bulla, hiatus semilunaris, infundibulum, middle meatus, maxillary sinus ostium) and excludes only the inferior turbinate and inferior meatus; the middle turbinate is not among the excluded structures.",
+        "C": "The maxillary sinus ostium drains directly into the ethmoid infundibulum of the OMC.",
+        "D": "Correct. The inferior turbinate and inferior meatus (which receives the nasolacrimal duct) are NOT part of the ostiomeatal complex.",
+        "E": "[Independent – not in source] The source rationale excludes the inferior turbinate (together with the inferior meatus) from the ostiomeatal complex, so this option also satisfies the stem; the item therefore has two defensible answers."
+      },
+      "educationalObjective": "Identify the anatomical components of the ostiomeatal complex and recognize that the inferior turbinate is excluded.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-114",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A child presents with recent trauma to the nose, a distracted nasal bone, and complains of nasal obstruction. You should suspect which diagnosis?",
+      "options": {
+        "A": "Nasal polyps",
+        "B": "Cribriform fracture",
+        "C": "Septal hematoma",
+        "D": "Sinusitis",
+        "E": "Injury to the inferior turbinate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Following nasal trauma or fracture in children, accumulation of blood between the septal cartilage and its overlying mucoperichondrium creates a nasal septal hematoma. Because the avascular septal cartilage depends entirely on diffusion from its perichondrium for oxygen and nutrients, a hematoma strips the perichondrium and causes ischemic necrosis of the septal cartilage within 24 to 72 hours. Furthermore, bacterial colonization of the hematoma causes septal abscess, intracranial cavernous sinus thrombosis, and permanent 'saddle nose' deformity. Immediate bilateral incision, drainage, and anterior nasal packing are mandatory.\n\nHigh-Yield Clinical Pearl: Septal Hematoma: Boggy, fluctuant, red/purple midline septal swelling following trauma. True surgical emergency! Complications: Cartilage necrosis, septal perforation, saddle nose deformity, septal abscess. Treatment: Urgent incision, drainage, and packing.\n\nExam Trap: Always inspect the nasal septum with a speculum after any facial/nasal trauma. Do not mistake a septal hematoma for a deviated septum (a hematoma is soft/fluctuant; a deviated septum is firm/bony).\n\n[Flag: the source's option analysis was shifted: the entry for inferior turbinate injury was re-keyed from D to E; option D (sinusitis) is independently written.]",
+      "optionExplanations": {
+        "A": "Nasal polyps are pale, insensitive, non-tender gelatinous masses seen in chronic rhinosinusitis or cystic fibrosis, not acute post-traumatic swelling.",
+        "B": "Cribriform plate fractures cause CSF rhinorrhea (clear watery fluid positive for beta-2 transferrin), not a boggy red septal mass.",
+        "C": "Correct. Following nasal trauma or fracture in children, accumulation of blood between the septal cartilage and its overlying mucoperichondrium creates a nasal septal hematoma.",
+        "D": "[Independent – not in source] Sinusitis is an inflammatory/infectious condition and does not explain acute obstruction after nasal trauma with a displaced nasal bone; post-traumatic obstruction in a child should raise suspicion of septal hematoma.",
+        "E": "Inferior turbinate injury does not create a midline boggy septal mass."
+      },
+      "educationalObjective": "Identify nasal septal hematoma as a surgical emergency requiring immediate incision and drainage to prevent saddle nose deformity.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-115",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following cause bilateral nasal obstruction except:",
+      "options": {
+        "A": "Bilateral choanal atresia",
+        "B": "Chronic sinusitis",
+        "C": "Atrophic rhinitis",
+        "D": "Antrochoanal polyp"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bilateral choanal atresia, chronic pansinusitis, and atrophic rhinitis typically produce bilateral nasal obstruction. In contrast, an antrochoanal polyp is characteristically a solitary, UNILATERAL lesion originating from the maxillary sinus and projecting into one choana, producing unilateral nasal obstruction.\n\nHigh-Yield Clinical Pearl: Unilateral vs Bilateral Nasal Obstruction: Unilateral: Antrochoanal polyp, foreign body, deviated septum, unilateral choanal atresia, inverted papilloma, juvenile angiofibroma. Bilateral: Bilateral choanal atresia, allergic rhinitis, adenoid hypertrophy, chronic rhinosinusitis.\n\nExam Trap: Antrochoanal polyps are virtually always unilateral; bilateral polyps suggest allergic rhinitis, asthma, or cystic fibrosis.",
+      "optionExplanations": {
+        "A": "Bilateral choanal atresia occludes both posterior choanae, causing severe bilateral obstruction in newborns.",
+        "B": "Chronic sinusitis frequently causes bilateral mucosal edema and nasal blockage.",
+        "C": "Atrophic rhinitis creates bilateral crusting and paradoxical bilateral obstruction.",
+        "D": "Correct. Bilateral choanal atresia, chronic pansinusitis, and atrophic rhinitis typically produce bilateral nasal obstruction. In contrast, an antrochoanal polyp is characteristically a solitary, UNILATERAL lesion originating from the maxillary sinus and projecting into one choana, producing unilateral nasal obstruction."
+      },
+      "educationalObjective": "Identify antrochoanal polyps as a classic cause of unilateral, rather than bilateral, nasal obstruction.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-116",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which condition presents with cyclic asphyxia?",
+      "options": {
+        "A": "Bilateral choanal atresia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bilateral choanal atresia is a neonatal respiratory emergency. Newborns are obligate nasal breathers until approximately 4 to 6 weeks of age. When both posterior choanae are occluded, the infant suffers severe acute respiratory distress with cyclical cyanosis: the neonate becomes progressively cyanotic while resting or feeding with the mouth closed, which promptly clears when the infant cries and breathes through the open mouth ('pink when crying, blue when quiet'). Immediate management requires an oral airway (McGovern nipple or endotracheal tube) followed by definitive transnasal endoscopic repair.\n\nHigh-Yield Clinical Pearl: Bilateral Choanal Atresia: Newborn with cyclical cyanosis that resolves when crying. Initial airway management: McGovern nipple. Definitive repair: Transnasal endoscopic puncture/dilation.\n\nExam Trap: If a newborn becomes cyanotic during breastfeeding but turns pink when crying, suspect bilateral choanal atresia immediately!\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented. Source option-analysis text that belongs to other option sets was not used.]",
+      "optionExplanations": {
+        "A": "Correct. Bilateral choanal atresia is a neonatal respiratory emergency. Newborns are obligate nasal breathers until approximately 4 to 6 weeks of age."
+      },
+      "educationalObjective": "Recognize respiratory distress with cyclical cyanosis relieved by crying as the classic presentation of bilateral choanal atresia in a newborn.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-117",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are false about allergic rhinitis except:",
+      "options": {
+        "A": "Caused by IgE-mediated immunopathologic events"
+      },
+      "correctAnswer": "A",
+      "explanation": "Allergic rhinitis is driven by IgE-mediated immunopathologic events (Type I hypersensitivity). Exposure to environmental aeroallergens induces B-cell class-switching to IgE, which binds to mast cells. Re-exposure causes cross-linking of IgE, mast cell degranulation, and immediate histamine release followed by late-phase eosinophil infiltration.\n\nHigh-Yield Clinical Pearl: Allergic Rhinitis = Type I IgE-mediated hypersensitivity reaction. Hallmark findings: Allergic shiners (venous congestion), Dennie-Morgan lines (infraorbital folds), allergic salute/crease.\n\nExam Trap: Do not mistake vasomotor rhinitis or non-allergic rhinitis for allergic rhinitis; allergy testing (skin prick or serum IgE) must be positive to confirm allergic rhinitis.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Allergic rhinitis is driven by IgE-mediated immunopathologic events (Type I hypersensitivity). Exposure to environmental aeroallergens induces B-cell class-switching to IgE, which binds to mast cells."
+      },
+      "educationalObjective": "Recall that allergic rhinitis is caused by IgE-mediated immunopathologic events.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-118",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A case of non-allergic rhinitis with eosinophilic syndrome (allergic symptoms with negative allergy tests). What is the most appropriate management?",
+      "options": {
+        "A": "Symptomatic relief similar to allergic rhinitis (nasal corticosteroids, antihistamines, decongestants)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-Allergic Rhinitis with Eosinophilia Syndrome (NARES) is characterized by symptoms mimicking allergic rhinitis with marked eosinophils on nasal cytology, but negative allergy skin tests and normal IgE. The most appropriate management is symptomatic therapy identical to allergic rhinitis, with intranasal corticosteroids (e.g., fluticasone, budesonide) serving as the mainstay of therapy, combined with saline rinses and topical antihistamines.\n\nHigh-Yield Clinical Pearl: NARES Management: First-line = Intranasal corticosteroids. Response to topical steroids is exceptionally high because eosinophils are exquisitely sensitive to steroid-induced apoptosis.\n\nExam Trap: Immunotherapy (allergy shots) has no role in NARES because there is no identifiable IgE allergen.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Non-Allergic Rhinitis with Eosinophilia Syndrome (NARES) is characterized by symptoms mimicking allergic rhinitis with marked eosinophils on nasal cytology, but negative allergy skin tests and normal IgE. The most appropriate management is symptomatic therapy identical to allergic rhinitis, with intranasal corticosteroids (e.g., fluticasone, budesonide) serving as the mainstay of therapy, combined with saline rinses and topical antihistamines."
+      },
+      "educationalObjective": "Recommend intranasal corticosteroids as the primary medical management for NARES.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-119",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 13-year-old boy presents with unilateral nasal discharge and unilateral nasal obstruction. What is the most likely diagnosis?",
+      "options": {
+        "A": "Adenoids",
+        "B": "Choanal atresia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unilateral choanal atresia can remain undiagnosed throughout childhood and present in late childhood or adolescence (around age 13) with persistent unilateral nasal obstruction and thick, unilateral mucoid rhinorrhea. Because the contralateral choana is patent, these patients do not exhibit neonatal respiratory distress. The diagnosis is confirmed by inability to pass a small catheter through the affected nostril and axial maxillofacial CT.\n\nHigh-Yield Clinical Pearl: Choanal Atresia: Bilateral presents immediately at birth with cyclical cyanosis. Unilateral presents later in childhood/adolescence with persistent unilateral obstruction and mucoid discharge.\n\nExam Trap: A unilateral foul-smelling nasal discharge in a toddler suggests a foreign body; in an adolescent without foreign body history, think unilateral choanal atresia or antrochoanal polyp.\n\n[Flag: the source's option analysis was shifted by one letter; the adenoid entry was re-keyed from B to A.]",
+      "optionExplanations": {
+        "A": "Adenoid hypertrophy causes bilateral nasal obstruction, snoring, and obligate mouth breathing.",
+        "B": "Correct. Unilateral choanal atresia can remain undiagnosed throughout childhood and present in late childhood or adolescence (around age 13) with persistent unilateral nasal obstruction and thick, unilateral mucoid rhinorrhea."
+      },
+      "educationalObjective": "Identify unilateral choanal atresia as a cause of long-standing unilateral nasal obstruction in pediatric and adolescent patients.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-120",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which of the following is not a major symptom of sinusitis?",
+      "options": {
+        "A": "Facial pain",
+        "B": "Posterior discharge",
+        "C": "Nasal obstruction",
+        "D": "Nasal discharge",
+        "E": "Fever"
+      },
+      "correctAnswer": "E",
+      "explanation": "According to international clinical guidelines (EPOS and AAO-HNS), the major cardinal symptoms of rhinosinusitis are: 1) Nasal obstruction/blockage, 2) Anterior or posterior purulent nasal discharge (post-nasal drip), 3) Facial pain or pressure/ fullness, and 4) Reduction or loss of smell (hyposmia/anosmia). Fever is categorized as a MINOR symptom (or systemic feature) and is characteristically absent in chronic rhinosinusitis.\n\nHigh-Yield Clinical Pearl: Major Criteria for Rhinosinusitis: Facial pain/pressure, Nasal obstruction, Purulent nasal/postnasal discharge, Hyposmia/anosmia. Diagnosis requires ≥ 2 major symptoms (one must be obstruction or discharge).\n\nExam Trap: Fever, halitosis, fatigue, and dental pain are minor criteria; do not use them as primary diagnostic drivers for chronic sinusitis.",
+      "optionExplanations": {
+        "A": "Facial pain and pressure is a major cardinal symptom.",
+        "B": "Posterior discharge (post-nasal drip) is a major cardinal symptom.",
+        "C": "Nasal obstruction is a major cardinal symptom.",
+        "D": "Anterior nasal discharge is a major cardinal symptom.",
+        "E": "Correct. Fever is categorized as a MINOR symptom (or systemic feature) and is characteristically absent in chronic rhinosinusitis."
+      },
+      "educationalObjective": "Identify the major versus minor clinical diagnostic criteria for rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-121",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A difference between acute and chronic sinusitis is:",
+      "options": {
+        "A": "Bone thickening"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fundamental radiological and histopathological difference between acute and chronic rhinosinusitis is the presence of reactive osteitis and bony remodeling (neo-osteogenesis / bone thickening of the sinus walls) on CT imaging in chronic sinusitis. In acute sinusitis, mucosal edema and fluid air-fluid levels occur without structural alteration of the cortical bony sinus walls.\n\nHigh-Yield Clinical Pearl: Acute vs Chronic Sinusitis: Acute (<4 weeks) = Fluid levels and mucosal edema, normal bone. Chronic (>12 weeks) = Sinus wall bone thickening (osteitis / neo-osteogenesis) on CT.\n\nExam Trap: Bony thickening on sinus CT is an objective marker of chronicity that persists even between acute symptom flares.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The fundamental radiological and histopathological difference between acute and chronic rhinosinusitis is the presence of reactive osteitis and bony remodeling (neo-osteogenesis / bone thickening of the sinus walls) on CT imaging in chronic sinusitis."
+      },
+      "educationalObjective": "Differentiate chronic from acute sinusitis by the presence of reactive bone thickening and osteitis on CT imaging.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-122",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Pott's puffy tumor is:",
+      "options": {
+        "A": "Pyogenic infection of the frontal bone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet. It is most commonly seen in adolescents and young adults (due to increased vascularity of developing diploic spaces). The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE). Patients require hospital admission, IV broad-spectrum antibiotics, and surgical drainage.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor: Forehead doughy swelling/abscess + Frontal osteomyelitis from FRONTAL SINUSITIS. Spread via diploic veins. Most common organism = Staphylococcus aureus. Treatment: IV antibiotics + surgical drainage.\n\nExam Trap: Pott's puffy tumor arises from the FRONTAL sinus, never the sphenoid sinus. High risk of epidural abscess!\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented. Source option-analysis text that belongs to other option sets was not used.]",
+      "optionExplanations": {
+        "A": "Correct. Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet."
+      },
+      "educationalObjective": "Identify the clinical characteristics, etiology (frontal sinusitis, S. aureus), and complications of Pott's puffy tumor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-123",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A branch of the internal carotid artery is:",
+      "options": {
+        "A": "Anterior ethmoidal artery"
+      },
+      "correctAnswer": "A",
+      "explanation": "The anterior ethmoidal artery is a branch of the ophthalmic artery, which arises directly from the internal carotid artery (ICA). The ophthalmic artery enters the orbit via the optic canal and gives off the anterior and posterior ethmoidal arteries, which traverse the cribriform plate to supply the anterosuperior nasal cavity and septum.\n\nHigh-Yield Clinical Pearl: Nasal Arterial Origins: Internal Carotid -> Ophthalmic -> Anterior & Posterior Ethmoidal Arteries. External Carotid -> Facial -> Superior Labial; External Carotid -> Maxillary -> Sphenopalatine & Greater Palatine.\n\nExam Trap: Bleeding from the ethmoidal arteries (e.g., in high nasal roof trauma) originates from the INTERNAL carotid system and cannot be stopped by external carotid artery ligation.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The anterior ethmoidal artery is a branch of the ophthalmic artery, which arises directly from the internal carotid artery (ICA)."
+      },
+      "educationalObjective": "Identify the anterior ethmoidal artery as a branch of the internal carotid artery via the ophthalmic artery.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-124",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Regarding insomnia, which is true?",
+      "options": {
+        "A": "Late in Parkinson's and Alzheimer's disease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sleep fragmentation and chronic insomnia are well-documented sleep disturbances in neurodegenerative disorders such as Parkinson's disease and Alzheimer's disease, typically worsening in the advanced/late stages due to progressive neurodegeneration of brainstem sleep-regulating centers (locus coeruleus, raphe nuclei) and circadian rhythm disruption.\n\nHigh-Yield Clinical Pearl: Sleep Pathology in Neurodegeneration: REM sleep behavior disorder occurs early in alpha-synucleinopathies (Parkinson's, Lewy body dementia); severe insomnia and circadian fragmentation worsen in late stages.\n\nExam Trap: REM sleep behavior disorder often precedes motor Parkinson's by decades, whereas global insomnia peaks in late-stage disease.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]\n\n[Extraction note: Note: this question is about insomnia rather than ENT; it appears in the source's Nose & Paranasal Sinuses module and was converted as printed.]",
+      "optionExplanations": {
+        "A": "Correct. Sleep fragmentation and chronic insomnia are well-documented sleep disturbances in neurodegenerative disorders such as Parkinson's disease and Alzheimer's disease, typically worsening in the advanced/late stages due to progressive neurodegeneration of brainstem sleep-regulating centers (locus coeruleus, raphe nuclei) and circadian rhythm disruption."
+      },
+      "educationalObjective": "Recognize the clinical relationship between insomnia and advanced stages of neurodegenerative diseases.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-125",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The most common microorganism associated with chronic sinusitis is:",
+      "options": {
+        "A": "Haemophilus influenzae",
+        "B": "Moraxella catarrhalis",
+        "C": "Streptococcus pneumoniae",
+        "D": "Listeria monocytogenes",
+        "E": "Bacteroides"
+      },
+      "correctAnswer": "E",
+      "explanation": "Unlike acute sinusitis (which is caused by aerobic pathogens like S. pneumoniae and H. influenzae), chronic rhinosinusitis involves chronic hypoxia and poor sinus ventilation that favor the overgrowth of anaerobic bacteria (e.g., Bacteroides species, Prevotella, Peptostreptococcus) and Staphylococcus aureus.\n\nHigh-Yield Clinical Pearl: Sinusitis Microbiology by Duration: Acute: S. pneumoniae, H. influenzae, M. catarrhalis. Chronic: Polymicrobial anaerobes (Bacteroides, Prevotella), S. aureus, and Coagulase-negative Staphylococci.\n\nExam Trap: Antibiotic regimens for chronic sinusitis must cover anaerobic bacteria and S. aureus (e.g., Amoxicillin-Clavulanate or Clindamycin).",
+      "optionExplanations": {
+        "A": "H. influenzae is predominantly an acute sinusitis pathogen.",
+        "B": "M. catarrhalis is an acute pediatric pathogen.",
+        "C": "S. pneumoniae is the leading acute pathogen.",
+        "D": "Listeria monocytogenes causes foodborne meningitis, not sinusitis.",
+        "E": "Correct. Unlike acute sinusitis (which is caused by aerobic pathogens like S. pneumoniae and H. influenzae), chronic rhinosinusitis involves chronic hypoxia and poor sinus ventilation that favor the overgrowth of anaerobic bacteria (e.g., Bacteroides species, Prevotella, Peptostreptococcus) and Staphylococcus aureus."
+      },
+      "educationalObjective": "Identify anaerobic bacteria (Bacteroides) as prominent pathogens in chronic rhinosinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-126",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The causative agent of rhinitis in cystic fibrosis is:",
+      "options": {
+        "A": "Staphylococcus aureus"
+      },
+      "correctAnswer": "A",
+      "explanation": "In pediatric patients with cystic fibrosis under 10 years of age presenting with chronic rhinosinusitis and nasal polyposis, Staphylococcus aureus is the most common early pathogen, along with non-typeable H. influenzae. As patients age into adolescence and adulthood, Pseudomonas aeruginosa becomes the predominant colonizer of both the lower respiratory tract and the paranasal sinuses.\n\nHigh-Yield Clinical Pearl: Cystic Fibrosis Respiratory Microbiology: < 10–12 years old: Staphylococcus aureus is most common. > 12–15 years old: Pseudomonas aeruginosa becomes predominant.\n\nExam Trap: For a 9-year-old with CF, select S. aureus; for an older adolescent or adult with CF, select Pseudomonas aeruginosa.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented. Source option-analysis text that belongs to other option sets was not used.]",
+      "optionExplanations": {
+        "A": "Correct. In pediatric patients with cystic fibrosis under 10 years of age presenting with chronic rhinosinusitis and nasal polyposis, Staphylococcus aureus is the most common early pathogen, along with non-typeable H. influenzae."
+      },
+      "educationalObjective": "Identify Staphylococcus aureus as the primary sinonasal pathogen in young children with cystic fibrosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-127",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which is true regarding Pott's puffy syndrome?",
+      "options": {
+        "A": "Staphylococcus aureus is a causative organism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet. It is most commonly seen in adolescents and young adults (due to increased vascularity of developing diploic spaces). The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE). Patients require hospital admission, IV broad-spectrum antibiotics, and surgical drainage.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor: Forehead doughy swelling/abscess + Frontal osteomyelitis from FRONTAL SINUSITIS. Spread via diploic veins. Most common organism = Staphylococcus aureus. Treatment: IV antibiotics + surgical drainage.\n\nExam Trap: Pott's puffy tumor arises from the FRONTAL sinus, never the sphenoid sinus. High risk of epidural abscess!\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented. Source option-analysis text that belongs to other option sets was not used.]",
+      "optionExplanations": {
+        "A": "Correct. The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE)."
+      },
+      "educationalObjective": "Identify the clinical characteristics, etiology (frontal sinusitis, S. aureus), and complications of Pott's puffy tumor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-128",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are false about chronic rhinosinusitis with nasal polyps (CRSWNP) except:",
+      "options": {
+        "A": "Associated with eosinophilia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chronic rhinosinusitis with nasal polyps (CRSWNP) in Western populations is predominantly a Type 2 immune response driven by IL-4, IL-5, and IL-13, characterized by prominent tissue and peripheral blood eosinophilia, high local IgE, and basement membrane thickening. It is frequently associated with asthma and aspirin sensitivity.\n\nHigh-Yield Clinical Pearl: CRSWNP Endotype: Type 2 immune response + High IL-5 + Marked tissue EOSINOPHILIA. Responsive to oral/nasal steroids and biologic therapies (Dupilumab, Omalizumab).\n\nExam Trap: CRSWNP = Eosinophilic (Type 2); CRSSNP (without polyps) = Neutrophilic (Type 1 / Type 3).\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. Chronic rhinosinusitis with nasal polyps (CRSWNP) in Western populations is predominantly a Type 2 immune response driven by IL-4, IL-5, and IL-13, characterized by prominent tissue and peripheral blood eosinophilia, high local IgE, and basement membrane thickening."
+      },
+      "educationalObjective": "Associate chronic rhinosinusitis with nasal polyps (CRSWNP) with tissue and peripheral eosinophilia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-129",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are true regarding Pott's puffy tumor except:",
+      "options": {
+        "A": "Most often seen in adolescents and young adults",
+        "B": "Can be associated with intracranial extension (epidural abscess, subdural empyema, meningitis)",
+        "C": "Patient needs admission and IV antibiotics",
+        "D": "The underlying cause is invasion of diploic veins",
+        "E": "The most common offending organism is S. pneumoniae"
+      },
+      "correctAnswer": "E",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet. It is most commonly seen in adolescents and young adults (due to increased vascularity of developing diploic spaces). The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE). Patients require hospital admission, IV broad-spectrum antibiotics, and surgical drainage.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor: Forehead doughy swelling/abscess + Frontal osteomyelitis from FRONTAL SINUSITIS. Spread via diploic veins. Most common organism = Staphylococcus aureus. Treatment: IV antibiotics + surgical drainage.\n\nExam Trap: Pott's puffy tumor arises from the FRONTAL sinus, never the sphenoid sinus. High risk of epidural abscess!\n\n[Flag: the source's analysis of the diploic-vein statement was keyed E instead of D and was re-keyed to D.]",
+      "optionExplanations": {
+        "A": "True statement: Pott's puffy tumor is most prevalent in adolescents due to frontal sinus and diploic vein maturation.",
+        "B": "True statement: Intracranial extension (epidural abscess, subdural empyema, dural sinus thrombosis) occurs in up to 30% of cases.",
+        "C": "True statement: All patients require urgent inpatient admission and IV antimicrobial therapy.",
+        "D": "True statement: Retrograde thrombophlebitis through diploic veins of the frontal bone is the primary mechanism of spread.",
+        "E": "Correct. The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE)."
+      },
+      "educationalObjective": "Identify the clinical characteristics, etiology (frontal sinusitis, S. aureus), and complications of Pott's puffy tumor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-130",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which cause of anosmia has a better outcome after treatment?",
+      "options": {
+        "A": "Sinonasal disease",
+        "B": "Psychiatric disorders",
+        "C": "Exposure to environmental chemicals",
+        "D": "Systemic diseases such as endocrine disturbances",
+        "E": "Post-viral anosmia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Olfactory dysfunction is divided into conductive (transport) loss and sensorineural loss. Conductive olfactory loss caused by sinonasal disease (nasal polyps, mucosal edema, chronic rhinosinusitis) has by far the BEST outcome and response to treatment, because reducing mechanical airway obstruction with oral/topical corticosteroids or FESS restores odorant molecules to the olfactory neuroepithelium. Sensorineural causes (post-viral, traumatic olfactory nerve shearing, toxins) have significantly poorer recovery rates.\n\nHigh-Yield Clinical Pearl: Olfactory Dysfunction: Conductive (Sinonasal disease / polyps) = Excellent prognosis (highly responsive to steroids and FESS). Sensorineural (Post-viral, head trauma, toxins) = Guarded/poor prognosis.\n\nExam Trap: If a patient with anosmia responds rapidly to a short course of oral prednisone, the loss is conductive (inflammatory sinonasal disease), not nerve transection.",
+      "optionExplanations": {
+        "A": "Correct. Conductive olfactory loss caused by sinonasal disease (nasal polyps, mucosal edema, chronic rhinosinusitis) has by far the BEST outcome and response to treatment, because reducing mechanical airway obstruction with oral/topical corticosteroids or FESS restores odorant molecules to the olfactory neuroepithelium.",
+        "B": "Psychiatric olfactory hallucinations or loss have poor response to otolaryngologic therapies.",
+        "C": "Chemical exposure can permanently destroy olfactory receptors and basal stem cells.",
+        "D": "Endocrine disturbances produce modest, variable olfactory recovery.",
+        "E": "Post-viral anosmia (damage to sustentacular cells / olfactory neuroepithelium) recovers incompletely in only ~30–50% of cases."
+      },
+      "educationalObjective": "Recognize that conductive olfactory loss due to sinonasal disease has the best therapeutic prognosis among causes of anosmia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-131",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 34-year-old female has a 5-year history of facial pain and post-nasal discharge. Which statement is true regarding her disease?",
+      "options": {
+        "A": "For patients with chronic rhinosinusitis, there is no role for medical treatment",
+        "B": "Chronic rhinosinusitis without nasal polyps is more prevalent in males",
+        "C": "Chronic rhinosinusitis without nasal polyps is less prevalent than chronic rhinosinusitis with nasal polyps",
+        "D": "Chronic rhinosinusitis without nasal polyps is characterized by neutrophil infiltration"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chronic rhinosinusitis without nasal polyps (CRSSNP) is characteristically a Type 1 / Type 3 inflammatory response dominated by neutrophil infiltration, interferon-gamma (IFN-gamma), and TGF-beta driving tissue fibrosis. In contrast, CRSWNP is dominated by eosinophils and Type 2 cytokines.\n\nHigh-Yield Clinical Pearl: Chronic Rhinosinusitis Endotypes: CRSSNP (without polyps, ~70%) = Neutrophilic, IFN-gamma, TGF-beta fibrosis. CRSWNP (with polyps, ~30%) = Eosinophilic, IL-5, IgE, edema.\n\nExam Trap: CRSSNP is more prevalent than CRSWNP; do not assume polyps are present in the majority of sinusitis cases.",
+      "optionExplanations": {
+        "A": "Medical treatment (saline irrigations, intranasal steroids, oral antibiotics) is the foundation of management for CRSSNP.",
+        "B": "CRSSNP has an approximately equal sex distribution or slight female predominance.",
+        "C": "CRSSNP accounts for 65–70% of all chronic rhinosinusitis cases and is MORE prevalent than CRSWNP.",
+        "D": "Correct. Chronic rhinosinusitis without nasal polyps (CRSSNP) is characteristically a Type 1 / Type 3 inflammatory response dominated by neutrophil infiltration, interferon-gamma (IFN-gamma), and TGF-beta driving tissue fibrosis."
+      },
+      "educationalObjective": "Identify neutrophil infiltration as the characteristic cellular feature of chronic rhinosinusitis without nasal polyps.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-132",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 9-year-old male with cystic fibrosis presents with facial pain, nasal obstruction, and post-nasal drip. What is the most likely microorganism causing this recent complaint?",
+      "options": {
+        "A": "Streptococcus pneumoniae",
+        "B": "Pseudomonas aeruginosa",
+        "C": "Bacteroides",
+        "D": "Listeria monocytogenes",
+        "E": "Staphylococcus aureus"
+      },
+      "correctAnswer": "E",
+      "explanation": "In pediatric patients with cystic fibrosis under 10 years of age presenting with chronic rhinosinusitis and nasal polyposis, Staphylococcus aureus is the most common early pathogen, along with non-typeable H. influenzae. As patients age into adolescence and adulthood, Pseudomonas aeruginosa becomes the predominant colonizer of both the lower respiratory tract and the paranasal sinuses.\n\nHigh-Yield Clinical Pearl: Cystic Fibrosis Respiratory Microbiology: < 10–12 years old: Staphylococcus aureus is most common. > 12–15 years old: Pseudomonas aeruginosa becomes predominant.\n\nExam Trap: For a 9-year-old with CF, select S. aureus; for an older adolescent or adult with CF, select Pseudomonas aeruginosa.\n\n[Flag: the source's explanation, pearl, trap and objective for this question are generic placeholder text (\"This question evaluates core rhinology principles...\"). The explanation shown is the source's rationale, pearl and trap for the sibling question ENT4-126 (cystic fibrosis sinonasal microbiology), and option analyses A–D are from ENT4-126 as well.]",
+      "optionExplanations": {
+        "A": "[Source text from sibling question ENT4-126] S. pneumoniae is less characteristic of CF-specific colonizers.",
+        "B": "[Source text from sibling question ENT4-126] Pseudomonas aeruginosa becomes dominant in older adolescents and adults with CF, but S. aureus predominates in younger pediatric age groups.",
+        "C": "[Source text from sibling question ENT4-126] Bacteroides is common in generic adult chronic sinusitis.",
+        "D": "[Source text from sibling question ENT4-126] Listeria is not a sinonasal pathogen.",
+        "E": "Correct. In pediatric patients with cystic fibrosis under 10 years of age presenting with chronic rhinosinusitis and nasal polyposis, Staphylococcus aureus is the most common early pathogen, along with non-typeable H. influenzae."
+      },
+      "educationalObjective": "Identify Staphylococcus aureus as the primary sinonasal pathogen in young children with cystic fibrosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-133",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following cranial nerves are affected in superior orbital fissure syndrome except:",
+      "options": {
+        "A": "Trochlear nerve (CN IV)",
+        "B": "Abducens nerve (CN VI)",
+        "C": "Oculomotor nerve (CN III)",
+        "D": "Optic nerve (CN II)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Superior orbital fissure syndrome (Rochon-Duvigneaud syndrome) results from inflammatory, traumatic, or neoplastic lesions at the superior orbital fissure. Structures traversing the fissure include: Oculomotor nerve (CN III), Trochlear nerve (CN IV), Abducens nerve (CN VI), and ophthalmic division of the trigeminal nerve (CN V1). The Optic nerve (CN II) passes through the separate OPTIC CANAL (along with the ophthalmic artery); if the optic nerve is also involved (causing vision loss), the condition is termed Orbital Apex Syndrome.\n\nHigh-Yield Clinical Pearl: Orbital Apex vs Superior Orbital Fissure: Superior Orbital Fissure Syndrome = CN III, IV, V1, VI (Ophthalmoplegia + V1 sensory loss, NORMAL vision). Orbital Apex Syndrome = CN III, IV, V1, VI PLUS CN II (Optic nerve involvement with VISION LOSS).\n\nExam Trap: The optic nerve does NOT pass through the superior orbital fissure; optic nerve involvement differentiates Orbital Apex Syndrome from Superior Orbital Fissure Syndrome.",
+      "optionExplanations": {
+        "A": "CN IV traverses the superior orbital fissure and is paralyzed.",
+        "B": "CN VI traverses the superior orbital fissure and is paralyzed (causing failure of abduction).",
+        "C": "CN III traverses the superior orbital fissure and is paralyzed (causing ptosis, mydriasis, ophthalmoplegia).",
+        "D": "Correct. The Optic nerve (CN II) passes through the separate OPTIC CANAL (along with the ophthalmic artery); if the optic nerve is also involved (causing vision loss), the condition is termed Orbital Apex Syndrome."
+      },
+      "educationalObjective": "Identify the cranial nerves affected in superior orbital fissure syndrome and recall that the optic nerve (CN II) is spared.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-134",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which statement is false regarding Pott's puffy tumor?",
+      "options": {
+        "A": "Dural sinus thrombosis is a possible complication",
+        "B": "Most often seen in adolescents and young adults",
+        "C": "The most common offending organism is S. aureus",
+        "D": "It is due to underlying sphenoid sinusitis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pott's puffy tumor is a subperiosteal abscess of the frontal bone associated with underlying frontal osteomyelitis. It arises as a serious complication of frontal sinusitis, spreading via the valveless diploic veins of Breschet. It is most commonly seen in adolescents and young adults (due to increased vascularity of developing diploic spaces). The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE). Patients require hospital admission, IV broad-spectrum antibiotics, and surgical drainage.\n\nHigh-Yield Clinical Pearl: Pott's Puffy Tumor: Forehead doughy swelling/abscess + Frontal osteomyelitis from FRONTAL SINUSITIS. Spread via diploic veins. Most common organism = Staphylococcus aureus. Treatment: IV antibiotics + surgical drainage.\n\nExam Trap: Pott's puffy tumor arises from the FRONTAL sinus, never the sphenoid sinus. High risk of epidural abscess!\n\n[Flag: the source's option analysis was copied from a sibling question and only partly matches: two entries were re-keyed (B to A, A to B); option C is independently written.]",
+      "optionExplanations": {
+        "A": "True statement: Intracranial extension (epidural abscess, subdural empyema, dural sinus thrombosis) occurs in up to 30% of cases.",
+        "B": "True statement: Pott's puffy tumor is most prevalent in adolescents due to frontal sinus and diploic vein maturation.",
+        "C": "[Independent – not in source] True: the most common causative organism of Pott's puffy tumor is Staphylococcus aureus, followed by Streptococcus species and anaerobes, as stated in the source rationale.",
+        "D": "Correct. The most common causative microorganism is Staphylococcus aureus, followed by Streptococcus species and anaerobes (statement claiming S. pneumoniae is the most common is FALSE; and statement claiming it is due to sphenoid sinusitis is FALSE)."
+      },
+      "educationalObjective": "Identify the clinical characteristics, etiology (frontal sinusitis, S. aureus), and complications of Pott's puffy tumor.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-135",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which statement is false regarding orbital complications of sinusitis?",
+      "options": {
+        "A": "In preseptal cellulitis, there are no vision changes",
+        "B": "It is prevalent in the pediatric population",
+        "C": "In subperiosteal abscess, the collection of pus occurs between the periorbita and lamina papyracea",
+        "D": "In subperiosteal abscess, the most common offending microorganism is S. aureus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Orbital complications of acute bacterial sinusitis (Chandler Classification: I Preseptal cellulitis, II Orbital cellulitis, III Subperiosteal abscess, IV Orbital abscess, V Cavernous sinus thrombosis) are medical emergencies that are NOT self-limited (statement B claiming they are self-limited is WRONG). Untreated, they rapidly cause permanent visual loss (optic neuritis/ ischemia) or intracranial abscess. Subperiosteal abscess occurs between the periorbita and the thin lamina papyracea of the ethmoid bone. Management requires hospital admission, high-dose IV antibiotics, and surgical drainage if vision is threatened or no improvement occurs within 24–48 hours.\n\nHigh-Yield Clinical Pearl: Chandler Classification of Orbital Complications: I: Preseptal cellulitis; II: Orbital cellulitis (proptosis, chemosis, ophthalmoplegia); III: Subperiosteal abscess; IV: Orbital abscess (loss of vision); V: Cavernous sinus thrombosis (bilateral signs). Most common source = Ethmoid sinus (lamina papyracea).\n\nExam Trap: Preseptal cellulitis has NO proptosis, NO visual deficit, and normal eye movements. Orbital cellulitis has proptosis, painful ophthalmoplegia, and chemosis!\n\n[Flag: suspected source error. The source rationale discusses a \"self-limited\" statement that is not among these options (it matches ENT4-083), and ENT4-083 lists S. aureus in subperiosteal abscess as TRUE, so keyed answer D is doubtful. Source key D retained. Options A and B are independently written; C is from the source.]",
+      "optionExplanations": {
+        "A": "[Independent – not in source] True: preseptal cellulitis lies anterior to the orbital septum, so there is no proptosis, no visual deficit and normal eye movements (source Exam Trap for this question).",
+        "B": "[Independent – not in source] True: orbital complications of sinusitis are common in children; the source notes that ethmoiditis is the primary source of pediatric orbital cellulitis (ENT4-147).",
+        "C": "True: Subperiosteal abscess collects between the orbital periosteum and lamina papyracea of the ethmoid sinus.",
+        "D": "Correct, as keyed by the source. [Independent – not in source] The source rationale for this item does not address this statement. The source's analysis of this item (and of ENT4-083) describes subperiosteal abscess as often polymicrobial, with S. aureus and Streptococcus species, so S. aureus is not established as the single most common organism. The key is doubtful (see flag)."
+      },
+      "educationalObjective": "Recognize orbital complications of sinusitis as medical emergencies requiring admission and IV antibiotics, distinguishing preseptal from postseptal infection.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-136",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Which statement regarding sinus problems is false?",
+      "options": {
+        "A": "CRSSNP is characterized by neutrophil infiltration",
+        "B": "Acute post-viral rhinosinusitis is defined as an increase in symptoms after 5 days or persistent symptoms after 10 days with duration less than 12 weeks",
+        "C": "Chronic rhinosinusitis without nasal polyps (CRSSNP) is more prevalent than chronic rhinosinusitis with nasal polyps (CRSWNP)",
+        "D": "Recurrent acute sinusitis is defined as 4 or more episodes of acute sinusitis occurring within 6 months with complete resolution of symptoms between attacks"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is FALSE because Recurrent Acute Rhinosinusitis (RARS) is defined clinically as 4 or more episodes of acute bacterial rhinosinusitis per year (within a 12-month period), with each episode lasting at least 7–10 days, and complete resolution of symptoms between attacks. Defining it as 4 episodes within 6 months is incorrect.\n\nHigh-Yield Clinical Pearl: Recurrent Acute Rhinosinusitis (RARS): Defined as ≥ 4 distinct episodes of ABRS per YEAR (12 months), with complete resolution of symptoms and mucosal healing between episodes.\n\nExam Trap: If mucosal inflammation or symptoms persist continuously beyond 12 weeks without an asymptomatic interval, the diagnosis is Chronic Rhinosinusitis, not recurrent acute.",
+      "optionExplanations": {
+        "A": "True: CRSSNP is characterized by prominent neutrophil infiltration.",
+        "B": "True: Acute post-viral rhinosinusitis is defined as symptom persistence >10 days or worsening after 5 days, lasting <12 weeks.",
+        "C": "True: Chronic rhinosinusitis without polyps is roughly twice as common as chronic rhinosinusitis with polyps.",
+        "D": "Correct. Statement D is FALSE because Recurrent Acute Rhinosinusitis (RARS) is defined clinically as 4 or more episodes of acute bacterial rhinosinusitis per year (within a 12-month period), with each episode lasting at least 7–10 days, and complete resolution of symptoms between attacks."
+      },
+      "educationalObjective": "Recall the diagnostic timeline criteria for recurrent acute rhinosinusitis (≥ 4 episodes per year).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-137",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following diseases may be associated with nasal polyps except:",
+      "options": {
+        "A": "Non-allergic rhinitis with eosinophilia syndrome (NARES)",
+        "B": "Bronchial asthma",
+        "C": "Chronic rhinosinusitis",
+        "D": "Primary ciliary dyskinesia",
+        "E": "Vasomotor rhinitis"
+      },
+      "correctAnswer": "E",
+      "explanation": "Nasal polyposis is classically associated with asthma, Samter's triad (AERD), chronic rhinosinusitis, cystic fibrosis, primary ciliary dyskinesia (Kartagener's syndrome), and allergic fungal rhinosinusitis. In contrast, vasomotor rhinitis and atrophic rhinitis are NOT associated with nasal polyps.\n\nHigh-Yield Clinical Pearl: Nasal Polyps Associations: Asthma, Aspirin sensitivity (AERD), Cystic Fibrosis (in children), Allergic Fungal Sinusitis, Churg-Strauss (EGPA). Vasomotor and Atrophic rhinitis do NOT produce polyps.\n\nExam Trap: Unilateral polyps in an adult should always be biopsied to rule out Inverted Papilloma (HPV-associated, 10% risk of squamous cell carcinoma) or malignancy.\n\n[Flag: the source's option analysis was shifted (it appears copied from ENT4-138). Entries were re-keyed (A to B, D to C, C to D) and option A (NARES) is independently written.]",
+      "optionExplanations": {
+        "A": "[Independent – not in source] NARES (non-allergic rhinitis with eosinophilia syndrome) is characterized by nasal eosinophilia and is reported to be associated with nasal polyposis, so it is not the exception.",
+        "B": "Bronchial asthma is strongly associated with nasal polyposis in ~30–40% of cases.",
+        "C": "Chronic rhinosinusitis is the primary disease substrate for nasal polyps.",
+        "D": "Primary ciliary dyskinesia frequently features nasal polyposis due to chronic mucociliary stasis.",
+        "E": "Correct. In contrast, vasomotor rhinitis and atrophic rhinitis are NOT associated with nasal polyps."
+      },
+      "educationalObjective": "Identify conditions associated with nasal polyps and recognize that vasomotor rhinitis does not cause polyposis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-138",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All of the following diseases may be associated with nasal polyps except:",
+      "options": {
+        "A": "Bronchial asthma",
+        "B": "Samter's triad",
+        "C": "Primary ciliary dyskinesia",
+        "D": "Chronic rhinosinusitis",
+        "E": "Atrophic rhinitis"
+      },
+      "correctAnswer": "E",
+      "explanation": "Nasal polyposis is classically associated with asthma, Samter's triad (AERD), chronic rhinosinusitis, cystic fibrosis, primary ciliary dyskinesia (Kartagener's syndrome), and allergic fungal rhinosinusitis. In contrast, vasomotor rhinitis and atrophic rhinitis are NOT associated with nasal polyps.\n\nHigh-Yield Clinical Pearl: Nasal Polyps Associations: Asthma, Aspirin sensitivity (AERD), Cystic Fibrosis (in children), Allergic Fungal Sinusitis, Churg-Strauss (EGPA). Vasomotor and Atrophic rhinitis do NOT produce polyps.\n\nExam Trap: Unilateral polyps in an adult should always be biopsied to rule out Inverted Papilloma (HPV-associated, 10% risk of squamous cell carcinoma) or malignancy.",
+      "optionExplanations": {
+        "A": "Bronchial asthma is strongly associated with nasal polyposis in ~30–40% of cases.",
+        "B": "Samter's triad includes nasal polyps as a core component.",
+        "C": "Primary ciliary dyskinesia frequently features nasal polyposis due to chronic mucociliary stasis.",
+        "D": "Chronic rhinosinusitis is the primary disease substrate for nasal polyps.",
+        "E": "Correct. In contrast, vasomotor rhinitis and atrophic rhinitis are NOT associated with nasal polyps."
+      },
+      "educationalObjective": "Identify conditions associated with nasal polyps and recognize that vasomotor rhinitis does not cause polyposis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-139",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The most common intracranial complication related to sinusitis is:",
+      "options": {
+        "A": "Cavernous sinus thrombosis",
+        "B": "Subdural abscess",
+        "C": "Epidural abscess",
+        "D": "Meningitis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Meningitis is the most common intracranial complication of acute and chronic rhinosinusitis, followed by epidural abscess, subdural empyema, brain abscess, and cavernous sinus thrombosis. Bacteria spread through the thin bony floor of the anterior cranial fossa (cribriform plate or posterior table of frontal sinus) or via retrograde valveless thrombophlebitis through diploic veins.\n\nHigh-Yield Clinical Pearl: Intracranial Complications of Sinusitis: Most common = MENINGITIS. Other: Epidural abscess > Subdural empyema > Brain abscess > Cavernous sinus thrombosis.\n\nExam Trap: New-onset severe headache, altered mental status, photophobia, or meningismus during an episode of sinusitis mandates immediate contrast CT or MRI and urgent lumbar puncture.",
+      "optionExplanations": {
+        "A": "Cavernous sinus thrombosis is rare but devastating, characterized by chemosis, proptosis, and bilateral cranial neuropathies (CN III, IV, V1, V2, VI).",
+        "B": "Subdural empyema is a neurosurgical emergency with rapid mass effect, but less common than meningitis.",
+        "C": "Epidural abscess is the second most common localized intracranial suppuration.",
+        "D": "Correct. Meningitis is the most common intracranial complication of acute and chronic rhinosinusitis, followed by epidural abscess, subdural empyema, brain abscess, and cavernous sinus thrombosis."
+      },
+      "educationalObjective": "Identify meningitis as the most frequent intracranial complication of paranasal sinusitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-140",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are indications for immediate CT scan when suspecting ophthalmological complications due to sinusitis except:",
+      "options": {
+        "A": "Deteriorating visual acuity",
+        "B": "Ophthalmoplegia",
+        "C": "Inability to assess vision",
+        "D": "Swinging fevers not resolving within 36 hours",
+        "E": "Upper eyelid edema without chemosis"
+      },
+      "correctAnswer": "E",
+      "explanation": "Indications for immediate contrast-enhanced CT of the orbits and sinuses in orbital complications of sinusitis include: deteriorating visual acuity, ophthalmoplegia (impaired extraocular movements), severe proptosis, inability to examine vision (e.g., in a non-verbal child), and swinging fevers unresponsive to IV antibiotics after 24–36 hours. In contrast, mild upper eyelid edema without chemosis or proptosis represents uncomplicated Chandler Stage I preseptal cellulitis, which is treated clinically with antibiotics and does not require immediate CT imaging unless it worsens.\n\nHigh-Yield Clinical Pearl: Red Flags Mandating Immediate CT in Periorbital Infections: Decreased vision, Proptosis, Ophthalmoplegia, Dyschromatopsia (loss of red color vision), Sluggish pupil, or no improvement in 24–48 hours.\n\nExam Trap: Loss of red color vision (dyschromatopsia) is the earliest, most sensitive clinical sign of optic nerve compromise in orbital apex compression.",
+      "optionExplanations": {
+        "A": "Decreasing visual acuity indicates optic nerve compression or ischemia, requiring immediate CT and emergency surgical decompression.",
+        "B": "Ophthalmoplegia indicates post-septal muscle entrapment or abscess.",
+        "C": "Inability to assess vision prevents monitoring for vision-threatening complications, mandating CT imaging.",
+        "D": "Spiking fevers not resolving after 36 hours of IV therapy suggest an undrained subperiosteal abscess.",
+        "E": "Correct. In contrast, mild upper eyelid edema without chemosis or proptosis represents uncomplicated Chandler Stage I preseptal cellulitis, which is treated clinically with antibiotics and does not require immediate CT imaging unless it worsens."
+      },
+      "educationalObjective": "Recognize indications for immediate orbital CT imaging and identify that uncomplicated preseptal eyelid edema can be managed initially without CT.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-141",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "Functional endoscopic sinus surgery (FESS) is the operation of choice for all of the following except:",
+      "options": {
+        "A": "CSF rhinorrhea repair",
+        "B": "Nasal polyposis",
+        "C": "Chronic sinusitis",
+        "D": "Nasal tip drooping"
+      },
+      "correctAnswer": "D",
+      "explanation": "Functional Endoscopic Sinus Surgery (FESS) is indicated for chronic rhinosinusitis, extensive polyposis, antrochoanal polyps, CSF rhinorrhea repair, and endoscopic orbital decompression. In contrast, nasal tip drooping (tip ptosis) is an external aesthetic and cartilaginous structural deformity of the lower third of the nose managed via open or closed rhinoplasty, NOT FESS.\n\nHigh-Yield Clinical Pearl: FESS treats mucosal and anatomical pathology of the paranasal sinuses and skull base. External structural nasal deformities (drooping tip, crooked nose, hump) require rhinoplasty/septorhinoplasty.\n\nExam Trap: Do not confuse endonasal sinus surgery (FESS) with external structural nasal framework remodeling (rhinoplasty).\n\n[Extraction note: The source gave no option analysis for this question; options A–C are independently written from the source rationale.]",
+      "optionExplanations": {
+        "A": "[Independent – not in source] True: CSF rhinorrhea repair is performed endoscopically and is listed in the source rationale as a FESS indication.",
+        "B": "[Independent – not in source] True: nasal polyposis (extensive polyposis) is a FESS indication per the source rationale.",
+        "C": "[Independent – not in source] True: chronic rhinosinusitis is a FESS indication per the source rationale.",
+        "D": "Correct. In contrast, nasal tip drooping (tip ptosis) is an external aesthetic and cartilaginous structural deformity of the lower third of the nose managed via open or closed rhinoplasty, NOT FESS."
+      },
+      "educationalObjective": "Differentiate the indications for FESS from structural aesthetic procedures like rhinoplasty.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-142",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 22-year-old male presents with greenish post-nasal discharge, facial pain, and loss of smell for 1 week. What is the most likely diagnosis?",
+      "options": {
+        "A": "Chronic rhinosinusitis",
+        "B": "Acute post-viral rhinosinusitis, most likely bacterial",
+        "C": "Acute post-viral rhinosinusitis, most likely fungal",
+        "D": "Acute viral rhinosinusitis"
+      },
+      "correctAnswer": "B",
+      "explanation": "A 22-year-old presenting with greenish post-nasal discharge, facial pain, and loss of smell for 1 week that is severe or worsening has acute post-viral rhinosinusitis, most likely bacterial. In clinical practice, severe presentation with purulent discharge and facial pain for 7–10 days strongly suggests bacterial superinfection (S. pneumoniae, H. influenzae).\n\nHigh-Yield Clinical Pearl: Acute Bacterial Rhinosinusitis: Suspected when symptoms fail to improve after 10 days, or present with severe 'double sickening' at 1 week with purulent discharge and facial pain.\n\nExam Trap: Color of nasal mucus alone does not prove bacterial infection, but severe localized pain and prolonged course guide antibiotic initiation.",
+      "optionExplanations": {
+        "A": "Chronic rhinosinusitis requires symptoms persisting for at least 12 continuous weeks.",
+        "B": "Correct. A 22-year-old presenting with greenish post-nasal discharge, facial pain, and loss of smell for 1 week that is severe or worsening has acute post-viral rhinosinusitis, most likely bacterial.",
+        "C": "Acute fungal sinusitis is rare, occurring primarily as invasive disease in immunocompromised diabetics or neutropenic patients.",
+        "D": "Acute viral rhinosinusitis is self-limited and typically begins improving after day 5 without severe localized unilateral pain."
+      },
+      "educationalObjective": "Diagnose acute post-viral rhinosinusitis, most likely bacterial, in a patient with severe facial pain and purulent discharge.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-143",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The most common cause of epistaxis is:",
+      "options": {
+        "A": "Nasal fracture",
+        "B": "High blood pressure",
+        "C": "Bleeding disorders",
+        "D": "Idiopathic"
+      },
+      "correctAnswer": "D",
+      "explanation": "The most common etiology of epistaxis overall is idiopathic (spontaneous mucosal rupture of Kiesselbach's plexus on the anterior septum, often precipitated by dry air, digital trauma, or mild mucosal irritation). While hypertension, coagulopathies, and trauma are major contributing factors, idiopathic anterior epistaxis constitutes the majority of presentations.\n\nHigh-Yield Clinical Pearl: Epistaxis Etiology: Most common = IDIOPATHIC / Digital trauma at Kiesselbach's plexus. Hypertension is associated with posterior epistaxis (Woodruff's plexus).\n\nExam Trap: Hypertension does not initiate epistaxis, but vascular sclerosis prevents vasoconstriction, making hypertensive epistaxis more prolonged and difficult to control.",
+      "optionExplanations": {
+        "A": "Nasal fracture causes acute traumatic bleeding, but is less common overall than spontaneous idiopathic epistaxis.",
+        "B": "High blood pressure is a significant predisposing factor that prolongs bleeding, but is rarely the sole primary cause.",
+        "C": "Bleeding disorders (hemophilia, von Willebrand disease, anticoagulant use) represent systemic etiologies seen in a minority.",
+        "D": "Correct. The most common etiology of epistaxis overall is idiopathic (spontaneous mucosal rupture of Kiesselbach's plexus on the anterior septum, often precipitated by dry air, digital trauma, or mild mucosal irritation)."
+      },
+      "educationalObjective": "Identify idiopathic spontaneous bleeding at Kiesselbach's plexus as the leading cause of epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-144",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "A 22-year-old male presents with greenish post-nasal discharge, facial pain, and loss of smell for 7 months. What is the most likely diagnosis?",
+      "options": {
+        "A": "Acute post-viral rhinosinusitis, most likely bacterial",
+        "B": "Acute post-viral rhinosinusitis, most likely fungal",
+        "C": "Acute viral rhinosinusitis",
+        "D": "Chronic rhinosinusitis"
+      },
+      "correctAnswer": "D",
+      "explanation": "A 22-year-old presenting with purulent post-nasal discharge, facial pain, and loss of smell (hyposmia) for 7 MONTHS meets the clinical diagnostic criteria for Chronic Rhinosinusitis (CRS). Chronic rhinosinusitis is defined as 12 or more continuous weeks of at least two cardinal symptoms (one of which must be nasal blockage or purulent discharge) accompanied by objective mucosal inflammation on endoscopy or sinus CT.\n\nHigh-Yield Clinical Pearl: Rhinosinusitis Time Classifications: Acute: < 4 weeks; Subacute: 4–12 weeks; Chronic: ≥ 12 weeks continuously.\n\nExam Trap: Symptoms lasting 7 months cannot be considered acute; chronic rhinosinusitis requires objective confirmation with CT or endoscopy.",
+      "optionExplanations": {
+        "A": "Acute bacterial rhinosinusitis is defined as lasting less than 4 weeks.",
+        "B": "Acute fungal sinusitis is an acute invasive infection lasting days.",
+        "C": "Acute viral rhinosinusitis resolves within 10 days.",
+        "D": "Correct. A 22-year-old presenting with purulent post-nasal discharge, facial pain, and loss of smell (hyposmia) for 7 MONTHS meets the clinical diagnostic criteria for Chronic Rhinosinusitis (CRS)."
+      },
+      "educationalObjective": "Diagnose chronic rhinosinusitis based on cardinal sinonasal symptoms persisting for 12 weeks or longer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-145",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The ethmoidal vein drains into:",
+      "options": {
+        "A": "Ophthalmic vein"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ethmoidal veins (anterior and posterior ethmoidal veins) drain the ethmoid sinuses, superior nasal cavity, and cribriform plate into the superior and inferior ophthalmic veins, which in turn drain into the cavernous sinus. This direct communication provides an anatomical route for the intracranial spread of sinonasal infections and cavernous sinus thrombosis.\n\nHigh-Yield Clinical Pearl: Sinus Venous Drainage: Ethmoidal veins -> Ophthalmic veins -> Cavernous Sinus. Represents the anatomical pathway for cavernous sinus thrombophlebitis from ethmoid/sphenoid infections.\n\nExam Trap: Valveless veins of the face and orbits allow bidirectional flow of septic emboli directly into the cavernous sinus.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The ethmoidal veins (anterior and posterior ethmoidal veins) drain the ethmoid sinuses, superior nasal cavity, and cribriform plate into the superior and inferior ophthalmic veins, which in turn drain into the cavernous sinus."
+      },
+      "educationalObjective": "Identify the ophthalmic vein as the venous drainage destination of the ethmoidal veins.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-146",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "All are true about RAST except:",
+      "options": {
+        "A": "It is highly sensitive"
+      },
+      "correctAnswer": "A",
+      "explanation": "[Independent – not in source] RAST (radioallergosorbent test) / in vitro specific IgE testing is highly specific, can be used in patients with skin disease or equivocal skin tests, and carries no risk of anaphylaxis (ENT4-110), but it is generally less sensitive than skin-prick testing; the statement that it is highly sensitive is therefore the exception.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]\n\n[Flag: the source's explanation, pearl, trap and objective for this question are generic placeholder text. The explanation and objective shown are independently written, drawing on the source's analysis of ENT4-110.]",
+      "optionExplanations": {
+        "A": "Correct. [Independent – not in source] RAST is highly specific but is generally less sensitive than skin-prick testing, so the statement that it is highly sensitive is the exception."
+      },
+      "educationalObjective": "Recall that RAST is highly specific but not highly sensitive.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-147",
+      "topic": "ENT",
+      "section": "Chapter 2: Nose & Paranasal Sinuses (LEC 3–5)",
+      "question": "The most common sinus contributing to orbital complications is:",
+      "options": {
+        "A": "Ethmoid sinus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ethmoid sinus is the paranasal sinus that most commonly contributes to orbital complications (accounting for >75% of cases, particularly in pediatric patients). This occurs because the orbit is separated from the ethmoid air cells only by the paper-thin lamina papyracea, which contains preformed neurovascular dehiscences (foramina for anterior/posterior ethmoidal vessels) allowing easy direct trans-spatial extension of bacteria.\n\nHigh-Yield Clinical Pearl: Most Common Sinus Causing Orbital Complications = ETHMOID SINUS (due to thin lamina papyracea). Most Common Sinus Causing Frontal Osteomyelitis = FRONTAL SINUS (Pott's puffy tumor).\n\nExam Trap: In children, the ethmoid sinus is pneumatized and well-developed at birth, making ethmoiditis the primary source of pediatric orbital cellulitis.\n\n[Extraction note: The source PDF lists only the correct option for this question; no other answer choices were provided, and none were invented.]",
+      "optionExplanations": {
+        "A": "Correct. The ethmoid sinus is the paranasal sinus that most commonly contributes to orbital complications (accounting for >75% of cases, particularly in pediatric patients)."
+      },
+      "educationalObjective": "Identify the ethmoid sinus as the leading sinus responsible for orbital complications due to the thin lamina papyracea.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-148",
+      "topic": "ENT",
+      "section": "Chapter 3: Tonsils & Adenoids (LEC 6)",
+      "question": "Which of the following statements about Epstein-Barr Virus (EBV) infection is false?",
+      "options": {
+        "A": "Splenomegaly occurs in about 50% of patients during the first week of illness",
+        "B": "The incubation period of EBV is typically 2-7 weeks",
+        "C": "Posterior cervical lymphadenopathy is commonly seen in EBV infection",
+        "D": "Organomegaly continues for 6 weeks post-infection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Epstein-Barr Virus (EBV) causes infectious mononucleosis. Statement A is FALSE because splenomegaly develops in ~50% of patients during the SECOND to THIRD weeks of clinical illness, NOT during the first week. The incubation period is long (typically 4–7 weeks), posterior cervical lymphadenopathy and exudative pharyngitis are classic, and splenomegaly/ hepatomegaly can persist for 4 to 6 weeks post-infection.\n\nHigh-Yield Clinical Pearl: Infectious Mononucleosis: Fever + Exudative tonsillitis + Posterior cervical LAD + Splenomegaly (peaks week 2–3). Avoid contact sports for 3–4 weeks to prevent splenic rupture. Rash occurs if given ampicillin/amoxicillin.\n\nExam Trap: Splenomegaly is maximal in the 2nd to 3rd week of illness; do not clear athletes for contact sports during this high-risk rupture window.",
+      "optionExplanations": {
+        "A": "Correct. Epstein-Barr Virus (EBV) causes infectious mononucleosis. Statement A is FALSE because splenomegaly develops in ~50% of patients during the SECOND to THIRD weeks of clinical illness, NOT during the first week.",
+        "B": "True: The incubation period of EBV is approximately 4 to 7 weeks (2–7 weeks).",
+        "C": "True: Symmetric posterior cervical and diffuse lymphadenopathy is a hallmark of mononucleosis.",
+        "D": "True: Hepatosplenomegaly can persist for up to 6 weeks, mandating avoidance of contact sports."
+      },
+      "educationalObjective": "Identify the clinical timeline and physical manifestations of Epstein-Barr virus infectious mononucleosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-149",
+      "topic": "ENT",
+      "section": "Chapter 3: Tonsils & Adenoids (LEC 6)",
+      "question": "Which of the following is the most common cause of follicular tonsillitis?",
+      "options": {
+        "A": "Beta-hemolytic Streptococcus",
+        "B": "Alpha-hemolytic Streptococcus",
+        "C": "Haemophilus influenzae",
+        "D": "Streptococcus pneumoniae"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acute tonsillitis presents with sore throat, fever, odynophagia, and tonsillar exudates. Group A beta-hemolytic Streptococcus (Streptococcus pyogenes) is the most common and important bacterial cause, though alpha-hemolytic streptococci and normal flora can be present in follicular crypts. In this board question, alpha-hemolytic streptococcus is the designated answer.\n\nHigh-Yield Clinical Pearl: Acute Tonsillitis: Centor Criteria (Fever, Tonsillar exudates, Tender anterior cervical LAD, Absence of cough). Streptococcus pyogenes is the key bacterial target to prevent acute rheumatic fever.\n\nExam Trap: Treatment of GAS tonsillitis prevents Acute Rheumatic Fever, but does NOT prevent Post-Streptococcal Glomerulonephritis.\n\n[Flag: the source's own rationale says group A beta-hemolytic streptococcus is the most common bacterial cause and that alpha-hemolytic streptococcus is \"the designated answer\" for this board question. The source key B is retained but conflicts with standard teaching.]",
+      "optionExplanations": {
+        "A": "Beta-hemolytic Streptococcus (GAS) is the primary pyogenic cause of acute streptococcal pharyngitis.",
+        "B": "Correct. In this board question, alpha-hemolytic streptococcus is the designated answer.",
+        "C": "Haemophilus influenzae is an occasional secondary colonizer.",
+        "D": "Streptococcus pneumoniae is a classic pathogen of otitis media and pneumonia."
+      },
+      "educationalObjective": "Recognize bacterial etiologies associated with follicular tonsillitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-150",
+      "topic": "ENT",
+      "section": "Chapter 3: Tonsils & Adenoids (LEC 6)",
+      "question": "All are absolute indications for tonsillectomy except:",
+      "options": {
+        "A": "Obstructive sleep apnea",
+        "B": "Hemorrhagic tonsillitis",
+        "C": "Suspected malignancy",
+        "D": "Peritonsillar abscess"
+      },
+      "correctAnswer": "D",
+      "explanation": "Indications for tonsillectomy are strictly stratified: ABSOLUTE indications include: 1) Obstructive sleep apnea (OSA) with cor pulmonale, growth failure, or severe daytime somnolence; 2) Suspected malignant neoplasm (e.g., asymmetric tonsillar hypertrophy); and 3) Uncontrolled or recurrent hemorrhagic tonsillitis. In contrast, peritonsillar abscess (quinsy) is a RELATIVE indication (often managed with needle aspiration/incision and drainage, reserving 'quinsy tonsillectomy' for recurrent abscess or children unable to tolerate drainage).\n\nHigh-Yield Clinical Pearl: Tonsillectomy Indications: Absolute: Severe OSA, Asymmetric tonsil (suspected malignancy), Uncontrolled hemorrhage. Relative: Recurrent bacterial tonsillitis (Paradise criteria: 7 episodes in 1 yr, 5/yr for 2 yrs, 3/yr for 3 yrs), Peritonsillar abscess.\n\nExam Trap: A single episode of peritonsillar abscess is NOT an absolute indication for immediate tonsillectomy; needle aspiration plus antibiotics is initial standard of care.",
+      "optionExplanations": {
+        "A": "Obstructive sleep apnea is an absolute indication for tonsillectomy.",
+        "B": "Hemorrhagic tonsillitis with life-threatening bleeding is an absolute indication.",
+        "C": "Suspected tonsillar malignancy (e.g., lymphoma, HPV-related SCC) is an absolute indication for diagnostic excision.",
+        "D": "Correct. In contrast, peritonsillar abscess (quinsy) is a RELATIVE indication (often managed with needle aspiration/incision and drainage, reserving 'quinsy tonsillectomy' for recurrent abscess or children unable to tolerate drainage)."
+      },
+      "educationalObjective": "Differentiate absolute indications for tonsillectomy (OSA, suspected malignancy, severe hemorrhage) from relative indications.",
+      "imagePath": ""
+    }
+  ]
+}
