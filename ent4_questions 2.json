@@ -1,0 +1,1964 @@
+{
+  "metadata": {
+    "title": "ENT Question Bank - Part 4 (QID 151-245)",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "ENT4-151",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which of the following is wrong about tonsils?",
+      "options": {
+        "A": "The tonsil is innervated by branches from the glossopharyngeal nerve",
+        "B": "Upper pole supply by ascending pharyngeal artery",
+        "C": "Lymphatic drainage includes the upper jugular and jugulodigastric lymph nodes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statement B is WRONG (false) regarding palatine tonsil anatomy: the arterial supply to the UPPER pole of the tonsil is derived from the ascending palatine artery and lesser palatine artery, while the ascending pharyngeal artery supplies the LOWER pole along with the tonsillar branch of the facial artery and dorsal lingual artery. The tonsil is innervated sensory-wise by the glossopharyngeal nerve (CN IX) and drains primarily to the jugulodigastric (tonsillar) lymph node. High-yield pearl: Tonsil Arterial Supply: Lower pole (Main supply) = Tonsillar branch of Facial artery (largest), Ascending pharyngeal, Dorsal lingual. Upper pole = Ascending palatine, Lesser palatine. Nerve = Glossopharyngeal (CN IX). Exam trap: Referred otalgia after tonsillectomy or in tonsillitis is mediated by the glossopharyngeal nerve (CN IX) via Jacobson's tympanic branch. [Source note - suspected source error: commonly cited anatomy references place the ascending pharyngeal artery at the upper pole and the ascending palatine artery at the lower pole, the reverse of this source's assignment. The source key is retained; please verify against your course text.]",
+      "optionExplanations": {
+        "A": "True: The tonsillar plexus is innervated by branches from the glossopharyngeal nerve (CN IX), explaining referred otalgia.",
+        "B": "Correct (this is the false statement). Per the source, the ascending pharyngeal artery supplies the lower pole; the upper pole is supplied by the ascending palatine and lesser palatine arteries.",
+        "C": "True: Primary lymphatic drainage is to the jugulodigastric (subdigastric) node of Level II."
+      },
+      "educationalObjective": "Identify the arterial and sensory nerve anatomy of the palatine tonsils.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-152",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "An absolute indication for tonsillectomy is:",
+      "options": {
+        "A": "Obstructive sleep apnea (OSA)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Indications for tonsillectomy are strictly stratified: ABSOLUTE indications include: 1) Obstructive sleep apnea (OSA) with cor pulmonale, growth failure, or severe daytime somnolence; 2) Suspected malignant neoplasm (e.g., asymmetric tonsillar hypertrophy); and 3) Uncontrolled or recurrent hemorrhagic tonsillitis. In contrast, peritonsillar abscess (quinsy) is a RELATIVE indication (often managed with needle aspiration/incision and drainage, reserving 'quinsy tonsillectomy' for recurrent abscess or children unable to tolerate drainage). High-yield pearl: Tonsillectomy Indications: Absolute: Severe OSA, Asymmetric tonsil (suspected malignancy), Uncontrolled hemorrhage. Relative: Recurrent bacterial tonsillitis (Paradise criteria: 7 episodes in 1 yr, 5/yr for 2 yrs, 3/yr for 3 yrs), Peritonsillar abscess. Exam trap: A single episode of peritonsillar abscess is NOT an absolute indication for immediate tonsillectomy; needle aspiration plus antibiotics is initial standard of care. [Source note: only option A is displayed in the source, but its analysis also discusses options B and C, which are not shown.]",
+      "optionExplanations": {
+        "A": "Correct. Obstructive sleep apnea is an absolute indication for tonsillectomy."
+      },
+      "educationalObjective": "Differentiate absolute indications for tonsillectomy (OSA, suspected malignancy, severe hemorrhage) from relative indications.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-153",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Not true about tonsillitis:",
+      "options": {
+        "A": "Nausea",
+        "B": "Headache",
+        "C": "Cough"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acute tonsillitis typically presents with severe odynophagia, high fever, anterior cervical lymphadenopathy, headache, malaise, and nausea/vomiting (especially in children). In contrast, COUGH is characteristically ABSENT; the presence of prominent cough, rhinorrhea, hoarseness, and conjunctivitis strongly points to a viral upper respiratory infection rather than primary acute tonsillitis (as codified in the Centor criteria). High-yield pearl: Centor Criteria for Streptococcal Pharyngitis: 1) Fever (>38°C); 2) Tonsillar exudates; 3) Tender anterior cervical LAD; 4) Absence of COUGH. Presence of cough suggests a viral URI! Exam trap: If a patient has sore throat with prominent cough and coryza, think viral infection; avoid indiscriminate antibiotic prescribing.",
+      "optionExplanations": {
+        "A": "Nausea and abdominal pain are common systemic features of streptococcal tonsillitis in children.",
+        "B": "Headache is a classic systemic manifestation of acute tonsillitis.",
+        "C": "Correct (not true of tonsillitis). Cough is characteristically absent; a prominent cough points to a viral upper respiratory infection."
+      },
+      "educationalObjective": "Recall that cough is absent in classic streptococcal tonsillitis and serves as a negative predictor on Centor scoring.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-154",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Trismus caused by spasm in peritonsillar abscess involves which muscle?",
+      "options": {
+        "A": "Medial pterygoid muscle",
+        "B": "Pharyngeal constrictor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peritonsillar abscess (quinsy) is a collection of pus between the tonsillar capsule and the superior pharyngeal constrictor muscle. A hallmark physical sign is severe trismus (inability to open the mouth). This trismus is caused by inflammatory irritation, edema, and reflex spasm of the MEDIAL PTERYGOID MUSCLE, which lies immediately lateral to the superior constrictor muscle in the parapharyngeal space. High-yield pearl: Peritonsillar Abscess (Quinsy): Trismus (medial pterygoid spasm) + 'Hot potato' muffled voice + Uvula deviation to the CONTRALATERAL side + Superior-lateral tonsillar bulge. Treatment: Needle aspiration or I&D + IV/oral antibiotics. Exam trap: Severe trismus in a patient with sore throat indicates infection has spread beyond the tonsil into the peritonsillar space or parapharyngeal space.",
+      "optionExplanations": {
+        "A": "Correct. Inflammation and reflex spasm of the medial pterygoid muscle, which lies lateral to the superior constrictor, produce the trismus.",
+        "B": "The superior pharyngeal constrictor forms the bed of the tonsil, but the masticatory muscle responsible for jaw closure and trismus is the medial pterygoid muscle."
+      },
+      "educationalObjective": "Identify spasm of the medial pterygoid muscle as the anatomical cause of trismus in peritonsillar abscess.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-155",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Mononucleosis is associated with:",
+      "options": {
+        "A": "Thrombocytosis",
+        "B": "Lifelong immunoglobulins",
+        "C": "Lymphadenopathy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Infectious mononucleosis caused by EBV is classically associated with symmetric cervical lymphadenopathy (predominantly posterior cervical chain), exudative pharyngitis, and lifelong persistence of antibodies to EBV (viral capsid antigen VCA-IgG and nuclear antigen EBNA). Thrombocytosis is NOT typical; mild transient thrombocytopenia occurs in ~50% of patients. High-yield pearl: Mononucleosis Triad: Fever + Pharyngitis + Posterior Cervical Lymphadenopathy. Peripheral smear shows atypical CD8+ cytotoxic T lymphocytes (Downey cells). Exam trap: Posterior cervical lymphadenopathy favors mononucleosis; anterior cervical lymphadenopathy favors streptococcal pharyngitis. [Source note: option B (lifelong antibodies to EBV) is also true according to the source rationale; the source key (C) is retained.]",
+      "optionExplanations": {
+        "A": "Thrombocytopenia (not thrombocytosis) occurs in mononucleosis due to splenic sequestration or immune destruction.",
+        "B": "Lifelong antibodies to EBV develop, but lymphadenopathy is the primary physical sign testing clinical recognition here.",
+        "C": "Correct. Symmetric cervical (predominantly posterior chain) lymphadenopathy is a core feature of infectious mononucleosis."
+      },
+      "educationalObjective": "Recognize lymphadenopathy as a core clinical manifestation of infectious mononucleosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-156",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which statement is false about obstructive sleep apnea?",
+      "options": {
+        "A": "Decreases the risk of motor vehicle accidents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Obstructive sleep apnea (OSA) is caused by repetitive collapse of the pharyngeal airway during sleep. It causes intermittent hypoxemia, hypercapnia, and frequent micro-arousals that severely fragment sleep architecture, drastically impairing and reducing restorative slow-wave and REM sleep. Severe daytime hypersomnolence markedly INCREASES the risk of motor vehicle collisions (by 2-to 7-fold). Male sex and obesity are major risk factors; female sex is NOT a risk factor (pre-menopausal females have lower prevalence due to progesterone airway protection). High-yield pearl: Obstructive Sleep Apnea: Repetitive pharyngeal collapse -> intermittent hypoxia -> systemic hypertension, pulmonary hypertension, cor pulmonale, polycythemia. In children: Adenotonsillar hypertrophy is the #1 cause (cured by adenotonsillectomy). Exam trap: In children with OSA, sleepiness may manifest paradoxically as hyperactivity, behavioral problems, and failure to thrive (due to nocturnal growth hormone suppression).",
+      "optionExplanations": {
+        "A": "Correct (this is the false statement). OSA-related daytime hypersomnolence increases, not decreases, the risk of motor vehicle collisions (by 2- to 7-fold)."
+      },
+      "educationalObjective": "Identify the pathophysiological consequences of obstructive sleep apnea, including fragmented REM sleep and increased accident risk.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-157",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which is not a risk factor for obstructive sleep apnea?",
+      "options": {
+        "A": "Female sex"
+      },
+      "correctAnswer": "A",
+      "explanation": "Obstructive sleep apnea (OSA) is caused by repetitive collapse of the pharyngeal airway during sleep. It causes intermittent hypoxemia, hypercapnia, and frequent micro-arousals that severely fragment sleep architecture, drastically impairing and reducing restorative slow-wave and REM sleep. Severe daytime hypersomnolence markedly INCREASES the risk of motor vehicle collisions (by 2-to 7-fold). Male sex and obesity are major risk factors; female sex is NOT a risk factor (pre-menopausal females have lower prevalence due to progesterone airway protection). High-yield pearl: Obstructive Sleep Apnea: Repetitive pharyngeal collapse -> intermittent hypoxia -> systemic hypertension, pulmonary hypertension, cor pulmonale, polycythemia. In children: Adenotonsillar hypertrophy is the #1 cause (cured by adenotonsillectomy). Exam trap: In children with OSA, sleepiness may manifest paradoxically as hyperactivity, behavioral problems, and failure to thrive (due to nocturnal growth hormone suppression).",
+      "optionExplanations": {
+        "A": "Correct. Female sex is not a risk factor; male sex and obesity are the major risk factors."
+      },
+      "educationalObjective": "Identify the pathophysiological consequences of obstructive sleep apnea, including fragmented REM sleep and increased accident risk.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-158",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which of the following does not cause hoarseness of voice?",
+      "options": {
+        "A": "Internal branch injury (superior laryngeal nerve)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hoarseness (dysphonia) results from impairment of vocal fold vibration or mobility. All intrinsic laryngeal muscles except the cricothyroid are innervated by the recurrent laryngeal nerve (RLN); the cricothyroid is supplied by the external branch of the superior laryngeal nerve (SLN). In contrast, the INTERNAL branch of the superior laryngeal nerve is purely SENSORY to the supraglottic laryngeal mucosa (above the true vocal cords); its injury causes loss of the protective cough reflex and aspiration, but does NOT cause motor paralysis or hoarseness. High-yield pearl: Laryngeal Nerves: Recurrent Laryngeal Nerve = Motor to all intrinsic muscles except cricothyroid; injury -> vocal cord paralysis and HOARSENESS. Superior Laryngeal Nerve (Internal branch) = SENSORY above cords; injury -> aspiration, NO hoarseness. SLN (External branch) = Motor to cricothyroid; injury -> loss of high pitch. Exam trap: Isolated internal branch of SLN injury causes aspiration, NOT hoarseness. RLN injury causes hoarseness, NOT loss of supraglottic sensation.",
+      "optionExplanations": {
+        "A": "Correct. The internal branch of the superior laryngeal nerve is purely sensory above the cords; its injury causes aspiration, not hoarseness."
+      },
+      "educationalObjective": "Recognize that injury to the internal branch of the superior laryngeal nerve affects supraglottic sensation without causing hoarseness.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-159",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All are absolute indications for tonsillectomy except:",
+      "options": {
+        "A": "Obstructive sleep apnea",
+        "B": "Hemorrhagic tonsillitis",
+        "C": "Suspected malignancy",
+        "D": "Peritonsillar abscess"
+      },
+      "correctAnswer": "D",
+      "explanation": "Indications for tonsillectomy are strictly stratified: ABSOLUTE indications include: 1) Obstructive sleep apnea (OSA) with cor pulmonale, growth failure, or severe daytime somnolence; 2) Suspected malignant neoplasm (e.g., asymmetric tonsillar hypertrophy); and 3) Uncontrolled or recurrent hemorrhagic tonsillitis. In contrast, peritonsillar abscess (quinsy) is a RELATIVE indication (often managed with needle aspiration/incision and drainage, reserving 'quinsy tonsillectomy' for recurrent abscess or children unable to tolerate drainage). High-yield pearl: Tonsillectomy Indications: Absolute: Severe OSA, Asymmetric tonsil (suspected malignancy), Uncontrolled hemorrhage. Relative: Recurrent bacterial tonsillitis (Paradise criteria: 7 episodes in 1 yr, 5/yr for 2 yrs, 3/yr for 3 yrs), Peritonsillar abscess. Exam trap: A single episode of peritonsillar abscess is NOT an absolute indication for immediate tonsillectomy; needle aspiration plus antibiotics is initial standard of care.",
+      "optionExplanations": {
+        "A": "Obstructive sleep apnea is an absolute indication for tonsillectomy.",
+        "B": "Hemorrhagic tonsillitis with life-threatening bleeding is an absolute indication.",
+        "C": "Suspected tonsillar malignancy (e.g., lymphoma, HPV-related SCC) is an absolute indication for diagnostic excision.",
+        "D": "Correct (the exception). Peritonsillar abscess is a relative, not absolute, indication; needle aspiration or incision and drainage is the initial treatment."
+      },
+      "educationalObjective": "Differentiate absolute indications for tonsillectomy (OSA, suspected malignancy, severe hemorrhage) from relative indications.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-160",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All of the following supply the lower pole of the palatine tonsils except:",
+      "options": {
+        "A": "Dorsal lingual artery",
+        "B": "Tonsillar branch of the facial artery",
+        "C": "Ascending pharyngeal artery",
+        "D": "Ascending palatine arteries"
+      },
+      "correctAnswer": "D",
+      "explanation": "The arterial supply of the palatine tonsil is derived from branches of the external carotid artery. The LOWER pole receives its blood supply from: 1) The tonsillar branch of the facial artery (the main and largest arterial feeder); 2) The dorsal lingual branches of the lingual artery; and 3) The ascending pharyngeal artery. In contrast, the ascending palatine artery (and lesser palatine artery) primarily enters and supplies the UPPER pole and soft palate. High-yield pearl: Tonsil Arterial Supply: Lower Pole: Tonsillar branch of Facial artery (main vessel), Ascending pharyngeal, Dorsal lingual. Upper Pole: Ascending palatine, Lesser palatine. Exam trap: Post-tonsillectomy primary hemorrhage most commonly originates from the tonsillar branch of the facial artery at the lower pole. [Source note - suspected source error: by the commonly cited assignment (lower pole = tonsillar branch of the facial, ascending palatine and dorsal lingual arteries; upper pole = ascending pharyngeal and lesser palatine arteries) the exception would be the ascending pharyngeal artery (option C), not option D. The source key (D) follows the source's own assignment and is retained; please verify against your course text.]",
+      "optionExplanations": {
+        "A": "Dorsal lingual artery supplies the anteroinferior pole of the tonsil.",
+        "B": "Tonsillar branch of the facial artery is the primary arterial supply entering the lower pole.",
+        "C": "Ascending pharyngeal artery enters the posteroinferior tonsil pole.",
+        "D": "Correct (the exception, per the source). The source assigns the ascending palatine artery to the upper pole and soft palate rather than the lower pole."
+      },
+      "educationalObjective": "Identify the arterial branches supplying the lower pole of the palatine tonsil.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-161",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which of the following is false regarding adenoid anatomy?",
+      "options": {
+        "A": "Receives minor branches from the internal maxillary artery",
+        "B": "Receives minor branches from the facial artery",
+        "C": "Formed during the 3rd-7th months of embryogenesis",
+        "D": "Sensation is carried by CN IX and X",
+        "E": "Receives blood supply from pharyngeal branches of the internal carotid artery"
+      },
+      "correctAnswer": "E",
+      "explanation": "Statement E is FALSE regarding adenoid (pharyngeal tonsil) anatomy because the adenoid receives its arterial blood supply entirely from branches of the EXTERNAL carotid artery (specifically the ascending pharyngeal artery, ascending palatine artery, pharyngeal branch of the maxillary artery, and tonsillar branch of the facial artery). The internal carotid artery gives NO branches in the neck or pharynx. High-yield pearl: Adenoid Anatomy: Located on the posterior wall of the nasopharynx. Arterial supply is exclusively from the EXTERNAL carotid artery branches (Ascending pharyngeal, Maxillary, Facial). Internal carotid artery gives NO branches in the neck. Exam trap: An aberrantly tortuous internal carotid artery may lie immediately deep to the posterior pharyngeal wall in rare cases, presenting an extreme surgical bleeding hazard during adenoidectomy.",
+      "optionExplanations": {
+        "A": "True: Receives minor pharyngeal branches from the internal maxillary artery (via the pterygopalatine canal).",
+        "B": "True: Receives branches from the ascending palatine branch of the facial artery.",
+        "C": "True: Formed during the 3rd to 7th months of fetal development.",
+        "D": "True: Sensory innervation of the nasopharynx is carried by CN IX and CN X.",
+        "E": "Correct (this is the false statement). The adenoid is supplied by external carotid branches; the internal carotid artery gives no branches in the neck."
+      },
+      "educationalObjective": "Recall that the adenoid is vascularized by external carotid branches and receives no direct branches from the internal carotid artery.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-162",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All are considered relative indications for tonsillectomy except:",
+      "options": {
+        "A": "Chronic tonsillitis refractory to antimicrobial therapy",
+        "B": "Peritonsillar abscess",
+        "C": "Dysphagia due to tonsillar hypertrophy",
+        "D": "Tonsillolithiasis with associated halitosis and pain",
+        "E": "Tonsillitis causing febrile seizures"
+      },
+      "correctAnswer": "E",
+      "explanation": "Relative indications for tonsillectomy include: recurrent acute tonsillitis, chronic refractory tonsillitis, peritonsillar abscess, dysphagia/speech distortion from tonsillar hypertrophy, and halitosis from tonsillolithiasis. Febrile seizures triggered by tonsillitis in children are also an accepted indication in many protocols. In this recall question, choice E is the designated answer. High-yield pearl: Paradise Criteria for Tonsillectomy in Recurrent Sore Throats: ≥ 7 episodes in the past year, OR ≥ 5 episodes/year for 2 years, OR ≥ 3 episodes/year for 3 years. Exam trap: Differentiate obstructive indications (sleep apnea, dysphagia) from infectious indications (Paradise criteria). [Source note - uncertain key: the source itself calls option E 'the designated answer' and states that tonsillitis-triggered febrile seizures are an accepted indication in many protocols.]",
+      "optionExplanations": {
+        "A": "Chronic tonsillitis refractory to medical therapy is a standard relative indication.",
+        "B": "Peritonsillar abscess is a recognized relative indication (quinsy tonsillectomy).",
+        "C": "Severe dysphagia due to tonsillar hypertrophy is an indication.",
+        "D": "Severe halitosis from recurrent tonsilloliths is a valid indication.",
+        "E": "Marked correct by the source as the 'designated answer'; the source also notes that tonsillitis-triggered febrile seizures are an accepted indication in many protocols."
+      },
+      "educationalObjective": "Understand the clinical indications for tonsillectomy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-163",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which of the following is considered a late complication of adenoid surgery?",
+      "options": {
+        "A": "Soft palate damage",
+        "B": "Dislocation of the cervical spine",
+        "C": "Reactionary hemorrhage",
+        "D": "Eustachian tube stenosis",
+        "E": "Subluxation of the atlanto-occipital joint"
+      },
+      "correctAnswer": "D",
+      "explanation": "A recognized late complication of adenoidectomy is scarring and cicatricial stenosis of the Eustachian tube orifice (salpingopharyngeal fold), leading to chronic Eustachian tube dysfunction, persistent middle ear effusion, and conductive hearing loss. Other late complications include velopharyngeal insufficiency (hypernasal speech) and nasopharyngeal stenosis. High-yield pearl: Adenoidectomy Complications: Immediate: Primary hemorrhage, uvular injury. Reactionary: Bleeding within 24 hr. Late: Eustachian tube stenosis, Velopharyngeal insufficiency (hypernasality), Nasopharyngeal cicatricial stenosis, Grisel's syndrome. Exam trap: Always inspect the palate for submucous cleft palate (bifid uvula, zona pellucida, notch in hard palate) prior to adenoidectomy; removing adenoids unmasks severe velopharyngeal insufficiency. [Source note: option E reads 'atlanto-occipital' whereas the source's analysis and pearl discuss atlanto-axial subluxation (Grisel's syndrome); the key (D) is unaffected.]",
+      "optionExplanations": {
+        "A": "Soft palate damage is an immediate intraoperative mechanical complication.",
+        "B": "Dislocation of the cervical spine is an immediate intraoperative positioning complication.",
+        "C": "Reactionary hemorrhage occurs within the first 24 hours postoperatively.",
+        "D": "Correct. Cicatricial stenosis of the Eustachian tube orifice is a recognized late complication of adenoidectomy.",
+        "E": "Atlanto-axial subluxation (Grisel's syndrome) is a rare post-infectious complication presenting within 1–2 weeks."
+      },
+      "educationalObjective": "Identify Eustachian tube stenosis as a potential late cicatricial complication of adenoidectomy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-164",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Regarding recurrent respiratory papillomatosis, all are true except:",
+      "options": {
+        "A": "The most common site of the aerodigestive system affected is the larynx",
+        "B": "The most common benign tumor of the larynx in children",
+        "C": "The second most common cause of hoarseness in children after singer's nodules",
+        "D": "Can be transmitted through orogenital sex or fetomaternally during delivery",
+        "E": "The most common causative microorganisms are HPV 16 and 18"
+      },
+      "correctAnswer": "E",
+      "explanation": "Recurrent Respiratory Papillomatosis (RRP) is caused by human papillomavirus (HPV) types 6 and 11 (low-risk HPV types). Statement E claiming that HPV 16 and 18 are the causative organisms is FALSE. HPV 16 and 18 are high-risk oncogenic types that cause squamous cell carcinoma of the cervix and oropharynx. RRP is the most common benign laryngeal neoplasm in children, presenting with progressive hoarseness and stridor. High-yield pearl: Recurrent Respiratory Papillomatosis (RRP): Caused by HPV 6 and 11. Most common benign laryngeal tumor in children. Triad of presentation: Progressive hoarseness + Stridor + Respiratory distress. Histology: Squamous papillomas with fibrovascular cores. Exam trap: HPV 6 & 11 cause benign papillomatosis; HPV 16 & 18 cause malignant squamous cell carcinoma.",
+      "optionExplanations": {
+        "A": "True: The larynx (especially true and false vocal cords) is the most common site affected in the aerodigestive tract.",
+        "B": "True: RRP is the most common benign laryngeal tumor in the pediatric population.",
+        "C": "True: It is the second most common cause of childhood hoarseness after vocal nodules.",
+        "D": "True: Transmitted vertically from mother to neonate during passage through an infected birth canal.",
+        "E": "Correct (this is the false statement). RRP is caused by HPV types 6 and 11, not HPV 16 and 18."
+      },
+      "educationalObjective": "Identify HPV 6 and 11 as the causative viruses of recurrent respiratory papillomatosis and distinguish them from high-risk oncogenic types.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-165",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which microorganism can present as a grey membrane (difficult to remove) on the tonsil surface?",
+      "options": {
+        "A": "Staphylococcus aureus",
+        "B": "EBV",
+        "C": "Haemophilus influenzae",
+        "D": "Streptococcus pneumoniae",
+        "E": "Corynebacterium diphtheriae"
+      },
+      "correctAnswer": "E",
+      "explanation": "Corynebacterium diphtheriae produces a potent exotoxin (AB toxin that ADP-ribosylates elongation factor EF-2, halting protein synthesis). It produces a characteristic dense, tough, coalescent gray-green pseudomembrane firmly adherent to the tonsils and pharynx. Attempting to dislodge or scrape the membrane tears underlying submucosal capillaries, causing marked bleeding. Systemic toxin absorption causes myocarditis and polyneuropathy. High-yield pearl: Diphtheria: Caused by Corynebacterium diphtheriae. Hallmark: Adherent gray pseudomembrane that bleeds on scraping + Cervical lymphadenopathy ('bull neck'). Toxin inhibits EF-2. Treatment: Diphtheria antitoxin + Penicillin/Erythromycin. Exam trap: Never scrape or forcefully peel a suspected diphtheritic pseudomembrane; bleeding and catastrophic airway occlusion can occur.",
+      "optionExplanations": {
+        "A": "S. aureus produces purulent golden exudates, not an adherent gray pseudomembrane.",
+        "B": "EBV produces white-to-gray tonsillar exudates that wipe away easily without mucosal bleeding.",
+        "C": "H. influenzae causes epiglottitis and cellulitis.",
+        "D": "S. pneumoniae causes follicular tonsillar exudates.",
+        "E": "Correct. Corynebacterium diphtheriae forms a dense, adherent gray pseudomembrane that bleeds when scraped."
+      },
+      "educationalObjective": "Identify Corynebacterium diphtheriae as the organism producing an adherent gray pseudomembrane on the tonsils that bleeds upon removal.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-166",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All of the following are indications for adenoidectomy except:",
+      "options": {
+        "A": "Chronic otitis media with effusion",
+        "B": "Obligate mouth breathing",
+        "C": "Recurrent otitis media with effusion",
+        "D": "Severe orofacial abnormalities",
+        "E": "Neuromuscular abnormalities with impaired palatal function"
+      },
+      "correctAnswer": "E",
+      "explanation": "Adenoidectomy is indicated for adenoid hypertrophy causing obligate mouth breathing, obstructive sleep apnea, recurrent/chronic otitis media with effusion, and craniofacial maldevelopment (adenoid facies). In contrast, neuromuscular abnormalities with impaired palatal function (e.g., myasthenia gravis, cerebral palsy) and cleft palate / submucous cleft palate are strong CONTRAINDICATIONS to adenoidectomy, because the adenoid pad serves as a critical closure point for the defective palate; removing it causes severe, irreversible velopharyngeal insufficiency (hypernasality and nasal regurgitation). High-yield pearl: Adenoidectomy Contraindications: Submucous cleft palate (bifid uvula, hard palate notch), overt cleft palate, and neuromuscular palatal dysfunction. Excision causes severe velopharyngeal insufficiency. Exam trap: Always palpate the posterior border of the hard palate and inspect the uvula before adenoidectomy to rule out an occult submucous cleft.",
+      "optionExplanations": {
+        "A": "Chronic OME is an established indication for adenoidectomy.",
+        "B": "Obligate mouth breathing from nasopharyngeal obstruction is a classic indication.",
+        "C": "Recurrent OME in children undergoing second set of grommets is an indication.",
+        "D": "Severe orofacial abnormalities secondary to chronic adenoid facies benefit from adenoidectomy.",
+        "E": "Correct (the exception). Neuromuscular palatal dysfunction (and cleft palate) is a contraindication to adenoidectomy because removal causes severe velopharyngeal insufficiency."
+      },
+      "educationalObjective": "Recognize neuromuscular disorders with impaired palatal function as a contraindication to adenoidectomy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-167",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which of the following is NOT considered an absolute or relative contraindication for tonsillectomy?",
+      "options": {
+        "A": "Bleeding disorders",
+        "B": "Severe cardiac conditions",
+        "C": "Acute infection",
+        "D": "Anemia",
+        "E": "Obstructive sleep apnea"
+      },
+      "correctAnswer": "E",
+      "explanation": "Obstructive sleep apnea (OSA) is an ABSOLUTE INDICATION for tonsillectomy (and adenoidectomy), NOT a contraindication. Contraindications include bleeding disorders (hemophilia, von Willebrand disease), uncorrected severe anemia, acute systemic/respiratory infection, and uncontrolled severe cardiac or anesthetic risks. High-yield pearl: Adenotonsillectomy is the first-line curative surgical therapy for pediatric Obstructive Sleep Apnea. Exam trap: OSA is the most common indication for adenotonsillectomy in children today; never mistake an indication for a contraindication.",
+      "optionExplanations": {
+        "A": "Bleeding disorders are a major contraindication until coagulation factors are corrected.",
+        "B": "Severe cardiac conditions represent high anesthetic risks.",
+        "C": "Acute active infection increases bleeding risk and tissue friability.",
+        "D": "Severe anemia must be corrected before elective surgery.",
+        "E": "Correct (the exception). OSA is an indication for tonsillectomy, not a contraindication."
+      },
+      "educationalObjective": "Identify obstructive sleep apnea as an absolute indication for tonsillectomy rather than a contraindication.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-168",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "What is the most common cause of secondary bleeding after tonsillectomy?",
+      "options": {
+        "A": "Aspirin use before surgery",
+        "B": "Hemophilia",
+        "C": "Infection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Secondary post-tonsillectomy hemorrhage occurs more than 24 hours after surgery (most commonly between postoperative days 5 and 10). It is caused by premature separation or sloughing of the fibrinous tonsillar pseudomembrane (eschar) from the underlying healing muscle bed, almost invariably precipitated or exacerbated by local infection or severe dehydration. Primary hemorrhage occurs within the first 24 hours and is related to surgical technique. High-yield pearl: Post-Tonsillectomy Bleeding: Primary (< 24 hr): Due to surgical technique or slipped ligature. Secondary (> 24 hr, peak day 5–10): Due to premature sloughing of eschar, often triggered by local INFECTION. Exam trap: Any secondary post-tonsillectomy bleed—even a small 'herald bleed' that stopped—mandates immediate hospital observation and evaluation in the operating room.",
+      "optionExplanations": {
+        "A": "Aspirin causes primary intraoperative or early postoperative platelet dysfunction.",
+        "B": "Hemophilia causes early primary bleeding during or immediately following surgery.",
+        "C": "Correct. Infection leading to premature sloughing of the eschar is the usual cause of secondary hemorrhage (peak days 5-10)."
+      },
+      "educationalObjective": "Identify infection as the primary predisposing factor for secondary post-tonsillectomy hemorrhage.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-169",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All of the following about obstructive sleep apnea are correct except:",
+      "options": {
+        "A": "Reduction in growth hormones",
+        "B": "Failure to thrive",
+        "C": "Hypercapnia and hypoxemia",
+        "D": "Can improve REM sleep"
+      },
+      "correctAnswer": "D",
+      "explanation": "Obstructive sleep apnea (OSA) is caused by repetitive collapse of the pharyngeal airway during sleep. It causes intermittent hypoxemia, hypercapnia, and frequent micro-arousals that severely fragment sleep architecture, drastically impairing and reducing restorative slow-wave and REM sleep. Severe daytime hypersomnolence markedly INCREASES the risk of motor vehicle collisions (by 2-to 7-fold). Male sex and obesity are major risk factors; female sex is NOT a risk factor (pre-menopausal females have lower prevalence due to progesterone airway protection). High-yield pearl: Obstructive Sleep Apnea: Repetitive pharyngeal collapse -> intermittent hypoxia -> systemic hypertension, pulmonary hypertension, cor pulmonale, polycythemia. In children: Adenotonsillar hypertrophy is the #1 cause (cured by adenotonsillectomy). Exam trap: In children with OSA, sleepiness may manifest paradoxically as hyperactivity, behavioral problems, and failure to thrive (due to nocturnal growth hormone suppression).",
+      "optionExplanations": {
+        "A": "[Added] True statement, so not the answer: nocturnal growth hormone secretion is suppressed in children with OSA (source trap note).",
+        "B": "[Added] True statement, so not the answer: failure to thrive occurs in children with OSA.",
+        "C": "[Added] True statement, so not the answer: repetitive airway collapse causes intermittent hypoxemia and hypercapnia.",
+        "D": "Correct (this is the incorrect statement). OSA fragments and reduces REM and slow-wave sleep rather than improving it."
+      },
+      "educationalObjective": "Identify the pathophysiological consequences of obstructive sleep apnea, including fragmented REM sleep and increased accident risk.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-170",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "Which condition can be detected by the Paul-Bunnell test?",
+      "options": {
+        "A": "Tuberculosis",
+        "B": "Staphylococcus aureus infection",
+        "C": "Diphtheria",
+        "D": "Infectious mononucleosis"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Paul-Bunnell test (and the rapid Monospot test) detects heterophile IgM antibodies that agglutinate sheep (or horse) red blood cells, which is diagnostic for Epstein-Barr virus (EBV) infectious mononucleosis. These antibodies typically appear during the second to third week of illness and disappear within 4 to 6 months. High-yield pearl: Monospot / Paul-Bunnell Test: Detects heterophile antibodies for EBV. Can be falsely negative in the first week of illness and in young children < 4 years old (in whom EBV-specific VCA-IgM is preferred). Exam trap: Heterophile antibody tests have a ~25% false-negative rate in the first week of illness; repeat testing or EBV-specific serology is indicated if clinical suspicion remains high.",
+      "optionExplanations": {
+        "A": "Tuberculosis is diagnosed by PPD/interferon-gamma release assays (IGRA) and acid-fast bacilli smear/culture.",
+        "B": "S. aureus is identified by bacterial gram stain and culture.",
+        "C": "Diphtheria is diagnosed by Elek immunodiffusion toxigenicity testing and Loeffler/Tellurite culture.",
+        "D": "Correct. The Paul-Bunnell/Monospot test detects heterophile IgM antibodies of EBV infectious mononucleosis."
+      },
+      "educationalObjective": "Identify the Paul-Bunnell test as a diagnostic tool for detecting heterophile antibodies in infectious mononucleosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-171",
+      "topic": "ENT",
+      "section": "Oropharynx & Pediatric ENT",
+      "question": "All of the following are manifestations of infectious mononucleosis except:",
+      "options": {
+        "A": "Hepatomegaly",
+        "B": "Permanent antibodies to EBV",
+        "C": "Lymphadenopathy",
+        "D": "Fever",
+        "E": "Pancytopenia"
+      },
+      "correctAnswer": "E",
+      "explanation": "Infectious mononucleosis characteristically produces reactive atypical CD8+ cytotoxic T-lymphocytosis (>10% atypical lymphocytes on peripheral smear), absolute lymphocytosis, elevated hepatic transaminases, and mild hemolytic anemia or mild thrombocytopenia. In contrast, generalized PANCYTOPENIA (suppression of all three cell lines) is NOT a typical manifestation of uncomplicated mononucleosis; its appearance raises concern for aplastic anemia or hemophagocytic lymphohistiocytosis (HLH). High-yield pearl: Mononucleosis Hematology: Atypical lymphocytosis (Downey cells, reactive CD8+ T cells reacting against infected B cells). Pancytopenia is abnormal. Exam trap: Atypical lymphocytes seen in infectious mononucleosis are reactive CD8+ T cells, NOT infected B cells (EBV infects B cells via CD21).",
+      "optionExplanations": {
+        "A": "Hepatomegaly occurs in ~10–15% of cases (with elevated transaminases in >80%).",
+        "B": "Lifelong antibodies to EBV (VCA-IgG, EBNA) develop universally.",
+        "C": "Lymphadenopathy (posterior cervical) is a defining feature.",
+        "D": "Fever is an essential cardinal sign.",
+        "E": "Correct (the exception). Pancytopenia is not typical of uncomplicated mononucleosis and should raise concern for aplastic anemia or HLH."
+      },
+      "educationalObjective": "Recognize typical manifestations of infectious mononucleosis and identify pancytopenia as an atypical finding.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-172",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "At which vertebral level is the cricoid cartilage located?",
+      "options": {
+        "A": "C4",
+        "B": "C5",
+        "C": "C6",
+        "D": "T1"
+      },
+      "correctAnswer": "C",
+      "explanation": "The cricoid cartilage is the only complete ring-like cartilage in the respiratory tract. In the adult, the cricoid cartilage is located precisely at the level of the sixth cervical vertebra (C6). This level marks several critical anatomical transitions: 1) Junction of larynx with trachea, 2) Junction of pharynx with esophagus, 3) Level where the recurrent laryngeal nerve enters the larynx, and 4) Level of the carotid tubercle (Chassaignac's tubercle) where the common carotid artery can be compressed against C6. High-yield pearl: Anatomical Landmarks at C6: Cricoid cartilage, Laryngotracheal junction, Pharyngoesophageal junction, Middle cervical sympathetic ganglion, Carotid tubercle. Exam trap: In infants, the cricoid lies higher at C3–C4, descending to the adult C6 level by puberty.",
+      "optionExplanations": {
+        "A": "C4 corresponds to the superior border of the thyroid cartilage and carotid bifurcation.",
+        "B": "C5 corresponds to the mid-body of the thyroid cartilage.",
+        "C": "Correct. The adult cricoid cartilage lies at the level of C6.",
+        "D": "T1 is located at the superior thoracic aperture, well below the larynx."
+      },
+      "educationalObjective": "Identify the C6 vertebral level as the anatomical location of the cricoid cartilage.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-173",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "All of the following statements about laryngomalacia are true EXCEPT:",
+      "options": {
+        "A": "It typically presents with inspiratory stridor starting around 4-6 weeks of age",
+        "B": "Stridor worsens when the infant is supine and improves when prone or during crying",
+        "C": "It is the most common cause of congenital stridor",
+        "D": "Around 50% of cases require surgical intervention"
+      },
+      "correctAnswer": "D",
+      "explanation": "Laryngomalacia is the most common cause of congenital stridor in neonates and infants (~60–70% of cases). It is caused by delayed maturation of supporting laryngeal cartilages resulting in supraglottic collapse (inward collapse of floppy arytenoids and omega-shaped epiglottis) during inspiration. It presents with high-pitched inspiratory stridor starting around 4 to 6 weeks of life that worsens when supine or crying and improves when prone. Statement D is FALSE because around 90% of cases are mild/self-limiting and resolve spontaneously by 18 to 24 months; only 10% (NOT 50%) require surgical intervention (supraglottoplasty) for severe airway obstruction, apnea, or failure to thrive. High-yield pearl: Laryngomalacia: Most common congenital laryngeal anomaly. Inspiratory stridor worsening supine and during agitation, improving prone. Laryngoscopy: Tall 'omega-shaped' epiglottis with shortened aryepiglottic folds. Management: 90% conservative observation; 10% supraglottoplasty. Exam trap: Normal cry with inspiratory stridor points to laryngomalacia; a weak or breathy cry suggests vocal cord paralysis; a hoarse cry points to a laryngeal web or papilloma. [Source note: option B as worded says stridor improves 'during crying', which contradicts the source's own rationale (stridor worsens when supine or crying). The key (D) is unaffected.]",
+      "optionExplanations": {
+        "A": "True: Typically manifests within the first 4 to 6 weeks of life.",
+        "B": "True: Prone positioning allows gravity to pull the supraglottic structures forward, improving airway patency.",
+        "C": "True: Laryngomalacia is the single most common etiology of congenital stridor.",
+        "D": "Correct (this is the false statement). Only about 10% (not 50%) of laryngomalacia cases need supraglottoplasty; about 90% resolve spontaneously by 18-24 months."
+      },
+      "educationalObjective": "Identify the clinical characteristics and conservative prognosis of laryngomalacia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-174",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Which of the following statements about vocal cord nodules vs. polyps is incorrect?",
+      "options": {
+        "A": "Vocal cord nodules typically occur at the junction between the posterior 1/3 and anterior 2/3 of the membranous (vibratory) portion of the vocal folds",
+        "B": "Vocal cord nodules are usually bilateral lesions and are more common in females",
+        "C": "Vocal cord polyps are typically unilateral and may be associated with acute vocal trauma",
+        "D": "Vocal cord polyps are often pedunculated and may be hemorrhagic",
+        "E": "Polyps are more common in males and larger in size"
+      },
+      "correctAnswer": "A",
+      "explanation": "Statement A is INCORRECT because vocal cord nodules typically occur at the junction of the ANTERIOR 1/3 and POSTERIOR 2/3 of the true vocal cord (which represents the midpoint of the membranous, vibratory vocal fold where mechanical impact stress and aerodynamic collision forces are maximal). Nodules are typically bilateral and symmetric ('screamer's/singer's nodules') in young women or vocal abusers. In contrast, vocal cord polyps are characteristically unilateral, larger, pedunculated or sessile, and may be hemorrhagic, often following an acute episode of vocal trauma. High-yield pearl: Vocal Nodules vs Polyps: Nodules = Bilateral, symmetric, junction of anterior 1/3 and posterior 2/3. Treatment: Speech therapy first! Polyps = Unilateral, hemorrhagic/gelatinous, larger. Treatment: Surgical micro-laryngoscopy excision. Exam trap: First-line therapy for vocal nodules is ALWAYS speech therapy / voice rest; surgery is reserved only for mature fibrotic nodules unresponsive to therapy.",
+      "optionExplanations": {
+        "A": "Correct (this is the incorrect statement). Nodules lie at the junction of the anterior 1/3 and posterior 2/3 of the vocal fold, not the posterior 1/3 and anterior 2/3.",
+        "B": "True: Nodules are bilateral, symmetric lesions occurring in young females and professional voice users.",
+        "C": "True: Polyps are typically unilateral and frequently triggered by an acute shouting or vocal trauma incident.",
+        "D": "True: Polyps are often pedunculated with a distinct vascular/hemorrhagic component.",
+        "E": "True: Polyps have a male predominance and achieve larger dimensions than nodules."
+      },
+      "educationalObjective": "Differentiate the anatomical location, symmetry, and pathology of vocal cord nodules versus polyps.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-175",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Which of the following statements about the innervation of the larynx is incorrect?",
+      "options": {
+        "A": "Recurrent laryngeal nerve innervates all intrinsic muscles of the larynx except cricothyroid",
+        "B": "Superior laryngeal nerve's external branch supplies the cricothyroid muscle",
+        "C": "Superior laryngeal nerve's internal branch supplies sensation to the supraglottic larynx",
+        "D": "Recurrent laryngeal nerve supplies sensation to the infraglottic region",
+        "E": "External branch of the superior laryngeal nerve provides sensory innervation to the supraglottic larynx"
+      },
+      "correctAnswer": "E",
+      "explanation": "Statement E is INCORRECT because sensory innervation to the supraglottic larynx (above the vocal cords) is supplied by the INTERNAL branch of the superior laryngeal nerve (CN X). The EXTERNAL branch of the superior laryngeal nerve is purely MOTOR to the cricothyroid muscle (which tenses and elongates vocal folds to raise pitch). All other intrinsic laryngeal muscles and infraglottic sensation are supplied by the recurrent laryngeal nerve. High-yield pearl: Laryngeal Innervation Summary: All intrinsic muscles = RLN, EXCEPT Cricothyroid = External SLN. Sensation ABOVE vocal cords = Internal SLN; Sensation BELOW vocal cords = RLN. Exam trap: The external branch of the SLN courses adjacent to the superior thyroid artery; it can be inadvertently injured during thyroidectomy, causing loss of high-pitched voice.",
+      "optionExplanations": {
+        "A": "True: The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except the cricothyroid.",
+        "B": "True: The external branch of the SLN innervates the cricothyroid muscle.",
+        "C": "True: The internal branch of the SLN provides sensory supply to the supraglottic mucosa.",
+        "D": "True: The recurrent laryngeal nerve provides sensation to the subglottis and upper trachea.",
+        "E": "Correct (this is the incorrect statement). The external branch of the SLN is purely motor to the cricothyroid; supraglottic sensation is carried by the internal branch."
+      },
+      "educationalObjective": "Distinguish the motor and sensory functions of the superior and recurrent laryngeal nerves.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-176",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The vascular supply to a juvenile nasopharyngeal angiofibroma is primarily derived from which of the following arteries?",
+      "options": {
+        "A": "Facial artery",
+        "B": "Ascending pharyngeal artery",
+        "C": "Anterior ethmoidal artery",
+        "D": "Sphenopalatine artery"
+      },
+      "correctAnswer": "D",
+      "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a benign, locally aggressive, highly vascular tumor of adolescent males. It originates in the posterolateral nasal wall near the sphenopalatine foramen. Its primary arterial blood supply is derived from the sphenopalatine artery and internal maxillary artery (from the external carotid artery system). Angiography with pre-operative embolization is standard of care to minimize catastrophic intraoperative hemorrhage. High-yield pearl: Juvenile Nasopharyngeal Angiofibroma (JNA): Adolescent male + Recurrent severe unprovoked epistaxis + Nasal obstruction. Primary blood supply = Internal Maxillary / Sphenopalatine Artery. BIOPSY IS CONTRAINDICATED in the clinic due to fatal hemorrhage risk! Perform pre-op embolization. Exam trap: NEVER biopsy a suspected JNA in an outpatient setting; massive life-threatening hemorrhage will occur.",
+      "optionExplanations": {
+        "A": "Facial artery provides minor collateral supply to the anterior nasal cavity.",
+        "B": "Ascending pharyngeal artery provides secondary collateral feeders to the skull base, but the primary feeder is the sphenopalatine / maxillary artery.",
+        "C": "Anterior ethmoidal artery (from ICA) may contribute collaterals if intracranial extension occurs, but is not the primary vessel.",
+        "D": "Correct. The sphenopalatine/internal maxillary artery is the primary arterial supply of JNA."
+      },
+      "educationalObjective": "Identify the sphenopalatine artery as the primary vascular supply of juvenile nasopharyngeal angiofibroma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-177",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "All are supplied by the recurrent laryngeal nerve except:",
+      "options": {
+        "A": "Cricothyroid",
+        "B": "Posterior cricoarytenoid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The recurrent laryngeal nerve (RLN) innervates all intrinsic muscles of the larynx (posterior cricoarytenoid, lateral cricoarytenoid, transverse and oblique arytenoids, and thyroarytenoid/vocalis) EXCEPT the cricothyroid muscle, which is innervated by the external branch of the superior laryngeal nerve. High-yield pearl: All intrinsic laryngeal muscles are innervated by the Recurrent Laryngeal Nerve EXCEPT the Cricothyroid muscle (innervated by the External branch of the Superior Laryngeal Nerve). Exam trap: Remember: Cricothyroid = External SLN. All others = RLN.",
+      "optionExplanations": {
+        "A": "Correct (the exception). The cricothyroid is supplied by the external branch of the superior laryngeal nerve.",
+        "B": "Posterior cricoarytenoid is innervated by the recurrent laryngeal nerve."
+      },
+      "educationalObjective": "Recall that the cricothyroid muscle is the only intrinsic laryngeal muscle not innervated by the recurrent laryngeal nerve.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-178",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A newborn with stridor and a normal cry is most commonly due to:",
+      "options": {
+        "A": "Vocal cord paralysis",
+        "B": "Laryngeal web",
+        "C": "Hemangioma",
+        "D": "Multiple laryngeal papillomatosis",
+        "E": "Laryngomalacia"
+      },
+      "correctAnswer": "E",
+      "explanation": "Laryngomalacia is the most common cause of congenital stridor in neonates and infants (~60–70% of cases). It is caused by delayed maturation of supporting laryngeal cartilages resulting in supraglottic collapse (inward collapse of floppy arytenoids and omega-shaped epiglottis) during inspiration. It presents with high-pitched inspiratory stridor starting around 4 to 6 weeks of life that worsens when supine or crying and improves when prone. Statement D is FALSE because around 90% of cases are mild/self-limiting and resolve spontaneously by 18 to 24 months; only 10% (NOT 50%) require surgical intervention (supraglottoplasty) for severe airway obstruction, apnea, or failure to thrive. High-yield pearl: Laryngomalacia: Most common congenital laryngeal anomaly. Inspiratory stridor worsening supine and during agitation, improving prone. Laryngoscopy: Tall 'omega-shaped' epiglottis with shortened aryepiglottic folds. Management: 90% conservative observation; 10% supraglottoplasty. Exam trap: Normal cry with inspiratory stridor points to laryngomalacia; a weak or breathy cry suggests vocal cord paralysis; a hoarse cry points to a laryngeal web or papilloma. [Source note: the last sentence of this rationale ('Statement D is FALSE...') was copied from QID 173 and does not apply to this question; the source's option analysis (A-C) was also copied from QID 173 and was not used. The per-option explanations shown are supplementary.]",
+      "optionExplanations": {
+        "A": "[Added] Vocal cord paralysis typically gives a weak or breathy cry rather than a normal cry (source trap note).",
+        "B": "[Added] A laryngeal web typically gives a hoarse or abnormal cry (source trap note).",
+        "C": "[Added] Hemangioma is a much less common cause of neonatal stridor than laryngomalacia.",
+        "D": "[Added] Papillomatosis typically presents with progressive hoarseness and stridor, not a normal cry (source trap note: a hoarse cry points to a laryngeal web or papilloma).",
+        "E": "Correct. Laryngomalacia is the most common cause of congenital stridor and typically presents with inspiratory stridor and a normal cry."
+      },
+      "educationalObjective": "Identify the clinical characteristics and conservative prognosis of laryngomalacia.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-179",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A man with aphonia and an immobile unilateral vocal cord should undergo:",
+      "options": {
+        "A": "CT of the neck and chest"
+      },
+      "correctAnswer": "A",
+      "explanation": "A patient presenting with aphonia/hoarseness and an immobile vocal cord on fiberoptic laryngoscopy requires an urgent CT scan of the neck and chest with intravenous contrast. This is because the recurrent laryngeal nerve follows an extensive course: the left RLN loops under the aortic arch in the mediastinum, and the right RLN loops around the right subclavian artery. Malignancies along this pathway (e.g., bronchogenic carcinoma, apical Pancoast tumor, mediastinal adenopathy, esophageal carcinoma, or thyroid malignancy) must be excluded before assuming an idiopathic etiology. High-yield pearl: Unexplained Vocal Cord Paralysis: CT of Neck and Chest from skull base to aortopulmonary window is mandatory to trace the entire course of the recurrent laryngeal nerves and rule out bronchogenic carcinoma. Exam trap: Left vocal cord paralysis is more common than right because the left RLN has a longer intrathoracic course under the aortic arch. [Source note: only option A is displayed; the source's analysis for 'options A-D' (thyroplasty, observation, injection, ultrasound) was copied from QID 202 and was not used.]",
+      "optionExplanations": {
+        "A": "Correct. Contrast-enhanced CT of the neck and chest follows the whole course of the recurrent laryngeal nerve to exclude a malignant cause of cord immobility."
+      },
+      "educationalObjective": "Recommend contrast-enhanced CT of the neck and chest as the essential next step to evaluate unexplained unilateral vocal cord paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-180",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Initial step in a patient with drooling, high-grade fever, and other symptoms:",
+      "options": {
+        "A": "Secure the airway"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acute epiglottitis (supraglottitis) is a rapidly progressive, life-threatening airway infection characterized by high fever (≥39°C), severe odynophagia, drooling of saliva, inspiratory stridor, toxic appearance, and a muffled 'hot potato' voice. The immediate initial priority is to SECURE THE AIRWAY in a controlled setting (the operating room with ENT and anesthesia prepared for immediate rigid bronchoscopy or emergency tracheostomy). Direct examination of the pharynx with a tongue depressor is strictly CONTRAINDICATED because tactile stimulation of the pharynx can trigger fatal reflex laryngospasm and complete airway arrest. High-yield pearl: Acute Epiglottitis: High fever + Drooling + Tripod position + Muffled voice. Immediate action: SECURE AIRWAY in OR. DO NOT examine throat with a tongue depressor! Exam trap: Never use a tongue depressor or agitate a child with suspected epiglottitis; reflex laryngospasm can cause immediate fatal cardiac arrest. [Source note: only option A is displayed; the source's analysis for options A-D was copied from QID 201 and was not used.]",
+      "optionExplanations": {
+        "A": "Correct. In suspected acute epiglottitis the immediate priority is to secure the airway in a controlled setting; tongue-depressor examination is contraindicated."
+      },
+      "educationalObjective": "Identify airway stabilization as the emergency priority in epiglottitis and recognize that tongue depressor examination is contraindicated.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-181",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Vocal cord nodules are located at:",
+      "options": {
+        "A": "The junction of the anterior 1/3 and posterior 2/3 of the true vocal cord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Statement A is INCORRECT because vocal cord nodules typically occur at the junction of the ANTERIOR 1/3 and POSTERIOR 2/3 of the true vocal cord (which represents the midpoint of the membranous, vibratory vocal fold where mechanical impact stress and aerodynamic collision forces are maximal). Nodules are typically bilateral and symmetric ('screamer's/singer's nodules') in young women or vocal abusers. In contrast, vocal cord polyps are characteristically unilateral, larger, pedunculated or sessile, and may be hemorrhagic, often following an acute episode of vocal trauma. High-yield pearl: Vocal Nodules vs Polyps: Nodules = Bilateral, symmetric, junction of anterior 1/3 and posterior 2/3. Treatment: Speech therapy first! Polyps = Unilateral, hemorrhagic/gelatinous, larger. Treatment: Surgical micro-laryngoscopy excision. Exam trap: First-line therapy for vocal nodules is ALWAYS speech therapy / voice rest; surgery is reserved only for mature fibrotic nodules unresponsive to therapy. [Source note: only option A is displayed. The first sentence of the source rationale ('Statement A is INCORRECT...') was copied from QID 174, where that statement was the incorrect one; here option A is the correct answer. The source's analysis of options B-E (copied from QID 174) refers to options that are not shown and was not used.]",
+      "optionExplanations": {
+        "A": "Correct. Nodules form at the junction of the anterior 1/3 and posterior 2/3 of the true vocal cord (the midpoint of the vibratory portion)."
+      },
+      "educationalObjective": "Differentiate the anatomical location, symmetry, and pathology of vocal cord nodules versus polyps.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-182",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Reinke's edema is best visualized by:",
+      "options": {
+        "A": "Flexible laryngoscope",
+        "B": "Ultrasound",
+        "C": "CT",
+        "D": "MRI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reinke's edema is diffuse, bilateral polypoid degeneration of the superficial lamina propria (Reinke's space) of the vocal folds. It is strongly linked to chronic cigarette smoking and chronic voice abuse, presenting with a characteristically low-pitched, coarse, gravelly voice (often striking in middle-aged female smokers). It is best visualized by flexible fiberoptic laryngoscopy (showing floppy, water-bag translucent swelling along the entire cord). Statement claiming decreasing smoking does not improve prognosis is FALSE; strict smoking cessation is the essential foundation of management that halts progression and can reverse early edema. High-yield pearl: Reinke's Edema: Diffuse bilateral translucent swelling of Reinke's space (superficial lamina propria). Risk factors: Heavy smoking + vocal abuse. Voice: Abnormally deep, gravelly voice. Management: Smoking cessation first; micro-laryngoscopic suctioning if airway is compromised. Exam trap: Do not perform surgery on Reinke's edema without smoking cessation; continuing to smoke postoperatively causes rapid recurrence and vocal fold scarring.",
+      "optionExplanations": {
+        "A": "Correct. Flexible fiberoptic laryngoscopy shows the floppy, translucent 'water-bag' swelling of Reinke's edema.",
+        "B": "[Added] Ultrasound cannot display the mucosal swelling of the vocal folds; Reinke's edema is diagnosed by direct endoscopic visualization.",
+        "C": "[Added] CT is not the diagnostic modality; the translucent 'water-bag' mucosal swelling is assessed endoscopically.",
+        "D": "[Added] MRI is not the modality of choice; the diagnosis is made by direct laryngoscopic visualization."
+      },
+      "educationalObjective": "Identify flexible laryngoscopy as the diagnostic modality and cigarette smoking as the primary risk factor for Reinke's edema.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-183",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Reinke's edema is associated with:",
+      "options": {
+        "A": "Smoking"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reinke's edema is diffuse, bilateral polypoid degeneration of the superficial lamina propria (Reinke's space) of the vocal folds. It is strongly linked to chronic cigarette smoking and chronic voice abuse, presenting with a characteristically low-pitched, coarse, gravelly voice (often striking in middle-aged female smokers). It is best visualized by flexible fiberoptic laryngoscopy (showing floppy, water-bag translucent swelling along the entire cord). Statement claiming decreasing smoking does not improve prognosis is FALSE; strict smoking cessation is the essential foundation of management that halts progression and can reverse early edema. High-yield pearl: Reinke's Edema: Diffuse bilateral translucent swelling of Reinke's space (superficial lamina propria). Risk factors: Heavy smoking + vocal abuse. Voice: Abnormally deep, gravelly voice. Management: Smoking cessation first; micro-laryngoscopic suctioning if airway is compromised. Exam trap: Do not perform surgery on Reinke's edema without smoking cessation; continuing to smoke postoperatively causes rapid recurrence and vocal fold scarring.",
+      "optionExplanations": {
+        "A": "Correct. Reinke's edema is strongly linked to chronic cigarette smoking (and voice abuse)."
+      },
+      "educationalObjective": "Identify flexible laryngoscopy as the diagnostic modality and cigarette smoking as the primary risk factor for Reinke's edema.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-184",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Presbylaryngis is:",
+      "options": {
+        "A": "Change in voice with age"
+      },
+      "correctAnswer": "A",
+      "explanation": "Presbylaryngis refers to the physiological, age-related changes in the voice and laryngeal architecture. Aging leads to atrophy of the vocalis muscle, loss of collagen and elastin fibers in the lamina propria, and ossification of laryngeal cartilages. Laryngoscopy reveals thin, bowed vocal cords with a spindle-shaped glottic gap during phonation, producing a weak, breathy, higher-pitched voice with reduced vocal endurance. High-yield pearl: Presbylaryngis = Vocal fold atrophy and bowing due to aging. Results in breathy voice, reduced volume, and vocal fatigue. Treatment: Voice therapy, vocal fold augmentation injections. Exam trap: Do not confuse presbylaryngis (bilateral symmetric bowing from aging) with unilateral vocal cord paralysis.",
+      "optionExplanations": {
+        "A": "Correct. Presbylaryngis is the physiological, age-related change of the larynx and voice (vocalis atrophy, bowed vocal folds)."
+      },
+      "educationalObjective": "Define presbylaryngis as the physiological change and atrophy in the voice and larynx associated with aging.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-185",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Waldeyer's ring involves lymphoid tissues in:",
+      "options": {
+        "A": "Nasopharynx",
+        "B": "Oropharynx",
+        "C": "Nasopharynx and oropharynx",
+        "D": "The whole pharynx"
+      },
+      "correctAnswer": "C",
+      "explanation": "Waldeyer's lymphatic ring is an annular ring of mucosa-associated lymphoid tissue (MALT) encircling the entrance to the aerodigestive tract. It encompasses lymphoid collections located in both the nasopharynx and oropharynx: the pharyngeal tonsil (adenoid) and tubal tonsils (Gerlach's tonsils) in the nasopharynx, and the paired palatine tonsils and lingual tonsil (base of tongue) in the oropharynx. High-yield pearl: Waldeyer's Lymphatic Ring: Nasopharynx: Adenoids + Tubal tonsils. Oropharynx: Palatine tonsils + Lingual tonsil. Function: First-line mucosal immune surveillance producing secretory IgA. Exam trap: Waldeyer's ring does not extend into the hypopharynx or larynx.",
+      "optionExplanations": {
+        "A": "Nasopharynx contains adenoids and tubal tonsils, but oropharyngeal tonsils are also core components.",
+        "B": "Oropharynx contains palatine and lingual tonsils, but nasopharyngeal adenoids must be included.",
+        "C": "Correct. Waldeyer's ring comprises the nasopharyngeal tonsils (adenoid, tubal) and the oropharyngeal tonsils (palatine, lingual).",
+        "D": "The hypopharynx has minimal lymphoid tissue and is not a defining site of Waldeyer's ring."
+      },
+      "educationalObjective": "Identify the lymphoid components of Waldeyer's ring located within the nasopharynx and oropharynx.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-186",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The nerve supply of the piriformis fossa is:",
+      "options": {
+        "A": "Vagus nerve (CN X)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The piriform fossa (recess) is located in the hypopharynx lateral to the aryepiglottic fold. Sensory innervation to the piriform fossa mucosa is provided by the internal branch of the superior laryngeal nerve, which is a branch of the vagus nerve (CN X). This explains why foreign bodies (e.g., fish bones) or ulcerating tumors of the piriform fossa often cause referred otalgia to the ear via Arnold's nerve (auricular branch of the vagus nerve, CN X). High-yield pearl: Piriform Fossa Innervation = Internal branch of Superior Laryngeal Nerve (CN X). Referred otalgia from piriform sinus lesions travels via CN X (Arnold's nerve). Exam trap: Tonsil cancer refers pain via CN IX (Jacobson's nerve); Hypopharynx/Piriform cancer refers pain via CN X (Arnold's nerve).",
+      "optionExplanations": {
+        "A": "Correct. The piriform fossa is supplied by the internal branch of the superior laryngeal nerve, a branch of the vagus nerve (CN X)."
+      },
+      "educationalObjective": "Identify the vagus nerve (CN X) as the source of sensory innervation to the piriform fossa.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-187",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Which of the following does not cause hoarseness of voice?",
+      "options": {
+        "A": "Internal branch injury (superior laryngeal nerve)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hoarseness (dysphonia) results from impairment of vocal fold vibration or mobility. All intrinsic laryngeal muscles except the cricothyroid are innervated by the recurrent laryngeal nerve (RLN); the cricothyroid is supplied by the external branch of the superior laryngeal nerve (SLN). In contrast, the INTERNAL branch of the superior laryngeal nerve is purely SENSORY to the supraglottic laryngeal mucosa (above the true vocal cords); its injury causes loss of the protective cough reflex and aspiration, but does NOT cause motor paralysis or hoarseness. High-yield pearl: Laryngeal Nerves: Recurrent Laryngeal Nerve = Motor to all intrinsic muscles except cricothyroid; injury -> vocal cord paralysis and HOARSENESS. Superior Laryngeal Nerve (Internal branch) = SENSORY above cords; injury -> aspiration, NO hoarseness. SLN (External branch) = Motor to cricothyroid; injury -> loss of high pitch. Exam trap: Isolated internal branch of SLN injury causes aspiration, NOT hoarseness. RLN injury causes hoarseness, NOT loss of supraglottic sensation. [Source note: the source gave only a generic placeholder explanation for this question; the explanation, pearl, trap and objective shown are those of the identical question QID 158.]",
+      "optionExplanations": {
+        "A": "Correct. The internal branch of the superior laryngeal nerve is purely sensory above the cords; its injury causes aspiration, not hoarseness."
+      },
+      "educationalObjective": "Recognize that injury to the internal branch of the superior laryngeal nerve affects supraglottic sensation without causing hoarseness.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-188",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "True about vocal cord nodules:",
+      "options": {
+        "A": "Located mainly at the midpoint of the vocal cord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Statement A is INCORRECT because vocal cord nodules typically occur at the junction of the ANTERIOR 1/3 and POSTERIOR 2/3 of the true vocal cord (which represents the midpoint of the membranous, vibratory vocal fold where mechanical impact stress and aerodynamic collision forces are maximal). Nodules are typically bilateral and symmetric ('screamer's/singer's nodules') in young women or vocal abusers. In contrast, vocal cord polyps are characteristically unilateral, larger, pedunculated or sessile, and may be hemorrhagic, often following an acute episode of vocal trauma. High-yield pearl: Vocal Nodules vs Polyps: Nodules = Bilateral, symmetric, junction of anterior 1/3 and posterior 2/3. Treatment: Speech therapy first! Polyps = Unilateral, hemorrhagic/gelatinous, larger. Treatment: Surgical micro-laryngoscopy excision. Exam trap: First-line therapy for vocal nodules is ALWAYS speech therapy / voice rest; surgery is reserved only for mature fibrotic nodules unresponsive to therapy. [Source note: only option A is displayed. The first sentence of the source rationale ('Statement A is INCORRECT...') was copied from QID 174, where that statement was the incorrect one; here option A is the correct answer. The source's analysis of options B-E (copied from QID 174) refers to options that are not shown and was not used.]",
+      "optionExplanations": {
+        "A": "Correct. Nodules are located at the midpoint of the vibratory part of the vocal cord (junction of the anterior 1/3 and posterior 2/3)."
+      },
+      "educationalObjective": "Differentiate the anatomical location, symmetry, and pathology of vocal cord nodules versus polyps.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-189",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Bilateral superior laryngeal nerve injury leads to:",
+      "options": {
+        "A": "Loss of sensation at and above the glottis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bilateral injury to the superior laryngeal nerves (specifically their internal sensory branches) causes complete loss of sensation at and above the glottis (the supraglottic laryngeal mucosa, epiglottis, and false vocal cords). This destroys the protective glottic closure reflex during swallowing, leading to profound silent aspiration, pneumonia, and choking. High-yield pearl: Superior Laryngeal Nerve Injury: Internal branch = Loss of sensation at and above glottis -> high risk of silent aspiration. External branch = Paralysis of cricothyroid muscle -> inability to tense cord (monotone, loss of high vocal register). Exam trap: Recurrent laryngeal nerve injury causes airway obstruction / hoarseness; Superior laryngeal nerve injury causes aspiration and pitch alteration.",
+      "optionExplanations": {
+        "A": "Correct. Loss of supraglottic sensation removes the protective closure reflex and leads to silent aspiration."
+      },
+      "educationalObjective": "Describe the clinical consequence of bilateral superior laryngeal nerve injury: loss of supraglottic laryngeal sensation and risk of aspiration.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-190",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Which statement is false about Reinke's edema?",
+      "options": {
+        "A": "Decreasing smoking does not improve the prognosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reinke's edema is diffuse, bilateral polypoid degeneration of the superficial lamina propria (Reinke's space) of the vocal folds. It is strongly linked to chronic cigarette smoking and chronic voice abuse, presenting with a characteristically low-pitched, coarse, gravelly voice (often striking in middle-aged female smokers). It is best visualized by flexible fiberoptic laryngoscopy (showing floppy, water-bag translucent swelling along the entire cord). Statement claiming decreasing smoking does not improve prognosis is FALSE; strict smoking cessation is the essential foundation of management that halts progression and can reverse early edema. High-yield pearl: Reinke's Edema: Diffuse bilateral translucent swelling of Reinke's space (superficial lamina propria). Risk factors: Heavy smoking + vocal abuse. Voice: Abnormally deep, gravelly voice. Management: Smoking cessation first; micro-laryngoscopic suctioning if airway is compromised. Exam trap: Do not perform surgery on Reinke's edema without smoking cessation; continuing to smoke postoperatively causes rapid recurrence and vocal fold scarring.",
+      "optionExplanations": {
+        "A": "Correct (this is the false statement). Smoking cessation is the foundation of management and improves the prognosis."
+      },
+      "educationalObjective": "Identify flexible laryngoscopy as the diagnostic modality and cigarette smoking as the primary risk factor for Reinke's edema.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-191",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The most common laryngeal cancer is:",
+      "options": {
+        "A": "Squamous cell carcinoma (SCC)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Squamous cell carcinoma (SCC) accounts for greater than 95% of all primary malignant neoplasms of the larynx. It is overwhelmingly associated with chronic tobacco smoking and excessive alcohol consumption, which act synergistically. It arises from the squamous epithelium of the true vocal cords (glottic cancer, 60–65%) or the pseudostratified respiratory epithelium of the supraglottis (30–35%) that undergoes squamous metaplasia. High-yield pearl: Laryngeal Cancer: >95% Squamous Cell Carcinoma (SCC). Most common site = Glottis (true vocal cords, 60–65%), presents early with hoarseness, best prognosis (scanty lymphatics). Second most common = Supraglottis (30–35%), presents late with neck metastasis. Exam trap: Glottic carcinoma rarely metastasizes early because true vocal cords lack a lymphatic capillary network.",
+      "optionExplanations": {
+        "A": "Correct. Squamous cell carcinoma accounts for more than 95% of primary laryngeal malignancies."
+      },
+      "educationalObjective": "Identify squamous cell carcinoma as the most common histological type of laryngeal cancer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-192",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A teacher with hoarseness of voice for two months. Treatment is:",
+      "options": {
+        "A": "Speech therapy"
+      },
+      "correctAnswer": "A",
+      "explanation": "A teacher presenting with hoarseness of voice for two months due to vocal cord nodules (singer's/screamer's nodules) should be managed primarily with speech and voice therapy. Vocal nodules are inflammatory calluses in the superficial lamina propria resulting from mechanical vocal abuse and hyperfunctional phonation. Behavioral voice therapy improves vocal hygiene, teaches resonant voice production, and resolves nodules in over 85–90% of cases. Surgical excision is contraindicated initially as it carries risk of vocal fold scarring. High-yield pearl: Vocal Cord Nodules Treatment: First-line = Voice / Speech Therapy and vocal hygiene. Surgery is strictly contraindicated unless nodules fail prolonged comprehensive therapy. Exam trap: Do NOT operate on vocal nodules without attempting voice therapy; scarring of the lamina propria causes permanent, irreversible dysphonia.",
+      "optionExplanations": {
+        "A": "Correct. Voice/speech therapy with vocal hygiene is first-line for vocal cord nodules; early surgery risks vocal fold scarring."
+      },
+      "educationalObjective": "Recommend speech and voice therapy as the definitive first-line management for vocal cord nodules.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-193",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "In unilateral vocal cord paralysis, what should be done?",
+      "options": {
+        "A": "Follow up after 6-12 months"
+      },
+      "correctAnswer": "A",
+      "explanation": "In patients with acute unilateral vocal cord paralysis (idiopathic or post-viral neuropraxia), initial management consists of observation and speech therapy with follow-up over 6 to 12 months. Spontaneous recovery of nerve function occurs in a substantial proportion of patients during this period. Permanent medialization thyroplasty (Isshiki Type I) is reserved for patients whose nerve function fails to recover after 12 months. High-yield pearl: Unilateral Vocal Cord Paralysis: If imaging is clear, observe for 6–12 months to allow for spontaneous axonal reinnervation. Temporary injection laryngoplasty can provide interim symptomatic relief. Exam trap: Do not perform permanent medialization surgery (type 1 thyroplasty) before 6–12 months have elapsed.",
+      "optionExplanations": {
+        "A": "Correct. Once imaging is clear, observe with speech therapy for 6-12 months before permanent medialization."
+      },
+      "educationalObjective": "Identify observation for 6 to 12 months as the initial management strategy for unilateral vocal cord paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-194",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Voice production depends on all of the following except:",
+      "options": {
+        "A": "Intact recurrent laryngeal nerve",
+        "B": "Vocal cord elongation",
+        "C": "Vocal cord adduction",
+        "D": "Airforce",
+        "E": "Infraglottic pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to the myoelastic-aerodynamic theory of phonation, voice production requires: 1) Vocal cord adduction (bringing cords into the midline airstream), 2) Subglottic air pressure generation, 3) Intact recurrent laryngeal nerve innervation to maintain muscle tone and positioning, and 4) Transglottic air flow to trigger Bernoulli aerodynamic mucosal wave vibration. Vocal cord elongation adjusts acoustic pitch and fundamental frequency, but is NOT an absolute requirement for primary voice production. High-yield pearl: Phonation Requirements: Vocal cord adduction + Subglottic air pressure + Intact nerve supply + Airflow. Vocal cord elongation (by cricothyroid) alters pitch, not the generation of sound. Exam trap: Paralysis of adduction results in a breathy, aphonic voice due to air escape.",
+      "optionExplanations": {
+        "A": "Intact nerve supply is necessary to adduct and position the vocal cords.",
+        "B": "Correct (the exception). Vocal cord elongation adjusts pitch but is not required to generate voice.",
+        "C": "Vocal cord adduction is essential to create a subglottic pressure seal for phonation.",
+        "D": "Airflow from the lungs provides the driving energy for mucosal wave vibration.",
+        "E": "Subglottic pressure buildup is mandatory to separate the cords and initiate phonation."
+      },
+      "educationalObjective": "Identify the physiological requirements for voice production and recognize that vocal cord elongation alters pitch rather than generating phonation.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-195",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The only abductor muscle of the vocal cords is:",
+      "options": {
+        "A": "Cricothyroid",
+        "B": "Lateral cricoarytenoid",
+        "C": "Transverse arytenoid",
+        "D": "Posterior cricoarytenoid"
+      },
+      "correctAnswer": "D",
+      "explanation": "The posterior cricoarytenoid (PCA) muscle is the ONLY abductor of the vocal cords. It originates on the posterior surface of the cricoid lamina and inserts into the muscular process of the arytenoid cartilage. When it contracts, it rotates the arytenoids outward and pulls the vocal processes apart, opening the rima glottidis for respiration. Bilateral paralysis of the PCA (as in bilateral recurrent laryngeal nerve injury) leaves the cords in an adducted paramedian position, causing acute stridor and asphyxiation requiring immediate tracheostomy. High-yield pearl: Laryngeal Muscles Rule: 'Posticus Pulls cords apart' -> Posterior Cricoarytenoid is the SOLE vocal cord abductor. Lateral cricoarytenoid and interarytenoids are adductors. Cricothyroid tenses cords (raises pitch). Exam trap: Bilateral recurrent laryngeal nerve injury paralyzes the posterior cricoarytenoid muscles, leaving cords adducted -> catastrophic acute airway obstruction!",
+      "optionExplanations": {
+        "A": "Cricothyroid tenses and elongates the vocal cords to raise pitch.",
+        "B": "Lateral cricoarytenoid is a primary adductor of the vocal folds.",
+        "C": "Transverse arytenoid adducts the posterior cartilaginous glottis.",
+        "D": "Correct. The posterior cricoarytenoid is the sole abductor of the vocal cords."
+      },
+      "educationalObjective": "Identify the posterior cricoarytenoid muscle as the sole abductor of the vocal cords.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-196",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A 60-year-old male, heavy smoker, presents with worsening hoarseness of voice for 3 months. On laryngoscopy, a lesion on the left vocal cord is found. What should you do next?",
+      "options": {
+        "A": "MRI",
+        "B": "PET scan",
+        "C": "CT of the neck and chest",
+        "D": "Direct laryngoscopy and biopsy"
+      },
+      "correctAnswer": "D",
+      "explanation": "A 60-year-old male with a heavy smoking history presenting with progressive hoarseness of voice for 3 months and an identifiable vocal cord lesion has laryngeal squamous cell carcinoma until proven otherwise. Any patient with hoarseness lasting more than 2 to 3 weeks must undergo direct visual evaluation of the larynx. When a suspicious vocal cord lesion (leukoplakia, exophytic mass, or ulceration) is visualized, the mandatory next step is direct laryngoscopy and biopsy under general anesthesia to obtain histological tissue confirmation and stage the lesion. High-yield pearl: Hoarseness > 2–3 weeks in a smoker = Laryngeal Cancer until proven otherwise! Mandatory next step: Direct laryngoscopy and excisional/incisional biopsy. Exam trap: Never initiate empiric speech therapy or reflux treatment in an older smoker with persistent hoarseness without inspecting and biopsying the vocal cords.",
+      "optionExplanations": {
+        "A": "MRI provides soft tissue evaluation, but tissue biopsy is mandatory to confirm malignancy.",
+        "B": "PET scan is used for distant metastasis staging, not primary histological diagnosis.",
+        "C": "CT neck/chest is used for regional staging, but definitive histological diagnosis requires biopsy.",
+        "D": "Correct. A persistent suspicious vocal cord lesion in a smoker requires direct laryngoscopy with biopsy for tissue diagnosis."
+      },
+      "educationalObjective": "Recommend direct laryngoscopy and biopsy for persistent hoarseness with an identified vocal cord mass in a smoker.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-197",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Regarding the anatomy of the larynx, which statement is false?",
+      "options": {
+        "A": "Covered by respiratory mucosa",
+        "B": "Extrinsic muscles adjust the position of the larynx",
+        "C": "Intrinsic muscles control the tension of the vocal cords",
+        "D": "Consists of one bone and 8 cartilages"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is FALSE because the skeletal framework of the larynx consists of one bone (the hyoid bone) and NINE cartilages (3 unpaired and 3 paired): Unpaired = Thyroid, Cricoid, and Epiglottis (3 cartilages); Paired = Arytenoid, Corniculate, and Cuneiform (6 cartilages). Total = 9 cartilages, NOT 8. High-yield pearl: Laryngeal Cartilage Count = 9 total. Unpaired (3): Thyroid, Cricoid, Epiglottis. Paired (3 pairs = 6): Arytenoid, Corniculate, Cuneiform. Exam trap: The true vocal folds are covered by non-keratinizing stratified squamous epithelium to withstand mechanical collision, unlike the rest of the respiratory tract.",
+      "optionExplanations": {
+        "A": "True: The larynx is lined by pseudostratified ciliated columnar respiratory epithelium, except over the true vocal cords (which are lined by protective stratified squamous epithelium).",
+        "B": "True: Extrinsic laryngeal muscles (strap muscles, suprahyoid muscles) elevate and depress the larynx in the neck.",
+        "C": "True: Intrinsic laryngeal muscles adjust the tension, length, and position of the vocal folds.",
+        "D": "Correct (this is the false statement). The laryngeal skeleton has one bone (the hyoid) and nine cartilages, not eight."
+      },
+      "educationalObjective": "Recall that the laryngeal skeleton consists of nine cartilages (three unpaired and three paired).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-198",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "All of the following can cause vocal cord palsy except:",
+      "options": {
+        "A": "Croup",
+        "B": "Thyroid surgery",
+        "C": "Bronchogenic carcinoma",
+        "D": "Rheumatoid arthritis",
+        "E": "Myasthenia gravis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vocal cord paralysis results from neurological disruption of the recurrent or superior laryngeal nerves, or mechanical fixation of the cricoarytenoid joint. Recognized causes include: iatrogenic surgical trauma (thyroidectomy, carotid endarterectomy, anterior cervical discectomy), bronchogenic carcinoma (apical/mediastinal compression), cricoarytenoid rheumatoid arthritis, myasthenia gravis, and sarcoidosis neuropathy. In contrast, croup (laryngotracheobronchitis) is an acute viral mucosal inflammation causing subglottic edema and barking cough; it does NOT cause neurogenic vocal cord paralysis. High-yield pearl: Vocal Cord Paralysis Causes: Surgical (thyroidectomy), Malignant (lung, esophageal, thyroid cancer), Neurological (stroke, ALS), Cricoarytenoid ankylosis (rheumatoid arthritis). Croup causes subglottic mucosal narrowing, not nerve palsy. Exam trap: If a patient with long-standing rheumatoid arthritis develops stridor, think cricoarytenoid joint fixation!",
+      "optionExplanations": {
+        "A": "Correct (the exception). Croup is an acute subglottic mucosal inflammation and does not cause nerve palsy.",
+        "B": "Thyroid surgery is a classic iatrogenic cause of recurrent laryngeal nerve injury.",
+        "C": "Bronchogenic carcinoma invading the recurrent laryngeal nerve is the leading malignant cause of vocal cord paralysis.",
+        "D": "Rheumatoid arthritis can cause cricoarytenoid joint ankylosis, mimicking vocal cord paralysis.",
+        "E": "Myasthenia gravis can produce flaccid vocal cord paresis due to neuromuscular junction acetylcholine receptor failure."
+      },
+      "educationalObjective": "Identify etiologies of vocal cord palsy and recognize that viral croup does not cause nerve paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-199",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The most common neoplastic cause of vocal cord paralysis is:",
+      "options": {
+        "A": "Nasopharyngeal carcinoma",
+        "B": "Laryngeal carcinoma",
+        "C": "Thyroid carcinoma",
+        "D": "Bronchial carcinoma"
+      },
+      "correctAnswer": "D",
+      "explanation": "The most common neoplastic cause of vocal cord paralysis is bronchial (bronchogenic) carcinoma of the lung. Because the left recurrent laryngeal nerve loops deep into the mediastinum beneath the aortic arch, it is extraordinarily vulnerable to direct invasion or compression by primary lung tumors (especially left upper lobe cancers) or subcarinal/aortopulmonary window lymphadenopathy. High-yield pearl: Most common malignant cause of left vocal cord palsy = Bronchogenic Carcinoma (Ortner's syndrome / cardiovocal syndrome if from left atrial enlargement). Exam trap: Any unexplained left vocal cord paralysis requires chest imaging (CT chest) to rule out an occult apical lung tumor.",
+      "optionExplanations": {
+        "A": "Nasopharyngeal carcinoma affects cranial nerves at the skull base (CN IX, X, XI, XII), but is less common overall than lung cancer.",
+        "B": "Laryngeal carcinoma causes cord fixation through direct muscle invasion, but bronchial carcinoma is the most common extrinsic cause.",
+        "C": "Thyroid carcinoma can invade the recurrent laryngeal nerve in the tracheoesophageal groove, but lung cancer is epidemiologically far more frequent.",
+        "D": "Correct. Bronchogenic carcinoma is the most common neoplastic cause, especially via the left recurrent laryngeal nerve in the mediastinum."
+      },
+      "educationalObjective": "Identify bronchogenic carcinoma as the leading neoplastic etiology of vocal cord paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-200",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "Which statement about recurrent respiratory papillomatosis is false?",
+      "options": {
+        "A": "HPV 7 and 13 are causative"
+      },
+      "correctAnswer": "A",
+      "explanation": "[Added] The source gave only a generic placeholder explanation for this question. Recurrent respiratory papillomatosis (RRP) is caused by HPV types 6 and 11 (low-risk types), not HPV 7 and 13, so the statement is false. High-yield pearl (from QID 164): Recurrent Respiratory Papillomatosis (RRP): Caused by HPV 6 and 11. Most common benign laryngeal tumor in children. Triad of presentation: Progressive hoarseness + Stridor + Respiratory distress. Histology: Squamous papillomas with fibrovascular cores. Exam trap (from QID 164): HPV 6 & 11 cause benign papillomatosis; HPV 16 & 18 cause malignant squamous cell carcinoma. [Source note: the source gave only a generic placeholder explanation, pearl, trap and objective for this question; the pearl, trap and objective shown are those of the related QID 164.]",
+      "optionExplanations": {
+        "A": "[Added] Correct (this is the false statement). RRP is caused by HPV types 6 and 11, not HPV 7 and 13."
+      },
+      "educationalObjective": "Identify HPV 6 and 11 as the causative viruses of recurrent respiratory papillomatosis and distinguish them from high-risk oncogenic types.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-201",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A 3-year-old boy presents to the emergency room with fever (39°C orally), odynophagia, drooling of saliva, respiratory distress, and muffled voice for 24 hours. Regarding this patient, all are true EXCEPT:",
+      "options": {
+        "A": "\"Thumb\" sign on neck X-ray is not necessary for diagnosis",
+        "B": "Blood cultures are not always positive",
+        "C": "He should be taken to the operating room for intubation and direct laryngoscopy",
+        "D": "IV antibiotics have a major role in management",
+        "E": "Throat examination by tongue depressor should be done as soon as possible"
+      },
+      "correctAnswer": "E",
+      "explanation": "Acute epiglottitis (supraglottitis) is a rapidly progressive, life-threatening airway infection characterized by high fever (≥39°C), severe odynophagia, drooling of saliva, inspiratory stridor, toxic appearance, and a muffled 'hot potato' voice. The immediate initial priority is to SECURE THE AIRWAY in a controlled setting (the operating room with ENT and anesthesia prepared for immediate rigid bronchoscopy or emergency tracheostomy). Direct examination of the pharynx with a tongue depressor is strictly CONTRAINDICATED because tactile stimulation of the pharynx can trigger fatal reflex laryngospasm and complete airway arrest. High-yield pearl: Acute Epiglottitis: High fever + Drooling + Tripod position + Muffled voice. Immediate action: SECURE AIRWAY in OR. DO NOT examine throat with a tongue depressor! Exam trap: Never use a tongue depressor or agitate a child with suspected epiglottitis; reflex laryngospasm can cause immediate fatal cardiac arrest.",
+      "optionExplanations": {
+        "A": "True: 'Thumb' sign on lateral neck X-ray is classic but not required and should never delay airway management.",
+        "B": "True: Blood cultures are positive in only ~70% of cases.",
+        "C": "True: Endotracheal intubation under direct visualization in the operating room is the gold standard.",
+        "D": "True: IV third-generation cephalosporin (ceftriaxone) plus antistaphylococcal coverage is crucial.",
+        "E": "Correct (this is the false statement). Tongue-depressor examination is contraindicated in suspected epiglottitis because it can trigger fatal laryngospasm."
+      },
+      "educationalObjective": "Identify airway stabilization as the emergency priority in epiglottitis and recognize that tongue depressor examination is contraindicated.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-202",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "A 40-year-old male presents to the ENT clinic with aphonia and hemoptysis. Fiberoptic laryngoscopy shows an immobile right vocal cord. The patient has no significant medical or surgical history. What is the next step?",
+      "options": {
+        "A": "Thyroplasty",
+        "B": "Observation for 6-12 months",
+        "C": "Vocal cord injection",
+        "D": "Ultrasound of the neck",
+        "E": "CT of the neck and chest"
+      },
+      "correctAnswer": "E",
+      "explanation": "A patient presenting with aphonia/hoarseness and an immobile vocal cord on fiberoptic laryngoscopy requires an urgent CT scan of the neck and chest with intravenous contrast. This is because the recurrent laryngeal nerve follows an extensive course: the left RLN loops under the aortic arch in the mediastinum, and the right RLN loops around the right subclavian artery. Malignancies along this pathway (e.g., bronchogenic carcinoma, apical Pancoast tumor, mediastinal adenopathy, esophageal carcinoma, or thyroid malignancy) must be excluded before assuming an idiopathic etiology. High-yield pearl: Unexplained Vocal Cord Paralysis: CT of Neck and Chest from skull base to aortopulmonary window is mandatory to trace the entire course of the recurrent laryngeal nerves and rule out bronchogenic carcinoma. Exam trap: Left vocal cord paralysis is more common than right because the left RLN has a longer intrathoracic course under the aortic arch.",
+      "optionExplanations": {
+        "A": "Thyroplasty is a surgical medialization procedure performed only after definitive etiology is identified and 6–12 months have elapsed without spontaneous recovery.",
+        "B": "Observation is appropriate only AFTER malignant and structural causes have been definitively ruled out by cross-sectional imaging.",
+        "C": "Vocal cord injection is a therapeutic medialization intervention, not the initial diagnostic workup.",
+        "D": "Ultrasound of the neck assesses the thyroid, but fails to visualize the mediastinum and pulmonary parenchyma where lung tumors compress the left RLN.",
+        "E": "Correct. CT of the neck and chest is needed to exclude a malignant cause (e.g., bronchogenic or apical tumor) along the course of the recurrent laryngeal nerve."
+      },
+      "educationalObjective": "Recommend contrast-enhanced CT of the neck and chest as the essential next step to evaluate unexplained unilateral vocal cord paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-203",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "What is the best indicator of the anatomic level of airway obstruction?",
+      "options": {
+        "A": "Respiratory rate",
+        "B": "Posturing",
+        "C": "Presence of cyanosis",
+        "D": "Associated eating difficulties",
+        "E": "The respiratory phase during which stridor occurs"
+      },
+      "correctAnswer": "E",
+      "explanation": "The respiratory phase during which stridor occurs is the single best clinical indicator of the anatomical level of upper airway obstruction: 1) Inspiratory stridor indicates obstruction at or above the glottis (supraglottic/extrathoracic airway, e.g., laryngomalacia, epiglottitis, retropharyngeal abscess); 2) Biphasic stridor indicates fixed obstruction at the glottis or subglottis (e.g., subglottic stenosis, croup, bilateral cord palsy); and 3) Expiratory stridor/wheezing indicates intrathoracic tracheobronchial obstruction (e.g., tracheomalacia, bronchial foreign body). High-yield pearl: Stridor Timing & Anatomic Level: Inspiratory = Supraglottic (Laryngomalacia, Epiglottitis). Biphasic = Glottic / Subglottic (Subglottic stenosis, Croup). Expiratory = Tracheobronchial (Foreign body, Tracheomalacia). Exam trap: Inspiratory stridor worsens when airway collapses under negative inspiratory pressure; expiratory stridor occurs when intrathoracic airway collapses under positive pleural pressure.",
+      "optionExplanations": {
+        "A": "Respiratory rate reflects work of breathing and metabolic demand, but does not localize the anatomic level.",
+        "B": "Posturing (e.g., tripoding) indicates severe distress, not the precise level.",
+        "C": "Cyanosis reflects advanced hypoxemia, not the anatomical site.",
+        "D": "Eating difficulties indicate coordination issues, not the airway level.",
+        "E": "Correct. The respiratory phase of stridor (inspiratory, biphasic or expiratory) is the best clinical indicator of the level of obstruction."
+      },
+      "educationalObjective": "Use the respiratory phase of stridor (inspiratory, biphasic, or expiratory) to determine the anatomical level of airway obstruction.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-204",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "All of the following can cause vocal cord paralysis except:",
+      "options": {
+        "A": "Iatrogenic injury",
+        "B": "Sarcoidosis",
+        "C": "Idiopathic",
+        "D": "Trauma",
+        "E": "Laryngitis"
+      },
+      "correctAnswer": "E",
+      "explanation": "Vocal cord immobility can be caused by neurogenic paralysis (surgical trauma, cervical spine surgery, mediastinal/skull base tumors), granulomatous neuropathy (sarcoidosis, tuberculosis), or idiopathic neuritis. In contrast, uncomplicated acute laryngitis is a superficial mucosal inflammation of the vocal cords causing hoarseness, erythema, and edema; it does NOT cause neurogenic vocal cord paralysis. High-yield pearl: Laryngitis causes hoarseness due to mucosal edema, but vocal cord mobility on laryngoscopy remains completely intact. Exam trap: True vocal cord paralysis shows lack of vocal cord abduction/adduction; acute laryngitis shows full cord excursion despite mucosal edema.",
+      "optionExplanations": {
+        "A": "Iatrogenic injury is the leading cause of unilateral vocal cord paralysis.",
+        "B": "Sarcoidosis can cause cranial neuropathies affecting CN X and the recurrent laryngeal nerve.",
+        "C": "Idiopathic vocal cord paralysis accounts for ~20–25% of cases.",
+        "D": "Direct neck or thoracic trauma can transect or crush the laryngeal nerves.",
+        "E": "Correct (the exception). Acute laryngitis is mucosal inflammation with preserved cord mobility and does not cause paralysis."
+      },
+      "educationalObjective": "Distinguish acute mucosal laryngitis from conditions that cause true neurogenic vocal cord paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-205",
+      "topic": "ENT",
+      "section": "4. LARYNX & SURGICAL AIRWAY (LEC 7)",
+      "question": "The most common presentation of supraglottic laryngeal cancer is:",
+      "options": {
+        "A": "Referred otalgia",
+        "B": "Shortness of breath",
+        "C": "Hoarseness of voice",
+        "D": "Dysphagia",
+        "E": "Cervical metastatic lymph nodes"
+      },
+      "correctAnswer": "E",
+      "explanation": "Unlike glottic cancers (which present early with persistent hoarseness due to impaired vocal cord vibration), supraglottic laryngeal cancers (arising on the epiglottis, false vocal cords, or aryepiglottic folds) often remain asymptomatic for long periods until presenting with cervical metastatic lymph nodes (Level II/III). This occurs because the supraglottic larynx possesses an exceptionally rich, bilateral submucosal lymphatic drainage network, resulting in cervical nodal metastases in 40–50% of patients at initial diagnosis. High-yield pearl: Laryngeal Cancer Presentation: Glottic (60%): Presents EARLY with HOARSENESS. Rare early metastasis. Excellent cure rate. Supraglottic (35%): Presents LATE with CERVICAL METASTASIS (40–50%), throat pain, referred otalgia, or globus sensation. Exam trap: Any adult presenting with an asymptomatic, firm neck mass (Level II/III) must undergo flexible fiberoptic laryngoscopy to evaluate the supraglottis and oropharynx.",
+      "optionExplanations": {
+        "A": "Referred otalgia occurs via CN X, but palpable cervical nodal metastasis is the most common presenting sign.",
+        "B": "Shortness of breath occurs only in late bulky obstructive tumors.",
+        "C": "Hoarseness is the hallmark of glottic cancer, but appears late in supraglottic cancer when the true cords become invaded.",
+        "D": "Dysphagia is common, but cervical lymphadenopathy is the classic primary presentation.",
+        "E": "Correct per source key. The rich bilateral lymphatics of the supraglottis lead to cervical nodal metastases (40-50% at diagnosis), often the presenting sign."
+      },
+      "educationalObjective": "Identify cervical metastatic lymphadenopathy as the most common initial presentation of supraglottic laryngeal cancer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-206",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "The smallest segment of the facial nerve is:",
+      "options": {
+        "A": "Tympanic segment",
+        "B": "Mastoid segment",
+        "C": "Cranial segment",
+        "D": "Meatal segment",
+        "E": "Labyrinthine segment"
+      },
+      "correctAnswer": "E",
+      "explanation": "The facial nerve (CN VII) consists of intracranial, intratemporal, and extratemporal segments. The intratemporal course has four segments: 1) Meatal (in internal auditory canal, 8–10 mm), 2) Labyrinthine (3–4 mm), 3) Tympanic/horizontal (8–11 mm), and 4) Mastoid/vertical (13 mm). The LABYRINTHINE segment is both the SMALLEST (shortest, 3–4 mm) and NARROWEST (diameter ~0.68 mm) segment of the fallopian canal. Because of this rigid bony confinement and lack of epineurial connective tissue, any inflammatory edema of the facial nerve (as in Bell's palsy) causes immediate entrapment ischemia and conduction block at the labyrinthine segment. High-yield pearl: Facial Nerve Segments: Shortest and Narrowest = LABYRINTHINE segment (3–4 mm, 0.68 mm). Most vulnerable to entrapment in Bell's palsy! Longest intratemporal = Mastoid segment (13 mm). Exam trap: The labyrinthine segment is the narrowest point of the fallopian canal; entrapment edema here is the primary pathophysiological trigger of Bell's palsy.",
+      "optionExplanations": {
+        "A": "Tympanic segment is ~8–11 mm long, running above the oval window.",
+        "B": "Mastoid segment is the longest intratemporal segment (~13 mm), giving off the nerve to stapedius and chorda tympani.",
+        "C": "Cranial/intracranial segment is the root entry zone between brainstem and IAC (~23–24 mm).",
+        "D": "Meatal segment is ~8–10 mm long within the internal auditory meatus.",
+        "E": "Correct. The labyrinthine segment (3-4 mm long, about 0.68 mm wide) is the shortest and narrowest segment."
+      },
+      "educationalObjective": "Identify the labyrinthine segment as the shortest and narrowest segment of the facial nerve.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-207",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Which of the following is an indication for surgical intervention in a patient with facial nerve palsy?",
+      "options": {
+        "A": "Grade II facial nerve palsy due to Bell's palsy",
+        "B": "Grade IV facial nerve palsy associated with middle ear cholesteatoma",
+        "C": "Facial nerve palsy with vesicular rash on the external ear",
+        "D": "Facial nerve palsy occurring 2 hours after parotid surgery with no improvement",
+        "E": "Grade VI facial nerve palsy without symptoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Facial nerve paralysis developing in the setting of chronic suppurative otitis media or middle ear cholesteatoma is an ABSOLUTE INDICATION for emergency surgical intervention (tympanomastoidectomy and facial nerve decompression/exploration). Cholesteatoma causes osteolytic enzymatic bone erosion of the fallopian canal (most commonly the tympanic segment), causing direct nerve compression and bacterial neuritis. Emergency surgical removal of cholesteatoma is mandatory to halt permanent axonal death. High-yield pearl: Facial Nerve Palsy Surgical Indications: Traumatic immediate complete paralysis with temporal bone fracture; Cholesteatoma-associated paralysis; Malignant neoplasm. Bell's palsy and Ramsay Hunt are managed MEDICALLY! Exam trap: Facial palsy + Otitis Media / Cholesteatoma = Urgent surgery! Medical treatment alone will result in permanent facial disfigurement.",
+      "optionExplanations": {
+        "A": "Grade II Bell's palsy is mild paresis managed conservatively with oral corticosteroids (prednisone); surgery is contraindicated.",
+        "B": "Correct. Facial palsy with cholesteatoma is an indication for urgent surgery (tympanomastoidectomy with nerve decompression).",
+        "C": "Ramsay Hunt syndrome (vesicular rash) is managed medically with high-dose oral corticosteroids and oral valacyclovir/acyclovir.",
+        "D": "Facial weakness 2 hours after parotidectomy is typically due to local anesthetic diffusion; observation is indicated unless the nerve was known to be transected intraoperatively.",
+        "E": "Complete paralysis without identifiable etiology requires diagnostic imaging, not unindicated blind surgery."
+      },
+      "educationalObjective": "Recognize middle ear cholesteatoma with facial nerve palsy as a clear indication for urgent surgical intervention.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-208",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "False about facial palsy:",
+      "options": {
+        "A": "CT to rule out infectious cause or neoplasm",
+        "B": "Acute otitis media is the most common cause of Bell's palsy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statement B is FALSE because acute otitis media is NOT the most common cause of Bell's palsy. Bell's palsy is by definition an IDIOPATHIC acute peripheral lower motor neuron facial paralysis, strongly linked to reactivation of Herpes Simplex Virus Type 1 (HSV-1) within the geniculate ganglion. While acute otitis media can cause inflammatory facial palsy (via canal dehiscence), that is classified as otitis-induced facial palsy, not Bell's palsy. High-yield pearl: Bell's Palsy: Acute, unilateral, idiopathic lower motor neuron facial palsy. Peak onset < 72 hours. Pathophysiology: HSV-1 reactivation in geniculate ganglion causing labyrinthine segment edema. First-line therapy: Oral Prednisone (60 mg/day for 7–10 days) started within 72 hours. Exam trap: Forehead involvement differentiates peripheral LMN palsy (forehead affected, cannot wrinkle brow) from central UMN stroke (forehead spared due to bilateral cortical innervation).",
+      "optionExplanations": {
+        "A": "True: CT or MRI is indicated if atypical features, progression beyond 3 weeks, or non-recovery occurs, to rule out neoplasms (schwannoma, parotid tumor) or occult osteomyelitis.",
+        "B": "Correct (this is the false statement). Bell's palsy is idiopathic (HSV-1 reactivation), not caused by acute otitis media."
+      },
+      "educationalObjective": "Recall that Bell's palsy is an idiopathic reactivation of HSV-1 rather than a complication of acute otitis media.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-209",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Smallest segment of the facial nerve:",
+      "options": {
+        "A": "Labyrinthine segment",
+        "B": "Mastoid segment",
+        "C": "Cranial segment",
+        "D": "Meatal segment",
+        "E": "Tympanic segment"
+      },
+      "correctAnswer": "A",
+      "explanation": "The facial nerve (CN VII) consists of intracranial, intratemporal, and extratemporal segments. The intratemporal course has four segments: 1) Meatal (in internal auditory canal, 8–10 mm), 2) Labyrinthine (3–4 mm), 3) Tympanic/horizontal (8–11 mm), and 4) Mastoid/vertical (13 mm). The LABYRINTHINE segment is both the SMALLEST (shortest, 3–4 mm) and NARROWEST (diameter ~0.68 mm) segment of the fallopian canal. Because of this rigid bony confinement and lack of epineurial connective tissue, any inflammatory edema of the facial nerve (as in Bell's palsy) causes immediate entrapment ischemia and conduction block at the labyrinthine segment. High-yield pearl: Facial Nerve Segments: Shortest and Narrowest = LABYRINTHINE segment (3–4 mm, 0.68 mm). Most vulnerable to entrapment in Bell's palsy! Longest intratemporal = Mastoid segment (13 mm). Exam trap: The labyrinthine segment is the narrowest point of the fallopian canal; entrapment edema here is the primary pathophysiological trigger of Bell's palsy.",
+      "optionExplanations": {
+        "A": "Correct. The labyrinthine segment (3-4 mm long, about 0.68 mm wide) is the shortest and narrowest segment.",
+        "B": "Mastoid segment is the longest intratemporal segment (~13 mm), giving off the nerve to stapedius and chorda tympani.",
+        "C": "Cranial/intracranial segment is the root entry zone between brainstem and IAC (~23–24 mm).",
+        "D": "Meatal segment is ~8–10 mm long within the internal auditory meatus.",
+        "E": "Tympanic segment is ~8–11 mm long, running above the oval window."
+      },
+      "educationalObjective": "Identify the labyrinthine segment as the shortest and narrowest segment of the facial nerve.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-210",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Which of the following is false regarding facial nerve palsy?",
+      "options": {
+        "A": "Bell's palsy may involve decreased tearing or altered taste sensation",
+        "B": "Radiologic tests are not indicated for the assessment of every patient presenting with facial nerve paralysis",
+        "C": "CT is the test of choice for facial nerve paralysis secondary to inflammatory and neoplastic causes",
+        "D": "Any palsy with progression should be considered a neoplasm until proven otherwise",
+        "E": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Statement C is FALSE because Contrast-Enhanced Magnetic Resonance Imaging (MRI) with gadolinium—NOT CT—is the imaging modality of choice for evaluating facial nerve paralysis secondary to inflammatory, viral, and neoplastic etiologies. Gadolinium MRI provides superior soft tissue resolution of the brainstem, cerebellopontine angle, IAC, and fallopian canal, clearly demonstrating facial nerve schwannomas, perineural tumor spread, or intense contrast enhancement of the intratemporal nerve. CT is the test of choice for temporal bone fractures and bony erosion. High-yield pearl: Facial Palsy Imaging: Trauma / Fractures = High-Resolution CT. Tumor / Neoplasm / Inflammatory / Recurrent = Gadolinium MRI of brain/IAC. Exam trap: Progressive facial palsy over months is NEVER Bell's palsy; it is a tumor (facial neuroma, acoustic neuroma, parotid malignancy) until proven otherwise.",
+      "optionExplanations": {
+        "A": "True: Bell's palsy involves branches of CN VII, including chorda tympani (taste loss) and greater petrosal nerve (reduced lacrimation).",
+        "B": "True: Routine imaging is NOT recommended for typical acute Bell's palsy that improves within expected timelines.",
+        "C": "Correct (this is the false statement). Gadolinium MRI, not CT, is the imaging modality of choice for inflammatory and neoplastic causes.",
+        "D": "True: Any facial palsy that progresses insidiously over > 3 weeks or fails to recover after 3–4 months must be presumed neoplastic until proven otherwise.",
+        "E": "[Added] Incorrect, because statement C is false."
+      },
+      "educationalObjective": "Identify MRI with contrast, rather than CT, as the optimal imaging test for inflammatory and neoplastic causes of facial nerve paralysis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-211",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "The facial nerve supplies all of the following except:",
+      "options": {
+        "A": "Lacrimal gland",
+        "B": "Parotid gland",
+        "C": "Submandibular gland",
+        "D": "Sublingual gland"
+      },
+      "correctAnswer": "B",
+      "explanation": "The facial nerve (CN VII) provides general visceral efferent (parasympathetic) secretomotor supply to all head and neck glands EXCEPT the PAROTID GLAND. Preganglionic parasympathetic fibers from the superior salivatory nucleus travel via: 1) Greater petrosal nerve -> Pterygopalatine ganglion -> Lacrimal gland and nasal/palatine seromucinous glands; and 2) Chorda tympani -> Submandibular ganglion -> Submandibular and Sublingual salivary glands. The PAROTID GLAND is innervated parasympathetically by the GLOSSOPHARYNGEAL NERVE (CN IX) via the lesser petrosal nerve and otic ganglion. High-yield pearl: Parasympathetic Head Innervation: CN VII supplies Lacrimal, Submandibular, Sublingual, and Nasal glands. CN IX supplies the PAROTID gland (via Otic ganglion and auriculotemporal nerve). Exam trap: Frey's syndrome (gustatory sweating) occurs when severed auriculotemporal parasympathetic fibers (CN IX) misregenerate to sweat glands over the parotid.",
+      "optionExplanations": {
+        "A": "Lacrimal glands are innervated by CN VII via the greater petrosal nerve and pterygopalatine ganglion.",
+        "B": "Correct (the exception). The parotid gland is supplied by CN IX (lesser petrosal nerve and otic ganglion), not by the facial nerve.",
+        "C": "Submandibular glands are innervated by CN VII via the chorda tympani and submandibular ganglion.",
+        "D": "Sublingual glands are innervated by CN VII via the chorda tympani."
+      },
+      "educationalObjective": "Identify the parotid gland as being innervated by CN IX rather than the facial nerve (CN VII).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-212",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Ramsay Hunt syndrome is characterized by all of the following except:",
+      "options": {
+        "A": "Worse prognosis than Bell's palsy",
+        "B": "Cutaneous vesicular eruption, usually involving the external canal, pinna, or posterior 1/3 of the tongue",
+        "C": "May be associated with decreased tearing or altered taste sensation",
+        "D": "May be associated with hearing loss and vertigo"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ramsay Hunt syndrome (Herpes Zoster Oticus) is caused by reactivation of latent Varicella Zoster Virus (VZV) in the geniculate ganglion of the facial nerve. It is characterized by: 1) Severe, burning otalgia, 2) Vesicular cutaneous eruption on the pinna, external canal, and anterior 2/3 of tongue (chorda tympani dermatome), 3) Lower motor neuron facial nerve palsy, and 4) Cochleovestibular symptoms (sensorineural hearing loss, tinnitus, vertigo) due to contiguous CN VIII involvement. Statement claiming family history in 90% is FALSE (it is viral reactivation, not genetic). Statement claiming vesicles on posterior 1/3 of tongue is FALSE (posterior 1/3 is CN IX, anterior 2/3 is CN VII). Prognosis is significantly WORSE than Bell's palsy (only ~20% complete recovery if untreated). Treatment requires immediate high-dose oral corticosteroids and oral valacyclovir/acyclovir. High-yield pearl: Ramsay Hunt Syndrome: VZV reactivation in geniculate ganglion. Triad: Severe ear pain + Vesicles in external canal/pinna + Lower motor neuron facial paralysis. Often has SNHL and vertigo (CN VIII). Worse prognosis than Bell's palsy. Treatment: Prednisone + Valacyclovir. Exam trap: Ramsay Hunt causes a LOWER motor neuron facial palsy, NEVER an upper motor neuron palsy.",
+      "optionExplanations": {
+        "A": "[Added] True of Ramsay Hunt syndrome, so not the answer: the prognosis is worse than Bell's palsy (source: only about 20% complete recovery if untreated).",
+        "B": "Correct (the exception). The posterior 1/3 of the tongue is CN IX territory; the vesicles involve the pinna, external canal and anterior 2/3 of the tongue.",
+        "C": "[Added] True, so not the answer: facial nerve (geniculate ganglion) involvement can reduce tearing and alter taste.",
+        "D": "[Added] True, so not the answer: contiguous CN VIII involvement can cause sensorineural hearing loss, tinnitus and vertigo."
+      },
+      "educationalObjective": "Recognize the clinical presentation, viral etiology, and poor prognosis of Ramsay Hunt syndrome compared to Bell's palsy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-213",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "All are true about Ramsay Hunt syndrome except:",
+      "options": {
+        "A": "Association with hearing loss, vertigo, and tinnitus",
+        "B": "Worse prognosis than Bell's palsy",
+        "C": "Family history in 90% of cases",
+        "D": "Decreased tearing or altered taste sensation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ramsay Hunt syndrome (Herpes Zoster Oticus) is caused by reactivation of latent Varicella Zoster Virus (VZV) in the geniculate ganglion of the facial nerve. It is characterized by: 1) Severe, burning otalgia, 2) Vesicular cutaneous eruption on the pinna, external canal, and anterior 2/3 of tongue (chorda tympani dermatome), 3) Lower motor neuron facial nerve palsy, and 4) Cochleovestibular symptoms (sensorineural hearing loss, tinnitus, vertigo) due to contiguous CN VIII involvement. Statement claiming family history in 90% is FALSE (it is viral reactivation, not genetic). Statement claiming vesicles on posterior 1/3 of tongue is FALSE (posterior 1/3 is CN IX, anterior 2/3 is CN VII). Prognosis is significantly WORSE than Bell's palsy (only ~20% complete recovery if untreated). Treatment requires immediate high-dose oral corticosteroids and oral valacyclovir/acyclovir. High-yield pearl: Ramsay Hunt Syndrome: VZV reactivation in geniculate ganglion. Triad: Severe ear pain + Vesicles in external canal/pinna + Lower motor neuron facial paralysis. Often has SNHL and vertigo (CN VIII). Worse prognosis than Bell's palsy. Treatment: Prednisone + Valacyclovir. Exam trap: Ramsay Hunt causes a LOWER motor neuron facial palsy, NEVER an upper motor neuron palsy.",
+      "optionExplanations": {
+        "A": "[Added] True, so not the answer: CN VIII involvement causes hearing loss, tinnitus and vertigo.",
+        "B": "[Added] True, so not the answer: the prognosis is worse than Bell's palsy.",
+        "C": "Correct (the exception). Ramsay Hunt syndrome is VZV reactivation, not a hereditary condition.",
+        "D": "[Added] True, so not the answer: facial nerve (geniculate ganglion) involvement can reduce tearing and alter taste."
+      },
+      "educationalObjective": "Recognize the clinical presentation, viral etiology, and poor prognosis of Ramsay Hunt syndrome compared to Bell's palsy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-214",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Which statement is true regarding axonotmesis (in facial nerve injury)?",
+      "options": {
+        "A": "Electrophysiologic studies yield evidence of complete nerve degeneration",
+        "B": "Characterized by both Wallerian degeneration and loss of endoneural tubules",
+        "C": "The nerve is viable and returns to normal function when the blockade is corrected",
+        "D": "Electrophysiologic testing reveals normal function",
+        "E": "Electrically, the nerve shows rapid and complete degeneration, with loss of voluntary motor units"
+      },
+      "correctAnswer": "E",
+      "explanation": "Under the Seddon/Sunderland classification of nerve trauma: In Axonotmesis (Class II), the axon is disrupted, leading to Wallerian degeneration distal to the injury site. However, the supporting connective tissue sheaths (endoneurium, perineurium, epineurium) remain intact. Electrophysiologically, the nerve exhibits complete denervation changes (fibrillations and loss of voluntary motor unit action potentials) after 48–72 hours. Because the endoneurial tubes remain continuous, axons can regenerate at a rate of 1 mm/day with excellent functional recovery. High-yield pearl: Nerve Injury Classification: Neuropraxia (Class I): Physiological conduction block, intact axons, complete rapid recovery. Axonotmesis (Class II): Axonal transection + Wallerian degeneration, INTACT endoneurium, regenerates ~1 mm/day. Neurotmesis (Class III-V): Complete nerve transection, disruption of sheaths, requires surgical repair. Exam trap: Electroneurography (ENoG) must be performed between days 3 and 14 after injury; earlier testing reflects false normal distal viability. [Source note: option A (complete degeneration on electrophysiologic testing) overlaps with the key, option E; the source key (E) is retained.]",
+      "optionExplanations": {
+        "A": "Electrophysiologic studies show loss of conduction distal to the lesion after Wallerian degeneration (48–72 hours), but nerve tubes remain intact.",
+        "B": "Loss of endoneurial tubules occurs in neurotmesis (Sunderland IV/V), not axonotmesis.",
+        "C": "Immediate return of function upon blockade correction describes neuropraxia (Class I), not axonotmesis.",
+        "D": "Normal electrophysiologic conduction distal to the lesion after 72 hours is seen in neuropraxia.",
+        "E": "Correct per source key. In axonotmesis, electrophysiology shows complete degeneration with loss of voluntary motor units, while the endoneurial tubes stay intact."
+      },
+      "educationalObjective": "Differentiate axonotmesis from neuropraxia and neurotmesis based on histological integrity and electrophysiological findings.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-215",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "All are true regarding herpes zoster oticus except:",
+      "options": {
+        "A": "Vesicular rash located on the anterior 2/3 of the tongue",
+        "B": "Auricular pain is the first symptom to appear",
+        "C": "The second most common cause of lower facial nerve palsy after Bell's palsy",
+        "D": "Patients may have sensorineural hearing loss, tinnitus, and upper motor facial palsy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ramsay Hunt syndrome (Herpes Zoster Oticus) is caused by reactivation of latent Varicella Zoster Virus (VZV) in the geniculate ganglion of the facial nerve. It is characterized by: 1) Severe, burning otalgia, 2) Vesicular cutaneous eruption on the pinna, external canal, and anterior 2/3 of tongue (chorda tympani dermatome), 3) Lower motor neuron facial nerve palsy, and 4) Cochleovestibular symptoms (sensorineural hearing loss, tinnitus, vertigo) due to contiguous CN VIII involvement. Statement claiming family history in 90% is FALSE (it is viral reactivation, not genetic). Statement claiming vesicles on posterior 1/3 of tongue is FALSE (posterior 1/3 is CN IX, anterior 2/3 is CN VII). Prognosis is significantly WORSE than Bell's palsy (only ~20% complete recovery if untreated). Treatment requires immediate high-dose oral corticosteroids and oral valacyclovir/acyclovir. High-yield pearl: Ramsay Hunt Syndrome: VZV reactivation in geniculate ganglion. Triad: Severe ear pain + Vesicles in external canal/pinna + Lower motor neuron facial paralysis. Often has SNHL and vertigo (CN VIII). Worse prognosis than Bell's palsy. Treatment: Prednisone + Valacyclovir. Exam trap: Ramsay Hunt causes a LOWER motor neuron facial palsy, NEVER an upper motor neuron palsy.",
+      "optionExplanations": {
+        "A": "[Added] True, so not the answer: vesicles can occur on the anterior 2/3 of the tongue (CN VII territory).",
+        "B": "[Added] True, so not the answer: severe ear pain typically precedes the rash and the facial palsy.",
+        "C": "[Added] True, so not the answer: herpes zoster oticus is the second most common cause of lower motor neuron facial palsy after Bell's palsy.",
+        "D": "Correct (the exception). The facial palsy in herpes zoster oticus is lower motor neuron, not upper motor neuron."
+      },
+      "educationalObjective": "Recognize the clinical presentation, viral etiology, and poor prognosis of Ramsay Hunt syndrome compared to Bell's palsy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-216",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Regarding the facial nerve, the general visceral efferent (parasympathetic) branches supply all except:",
+      "options": {
+        "A": "Lacrimal glands",
+        "B": "Sublingual salivary glands",
+        "C": "Submandibular salivary glands",
+        "D": "Mucous membranes of the nose",
+        "E": "Salivary glands"
+      },
+      "correctAnswer": "E",
+      "explanation": "The facial nerve (CN VII) provides general visceral efferent (parasympathetic) secretomotor supply to all head and neck glands EXCEPT the PAROTID GLAND. Preganglionic parasympathetic fibers from the superior salivatory nucleus travel via: 1) Greater petrosal nerve -> Pterygopalatine ganglion -> Lacrimal gland and nasal/palatine seromucinous glands; and 2) Chorda tympani -> Submandibular ganglion -> Submandibular and Sublingual salivary glands. The PAROTID GLAND is innervated parasympathetically by the GLOSSOPHARYNGEAL NERVE (CN IX) via the lesser petrosal nerve and otic ganglion. High-yield pearl: Parasympathetic Head Innervation: CN VII supplies Lacrimal, Submandibular, Sublingual, and Nasal glands. CN IX supplies the PAROTID gland (via Otic ganglion and auriculotemporal nerve). Exam trap: Frey's syndrome (gustatory sweating) occurs when severed auriculotemporal parasympathetic fibers (CN IX) misregenerate to sweat glands over the parotid. [Source note: option E ('Salivary glands') is too broad as worded, since CN VII supplies the submandibular and sublingual salivary glands; the source rationale indicates the parotid gland is the intended exception.]",
+      "optionExplanations": {
+        "A": "Lacrimal glands are innervated by CN VII via the greater petrosal nerve and pterygopalatine ganglion.",
+        "B": "Sublingual glands are innervated by CN VII via the chorda tympani.",
+        "C": "Submandibular glands are innervated by CN VII via the chorda tympani and submandibular ganglion.",
+        "D": "[Added] Nasal and palatine seromucinous glands are supplied by CN VII via the greater petrosal nerve and pterygopalatine ganglion (source rationale), so this is not the exception.",
+        "E": "Marked correct by the source, which intends the parotid gland (supplied by CN IX); as worded ('Salivary glands') it is ambiguous because CN VII supplies the submandibular and sublingual salivary glands."
+      },
+      "educationalObjective": "Identify the parotid gland as being innervated by CN IX rather than the facial nerve (CN VII).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-217",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "All of the following are true regarding Bell's palsy except:",
+      "options": {
+        "A": "Absence of signs of central nervous system disease",
+        "B": "It often follows a viral prodrome",
+        "C": "Sudden onset",
+        "D": "In 50% of patients with Bell's palsy, family history will be positive"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bell's palsy is an acute, unilateral peripheral lower motor neuron facial palsy of sudden onset (<72 hours), frequently preceded by a mild viral prodrome. There are characteristically NO central nervous system signs, and imaging is unremarkable. Statement D claiming a positive family history in 50% is FALSE; Bell's palsy is overwhelmingly a sporadic condition (familial cases account for < 4–8%). High-yield pearl: Bell's Palsy: Acute unilateral lower motor neuron facial paralysis. Complete recovery occurs in >80–85% of patients with early oral corticosteroid therapy. Eye care (lubricating drops, night tape) is paramount to prevent corneal ulceration. Exam trap: The most critical clinical risk in facial palsy is corneal exposure keratitis and blindness; always prescribe daytime artificial tears and nighttime eye taping!",
+      "optionExplanations": {
+        "A": "True: Absence of other CNS cranial neuropathies is essential to diagnose Bell's palsy.",
+        "B": "True: A mild viral prodrome occurs in ~60% of patients.",
+        "C": "True: Onset is rapid and peaks within 48–72 hours.",
+        "D": "Correct (the exception). Bell's palsy is overwhelmingly sporadic; familial cases account for under about 4-8%."
+      },
+      "educationalObjective": "Identify the clinical characteristics of Bell's palsy and recognize that it is a sporadic condition.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-218",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Which syndrome can present with congenital facial nerve paralysis?",
+      "options": {
+        "A": "Moloney syndrome",
+        "B": "Moebius syndrome",
+        "C": "Triple X syndrome",
+        "D": "Down syndrome",
+        "E": "CHARGE syndrome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moebius syndrome is a rare congenital neurodevelopmental disorder characterized by congenital, non-progressive bilateral (or unilateral) facial nerve (CN VII) and abducens nerve (CN VI) paralysis. It results from hypoplasia or agenesis of the cranial nerve nuclei in the brainstem. Infants present with mask-like facies (inability to smile or frown), incomplete eye closure, convergent strabismus, and feeding difficulties. High-yield pearl: Moebius Syndrome: Congenital bilateral facial paralysis (CN VII) + Abducens paralysis (CN VI). Mask-like facies, inability to smile or close eyes, impaired lateral gaze. Exam trap: Traumatic neonatal facial palsy (forceps delivery) is unilateral and shows recovery over months; Moebius syndrome is bilateral, congenital, and permanent.",
+      "optionExplanations": {
+        "A": "Moloney syndrome is not an established neurotologic entity.",
+        "B": "Correct. Moebius syndrome causes congenital, non-progressive facial (CN VII) and abducens (CN VI) palsy.",
+        "C": "Triple X syndrome causes mild neurodevelopmental delay, not isolated cranial nerve aplasia.",
+        "D": "Down syndrome (Trisomy 21) is associated with hypotonia and cardiac defects, not primary CN VI/VII nuclear agenesis.",
+        "E": "CHARGE syndrome features Coloboma, Heart defects, Atresia choanae, Retardation, Genital/Ear anomalies."
+      },
+      "educationalObjective": "Associate congenital facial and abducens nerve paralysis with Moebius syndrome.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-219",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Which is not a line of treatment for Ramsay Hunt syndrome?",
+      "options": {
+        "A": "Avoid water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ramsay Hunt syndrome (Herpes Zoster Oticus) is caused by reactivation of latent Varicella Zoster Virus (VZV) in the geniculate ganglion of the facial nerve. It is characterized by: 1) Severe, burning otalgia, 2) Vesicular cutaneous eruption on the pinna, external canal, and anterior 2/3 of tongue (chorda tympani dermatome), 3) Lower motor neuron facial nerve palsy, and 4) Cochleovestibular symptoms (sensorineural hearing loss, tinnitus, vertigo) due to contiguous CN VIII involvement. Statement claiming family history in 90% is FALSE (it is viral reactivation, not genetic). Statement claiming vesicles on posterior 1/3 of tongue is FALSE (posterior 1/3 is CN IX, anterior 2/3 is CN VII). Prognosis is significantly WORSE than Bell's palsy (only ~20% complete recovery if untreated). Treatment requires immediate high-dose oral corticosteroids and oral valacyclovir/acyclovir. High-yield pearl: Ramsay Hunt Syndrome: VZV reactivation in geniculate ganglion. Triad: Severe ear pain + Vesicles in external canal/pinna + Lower motor neuron facial paralysis. Often has SNHL and vertigo (CN VIII). Worse prognosis than Bell's palsy. Treatment: Prednisone + Valacyclovir. Exam trap: Ramsay Hunt causes a LOWER motor neuron facial palsy, NEVER an upper motor neuron palsy.",
+      "optionExplanations": {
+        "A": "Correct (not a treatment). Treatment is high-dose oral corticosteroids plus an oral antiviral (valacyclovir or acyclovir)."
+      },
+      "educationalObjective": "Recognize the clinical presentation, viral etiology, and poor prognosis of Ramsay Hunt syndrome compared to Bell's palsy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-220",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Regarding facial palsy in pregnancy, which statement is false?",
+      "options": {
+        "A": "Steroids can be given before the second trimester"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bell's palsy incidence is 3.3-fold higher in pregnant women, especially during the third trimester and immediate postpartum period, likely due to fluid retention, hypercoagulability, and estrogenic immune modulation. Statement A claiming steroids can be given before the second trimester is considered relatively FALSE in older guidelines because systemic corticosteroids in the first trimester carry a small but documented risk of fetal cleft palate. Corticosteroids are safely and routinely administered in the late second and third trimesters. High-yield pearl: Bell's Palsy in Pregnancy: 3-fold higher incidence, clustering in the 3rd trimester and early puerperium. Excellent overall recovery with standard postpartum tapering steroids. Exam trap: Preeclampsia must always be ruled out in a pregnant patient presenting with acute facial palsy and fluid retention. [Source note: the source itself calls this statement 'considered relatively FALSE in older guidelines'; treat the key as dated/uncertain and confirm with current guidance.]",
+      "optionExplanations": {
+        "A": "Correct (the false statement, per the source) because of the small documented risk of cleft palate with first-trimester systemic corticosteroids."
+      },
+      "educationalObjective": "Understand the clinical presentation and management considerations of facial nerve palsy during pregnancy.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-221",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "Regarding the facial nerve, the general visceral efferent (parasympathetic) branches supply all except:",
+      "options": {
+        "A": "Lacrimal glands",
+        "B": "Sublingual salivary glands",
+        "C": "Submandibular salivary glands",
+        "D": "Mucous membranes of the nose",
+        "E": "Parotid gland"
+      },
+      "correctAnswer": "E",
+      "explanation": "The facial nerve (CN VII) provides general visceral efferent (parasympathetic) secretomotor supply to all head and neck glands EXCEPT the PAROTID GLAND. Preganglionic parasympathetic fibers from the superior salivatory nucleus travel via: 1) Greater petrosal nerve -> Pterygopalatine ganglion -> Lacrimal gland and nasal/palatine seromucinous glands; and 2) Chorda tympani -> Submandibular ganglion -> Submandibular and Sublingual salivary glands. The PAROTID GLAND is innervated parasympathetically by the GLOSSOPHARYNGEAL NERVE (CN IX) via the lesser petrosal nerve and otic ganglion. High-yield pearl: Parasympathetic Head Innervation: CN VII supplies Lacrimal, Submandibular, Sublingual, and Nasal glands. CN IX supplies the PAROTID gland (via Otic ganglion and auriculotemporal nerve). Exam trap: Frey's syndrome (gustatory sweating) occurs when severed auriculotemporal parasympathetic fibers (CN IX) misregenerate to sweat glands over the parotid.",
+      "optionExplanations": {
+        "A": "Lacrimal glands are innervated by CN VII via the greater petrosal nerve and pterygopalatine ganglion.",
+        "B": "Sublingual glands are innervated by CN VII via the chorda tympani.",
+        "C": "Submandibular glands are innervated by CN VII via the chorda tympani and submandibular ganglion.",
+        "D": "[Added] Nasal and palatine seromucinous glands are supplied by CN VII via the greater petrosal nerve and pterygopalatine ganglion (source rationale), so this is not the exception.",
+        "E": "Correct (the exception). The parotid gland is supplied by CN IX, not by the facial nerve."
+      },
+      "educationalObjective": "Identify the parotid gland as being innervated by CN IX rather than the facial nerve (CN VII).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-222",
+      "topic": "ENT",
+      "section": "5. FACIAL NERVE & NEUROTOLOGY (LEC 8)",
+      "question": "The marginal mandibular branch of the facial nerve supplies all of the following except:",
+      "options": {
+        "A": "Lower orbicularis oris",
+        "B": "Mentalis",
+        "C": "Depressor anguli oris",
+        "D": "Lower orbicularis oculi"
+      },
+      "correctAnswer": "D",
+      "explanation": "After exiting the stylomastoid foramen, the facial nerve enters the parotid gland and branches into five major terminal motor divisions: Temporal (frontal), Zygomatic, Buccal, Marginal Mandibular, and Cervical ('To Zanzibar By Motor Car'). The Marginal Mandibular branch innervates the muscles of the lower lip: depressor anguli oris, depressor labii inferioris, and mentalis, and the lower part of orbicularis oris. The LOWER ORBICULARIS OCULI is innervated by the ZYGOMATIC and BUCCAL branches, NOT the marginal mandibular branch. High-yield pearl: Marginal Mandibular Nerve: Runs along or 1–2 cm below the inferior border of the mandible. Deep to platysma, superficial to facial vessels. Supplies lower lip depressors. Injury causes 'asymmetric smile' with inability to depress the lower lip. Exam trap: Incisions in the submandibular triangle (e.g., for submandibular gland excision) must be placed at least 2 cm below the inferior mandibular border to avoid transecting the marginal mandibular nerve.",
+      "optionExplanations": {
+        "A": "Lower orbicularis oris receives fibers from the marginal mandibular branch.",
+        "B": "Mentalis is innervated by the marginal mandibular branch.",
+        "C": "Depressor anguli oris is innervated by the marginal mandibular branch.",
+        "D": "Correct (the exception). The lower orbicularis oculi is supplied by the zygomatic and buccal branches."
+      },
+      "educationalObjective": "Identify the muscular innervation of the marginal mandibular nerve and recognize that orbicularis oculi is supplied by the zygomatic branch.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-223",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "An 18-year-old Chinese patient presents with unilateral middle ear effusion and loud tinnitus. He has a history of recurrent tonsillitis. What is the most appropriate next step in management?",
+      "options": {
+        "A": "MRI",
+        "B": "CT",
+        "C": "Nasoendoscopy",
+        "D": "Tympanostomy"
+      },
+      "correctAnswer": "C",
+      "explanation": "In an adult—particularly of southern Chinese, East Asian, or North African descent—presenting with new-onset unilateral middle ear effusion (glue ear), aural fullness, and loud tinnitus, nasopharyngeal carcinoma (NPC) must be ruled out immediately. NPC characteristically arises from the fossa of Rosenmüller (posterolateral pharyngeal recess) and infiltrates the Eustachian tube. The mandatory next diagnostic step is diagnostic nasoendoscopy (flexible fiberoptic examination of the nasopharynx) to directly visualize the fossa of Rosenmüller and obtain a biopsy. High-yield pearl: Adult with UNILATERAL Otitis Media with Effusion: Rule out Nasopharyngeal Carcinoma! Triad: Unilateral conductive hearing loss/OME + Neck mass (Level II/V) + Epistaxis. Strongly linked to Epstein-Barr Virus (EBV). Initial step: Flexible Nasopharyngoscopy. Exam trap: Never place a grommet in an adult with unilateral glue ear without first examining the nasopharynx to exclude NPC!",
+      "optionExplanations": {
+        "A": "MRI provides excellent local staging and skull base assessment, but direct endoscopic visualization and biopsy is the mandatory first step.",
+        "B": "CT evaluates bony erosion, but direct visual examination via nasoendoscopy is the immediate priority.",
+        "C": "Correct. Nasoendoscopy with biopsy is needed first to exclude nasopharyngeal carcinoma.",
+        "D": "Tympanostomy tube placement treats the middle ear fluid symptomatically, but placing a tube without inspecting the nasopharynx constitutes dangerous medical malpractice."
+      },
+      "educationalObjective": "Recommend immediate nasoendoscopy for an adult presenting with unilateral middle ear effusion to rule out nasopharyngeal carcinoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-224",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Trotter's triad includes all of the following except:",
+      "options": {
+        "A": "Sensorineural hearing loss",
+        "B": "Otitis media with effusion",
+        "C": "Neuralgia",
+        "D": "Neck mass",
+        "E": "Fixed soft palate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Trotter's triad is the classical triad of symptoms produced by locally invasive nasopharyngeal carcinoma extending through the sinus of Morgagni to involve the infratemporal fossa and skull base. It consists of: 1) Conductive hearing loss (due to Eustachian tube compression / middle ear effusion); 2) Immobility / asymmetry of the ipsilateral soft palate (due to infiltration of the levator veli palatini muscle); and 3) Ipsilateral facial/mandibular neuralgia or temporoparietal pain in the distribution of the mandibular nerve (CN V3). SENSORINEURAL hearing loss is NOT part of Trotter's triad (the hearing loss is purely conductive). High-yield pearl: Trotter's Triad of Nasopharyngeal Carcinoma: 1) Conductive Hearing Loss / OME (Eustachian tube obstruction); 2) Palatal Immobility (Levator veli palatini invasion); 3) Neuralgia of CN V3 (Mandibular nerve involvement). SNHL is absent! Exam trap: Hearing loss in Trotter's triad is CONDUCTIVE (due to glue ear), never sensorineural. [Source note - possible second correct answer: 'neck mass' (option D) is also not one of the three classic components of Trotter's triad; the source key (A) is retained.]",
+      "optionExplanations": {
+        "A": "Correct (the exception). The hearing loss in Trotter's triad is conductive, never sensorineural.",
+        "B": "Otitis media with effusion (conductive hearing loss) is Arm 1 of Trotter's triad.",
+        "C": "Neuralgia in the mandibular nerve (CN V3) distribution is Arm 2 of Trotter's triad.",
+        "D": "Neck mass is a common associated metastatic finding in NPC.",
+        "E": "Fixed soft palate (palatal immobility) is Arm 3 of Trotter's triad."
+      },
+      "educationalObjective": "Recall the components of Trotter's triad and recognize that sensorineural hearing loss is not a component.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-225",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "What is the most common histological type of laryngeal cancer?",
+      "options": {
+        "A": "Adenocarcinoma",
+        "B": "Basal cell carcinoma",
+        "C": "Squamous cell carcinoma",
+        "D": "Melanoma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Squamous cell carcinoma (SCC) is by far the most common histological type of head and neck cancer, accounting for >90–95% of all malignant neoplasms of the oral cavity, pharynx, and larynx. It arises from the mucosal stratified squamous epithelium, strongly associated with tobacco use, alcohol abuse, and high-risk oncogenic HPV (especially HPV 16 in the oropharynx) and EBV (in the nasopharynx). High-yield pearl: Head & Neck Malignancies: >90% Squamous Cell Carcinoma (SCC). Mucosal origin, linked to Tobacco + Alcohol (synergistic) and HPV-16 (Oropharynx: base of tongue, tonsils). Exam trap: HPV-positive oropharyngeal SCC has a significantly BETTER overall prognosis and response to chemoradiotherapy than HPV-negative (smoking-related) SCC.",
+      "optionExplanations": {
+        "A": "Adenocarcinoma accounts for < 2–3% of head and neck cancers, typically arising in minor salivary glands or sinonasal ethmoidal mucosa (associated with wood-dust exposure).",
+        "B": "Basal cell carcinoma is the most common cutaneous cancer of the face/head/neck skin, but does not arise from mucosal aerodigestive surfaces.",
+        "C": "Correct. Squamous cell carcinoma accounts for more than 90-95% of mucosal head and neck malignancies.",
+        "D": "Mucosal melanoma is an extremely rare, highly aggressive malignancy accounting for < 1% of sinonasal tumors."
+      },
+      "educationalObjective": "Identify squamous cell carcinoma as the most common histological type of head and neck and laryngeal cancer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-226",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Correct about juvenile angiofibroma:",
+      "options": {
+        "A": "Recurrent episodes of epistaxis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a histologically benign but locally aggressive, non-encapsulated, highly vascular tumor that occurs ALMOST EXCLUSIVELY IN ADOLESCENT MALES (typically aged 14–18 years; statement claiming incidence in males equals females is FALSE). It originates near the sphenopalatine foramen. The classic clinical presentation is recurrent, unprovoked, severe EPISTAXIS accompanied by progressive unilateral nasal obstruction. Its primary blood supply is derived from the internal maxillary artery (sphenopalatine branch). Surgical resection is the first-line definitive treatment, routinely preceded by preoperative transcatheter angiographic embolization within 24–48 hours to minimize intraoperative blood loss. High-yield pearl: Juvenile Nasopharyngeal Angiofibroma (JNA): Adolescent MALE + Recurrent severe epistaxis + Nasal obstruction. Origin: Sphenopalatine foramen. Blood supply: Internal Maxillary Artery. Management: Angiography + Embolization -> Endoscopic surgical resection. DO NOT BIOPSY in outpatient clinic! Exam trap: Never biopsy a suspected JNA in an outpatient setting; massive life-threatening hemorrhage will occur.",
+      "optionExplanations": {
+        "A": "Correct. Recurrent severe epistaxis with nasal obstruction is the classic presentation of JNA."
+      },
+      "educationalObjective": "Recognize juvenile nasopharyngeal angiofibroma as an androgen-dependent vascular tumor of adolescent males presenting with severe epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-227",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Most common site for head and neck cancer:",
+      "options": {
+        "A": "Oral cavity",
+        "B": "Nasopharynx",
+        "C": "Oropharynx",
+        "D": "Larynx"
+      },
+      "correctAnswer": "A",
+      "explanation": "Globally and in clinical oncology epidemiology, the ORAL CAVITY (specifically the oral tongue, floor of mouth, and lower lip) is the most common anatomical site for head and neck squamous cell carcinoma, driven by heavy tobacco use, alcohol, and betel nut / gutka chewing in endemic regions. Laryngeal cancer is the second most common site. High-yield pearl: Head & Neck Cancer Sites: Oral Cavity is the most common site globally (tongue, floor of mouth). Oropharynx is rising due to HPV. Larynx is strongly linked to smoking. Exam trap: Oral tongue and floor of mouth cancers have higher risk of occult lymph node metastasis compared to hard palate or lip lesions.",
+      "optionExplanations": {
+        "A": "Correct per source. The oral cavity is the most common site of head and neck cancer; the larynx is second.",
+        "B": "Nasopharynx has high incidence in southern China and North Africa, but is less common globally than the oral cavity.",
+        "C": "Oropharynx is rising rapidly due to HPV, but historically oral cavity is the most common site.",
+        "D": "Larynx is the second most common site overall."
+      },
+      "educationalObjective": "Identify the oral cavity as the most common anatomical site for head and neck cancer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-228",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement is false about juvenile nasopharyngeal angiofibroma (JNA)?",
+      "options": {
+        "A": "Incidence in males equals females"
+      },
+      "correctAnswer": "A",
+      "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a histologically benign but locally aggressive, non-encapsulated, highly vascular tumor that occurs ALMOST EXCLUSIVELY IN ADOLESCENT MALES (typically aged 14–18 years; statement claiming incidence in males equals females is FALSE). It originates near the sphenopalatine foramen. The classic clinical presentation is recurrent, unprovoked, severe EPISTAXIS accompanied by progressive unilateral nasal obstruction. Its primary blood supply is derived from the internal maxillary artery (sphenopalatine branch). Surgical resection is the first-line definitive treatment, routinely preceded by preoperative transcatheter angiographic embolization within 24–48 hours to minimize intraoperative blood loss. High-yield pearl: Juvenile Nasopharyngeal Angiofibroma (JNA): Adolescent MALE + Recurrent severe epistaxis + Nasal obstruction. Origin: Sphenopalatine foramen. Blood supply: Internal Maxillary Artery. Management: Angiography + Embolization -> Endoscopic surgical resection. DO NOT BIOPSY in outpatient clinic! Exam trap: Never biopsy a suspected JNA in an outpatient setting; massive life-threatening hemorrhage will occur.",
+      "optionExplanations": {
+        "A": "Correct (this is the false statement). JNA occurs almost exclusively in adolescent males."
+      },
+      "educationalObjective": "Recognize juvenile nasopharyngeal angiofibroma as an androgen-dependent vascular tumor of adolescent males presenting with severe epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-229",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common malignant oropharyngeal tumor is:",
+      "options": {
+        "A": "Squamous cell carcinoma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Squamous cell carcinoma (SCC) accounts for >90% of all malignant oropharyngeal tumors. Within the oropharynx (defined as base of tongue, palatine tonsils, soft palate, and posterior pharyngeal wall), the PALATINE TONSIL is the single MOST COMMON SUB-SITE (accounting for ~50–60% of cases), followed closely by the base of the tongue. HPV-16 is responsible for over 70–80% of oropharyngeal SCC in non-smokers. High-yield pearl: Oropharyngeal Cancer: Most common site = PALATINE TONSIL (Level II lymph node metastasis is very common). Most common histology = Squamous Cell Carcinoma (>90%). Primary driver = HPV-16 (p16-positive on immunohistochemistry). Exam trap: An asymptomatic adult presenting with a solitary, painless neck mass (Level II) most commonly has an occult, primary tonsillar or base-of-tongue SCC.",
+      "optionExplanations": {
+        "A": "Correct. Squamous cell carcinoma accounts for more than 90% of malignant oropharyngeal tumors."
+      },
+      "educationalObjective": "Identify the palatine tonsil as the most common site of oropharyngeal cancer and squamous cell carcinoma as the primary histology.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-230",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common site of hypopharyngeal tumor is:",
+      "options": {
+        "A": "Pyriform sinus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hypopharynx consists of three anatomical regions: 1) The paired piriform sinuses (lateral to the larynx); 2) The postcricoid area (pharyngoesophageal junction); and 3) The posterior hypopharyngeal wall. The PYRIFORM SINUS is by far the MOST COMMON SITE of hypopharyngeal cancer, accounting for approximately 65% to 75% of all hypopharyngeal carcinomas. Hypopharyngeal tumors have the worst overall prognosis of all head and neck malignancies because they remain clinically silent until presenting with advanced stage III/IV disease and extensive cervical lymph node metastases. High-yield pearl: Hypopharyngeal Carcinoma: Most common site = PYRIFORM SINUS (65–75%). Worst prognosis among head and neck cancers due to late diagnosis and early submucosal spread. High incidence of bilateral nodal metastasis. Exam trap: Tumors in the piriform sinus present with mild throat discomfort, foreign body sensation, or referred otalgia (via CN X) while already harboring large necrotic cervical lymph nodes.",
+      "optionExplanations": {
+        "A": "Correct. The piriform sinus accounts for about 65-75% of hypopharyngeal carcinomas."
+      },
+      "educationalObjective": "Identify the pyriform sinus as the most common site of hypopharyngeal tumors.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-231",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common cause of a neck mass in the elderly is:",
+      "options": {
+        "A": "Metastasis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The differential diagnosis of a neck mass depends fundamentally on patient age: 1) In CHILDREN (< 20 years old), the most common cause is inflammatory/reactive lymphadenopathy (reactive lymph node secondary to viral/bacterial URI), followed by congenital anomalies (thyroglossal duct cyst, branchial cleft cyst). 2) In the ELDERLY and adults (> 40 years old), the 'Rule of 80s' applies: 80% of persistent non-thyroid neck masses are MALIGNANT, and 80% of those are METASTATIC squamous cell carcinoma (predominantly from an occult primary in the oral cavity, tonsil, base of tongue, or hypopharynx). 3) Across all age groups combined, LYMPHADENOPATHY (benign, reactive, or malignant) is the most common overall cause of a neck mass. High-yield pearl: Neck Mass 'Rule of 80s' in Adults > 40: 80% of persistent solid non-thyroid neck masses are Neoplastic; 80% of those are Malignant; 80% of those are Metastatic SCC (Level II/III from Waldeyer's ring/hypopharynx). Pediatric neck mass: Most common = Reactive lymphadenitis; Most common congenital = Thyroglossal duct cyst. Exam trap: NEVER perform an open excisional biopsy of an adult neck mass in the office without first performing FNA and panendoscopy; open biopsy violates tissue planes and worsens survival if it is metastatic SCC!",
+      "optionExplanations": {
+        "A": "Correct. In adults over 40, a persistent neck mass is most often metastatic squamous cell carcinoma ('rule of 80s')."
+      },
+      "educationalObjective": "Differentiate the most common etiologies of neck masses based on age: reactive lymphadenopathy in children versus metastatic carcinoma in the elderly.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-232",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common cause of a neck mass in children is:",
+      "options": {
+        "A": "Reactive lymph node"
+      },
+      "correctAnswer": "A",
+      "explanation": "The differential diagnosis of a neck mass depends fundamentally on patient age: 1) In CHILDREN (< 20 years old), the most common cause is inflammatory/reactive lymphadenopathy (reactive lymph node secondary to viral/bacterial URI), followed by congenital anomalies (thyroglossal duct cyst, branchial cleft cyst). 2) In the ELDERLY and adults (> 40 years old), the 'Rule of 80s' applies: 80% of persistent non-thyroid neck masses are MALIGNANT, and 80% of those are METASTATIC squamous cell carcinoma (predominantly from an occult primary in the oral cavity, tonsil, base of tongue, or hypopharynx). 3) Across all age groups combined, LYMPHADENOPATHY (benign, reactive, or malignant) is the most common overall cause of a neck mass. High-yield pearl: Neck Mass 'Rule of 80s' in Adults > 40: 80% of persistent solid non-thyroid neck masses are Neoplastic; 80% of those are Malignant; 80% of those are Metastatic SCC (Level II/III from Waldeyer's ring/hypopharynx). Pediatric neck mass: Most common = Reactive lymphadenitis; Most common congenital = Thyroglossal duct cyst. Exam trap: NEVER perform an open excisional biopsy of an adult neck mass in the office without first performing FNA and panendoscopy; open biopsy violates tissue planes and worsens survival if it is metastatic SCC!",
+      "optionExplanations": {
+        "A": "Correct. In children the most common cause of a neck mass is a reactive lymph node."
+      },
+      "educationalObjective": "Differentiate the most common etiologies of neck masses based on age: reactive lymphadenopathy in children versus metastatic carcinoma in the elderly.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-233",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement is true regarding supraglottic tumors?",
+      "options": {
+        "A": "Nodal metastases occur early",
+        "B": "Most lesions are seen on the epiglottis and false cord",
+        "C": "The usual presentation is hoarseness of voice",
+        "D": "Less frequent than glottic cancer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Supraglottic laryngeal cancer (involving the epiglottis, false vocal cords, aryepiglottic folds, and arytenoids) is characterized by an extensive, bilateral submucosal lymphatic capillary network. Consequently, NODAL METASTASES OCCUR EARLY (found in 40–50% of patients at presentation), and bilateral or contralateral nodal spread is common. In contrast to glottic cancer (which presents early with hoarseness), supraglottic cancer does NOT cause early hoarseness; it presents with foreign body sensation, throat clearing, dysphagia, or an asymptomatic metastatic neck mass. High-yield pearl: Supraglottic vs Glottic Laryngeal Cancer: Glottic (60%): True vocal cords. Scanty lymphatics -> RARE early nodal metastasis. Presents early with HOARSENESS -> Excellent prognosis. Supraglottic (35%): False cords/epiglottis. Rich lymphatics -> EARLY CERVICAL METASTASIS (40–50%) -> Presents late with neck lump or referred ear pain. Exam trap: Do not expect hoarseness as an early symptom of supraglottic cancer; hoarseness appears only when the tumor extends inferiorly to fix the true vocal cords. [Source note - the source key contradicts the source's own rationale: the stem asks which statement is TRUE, yet the rationale states that supraglottic cancer does not usually present with hoarseness and treats options A, B and D as true. The stem was probably meant to ask for the FALSE statement. The source key (C) is retained; verify before use.]",
+      "optionExplanations": {
+        "A": "[Added] True per the source rationale, so not the answer: nodal metastases occur early (40-50% at presentation) because of the rich bilateral lymphatic network.",
+        "B": "[Added] True per the source rationale, so not the answer: supraglottic tumors involve the epiglottis, false cords and aryepiglottic folds.",
+        "C": "Marked correct by the source, but the source rationale itself states that supraglottic cancer does not usually present with hoarseness; see the source note.",
+        "D": "[Added] True per the source pearl, so not the answer: glottic cancer is about 60% and supraglottic about 35% of laryngeal cancers."
+      },
+      "educationalObjective": "Identify early cervical lymph node metastasis as a hallmark feature and common presentation of supraglottic laryngeal cancer.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-234",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The worst prognosis for oropharyngeal tumors is associated with tumors arising from:",
+      "options": {
+        "A": "Posterior pharyngeal wall",
+        "B": "Tonsil",
+        "C": "Soft palate",
+        "D": "Base of the tongue"
+      },
+      "correctAnswer": "D",
+      "explanation": "Among oropharyngeal tumors, carcinoma arising from the BASE OF THE TONGUE (vallecula and posterior 1/3 of the tongue) has the POOREST PROGNOSIS. This unfavorable prognosis is due to: 1) Deep, silent infiltration into the intrinsic tongue musculature before detection, 2) Rich, bilateral lymphatic network leading to early bilateral cervical lymph node metastases in >70% of cases, and 3) Proximity to the neurovascular bundle and pre-epiglottic space, making complete surgical resection technically challenging. High-yield pearl: Oropharyngeal Cancer Prognosis by Site: Base of tongue has the worst prognosis due to late presentation, deep muscular invasion, and early bilateral Level II/III cervical metastases. Exam trap: Base of tongue tumors cannot be visualized on routine tongue blade exam; indirect mirror examination or flexible nasopharyngoscopy with tongue protrusion is required.",
+      "optionExplanations": {
+        "A": "Posterior pharyngeal wall tumors have poor outcomes, but base-of-tongue cancers have higher rates of occult deep muscular infiltration and bilateral nodal metastases.",
+        "B": "Tonsillar carcinoma is often HPV-positive with higher sensitivity to radiation and significantly better overall survival.",
+        "C": "Soft palate carcinoma is detected earlier due to visible mucosal ulceration and speech changes.",
+        "D": "Correct. Base of tongue carcinoma has the poorest prognosis among oropharyngeal subsites (silent deep infiltration and early bilateral nodal metastases)."
+      },
+      "educationalObjective": "Identify the base of the tongue as the oropharyngeal cancer subsite associated with the poorest prognosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-235",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "All of the following about thyroid follicular carcinoma are true except:",
+      "options": {
+        "A": "Second most common malignant tumor of the thyroid gland",
+        "B": "More common in elderly females",
+        "C": "Spreads mainly hematogenously",
+        "D": "FNA can differentiate between malignant and benign tumors"
+      },
+      "correctAnswer": "D",
+      "explanation": "Statement D is FALSE because Fine Needle Aspiration (FNA) cytology CANNOT differentiate between a benign follicular adenoma and a malignant follicular carcinoma. FNA evaluates only cellular cytomorphology; the definitive diagnosis of follicular carcinoma requires histological demonstration of CAPSULAR INVASION or VASCULAR INVASION, which can only be assessed on permanent histological sections of the resected thyroid lobe (hemithyroidectomy/lobectomy). Follicular carcinoma is the second most common thyroid cancer, occurs more in older females, and characteristically spreads hematogenously (to bone and lungs). High-yield pearl: Follicular Thyroid Carcinoma: Capsular or vascular invasion is REQUIRED for diagnosis. FNA yields 'follicular neoplasm' but cannot differentiate adenoma from carcinoma. Treatment: Diagnostic lobectomy/hemithyroidectomy. Spreads hematogenously (bones, lungs). Exam trap: Never answer 'FNA confirms follicular thyroid carcinoma'; FNA only reports a 'follicular lesion of undetermined significance (FLUS)' or 'follicular neoplasm'.",
+      "optionExplanations": {
+        "A": "True: Follicular carcinoma is the second most common thyroid malignancy (~10–15%), after papillary carcinoma (~80–85%).",
+        "B": "True: More prevalent in females and peaks at an older age (40s–60s) than papillary carcinoma.",
+        "C": "True: It characteristically spreads hematogenously to bones, lungs, and liver, whereas papillary spreads lymphatically.",
+        "D": "Correct (this is the false statement). FNA cannot distinguish follicular adenoma from carcinoma; capsular or vascular invasion must be shown histologically."
+      },
+      "educationalObjective": "Understand that fine needle aspiration cannot distinguish follicular adenoma from follicular carcinoma because capsular or vascular invasion must be demonstrated histologically.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-236",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common congenital neck mass is:",
+      "options": {
+        "A": "Thyroglossal duct cyst"
+      },
+      "correctAnswer": "A",
+      "explanation": "Thyroglossal duct cyst is the MOST COMMON CONGENITAL NECK MASS, accounting for approximately 70% of all congenital neck anomalies. It results from incomplete obliteration of the embryologic thyroglossal duct during thyroid migration from the foramen cecum at the base of the tongue to the lower anterior neck. It classically presents as a painless, smooth, fluctuant MIDLINE cystic neck mass (most commonly adjacent to the hyoid bone) that CHARACTERISTICALLY MOVES UPWARD WITH DEGLUTITION (SWALLOWING) AND TONGUE PROTRUSION (due to its attachment to the foramen cecum via the hyoid bone). Definitive treatment is the Sistrunk procedure. High-yield pearl: Thyroglossal Duct Cyst: Most common congenital neck mass (~70%). Midline, near hyoid bone. Classic physical sign: Moves UPWARD with tongue protrusion and swallowing! Treatment: Sistrunk procedure (excision of cyst, tract, and central body of hyoid bone). Exam trap: Always confirm the presence of normal thyroid tissue in the lower neck with ultrasound prior to excision; in 1–2% of patients, the 'cyst' is their only ectopic functioning thyroid tissue!",
+      "optionExplanations": {
+        "A": "Correct. Thyroglossal duct cyst is the most common congenital neck mass; it moves up with swallowing and tongue protrusion."
+      },
+      "educationalObjective": "Identify thyroglossal duct cyst as the most common congenital neck mass and recognize its movement with tongue protrusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-237",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Referred otalgia from tonsillar cancer is transmitted through:",
+      "options": {
+        "A": "The maxillary division of the trigeminal nerve (V2)",
+        "B": "The hypoglossal nerve",
+        "C": "The mandibular division of the trigeminal nerve (V3)",
+        "D": "The glossopharyngeal nerve (CN IX)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Referred otalgia (ear pain with a completely normal otoscopic ear exam) is a classic warning sign of head and neck cancer. Tumors of the tonsil, base of tongue, and soft palate refer pain to the ipsilateral ear via the GLOSSOPHARYNGEAL NERVE (CN IX). Sensory branches from the tonsillar bed travel along CN IX, which shares the tympanic nerve of Jacobson (a branch of CN IX that innervates the medial surface of the tympanic membrane and middle ear cavity). High-yield pearl: Referred Otalgia Pathways: CN IX (Jacobson's nerve) = Tonsils, base of tongue, oropharynx. CN X (Arnold's nerve) = Hypopharynx, larynx, esophagus. CN V3 (Auriculotemporal) = TMJ, lower teeth, anterior tongue. C2–C3 (Greater auricular) = Cervical spine. Exam trap: An adult smoker with unilateral ear pain and normal otoscopy MUST have a thorough fiberoptic laryngoscopy of the oropharynx, base of tongue, and hypopharynx to rule out cancer.",
+      "optionExplanations": {
+        "A": "Maxillary division of trigeminal (V2) refers pain to the temple or cheek, not primarily the ear.",
+        "B": "Hypoglossal nerve (CN XII) is purely motor to tongue musculature; it has no sensory pathways for pain.",
+        "C": "Mandibular division (V3) refers pain from the lower teeth, floor of mouth, and TMJ via the auriculotemporal nerve.",
+        "D": "Correct. Tonsillar sensation travels via CN IX (Jacobson's nerve), which refers pain to the ear."
+      },
+      "educationalObjective": "Explain the neurological mechanism of referred otalgia from tonsillar cancer via the glossopharyngeal nerve (CN IX).",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-238",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement is true regarding oral cavity tumors?",
+      "options": {
+        "A": "Lower lip tumors have a poorer prognosis than upper lip tumors",
+        "B": "The upper lip has bilateral lymphatic drainage into level I nodal groups",
+        "C": "The buccal mucosa is the most common site for verrucous carcinoma",
+        "D": "Basal cell carcinoma is more common on the lower lip"
+      },
+      "correctAnswer": "C",
+      "explanation": "Verrucous carcinoma (Ackerman's tumor) is a distinct, low-grade, well-differentiated variant of squamous cell carcinoma characterized by an exophytic, warty, cauliflower-like appearance ('snuff dipper's cancer'). The BUCCAL MUCOSA and lower gingiva are by far the MOST COMMON SITES of occurrence, strongly linked to smokeless chewing tobacco (snuff). Histologically, it displays bulbous, pushing rete pegs without true infiltrative destructive margins, and regional lymph node metastases are exceedingly rare. High-yield pearl: Verrucous Carcinoma (Ackerman's Tumor): Exophytic, warty, cauliflower lesion of the buccal mucosa/gingiva in smokeless tobacco chewers. Locally aggressive with pushing borders, but RARELY metastasizes. Treatment: Wide surgical excision. Radiotherapy is contraindicated due to risk of anaplastic transformation. Exam trap: Do not radiate verrucous carcinoma; radiation can induce dedifferentiation into a highly aggressive, high-grade anaplastic spindle cell carcinoma.",
+      "optionExplanations": {
+        "A": "Lower lip squamous cell carcinoma has a significantly BETTER prognosis than upper lip lesions (upper lip has richer lymphatics and higher metastatic rate).",
+        "B": "The lower lip has bilateral drainage across the midline; the upper lip drains predominantly to ipsilateral Level I/preauricular nodes.",
+        "C": "Correct. The buccal mucosa (and lower gingiva) is the most common site of verrucous carcinoma.",
+        "D": "Squamous cell carcinoma is the predominant cancer of the lower lip; basal cell carcinoma is more common on the skin of the upper lip."
+      },
+      "educationalObjective": "Identify the buccal mucosa as the most common anatomical site for oral verrucous carcinoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-239",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common cause of a neck mass is:",
+      "options": {
+        "A": "Lymphadenopathy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The differential diagnosis of a neck mass depends fundamentally on patient age: 1) In CHILDREN (< 20 years old), the most common cause is inflammatory/reactive lymphadenopathy (reactive lymph node secondary to viral/bacterial URI), followed by congenital anomalies (thyroglossal duct cyst, branchial cleft cyst). 2) In the ELDERLY and adults (> 40 years old), the 'Rule of 80s' applies: 80% of persistent non-thyroid neck masses are MALIGNANT, and 80% of those are METASTATIC squamous cell carcinoma (predominantly from an occult primary in the oral cavity, tonsil, base of tongue, or hypopharynx). 3) Across all age groups combined, LYMPHADENOPATHY (benign, reactive, or malignant) is the most common overall cause of a neck mass. High-yield pearl: Neck Mass 'Rule of 80s' in Adults > 40: 80% of persistent solid non-thyroid neck masses are Neoplastic; 80% of those are Malignant; 80% of those are Metastatic SCC (Level II/III from Waldeyer's ring/hypopharynx). Pediatric neck mass: Most common = Reactive lymphadenitis; Most common congenital = Thyroglossal duct cyst. Exam trap: NEVER perform an open excisional biopsy of an adult neck mass in the office without first performing FNA and panendoscopy; open biopsy violates tissue planes and worsens survival if it is metastatic SCC!",
+      "optionExplanations": {
+        "A": "Correct. Across all age groups combined, lymphadenopathy is the most common cause of a neck mass."
+      },
+      "educationalObjective": "Differentiate the most common etiologies of neck masses based on age: reactive lymphadenopathy in children versus metastatic carcinoma in the elderly.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-240",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement is wrong regarding the anterior neck triangle?",
+      "options": {
+        "A": "Bounded medially by the midline",
+        "B": "The submental triangle lies between the digastric muscles and the mandible",
+        "C": "Bounded superiorly by the mandible",
+        "D": "Bounded laterally by the sternocleidomastoid muscle",
+        "E": "Divided into smaller triangles by the inferior belly of the omohyoid muscle"
+      },
+      "correctAnswer": "E",
+      "explanation": "Statement E is WRONG (false) because the anterior neck triangle is subdivided into smaller triangles (carotid, muscular, submandibular, and submental) by the SUPERIOR belly of the omohyoid muscle (and the digastric muscle). The INFERIOR belly of the omohyoid muscle traverses the POSTERIOR neck triangle, dividing it into the occipital triangle and subclavian (supraclavicular) triangle. The anterior triangle is bounded medially by the anterior median line of the neck, laterally by the anterior border of the sternocleidomastoid muscle, and superiorly by the inferior border of the mandible. High-yield pearl: Neck Triangles & Omohyoid Muscle: Anterior Triangle: Subdivided by the SUPERIOR belly of the omohyoid (into Carotid and Muscular triangles). Posterior Triangle: Subdivided by the INFERIOR belly of the omohyoid (into Occipital and Supraclavicular triangles). Exam trap: Superior belly = Anterior triangle; Inferior belly = Posterior triangle.",
+      "optionExplanations": {
+        "A": "True: The anterior neck triangle is bounded medially by the anterior midline of the neck.",
+        "B": "True: The submental triangle is bounded laterally by the anterior bellies of the digastric muscles and superiorly by the mandible.",
+        "C": "True: Bounded superiorly by the lower border of the mandible.",
+        "D": "True: Bounded laterally/posteriorly by the anterior border of the sternocleidomastoid muscle.",
+        "E": "Correct (this is the false statement). The superior belly of the omohyoid subdivides the anterior triangle; the inferior belly crosses the posterior triangle."
+      },
+      "educationalObjective": "Identify the anatomical boundaries and subdivision of the anterior cervical triangle.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-241",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The vascular supply of juvenile nasopharyngeal angiofibroma (JNA) is primarily from:",
+      "options": {
+        "A": "Facial artery",
+        "B": "Ascending pharyngeal artery",
+        "C": "Anterior ethmoidal artery",
+        "D": "Internal maxillary artery"
+      },
+      "correctAnswer": "D",
+      "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a histologically benign but locally aggressive, non-encapsulated, highly vascular tumor that occurs ALMOST EXCLUSIVELY IN ADOLESCENT MALES (typically aged 14–18 years; statement claiming incidence in males equals females is FALSE). It originates near the sphenopalatine foramen. The classic clinical presentation is recurrent, unprovoked, severe EPISTAXIS accompanied by progressive unilateral nasal obstruction. Its primary blood supply is derived from the internal maxillary artery (sphenopalatine branch). Surgical resection is the first-line definitive treatment, routinely preceded by preoperative transcatheter angiographic embolization within 24–48 hours to minimize intraoperative blood loss. High-yield pearl: Juvenile Nasopharyngeal Angiofibroma (JNA): Adolescent MALE + Recurrent severe epistaxis + Nasal obstruction. Origin: Sphenopalatine foramen. Blood supply: Internal Maxillary Artery. Management: Angiography + Embolization -> Endoscopic surgical resection. DO NOT BIOPSY in outpatient clinic! Exam trap: Never biopsy a suspected JNA in an outpatient setting; massive life-threatening hemorrhage will occur.",
+      "optionExplanations": {
+        "A": "Facial artery provides minor collateral supply to the anterior nasal cavity.",
+        "B": "Ascending pharyngeal artery provides secondary collateral feeders to the skull base, but the primary feeder is the sphenopalatine / maxillary artery.",
+        "C": "Anterior ethmoidal artery (from ICA) may contribute collaterals if intracranial extension occurs, but is not the primary vessel.",
+        "D": "Correct. The internal maxillary (sphenopalatine) artery is the primary arterial supply of JNA."
+      },
+      "educationalObjective": "Recognize juvenile nasopharyngeal angiofibroma as an androgen-dependent vascular tumor of adolescent males presenting with severe epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-242",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement is true about juvenile nasopharyngeal angiofibroma?",
+      "options": {
+        "A": "A well-vascularized benign lesion typically occurring in adolescent females",
+        "B": "Surgical resection is considered first-line treatment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Juvenile nasopharyngeal angiofibroma (JNA) is a histologically benign but locally aggressive, non-encapsulated, highly vascular tumor that occurs ALMOST EXCLUSIVELY IN ADOLESCENT MALES (typically aged 14–18 years; statement claiming incidence in males equals females is FALSE). It originates near the sphenopalatine foramen. The classic clinical presentation is recurrent, unprovoked, severe EPISTAXIS accompanied by progressive unilateral nasal obstruction. Its primary blood supply is derived from the internal maxillary artery (sphenopalatine branch). Surgical resection is the first-line definitive treatment, routinely preceded by preoperative transcatheter angiographic embolization within 24–48 hours to minimize intraoperative blood loss. High-yield pearl: Juvenile Nasopharyngeal Angiofibroma (JNA): Adolescent MALE + Recurrent severe epistaxis + Nasal obstruction. Origin: Sphenopalatine foramen. Blood supply: Internal Maxillary Artery. Management: Angiography + Embolization -> Endoscopic surgical resection. DO NOT BIOPSY in outpatient clinic! Exam trap: Never biopsy a suspected JNA in an outpatient setting; massive life-threatening hemorrhage will occur.",
+      "optionExplanations": {
+        "A": "[Added] False: JNA occurs almost exclusively in adolescent males, not females.",
+        "B": "Correct. Surgical resection, usually after pre-operative embolization, is first-line treatment for JNA."
+      },
+      "educationalObjective": "Recognize juvenile nasopharyngeal angiofibroma as an androgen-dependent vascular tumor of adolescent males presenting with severe epistaxis.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-243",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "What is the most common site of oropharyngeal tumors?",
+      "options": {
+        "A": "Soft palate",
+        "B": "Posterior pharyngeal wall",
+        "C": "Base of the tongue",
+        "D": "Vallecula",
+        "E": "Tonsils"
+      },
+      "correctAnswer": "E",
+      "explanation": "Squamous cell carcinoma (SCC) accounts for >90% of all malignant oropharyngeal tumors. Within the oropharynx (defined as base of tongue, palatine tonsils, soft palate, and posterior pharyngeal wall), the PALATINE TONSIL is the single MOST COMMON SUB-SITE (accounting for ~50–60% of cases), followed closely by the base of the tongue. HPV-16 is responsible for over 70–80% of oropharyngeal SCC in non-smokers. High-yield pearl: Oropharyngeal Cancer: Most common site = PALATINE TONSIL (Level II lymph node metastasis is very common). Most common histology = Squamous Cell Carcinoma (>90%). Primary driver = HPV-16 (p16-positive on immunohistochemistry). Exam trap: An asymptomatic adult presenting with a solitary, painless neck mass (Level II) most commonly has an occult, primary tonsillar or base-of-tongue SCC.",
+      "optionExplanations": {
+        "A": "[Added] The soft palate is a less common subsite than the tonsil.",
+        "B": "[Added] The posterior pharyngeal wall is a less common subsite than the tonsil.",
+        "C": "[Added] The base of the tongue is the second most common subsite, 'followed closely' behind the tonsil per the source rationale.",
+        "D": "[Added] The vallecula is not the most common oropharyngeal subsite.",
+        "E": "Correct. The palatine tonsil is the most common subsite of oropharyngeal cancer (about 50-60%)."
+      },
+      "educationalObjective": "Identify the palatine tonsil as the most common site of oropharyngeal cancer and squamous cell carcinoma as the primary histology.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-244",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "Which statement regarding sinonasal cancers is true?",
+      "options": {
+        "A": "The trigeminal nerve is the most common cranial nerve affected",
+        "B": "The ethmoid sinus is the most common site involved",
+        "C": "Sphenoid sinus involvement has a higher incidence of neurological sequelae"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sinonasal malignancies involving the SPHENOID SINUS have a significantly HIGHER INCIDENCE OF NEUROLOGICAL SEQUELAE and cranial neuropathies compared to other sinuses. This occurs because the sphenoid sinus is surrounded by vital intracranial structures: the cavernous sinus laterally (transmitting CN III, IV, V1, V2, and VI, and internal carotid artery), the optic canal and chiasm superiorly (CN II), and the sella turcica/pituitary gland. Local extension rapidly produces visual loss, ophthalmoplegia, and severe facial numbness. High-yield pearl: Sinonasal Cancers: Most common site = MAXILLARY SINUS (60%). Ethmoid sinus = 25% (linked to wood dust / adenocarcinoma). Sphenoid sinus = High risk of cranial nerve palsy and intracranial extension. Exam trap: Wood dust exposure is a classic board association for sinonasal ADENOCARCINOMA of the ethmoid sinuses.",
+      "optionExplanations": {
+        "A": "Maxillary division of trigeminal (V2) is frequently involved in maxillary sinus tumors, but the maxillary sinus is the most common site involved overall.",
+        "B": "The MAXILLARY SINUS is the most common site of sinonasal cancer (60%), followed by the ethmoid sinus (20–30%); sphenoid is rare (<5%).",
+        "C": "Correct. The sphenoid sinus lies beside the cavernous sinus, optic canal and pituitary, so involvement carries a higher incidence of neurological sequelae."
+      },
+      "educationalObjective": "Recognize that sphenoid sinus involvement in sinonasal cancer carries a high incidence of cranial nerve and neurological complications.",
+      "imagePath": ""
+    },
+    {
+      "id": "ENT4-245",
+      "topic": "ENT",
+      "section": "6. HEAD & NECK ONCOLOGY (LEC 9)",
+      "question": "The most common presentation of supraglottic laryngeal cancer is:",
+      "options": {
+        "A": "Referred otalgia",
+        "B": "Shortness of breath",
+        "C": "Hoarseness of voice",
+        "D": "Dysphagia",
+        "E": "Cervical metastatic lymph nodes"
+      },
+      "correctAnswer": "E",
+      "explanation": "Supraglottic laryngeal cancer (involving the epiglottis, false vocal cords, aryepiglottic folds, and arytenoids) is characterized by an extensive, bilateral submucosal lymphatic capillary network. Consequently, NODAL METASTASES OCCUR EARLY (found in 40–50% of patients at presentation), and bilateral or contralateral nodal spread is common. In contrast to glottic cancer (which presents early with hoarseness), supraglottic cancer does NOT cause early hoarseness; it presents with foreign body sensation, throat clearing, dysphagia, or an asymptomatic metastatic neck mass. High-yield pearl: Supraglottic vs Glottic Laryngeal Cancer: Glottic (60%): True vocal cords. Scanty lymphatics -> RARE early nodal metastasis. Presents early with HOARSENESS -> Excellent prognosis. Supraglottic (35%): False cords/epiglottis. Rich lymphatics -> EARLY CERVICAL METASTASIS (40–50%) -> Presents late with neck lump or referred ear pain. Exam trap: Do not expect hoarseness as an early symptom of supraglottic cancer; hoarseness appears only when the tumor extends inferiorly to fix the true vocal cords.",
+      "optionExplanations": {
+        "A": "Referred otalgia occurs via CN X, but palpable cervical nodal metastasis is the most common presenting sign.",
+        "B": "Shortness of breath occurs only in late bulky obstructive tumors.",
+        "C": "Hoarseness is the hallmark of glottic cancer, but appears late in supraglottic cancer when the true cords become invaded.",
+        "D": "Dysphagia is common, but cervical lymphadenopathy is the classic primary presentation.",
+        "E": "Correct per source key. The rich bilateral lymphatics of the supraglottis lead to cervical nodal metastases (40-50% at diagnosis), often the presenting sign."
+      },
+      "educationalObjective": "Identify early cervical lymph node metastasis as a hallmark feature and common presentation of supraglottic laryngeal cancer.",
+      "imagePath": ""
+    }
+  ]
+}
