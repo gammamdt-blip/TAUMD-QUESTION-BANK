@@ -1,0 +1,1118 @@
+{
+  "metadata": {
+    "title": "Elite Step 2 CK Q-Bank | Ophthalmology Final Examination (Athar Batch Edition)",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "OPHTHALMOLOGY1-001",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 2: Refractive Errors",
+      "question": "Regarding hyperopia, which of the following statements is false?",
+      "options": {
+        "A": "Short globe is a cause",
+        "B": "Can be treated by contact lens",
+        "C": "Can be treated with concave lens",
+        "D": "Can be treated with convex lens",
+        "E": "Reduced refractive power is a cause"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hyperopia (farsightedness) is an axial or refractive ametropia where parallel light rays entering the non-accommodating eye focus behind the retina. Correction requires converging optical power to advance the focal plane onto the photoreceptor layer, which is accomplished using convex (plus/converging) spherical lenses, contact lenses, or refractive surgery (e.g., hyperopic LASIK/PRK). Concave (minus/diverging) lenses diverge incoming rays and push the focal point further posteriorly, exacerbating hyperopia; they are specifically indicated for myopia.\n\nHIGH-YIELD OPTICS: Convex (+) lenses = converge light rays = treat Hyperopia & Presbyopia. Concave (-) lenses = diverge light rays = treat Myopia.\n\nEXAM TRAP / DO NOT MISS: Hyperopic eyes have shallower anterior chambers and shorter axial lengths, predisposing patients to pupillary block and acute angle-closure glaucoma, especially when dilated.",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & E: Axial hyperopia results from an abnormally short anterior-posterior globe length (each 1 mm decrease requires ~+3.00 D of correction), while refractive hyperopia results from decreased refractive power of the cornea (cornea plana) or lens (aphakia). Both are well-established etiologies.",
+        "B": "Shared explanation for options B & D: Contact lenses and spectacles fitted with convex (plus) lenses add positive dioptric power to bend light anteriorly onto the retina, serving as standard non-invasive treatments.",
+        "C": "Correct (this is the false statement). Concave (minus, diverging) lenses are used for myopia; in a hyperope they would push the focal point even further behind the retina. Hyperopia is corrected with convex (plus) lenses.",
+        "D": "Shared explanation for options B & D: Contact lenses and spectacles fitted with convex (plus) lenses add positive dioptric power to bend light anteriorly onto the retina, serving as standard non-invasive treatments.",
+        "E": "Shared explanation for options A & E: Axial hyperopia results from an abnormally short anterior-posterior globe length (each 1 mm decrease requires ~+3.00 D of correction), while refractive hyperopia results from decreased refractive power of the cornea (cornea plana) or lens (aphakia). Both are well-established etiologies."
+      },
+      "educationalObjective": "Recognize that hyperopia represents insufficient converging refractive power or a shortened axial globe, corrected optically by convex (plus) converging lenses, whereas concave (minus) lenses are reserved for myopia.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-002",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 2: Refractive Errors",
+      "question": "Which of the following is NOT correct about myopia?",
+      "options": {
+        "A": "It can be corrected with concave lenses",
+        "B": "It may be associated with an increased axial length",
+        "C": "Light rays focus in front of the retina",
+        "D": "It cannot be treated with refractive surgery"
+      },
+      "correctAnswer": "D",
+      "explanation": "Myopia (nearsightedness) CAN be definitively treated with keratorefractive surgical modalities, including photorefractive keratectomy (PRK), laser-assisted in situ keratomileusis (LASIK), small incision lenticule extraction (SMILE), and phakic intraocular lens (pIOL) implantation. Saying it 'cannot be treated with refractive surgery' is entirely false.\n\nHIGH-YIELD COMPLICATIONS: Pathologic/high myopia (> -6.00 D or axial length > 26.5 mm) substantially elevates the lifetime risk of peripheral retinal lattice degeneration, retinal tears, rhegmatogenous retinal detachment, open-angle glaucoma, and subcapsular cataracts.\n\nEXAM TRAP / DO NOT MISS: Patients with myopia have deep anterior chambers and are at elevated risk for primary OPEN-angle glaucoma, whereas hyperopes are at risk for CLOSED-angle glaucoma.",
+      "optionExplanations": {
+        "A": "Concave (minus/diverging) lenses displace the focal point posteriorly onto the retina, providing optical correction.",
+        "B": "Increased axial length (>24 mm) is the primary pathophysiological driver of axial myopia, stretching the sclera, choroid, and retina.",
+        "C": "By definition, the optical power of the eye exceeds the globe length, focusing incoming parallel rays anterior to (in front of) the neurosensory retina.",
+        "D": "Correct (this is the statement that is NOT true). Myopia can be treated with keratorefractive surgery (PRK, LASIK, SMILE) or phakic intraocular lens implantation."
+      },
+      "educationalObjective": "Understand that myopia results from excessive refractive power or axial elongation focusing light in front of the retina, corrected by concave lenses or corneal/lens refractive surgery.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-003",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 2: Refractive Errors",
+      "question": "Which of the following is correct regarding presbyopia?",
+      "options": {
+        "A": "Loss or weakness of accommodation",
+        "B": "It results from an increase in the axial length of the eyeball",
+        "C": "It commonly occurs due to corneal steepening in young adults",
+        "D": "It is corrected with concave lenses"
+      },
+      "correctAnswer": "A",
+      "explanation": "Presbyopia is an inevitable, universal age-related physiological insufficiency of accommodation. As individuals age (typically manifesting after age 40–45), the crystalline lens undergoes progressive sclerosis, nuclear compaction, and loss of capsule elasticity, accompanied by decreased ciliary muscle contractility. This impairs the lens's ability to increase curvature and optical power for near vision.\n\nHIGH-YIELD PHYSIOLOGY: During normal accommodation, the ciliary muscle contracts, relaxing zonular tension and allowing the elastic lens capsule to round up (increasing anterior-posterior thickness and converging power). In presbyopia, lens sclerosis prevents this shape change.\n\nEXAM TRAP / DO NOT MISS: Presbyopia affects near vision while distant vision remains unchanged (unless baseline refractive error coexists). Patients hold reading materials further away to bring them to their receded near point.",
+      "optionExplanations": {
+        "A": "Correct. Presbyopia is the age-related loss of accommodation caused by lens sclerosis and reduced ciliary muscle contractility, and it is corrected with convex (plus) reading lenses.",
+        "B": "Axial length changes do not cause presbyopia; axial elongation produces axial myopia.",
+        "C": "Corneal steepening in young adults is the hallmark of keratoconus or corneal ectasia, not presbyopia.",
+        "D": "Presbyopia represents a deficit in converging power for near tasks and is corrected with CONVEX (plus) reading glasses or bifocal/progressive lenses, not concave lenses."
+      },
+      "educationalObjective": "Identify presbyopia as an age-dependent loss of lens accommodative amplitude due to lens capsule sclerosis, managed with positive (convex) reading adds.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-004",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 2: Refractive Errors",
+      "question": "A patient appears to have a higher degree of hypermetropia after cycloplegic refraction. What is the explanation?",
+      "options": {
+        "A": "Cycloplegia induces miosis",
+        "B": "Cycloplegia uncovers latent hypermetropia by eliminating accommodation",
+        "C": "Cycloplegia causes lens opacity leading to refractive change",
+        "D": "Cycloplegia induces corneal steepening"
+      },
+      "correctAnswer": "B",
+      "explanation": "Young patients have strong accommodative reserves mediated by tonic ciliary muscle contraction, allowing them to involuntarily 'accommodate through' a portion of their hyperopia (known as latent hypermetropia). Under standard manifest refraction, only the uncompensated manifest hypermetropia is measured. Cycloplegic agents (e.g., cyclopentolate, atropine) block muscarinic M3 receptors on the ciliary muscle, paralyzing accommodation completely and uncovering the full magnitude of latent hyperopia (Total Hyperopia = Manifest + Latent).\n\nHIGH-YIELD PEDIATRICS: Cycloplegic refraction is mandatory in all pediatric evaluations for strabismus and amblyopia, as uncorrected latent hyperopia is the primary driver of accommodative esotropia.\n\nEXAM TRAP / DO NOT MISS: Prescribing glasses based only on manifest (non-cycloplegic) refraction in a child will severely underestimate hyperopic dioptric power, failing to control accommodative convergence.",
+      "optionExplanations": {
+        "A": "Cycloplegics block parasympathetic tone, inducing mydriasis (pupillary dilation) and cycloplegia, not miosis.",
+        "B": "Correct. Cycloplegia paralyzes the ciliary muscle and eliminates accommodation, unmasking latent hypermetropia so that total hyperopia (manifest + latent) is measured.",
+        "C": "Cycloplegics do not produce lens opacities; they cause reversible ciliary muscle relaxation.",
+        "D": "Cycloplegics act on the ciliary body and iris sphincter, having no effect on corneal radius of curvature or corneal steepening."
+      },
+      "educationalObjective": "Understand that cycloplegic refraction eliminates ciliary muscle accommodation, unmasking latent hypermetropia to establish the true total refractive error.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-005",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 3: Eyelid & Oculoplastics",
+      "question": "Which of the following is NOT a risk factor of Chalazion?",
+      "options": {
+        "A": "Rosacea",
+        "B": "Acne",
+        "C": "Seborrhea",
+        "D": "Chronic blepharitis",
+        "E": "Recurrent corneal abrasion"
+      },
+      "correctAnswer": "E",
+      "explanation": "A chalazion is a chronic, non-infectious, sterile lipogranulomatous inflammatory lesion resulting from obstruction of a meibomian (tarsal) sebaceous gland duct, leading to lipid leakage into the surrounding tarsal plate stroma. Established predisposing factors are dermatological and ocular surface conditions that alter meibum viscosity or cause lid margin inflammation: acne rosacea, seborrheic dermatitis, chronic posterior blepharitis, and meibomian gland dysfunction. Recurrent corneal abrasion involves the superficial corneal epithelium and has no pathogenic link to meibomian gland obstruction.\n\nHIGH-YIELD PATHOLOGY: Chalazion = sterile lipogranuloma of MEIBOMIAN gland (painless, deep in tarsus). Hordeolum (stye) = acute focal infectious abscess of Zeis/Moll glands (external) or Meibomian gland (internal), painful and tender.\n\nEXAM TRAP / DO NOT MISS: A recurrent chalazion in the same exact anatomical location in an elderly patient must be biopsied to rule out sebaceous gland carcinoma.",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & B: Acne rosacea and acne vulgaris produce telangiectasias and hyperkeratinization of ductal orifices, significantly predisposing to recurrent chalazia.",
+        "B": "Shared explanation for options A & B: Acne rosacea and acne vulgaris produce telangiectasias and hyperkeratinization of ductal orifices, significantly predisposing to recurrent chalazia.",
+        "C": "Shared explanation for options C & D: Seborrhea and chronic blepharitis foster bacterial colonization (e.g., S. epidermidis, S. aureus) that hydrolyze meibomian lipids into irritating free fatty acids, plugging gland orifices.",
+        "D": "Shared explanation for options C & D: Seborrhea and chronic blepharitis foster bacterial colonization (e.g., S. epidermidis, S. aureus) that hydrolyze meibomian lipids into irritating free fatty acids, plugging gland orifices.",
+        "E": "Correct (this is NOT a risk factor). Recurrent corneal abrasion involves the corneal epithelium and has no pathogenic link to meibomian gland obstruction, whereas rosacea, acne, seborrhea and chronic blepharitis predispose to chalazion."
+      },
+      "educationalObjective": "Recognize chalazion as a sterile meibomian lipogranuloma associated with blepharitis and rosacea, requiring histopathologic evaluation when recurrent to exclude sebaceous carcinoma.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-006",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 3: Eyelid & Oculoplastics",
+      "question": "Which of the following doesn't cause entropion?",
+      "options": {
+        "A": "Facial nerve palsy",
+        "B": "Lid laxity",
+        "C": "Scarring",
+        "D": "Tumor",
+        "E": "Infection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Facial nerve (CN VII) palsy paralyzes the orbicularis oculi muscle (the primary eyelid protractor). Loss of orbicularis muscle tone causes flaccidity, gravity-induced lower lid sagging, and outward eversion of the eyelid margin—termed paralytic ectropion, accompanied by lagophthalmos and epiphora. Entropion is the INWARD inversion of the eyelid margin; CN VII palsy never causes entropion.\n\nMNEMONIC / RULE: CN VII (Facial) Palsy = ECTROPION (Eversion, Exit, ExposurE). Orbicularis overrides or conjunctival scars = ENTROPION (Inward, Trichiasis, Irritation).\n\nEXAM TRAP / DO NOT MISS: Entropion causes trichiasis with eyelashes rubbing against the cornea, rapidly producing epithelial defects, non-healing corneal ulcers, and permanent scarring if not surgically corrected.",
+      "optionExplanations": {
+        "A": "Correct (this does NOT cause entropion). Facial nerve palsy paralyzes the orbicularis oculi and causes paralytic ectropion (outward eversion) with lagophthalmos, never entropion.",
+        "B": "Involutional horizontal eyelid laxity combined with overriding of the preseptal orbicularis over pretarsal orbicularis is the primary cause of involutional entropion.",
+        "C": "Shared explanation for options C & E: Cicatricial entropion occurs secondary to conjunctival scarring and shrinkage from ocular cicatricial pemphigoid, Stevens-Johnson syndrome, chemical burns, or trachomatous infection (Chlamydia trachomatis).",
+        "D": "Mechanical tumors pushing the lid margin inward can induce mechanical entropion.",
+        "E": "Shared explanation for options C & E: Cicatricial entropion occurs secondary to conjunctival scarring and shrinkage from ocular cicatricial pemphigoid, Stevens-Johnson syndrome, chemical burns, or trachomatous infection (Chlamydia trachomatis)."
+      },
+      "educationalObjective": "Distinguish ectropion (outward eversion seen in CN VII palsy and aging) from entropion (inward inversion caused by lid laxity, preseptal override, or cicatricial contracture).",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-007",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 3: Eyelid & Oculoplastics",
+      "question": "Blepharospasm is caused by all of the following EXCEPT:",
+      "options": {
+        "A": "Stress",
+        "B": "Esotropia",
+        "C": "Dryness",
+        "D": "Light sensitivity",
+        "E": "Glaucoma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Blepharospasm is an involuntary, bilateral, episodic spasmodic contraction of the orbicularis oculi muscles. Secondary blepharospasm is triggered by nociceptive trigeminal sensory irritation or photophobia: dry eye syndrome (tear film hyperosmolarity stimulating corneal nerves), photophobia/light sensitivity, raised intraocular pressure/glaucoma, anterior uveitis, foreign bodies, and psychogenic factors/stress (benign essential blepharospasm or Meige syndrome). Esotropia is an inward ocular misalignment (strabismus) that does NOT stimulate the trigeminal-facial blink reflex arc or cause blepharospasm.\n\nHIGH-YIELD THERAPY: The first-line and most efficacious treatment for severe or disabling benign essential blepharospasm is localized Botulinum toxin type A injections into the pre-tarsal and pre-septal orbicularis oculi.\n\nEXAM TRAP / DO NOT MISS: Do not confuse eyelid myokymia (unilateral, transient fine twitches of orbicularis related to caffeine/stress, self-limited) with true blepharospasm (bilateral, synchronous, forced eyelid closure).",
+      "optionExplanations": {
+        "A": "Emotional stress, fatigue, and anxiety are prominent aggravating factors in both essential blepharospasm and eyelid myokymia.",
+        "B": "Correct (this is NOT a cause). Esotropia is an ocular misalignment that does not stimulate the trigeminal-facial blink reflex arc, so it does not cause blepharospasm.",
+        "C": "Shared explanation for options C & D: Ocular surface dryness and photophobia trigger afferent trigeminal (CN V1) impulses that reflexively stimulate efferent facial (CN VII) motor firing to the orbicularis oculi.",
+        "D": "Shared explanation for options C & D: Ocular surface dryness and photophobia trigger afferent trigeminal (CN V1) impulses that reflexively stimulate efferent facial (CN VII) motor firing to the orbicularis oculi.",
+        "E": "Acute or chronic glaucoma with elevated IOP causes corneal stretching, microcystic edema, and pain, frequently precipitating protective blepharospasm."
+      },
+      "educationalObjective": "Understand that blepharospasm reflects excessive orbicularis oculi motor activation triggered by trigeminal ocular surface irritation, light sensitivity, or basal ganglia dysfunction, whereas strabismic deviations (esotropia) do not cause blepharospasm.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-008",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 3: Eyelid & Oculoplastics",
+      "question": "All of the following cause ptosis EXCEPT:",
+      "options": {
+        "A": "Myasthenia gravis",
+        "B": "Horner's syndrome",
+        "C": "Third nerve palsy",
+        "D": "Fourth nerve palsy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ptosis (blepharoptosis) is the abnormal drooping of the superior eyelid margin. The upper eyelid is elevated by two muscles: (1) the levator palpebrae superioris (striated muscle innervated by the superior division of the oculomotor nerve, CN III, responsible for ~15 mm of excursion), and (2) Müller's superior tarsal muscle (smooth muscle innervated by sympathetic fibers, providing 1–2 mm of tone). Cranial Nerve IV (trochlear nerve) innervates ONLY the superior oblique extraocular muscle; it has no anatomical or functional connection to eyelid retractors. Therefore, CN IV palsy produces vertical/torsional diplopia and head tilt, but NEVER ptosis.\n\nPTOSIS INNERVATION RULES: Complete ptosis = CN III palsy (Levator palpebrae paralysis). Partial (mild 1-2 mm) ptosis + Miosis = Horner syndrome (Müller's muscle paralysis). Fatigable ptosis = Myasthenia Gravis.\n\nEXAM TRAP / DO NOT MISS: Horner's syndrome features 'upside-down ptosis' (slight elevation of the lower lid due to inferior tarsal muscle denervation) alongside mild upper lid ptosis, narrowing the palpebral fissure.",
+      "optionExplanations": {
+        "A": "Myasthenia gravis is an autoimmune disorder against postsynaptic acetylcholine receptors, causing fluctuating, fatigable myogenic ptosis and Cogan's lid twitch.",
+        "B": "Horner's syndrome results from interruption of the oculosympathetic pathway, producing mild (1–2 mm) partial ptosis due to denervation of Müller's muscle, alongside miosis and facial anhidrosis.",
+        "C": "Complete third nerve palsy causes severe, complete ptosis due to complete levator palpebrae paralysis, accompanied by a 'down and out' eye position and mydriasis (if pupil-involved).",
+        "D": "Correct (this does NOT cause ptosis). The trochlear nerve (CN IV) supplies only the superior oblique muscle and has no role in eyelid elevation; CN IV palsy causes vertical/torsional diplopia and head tilt, never ptosis."
+      },
+      "educationalObjective": "Differentiate neurogenic and myogenic causes of ptosis; remember that CN IV (trochlear) innervates exclusively the superior oblique muscle and is never a cause of ptosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-009",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 5: Conjunctiva & Ocular Surface",
+      "question": "A young man presents with a red eye, watery discharge, follicular conjunctival reaction, and a tender preauricular lymph node. What is the most likely diagnosis?",
+      "options": {
+        "A": "Bacterial conjunctivitis",
+        "B": "Allergic conjunctivitis",
+        "C": "Adenoviral conjunctivitis",
+        "D": "Acute angle-closure glaucoma"
+      },
+      "correctAnswer": "C",
+      "explanation": "The clinical constellation of acute ocular redness, watery/serous discharge, a prominent follicular reaction (lymphoid germinal centers with avascular dome-shaped centers, best appreciated on the inferior palpebral and fornix conjunctiva), and tender preauricular lymphadenopathy is the classic presentation of acute adenoviral conjunctivitis (epidemic keratoconjunctivitis or pharyngoconjunctival fever). Transmission is highly contagious via respiratory droplets and direct hand-to-eye contact.\n\nCLINICAL DIFFERENTIATION TABLE:\n• Viral: Watery discharge + Follicles + Tender preauricular LN.\n• Bacterial: Thick purulent discharge + Papillae + No LN (eyelids glued shut).\n• Allergic: Intense itching + Ropy mucus + Chemosis/Giant papillae.\n\nEXAM TRAP / DO NOT MISS: In adenoviral epidemic keratoconjunctivitis (EKC, serotypes 8, 19, 37), subepithelial corneal infiltrates (immune deposits) develop 1–2 weeks later; topical steroids should NOT be used routinely during the acute viral replication phase.",
+      "optionExplanations": {
+        "A": "Acute bacterial conjunctivitis produces thick, copious, mucopurulent discharge that mats the eyelids shut upon waking, accompanied by a papillary (not follicular) reaction and typically lacks preauricular lymphadenopathy (except in hyperacute N. gonorrhoeae).",
+        "B": "Allergic conjunctivitis is characterized by intense bilateral pruritus, ropy stringy mucoid discharge, and conjunctival chemosis/papillae without lymphadenopathy.",
+        "C": "Correct. A red eye with watery discharge, a follicular conjunctival reaction and a tender preauricular lymph node is the classic presentation of adenoviral conjunctivitis.",
+        "D": "Acute angle-closure glaucoma presents with severe deep periorbital pain, halos around lights, a fixed mid-dilated pupil, steamy cornea, and markedly elevated IOP (>40–60 mmHg), without discharge or follicles."
+      },
+      "educationalObjective": "Identify the combination of watery discharge, follicular conjunctival response, and tender preauricular lymphadenopathy as diagnostic of adenoviral conjunctivitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-010",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 5: Conjunctiva & Ocular Surface",
+      "question": "Which of the following is true regarding the conjunctiva?",
+      "options": {
+        "A": "Pinguecula is a degenerative disease that extends towards the cornea",
+        "B": "Follicular conjunctival reaction can be seen in bacterial conjunctivitis",
+        "C": "Papillary conjunctival reaction can be seen in allergic conjunctivitis",
+        "D": "Subconjunctival hemorrhage usually causes severe pain and marked visual loss"
+      },
+      "correctAnswer": "C",
+      "explanation": "Papillae are inflammatory vascular projections with a central fibrovascular core surrounded by inflammatory cells (eosinophils, mast cells, neutrophils, and plasma cells). They are the characteristic conjunctival response in allergic eye diseases (vernal keratoconjunctivitis, atopic keratoconjunctivitis, giant papillary conjunctivitis) as well as bacterial conjunctivitis and contact lens irritation.\n\nHIGH-YIELD HISTOLOGY:\n• Papillae: Central red vascular core/tuft (Allergic, Bacterial, Mechanical contact lens).\n• Follicles: Peripheral vessels encircling a pale avascular lymphoid germinal center (Viral, Chlamydial).\n\nEXAM TRAP / DO NOT MISS: Do not confuse pinguecula with pterygium: Pinguecula = confined to conjunctiva (does not cross limbus). Pterygium = wing-shaped, invades corneal Bowman's layer, causes astigmatism.",
+      "optionExplanations": {
+        "A": "A pinguecula is an elastotic degenerative yellow-white nodule of the bulbar conjunctiva that halts at the limbus and NEVER invades the cornea; a pterygium is the triangular fibrovascular growth that crosses the limbus onto the cornea.",
+        "B": "Follicles are avascular lymphoid aggregates seen characteristically in viral (adenovirus, herpes) and chlamydial (trachoma, inclusion) infections, toxic reactions, but not typical bacterial conjunctivitis.",
+        "C": "Correct. Papillae are the characteristic conjunctival response in allergic eye disease (and are also seen in bacterial conjunctivitis and contact lens irritation).",
+        "D": "Subconjunctival hemorrhage is completely painless (or mild foreign body sensation) and does NOT affect visual acuity."
+      },
+      "educationalObjective": "Master conjunctival tissue responses: papillae (central vascular core) characterize allergic and bacterial processes, whereas follicles (lymphoid centers) characterize viral and chlamydial infections.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-011",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 5: Conjunctiva & Ocular Surface",
+      "question": "A young boy presents with recurrent episodes of intense eye itching, redness, and thick ropy mucoid discharge, especially during spring and summer months. Slit-lamp examination reveals giant papillae on the upper tarsal conjunctiva. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vernal conjunctivitis",
+        "B": "Bacterial conjunctivitis",
+        "C": "Fungal conjunctivitis",
+        "D": "Allergic conjunctivitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vernal Keratoconjunctivitis (VKC) is a chronic, bilateral, severe allergic ocular surface disorder predominantly affecting young boys (aged 3–12 years) in hot, dry, Mediterranean/tropical climates with peak exacerbations during spring and summer ('vernal'). Diagnostic hallmarks include intense ocular pruritus, photophobia, thick ropy white/yellow mucus discharge, and pathognomonic cobblestone giant papillae (>1 mm) on the superior everted tarsal conjunctiva. At the limbus, gelatinous infiltrates containing eosinophils produce Horner-Trantas dots.\n\nPATHOGNOMONIC SIGNS OF VKC:\n1. Palpebral VKC: Cobblestone giant papillae on upper tarsus.\n2. Limbal VKC: Horner-Trantas dots (gelatinous white apical clumps of eosinophils).\n3. Corneal involvement: Shield ulcer (sterile non-healing epithelial defect from mechanical rubbing of giant papillae).\n\nEXAM TRAP / DO NOT MISS: In VKC, constant vigorous eye rubbing is a major known mechanical risk factor that triggers and accelerates the development of Keratoconus.",
+      "optionExplanations": {
+        "A": "Correct. A young boy with seasonal itching, thick ropy discharge and giant upper tarsal papillae has vernal keratoconjunctivitis.",
+        "B": "Bacterial conjunctivitis produces purulent discharge, does not cause giant cobblestone papillae, and lacks seasonal spring/summer periodicity.",
+        "C": "Fungal conjunctivitis is an acute infectious keratitis/conjunctivitis following vegetative trauma or immunosuppression, not a recurrent allergic disease.",
+        "D": "While VKC is an allergic disease, 'Vernal conjunctivitis' is the specific, definitive clinical diagnosis denoted by the age, cobblestone papillae, and seasonal pattern."
+      },
+      "educationalObjective": "Identify vernal keratoconjunctivitis by its demographic predilection (young males), seasonal exacerbation, cobblestone giant upper tarsal papillae, and Horner-Trantas dots.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-012",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 5: Conjunctiva & Ocular Surface",
+      "question": "Which of the following is true about subconjunctival hemorrhage?",
+      "options": {
+        "A": "Doesn't need any treatment",
+        "B": "Causes vision loss",
+        "C": "Painful",
+        "D": "Resolved in 3-4 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "Subconjunctival hemorrhage represents the accumulation of blood in the potential space between the transparent bulbar conjunctiva and the underlying episclera. It is a completely benign, self-limited condition that requires no active treatment other than patient reassurance (and artificial tears for mild foreign body sensation). It resolves spontaneously as erythrocytes are lysed and reabsorbed over 1 to 2 weeks (3–4 days is too short).\n\nHIGH-YIELD WORKUP: While isolated traumatic or Valsalva-induced (coughing, straining) subconjunctival hemorrhage requires no workup, RECURRENT or bilateral cases warrant systemic blood pressure measurement and coagulation studies (PT/INR, PTT, CBC).\n\nEXAM TRAP / DO NOT MISS: In severe blunt head or orbital trauma, a posterior subconjunctival hemorrhage without a visible posterior border raises strong suspicion of a retrobulbar hemorrhage or base of skull fracture.",
+      "optionExplanations": {
+        "A": "Correct. Subconjunctival hemorrhage is benign and self-limited and needs no treatment beyond reassurance.",
+        "B": "The hemorrhage is strictly external to the globe and optic media; visual acuity is completely intact.",
+        "C": "It is typically asymptomatic and painless; patients discover it incidentally when looking in a mirror or are alerted by others.",
+        "D": "Complete reabsorption typically requires 10 to 14 days (1–2 weeks), transitioning from bright red to yellowish-green."
+      },
+      "educationalObjective": "Recognize subconjunctival hemorrhage as an alarming but benign, painless condition with preserved vision that resolves spontaneously in 1–2 weeks without intervention.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-013",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following is correct regarding the cornea?",
+      "options": {
+        "A": "Corneal endothelium has good regenerative ability",
+        "B": "Stroma contains melanin",
+        "C": "Corneal artery provides nutrients for the cornea",
+        "D": "Anterior surface acts as convex lens"
+      },
+      "correctAnswer": "D",
+      "explanation": "The anterior corneal surface is curved convexly toward the external air. Because the refractive index difference between air (1.000) and corneal tear film (1.336) is the largest optical gradient in the visual system, the anterior corneal surface functions as a powerful convex (converging) lens, contributing approximately +43.00 Diopters (roughly two-thirds to 70%) of the eye's total +60.00 D optical power.\n\nCORNEAL LAYERS (Anterior to Posterior):\n1. Epithelium: Regenerative, non-keratinized stratified squamous.\n2. Bowman's layer: Acellular collagen, does NOT regenerate (heals with scar).\n3. Stroma: 90% of thickness, regular lamellae.\n4. Descemet's membrane: Basement membrane of endothelium, can regenerate.\n5. Endothelium: Monolayer Na+/K+ ATPase pump, does NOT regenerate.\n\nEXAM TRAP / DO NOT MISS: When endothelial density falls below critical threshold (~500 cells/mm²), the metabolic pump fails, resulting in stromal edema and bullous keratopathy.",
+      "optionExplanations": {
+        "A": "Corneal endothelial cells are arrested in the G1 phase of the cell cycle and have virtually NO mitotic/regenerative capacity in vivo; cell loss is compensated by cellular enlargement (polymegathism) and sliding.",
+        "B": "The corneal stroma consists of precisely arranged type I/V collagen lamellae and glycosaminoglycans; it is entirely transparent and contains no melanin pigment.",
+        "C": "The cornea is strictly AVASCULAR to preserve optical transparency; it receives oxygen from atmospheric tear film and nutrients (glucose, amino acids) via diffusion from the aqueous humor and perilimbal episcleral capillary loops.",
+        "D": "Correct. The anterior corneal surface is convex and acts as a powerful converging lens (about +43 D), roughly two-thirds of the eye's total refractive power."
+      },
+      "educationalObjective": "Recall that the avascular anterior cornea acts as a +43 D convex lens, relying on aqueous humor diffusion for metabolic nutrition and non-regenerative endothelium for deturgescence.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-014",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "The center of the cornea is innervated by:",
+      "options": {
+        "A": "Has no innervation",
+        "B": "Ophthalmic division of trigeminal nerve",
+        "C": "Maxillary division of trigeminal nerve",
+        "D": "Facial nerve"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sensory innervation of the entire cornea, including its densely sensitive central optical zone, is supplied by the ophthalmic division of the trigeminal nerve (CN V1). Specifically, sensory axons travel via the nasociliary nerve, which branches into the long ciliary nerves that pierce the sclera posteriorly, travel anteriorly in the suprachoroidal space, and form an extensive subepithelial and intraepithelial plexus. The human cornea is the most densely innervated tissue in the body (~7,000 nociceptors/mm²).\n\nCORNEAL BLINK REFLEX ARC:\n• Afferent Limb: Trigeminal nerve (CN V1 - Ophthalmic division via long ciliary nerves).\n• Central Relay: Trigeminal sensory nucleus → Facial motor nucleus (pons).\n• Efferent Limb: Facial nerve (CN VII) → Orbicularis oculi bilateral contraction.\n\nEXAM TRAP / DO NOT MISS: Damage to CN V1 eliminates the corneal blink reflex in BOTH eyes when the affected eye is touched. Damage to CN VII eliminates the blink only on the ipsilateral paretic side.",
+      "optionExplanations": {
+        "A": "The cornea is exquisitely innervated; minor epithelial loss immediately triggers intense pain, photophobia, and lacrimation.",
+        "B": "Correct. The whole cornea, including its center, is supplied by the ophthalmic division of the trigeminal nerve (CN V1) via the nasociliary and long ciliary nerves.",
+        "C": "The maxillary division (CN V2) supplies the lower eyelid, cheek, upper lip, and maxillary teeth, but does not innervate the cornea.",
+        "D": "The facial nerve (CN VII) provides MOTOR innervation to the orbicularis oculi muscle (the efferent limb of the corneal blink reflex), but provides no sensory innervation to the cornea."
+      },
+      "educationalObjective": "Identify CN V1 (ophthalmic division of the trigeminal nerve) as the sensory afferent source for corneal innervation and the afferent arm of the blink reflex.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-015",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following reduces the sensation of the cornea?",
+      "options": {
+        "A": "Fungal infections",
+        "B": "Bacterial infections",
+        "C": "Herpes simplex virus",
+        "D": "Dry eye syndrome",
+        "E": "Keratoconus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Herpes Simplex Virus (HSV) keratitis characteristically causes profound neurotrophic sensory impairment, presenting as corneal hypoesthesia or complete anesthesia. HSV establishes lifelong latency in the trigeminal sensory ganglion; viral reactivation and axonal transport trigger destructive inflammation within the intraepithelial and subbasal nerve plexus, destroying sensory nerve fibers and dampening corneal touch sensitivity.\n\nHIGH-YIELD EXAM CLUES FOR HSV KERATITIS:\n1. True dendritic ulcer with terminal end bulbs.\n2. Stains centrally with fluorescein (epithelial loss) and at borders with rose bengal (devitalized cells).\n3. Reduced corneal sensation (tested with a fine cotton wisp).\n\nEXAM TRAP / DO NOT MISS: Topical corticosteroids are strictly CONTRAINDICATED in active epithelial HSV dendritic keratitis; steroids accelerate viral replication and transform a dendritic ulcer into a vast, geographic 'amoeboid' corneal ulcer.",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & B: Fungal (e.g., Fusarium, Aspergillus) and bacterial (e.g., Pseudomonas) keratitis cause severe, excruciating ocular pain with preserved or heightened nociceptive sensation until end-stage necrosis.",
+        "B": "Shared explanation for options A & B: Fungal (e.g., Fusarium, Aspergillus) and bacterial (e.g., Pseudomonas) keratitis cause severe, excruciating ocular pain with preserved or heightened nociceptive sensation until end-stage necrosis.",
+        "C": "Correct. HSV keratitis damages the trigeminal sensory axons and causes reduced corneal sensation (hypoesthesia).",
+        "D": "Dry eye syndrome produces ocular surface hyperalgesia and painful foreign body sensation.",
+        "E": "Keratoconus exhibits prominent corneal nerves on slit-lamp examination but typically maintains corneal sensation until chronic contact lens wear or scarring occurs."
+      },
+      "educationalObjective": "Recognize that HSV keratitis causes marked reduction in corneal sensation (hypoesthesia) due to trigeminal axonal neuropathy, a critical feature distinguishing it from other microbial keratitis.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-016",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following is a complication of overuse of contact lenses?",
+      "options": {
+        "A": "Bacterial conjunctivitis",
+        "B": "Bacterial keratitis",
+        "C": "Episcleritis",
+        "D": "Subconjunctival hemorrhage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Overnight or extended wear of contact lenses causes chronic corneal hypoxia, suppresses normal epithelial desquamation, and induces microtrauma, allowing bacteria to adhere to the corneal stroma. This precipitates bacterial keratitis (corneal ulcer), most notoriously caused by Pseudomonas aeruginosa. Bacterial keratitis presents with severe pain, dense white stromal infiltrates, overlying epithelial defects, and anterior chamber hypopyon, representing a sight-threatening emergency.\n\nPSEUDOMONAS KERATITIS IN CONTACT LENS USERS: Gram-negative rod producing proteases, elastases, and exotoxin A that cause rapid 'liquefactive necrosis' of the corneal stroma (corneal melt/perforation within 24–48 hours). First-line treatment: intensive fortified topical antibiotics (e.g., fluoroquinolones, vancomycin + tobramycin).\n\nEXAM TRAP / DO NOT MISS: NEVER patch an eye with a suspected contact lens-related corneal abrasion or ulcer; patching creates a dark, warm, hypoxic environment that dramatically accelerates Pseudomonas proliferation.",
+      "optionExplanations": {
+        "A": "Bacterial conjunctivitis is a superficial infection of the conjunctiva, not the classical vision-threatening stromal ulceration provoked by lens-induced hypoxic microtrauma.",
+        "B": "Correct. Contact lens overuse causes corneal hypoxia and microtrauma, predisposing to bacterial keratitis (classically Pseudomonas aeruginosa).",
+        "C": "Episcleritis is an idiopathic, benign, localized autoimmune/inflammatory condition of the episclera, unrelated to contact lens overuse.",
+        "D": "Subconjunctival hemorrhage is an acute vascular bleed beneath the conjunctiva, usually secondary to Valsalva or trauma, not contact lens overuse."
+      },
+      "educationalObjective": "Identify bacterial keratitis (predominantly Pseudomonas aeruginosa) as the most critical, vision-threatening complication of contact lens overuse requiring immediate intensive topical antibiotic therapy.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-017",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Band keratopathy is the deposition of:",
+      "options": {
+        "A": "Calcium salts",
+        "B": "Iron",
+        "C": "Copper",
+        "D": "Magnesium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Band keratopathy is characterized by the chronic precipitation and deposition of calcium hydroxyapatite salts (calcium phosphate and calcium carbonate) within the epithelial basement membrane, Bowman's layer, and anterior stroma. It manifests as a chalky, greyish-white, horizontal band opacity extending across the interpalpebral fissure, characteristically separated from the limbus by a clear lucid interval and punctuated by lucent holes (where corneal nerve canals perforate Bowman's layer).\n\nETIOLOGIES & MANAGEMENT OF BAND KERATOPATHY:\n• Ocular causes: Chronic anterior uveitis (especially Juvenile Idiopathic Arthritis in children), chronic end-stage glaucoma, phthisis bulbi.\n• Systemic causes: Hypercalcemia (hyperparathyroidism, sarcoidosis, vitamin D toxicity, renal failure).\n• Treatment: Superficial debridement followed by chemical chelation using topical EDTA (ethylenediaminetetraacetic acid).\n\nEXAM TRAP / DO NOT MISS: A clear zone always separates the calcium band from the limbus because the buffering capacity of the perilimbal blood vessels prevents calcium precipitation.",
+      "optionExplanations": {
+        "A": "Correct. Band keratopathy is the deposition of calcium (hydroxyapatite) salts in the epithelial basement membrane, Bowman's layer and anterior stroma.",
+        "B": "Iron deposits occur in epithelial lines: Fleischer ring at the base of the cone in keratoconus, Hudson-Stähli line (aging), and Ferry's line (trabeculectomy bleb).",
+        "C": "Copper deposits in Descemet's membrane form the Kayser-Fleischer ring characteristic of Wilson's disease (hepatolenticular degeneration).",
+        "D": "Magnesium does not form pathological band opacifications in the cornea."
+      },
+      "educationalObjective": "Recognize band keratopathy as calcium hydroxyapatite deposition in Bowman's layer, linked to chronic pediatric uveitis (JIA) or hypercalcemia, and treated via EDTA chelation.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-018",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following stops keratoconus progression?",
+      "options": {
+        "A": "Keratoplasty",
+        "B": "Collagen cross-linking",
+        "C": "LASIK",
+        "D": "Artificial tears"
+      },
+      "correctAnswer": "B",
+      "explanation": "Corneal collagen cross-linking (CXL) is the only intervention scientifically proven to arrest and halt the progressive ectasia of keratoconus. The procedure uses topical riboflavin (Vitamin B2) drops followed by controlled ultraviolet-A (UVA 365 nm) irradiation. This induces photochemical generation of reactive oxygen species, forming covalent bonds between collagen fibrils and proteoglycans in the anterior stroma, increasing corneal biomechanical rigidity by over 300%.\n\nSTEPWISE MANAGEMENT OF KERATOCONUS:\n1. Early / Progressive: Collagen cross-linking (CXL) to stabilize the cornea.\n2. Visual Rehabilitation: Rigid gas-permeable (RGP) or scleral contact lenses to mask irregular astigmatism.\n3. Moderate / Intolerant: Intrastromal corneal ring segments (ICRS / Intacs).\n4. Advanced / Scarred: Deep Anterior Lamellar Keratoplasty (DALK) or Penetrating Keratoplasty (PKP).\n\nEXAM TRAP / DO NOT MISS: Any patient undergoing pre-refractive surgery screening (LASIK evaluation) with subtle corneal thinning or irregular astigmatism on topography must be excluded to avoid inducing post-LASIK ectasia.",
+      "optionExplanations": {
+        "A": "Keratoplasty (penetrating or deep anterior lamellar) replaces diseased tissue in advanced, scarred, or perforated keratoconus, but it is an invasive transplant surgery reserved for visual rehabilitation, not early progression arrest.",
+        "B": "Correct. Corneal collagen cross-linking (riboflavin plus UVA) stiffens the stroma and halts progression of keratoconus.",
+        "C": "LASIK is absolutely CONTRAINDICATED in keratoconus; laser ablation and microkeratome flap creation sever anterior stromal lamellae, dramatically weakening corneal biomechanics and inducing catastrophic iatrogenic corneal ectasia.",
+        "D": "Artificial tears provide superficial lubrication but have no impact on stromal collagen stability or progressive ectasia."
+      },
+      "educationalObjective": "Identify corneal collagen cross-linking (riboflavin + UVA) as the primary disease-stabilizing treatment that halts progression of keratoconus.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-019",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following is correct regarding keratoconus?",
+      "options": {
+        "A": "High irregular astigmatism",
+        "B": "Painful",
+        "C": "It is characterized by flattening of the cornea",
+        "D": "It is commonly treated with LASIK"
+      },
+      "correctAnswer": "A",
+      "explanation": "Keratoconus is a bilateral, non-inflammatory, progressive ectatic dystrophy characterized by paracentral stromal thinning and apical conical steepening. As the cornea bulges into a cone shape, its symmetrical spherical optics are lost, inducing high irregular myopic astigmatism and higher-order optical aberrations that cannot be fully corrected with standard spectacles.\n\nKERATOCONUS CLASSIC FINDINGS:\n• Munson's sign: V-shaped tenting of the lower eyelid margin in downgaze.\n• Vogt's striae: Fine vertical stress lines in deep stroma that vanish with gentle digital globe pressure.\n• Fleischer ring: Epithelial iron ring encircling the base of the cone.\n• Scissoring reflex: On retinoscopy.\n\nEXAM TRAP / DO NOT MISS: Young patients with frequent changes in spectacle prescriptions and persistent 'ghost images' or monocular polyopia should immediately be evaluated with corneal topography for early keratoconus.",
+      "optionExplanations": {
+        "A": "Correct. Corneal steepening and bulging in keratoconus cause high irregular astigmatism.",
+        "B": "Uncomplicated keratoconus is entirely painless; acute pain only occurs in acute corneal hydrops (acute Descemet's rupture).",
+        "C": "Keratoconus causes progressive STEEPENING and bulging of the cornea (increased dioptric curvature >47–50 D on keratometry), not flattening.",
+        "D": "LASIK is strictly contraindicated in keratoconus due to the severe risk of accelerated corneal ectasia and perforation."
+      },
+      "educationalObjective": "Recognize high irregular astigmatism and progressive corneal steepening as core features of keratoconus, for which LASIK is strictly contraindicated.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-020",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 6: Cornea & Sclera",
+      "question": "Which of the following is correctly matched regarding keratoconus?",
+      "options": {
+        "A": "Slit lamp: Vogt's striae",
+        "B": "Fleischer ring: Copper deposition",
+        "C": "Pachymetry: Thick cornea",
+        "D": "Topography: Decreased corneal curvature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vogt's striae are vertically oriented, fine stress lines situated in the posterior stroma and Descemet's membrane, visualized on slit-lamp examination at the apex of the cone. A classic diagnostic feature is that Vogt's striae transiently disappear when gentle external digital pressure is applied through the eyelid onto the globe.\n\nCORNEAL RINGS COMPARISON:\n• Fleischer Ring: IRON in basal epithelium at cone base → Keratoconus.\n• Kayser-Fleischer Ring: COPPER in Descemet's membrane at limbus → Wilson's disease.\n• Arcus Senilis: LIPID/cholesterol in peripheral stroma with clear lucid interval → Aging / Hyperlipidemia.\n\nEXAM TRAP / DO NOT MISS: Acute corneal hydrops in keratoconus occurs when Descemet's membrane ruptures, allowing aqueous humor to rush into the stroma, causing sudden, dramatic edema and vision loss.",
+      "optionExplanations": {
+        "A": "Correct. Vogt's striae are fine vertical stress lines in the deep stroma/Descemet's membrane seen on slit-lamp examination of the cone.",
+        "B": "Fleischer ring consists of iron (hemosiderin) deposits in the basal epithelial layer encircling the base of the cone, best viewed with a cobalt blue filter. Copper deposition forms the Kayser-Fleischer ring in Wilson's disease.",
+        "C": "Corneal pachymetry measures corneal thickness; in keratoconus, pachymetry reveals marked corneal thinning (normal central thickness is ~540 µm; in keratoconus it often falls <450 µm).",
+        "D": "Corneal topography demonstrates localized steepening with increased corneal curvature (high keratometry values >48–55 D), not decreased curvature."
+      },
+      "educationalObjective": "Correctly match Vogt's striae (vertical stromal stress lines on slit lamp) and Fleischer ring (iron deposition) with keratoconus, contrasting with copper deposition in Wilson's disease.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-021",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 7: Uvea & Uveitis",
+      "question": "A 28-year-old patient presents with a red, painful eye, photophobia, and blurred vision for the past 2 days. On examination, there is ciliary injection and fine keratic precipitates on the corneal endothelium. What is the most likely diagnosis?",
+      "options": {
+        "A": "Bacterial conjunctivitis",
+        "B": "Acute anterior uveitis",
+        "C": "Acute angle-closure glaucoma",
+        "D": "Episcleritis",
+        "E": "Corneal abrasion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acute anterior uveitis (iritis/iridocyclitis) is an acute inflammation of the iris and anterior ciliary body. Hallmarks include deep, dull aching eye pain, marked photophobia (due to painful ciliary muscle spasm upon light-induced accommodation), blurred vision, ciliary injection (circumcorneal/perilimbal flush), and keratic precipitates (KPs) on the corneal endothelium. Slit-lamp biomicroscopy reveals white blood cells and protein flare suspended in the anterior chamber.\n\nKERATIC PRECIPITATES (KPs) MORPHOLOGY:\n• Non-granulomatous KPs: Small, fine, punctate endothelial deposits (seen in HLA-B27 spondyloarthropathies, ankylosing spondylitis, reactive arthritis).\n• Granulomatous KPs: Large, greasy, 'mutton-fat' clusters (seen in Sarcoidosis, Tuberculosis, Syphilis, Vogt-Koyanagi-Harada syndrome).\n\nEXAM TRAP / DO NOT MISS: Initial management of acute anterior uveitis requires TWO classes of topical eye drops: (1) Intensive topical corticosteroids (e.g., prednisolone acetate 1%) to suppress inflammation, and (2) Cycloplegic/mydriatic agents (e.g., cyclopentolate, homatropine) to relieve ciliary spasm pain and prevent posterior synechiae formation.",
+      "optionExplanations": {
+        "A": "Bacterial conjunctivitis causes superficial diffuse conjunctival hyperemia that maximal in the fornices (not circumcorneal flush), mucopurulent discharge, and lacks keratic precipitates or photophobia.",
+        "B": "Correct. A red, painful, photophobic eye with ciliary injection and fine endothelial keratic precipitates indicates acute anterior uveitis (iritis).",
+        "C": "Acute angle-closure glaucoma presents with an extremely hard globe, severe headache/nausea, steamy corneal epithelial edema, and a fixed mid-dilated pupil with marked IOP elevation (>40–60 mmHg), rather than fine endothelial KPs.",
+        "D": "Episcleritis causes localized sectoral or diffuse bright red inflammation of the episcleral vascular plexus, blenches with topical phenylephrine 2.5%, and does not involve intraocular cells or KPs.",
+        "E": "Corneal abrasion presents with acute foreign body sensation and an epithelial defect staining brightly with fluorescein, without endothelial KPs."
+      },
+      "educationalObjective": "Recognize ciliary injection and endothelial keratic precipitates as diagnostic of acute anterior uveitis, requiring prompt topical corticosteroids and cycloplegics.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-022",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 7: Uvea & Uveitis",
+      "question": "The most common type of uveitis is:",
+      "options": {
+        "A": "Iritis",
+        "B": "Pars planitis",
+        "C": "Retinitis",
+        "D": "Vitritis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anterior uveitis (specifically iritis and iridocyclitis) is by far the most frequent anatomical form of intraocular inflammation, accounting for approximately 75% to 90% of all clinical uveitis presentations. Approximately 50% of acute anterior uveitis cases are associated with the HLA-B27 haplotype (ankylosing spondylitis, reactive arthritis, inflammatory bowel disease, psoriatic arthritis), while others are idiopathic or post-viral.\n\nANATOMICAL CLASSIFICATION OF UVEITIS (SUN Criteria):\n• Anterior Uveitis: Iris (Iritis) ± Anterior Ciliary Body (Iridocyclitis) → ~75% (Most common).\n• Intermediate Uveitis: Vitreous, Pars Plana (Pars planitis) → ~10%.\n• Posterior Uveitis: Choroid (Choroiditis) and/or Retina (Retinitis) → ~15%.\n• Panuveitis: All ocular layers simultaneously involved.\n\nEXAM TRAP / DO NOT MISS: In young children, chronic anterior uveitis associated with Juvenile Idiopathic Arthritis (JIA) is characteristically asymptomatic, white, and painless, leading to insidious band keratopathy, cataracts, and glaucoma if not detected through mandatory routine slit-lamp screening.",
+      "optionExplanations": {
+        "A": "Correct. Anterior uveitis (iritis/iridocyclitis) is the most common anatomical form of uveitis (roughly 75% or more of cases).",
+        "B": "Pars planitis (intermediate uveitis affecting the vitreous base and ciliary body pars plana, showing 'snowballs' and 'snowbanks') accounts for approximately 8% to 15% of cases.",
+        "C": "Retinitis (posterior uveitis primarily targeting the retina, such as CMV or toxoplasmosis) accounts for 15% to 20% of cases.",
+        "D": "Vitritis is an intraocular inflammatory manifestation common to intermediate and posterior uveitis, but is not the most frequent isolated uveitis diagnosis."
+      },
+      "educationalObjective": "Identify anterior uveitis (iritis) as the most prevalent anatomical subtype of intraocular inflammation, strongly associated with HLA-B27 spondyloarthropathies.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-023",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 8: Lens & Cataract",
+      "question": "Acute postoperative infective endophthalmitis usually occurs:",
+      "options": {
+        "A": "Within 12 hours",
+        "B": "Within 2 weeks",
+        "C": "After 2 weeks",
+        "D": "After 1 month"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acute postoperative endophthalmitis is a devastating bacterial infection of the vitreous and aqueous chambers following intraocular surgery (e.g., phacoemulsification). It classically manifests within the first 2 weeks postoperatively, with peak clinical onset occurring between postoperative days 3 and 7. Patients present with rapidly escalating ocular pain, profound visual decline, conjunctival injection, eyelid edema, marked anterior chamber cell and flare, hypopyon, and loss of the red reflex with vitreous haziness.\n\nMICROBIOLOGY OF POSTOPERATIVE ENDOPHTHALMITIS:\n• Acute (<2 weeks): Coagulase-negative Staphylococci (Staphylococcus epidermidis ~70%, most common; Staphylococcus aureus ~10–15%; Gram-negative rods ~6%).\n• Chronic (>6 weeks): Cutibacterium acnes (shows white intracapsular plaques).\n• Traumatic: Bacillus cereus (rapidly destructive fulminant ring abscess).\n\nEXAM TRAP / DO NOT MISS: Management requires immediate vitreous tap and injection of intravitreal broad-spectrum antibiotics (Vancomycin + Ceftazidime or Amikacin). According to the Endophthalmitis Vitrectomy Study (EVS), immediate pars plana vitrectomy is indicated if visual acuity is reduced to light perception (LP) only.",
+      "optionExplanations": {
+        "A": "Within 12 hours is too early for bacterial incubation; symptoms at 12 hours typically represent toxic anterior segment syndrome (TASS), a sterile inflammatory reaction to surgical instruments/solutions.",
+        "B": "Correct. Acute postoperative endophthalmitis classically presents within the first 2 weeks after surgery, with peak onset on postoperative days 3 to 7.",
+        "C": "Shared explanation for options C & D: Presentations occurring after 2 to 6 weeks or months postoperatively are classified as chronic or delayed-onset pseudophakic endophthalmitis, typically caused by low-virulence organisms like Cutibacterium (Propionibacterium) acnes or fungi.",
+        "D": "Shared explanation for options C & D: Presentations occurring after 2 to 6 weeks or months postoperatively are classified as chronic or delayed-onset pseudophakic endophthalmitis, typically caused by low-virulence organisms like Cutibacterium (Propionibacterium) acnes or fungi."
+      },
+      "educationalObjective": "Remember that acute postoperative endophthalmitis typically occurs within 1 to 2 weeks post-surgery, most commonly caused by Staphylococcus epidermidis, treated with urgent intravitreal antibiotics.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-024",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 8: Lens & Cataract",
+      "question": "The most common risk factor for cataract is:",
+      "options": {
+        "A": "Aging",
+        "B": "Diabetes mellitus",
+        "C": "Smoking",
+        "D": "Prolonged steroid use"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aging (senile cataract) is overwhelmingly the most common risk factor and leading cause of cataract and reversible blindness worldwide. With advancing age, cumulative oxidative stress, photo-oxidation from ultraviolet radiation, non-enzymatic glycation, and loss of glutathione antioxidant defenses result in aggregation of insoluble lens crystallin proteins, progressive compaction of the lens nucleus (nuclear sclerosis), and opacification.\n\nCATARACT MORPHOLOGIC TYPES & ASSOCIATIONS:\n• Nuclear Sclerosis: Aging, causes yellow-brown darkening and 'myopic shift' (second sight).\n• Cortical Cataract: Radial spoke-like opacities on red reflex, causes glare.\n• Posterior Subcapsular (PSC): Steroids, diabetes, young patients, causes severe glare in bright sunlight and near reading difficulty.\n\nEXAM TRAP / DO NOT MISS: Nuclear cataracts cause a myopic shift (lenticular myopia), where elderly patients temporarily notice they can read without reading glasses ('second sight') before progressive visual blur supervenes.",
+      "optionExplanations": {
+        "A": "Correct. Aging (senile cataract) is by far the most common risk factor for cataract.",
+        "B": "Diabetes mellitus is a significant secondary metabolic risk factor (associated with aldose reductase conversion of glucose to sorbitol, causing osmotic swelling and classic 'snowflake' cortical cataracts), but aging is far more prevalent.",
+        "C": "Cigarette smoking doubles the risk of nuclear sclerotic cataracts via free radical damage, but remains a secondary modifiable risk factor compared to chronological aging.",
+        "D": "Prolonged systemic or topical corticosteroid therapy specifically induces posterior subcapsular cataracts (PSC), but accounts for a small fraction compared to senile cataracts."
+      },
+      "educationalObjective": "Identify chronological aging as the primary risk factor for cataractogenesis, driven by protein oxidation and nuclear sclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-025",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 9: Glaucoma & IOP Dynamics",
+      "question": "All of the following are used to treat overproduction of aqueous humor EXCEPT:",
+      "options": {
+        "A": "Beta-blockers (Timolol)",
+        "B": "Carbonic anhydrase inhibitors (Acetazolamide)",
+        "C": "Alpha-2 agonists (Brimonidine)",
+        "D": "Prostaglandin analogs (Latanoprost)",
+        "E": "Systemic carbonic anhydrase inhibitors"
+      },
+      "correctAnswer": "D",
+      "explanation": "Prostaglandin F2α analogs (Latanoprost, Travoprost, Bimatoprost) reduce intraocular pressure exclusively by increasing uveoscleral outflow (and secondarily trabecular outflow). They bind to FP prostanoid receptors in the ciliary muscle, upregulating matrix metalloproteinases (MMPs) that remodel extracellular collagen between ciliary muscle bundles, facilitating non-conventional drainage. They have ZERO inhibitory effect on aqueous humor production.\n\nGLAUCOMA PHARMACOTHERAPY SUMMARY:\n• Decrease Production: Beta-blockers, Carbonic Anhydrase Inhibitors, Alpha-2 agonists.\n• Increase Outflow (Uveoscleral): Prostaglandin analogs (First-line for POAG), Alpha-2 agonists.\n• Increase Outflow (Trabecular): Cholinergic / Parasympathomimetics (Pilocarpine), Rho kinase inhibitors (Netarsudil).\n\nEXAM TRAP / DO NOT MISS: Prostaglandin analogs cause irreversible hypertrichosis of eyelashes, increased brown pigmentation of the iris (due to increased melanogenesis, not melanocyte proliferation), and periocular skin darkening.",
+      "optionExplanations": {
+        "A": "Beta-adrenergic antagonists (Timolol, Betaxolol) block beta-2 receptors on non-pigmented ciliary epithelium, decreasing intracellular cAMP and suppressing aqueous secretion by ~25–30%.",
+        "B": "Shared explanation for options B & E: Carbonic anhydrase inhibitors (topical Dorzolamide/Brinzolamide, systemic Acetazolamide/Methazolamide) inhibit carbonic anhydrase II in ciliary epithelial cells, blocking bicarbonate and aqueous production.",
+        "C": "Alpha-2 adrenergic agonists (Brimonidine, Apraclonidine) have a dual mechanism: they decrease aqueous humor production (via Gi protein inhibition of adenylate cyclase) AND mildly enhance uveoscleral outflow.",
+        "D": "Correct (this is NOT used to reduce aqueous production). Prostaglandin analogs lower IOP by increasing uveoscleral outflow and have no inhibitory effect on aqueous humor production.",
+        "E": "Shared explanation for options B & E: Carbonic anhydrase inhibitors (topical Dorzolamide/Brinzolamide, systemic Acetazolamide/Methazolamide) inhibit carbonic anhydrase II in ciliary epithelial cells, blocking bicarbonate and aqueous production."
+      },
+      "educationalObjective": "Distinguish medications that suppress aqueous humor synthesis (beta-blockers, CAIs, alpha-2 agonists) from prostaglandin analogs, which lower IOP exclusively by enhancing uveoscleral outflow.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-026",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 9: Glaucoma & IOP Dynamics",
+      "question": "Which of the following is FALSE regarding glaucoma?",
+      "options": {
+        "A": "Optic nerve damage can occur",
+        "B": "Optic disc cupping may occur",
+        "C": "Visual acuity is often preserved in early disease",
+        "D": "Visual acuity decreases early",
+        "E": "Untreated glaucoma can lead to blindness"
+      },
+      "correctAnswer": "D",
+      "explanation": "In chronic open-angle glaucoma (POAG), retinal ganglion cell apoptosis preferentially affects nerve fibers entering the superior and inferior poles of the optic nerve head (the ISNT rule violation). This produces peripheral visual field defects—specifically arcuate Bjerrum scotomas, nasal steps, and paracentral scotomas. Central visual acuity (subserved by the papillomacular bundle) is exquisitely PRESERVED until end-stage disease. Patients often maintain 6/6 (20/20) visual acuity until advanced tunnel vision or total blindness occurs. Therefore, visual acuity does NOT decrease early.\n\nPROGRESSION OF GLAUCOMA VISUAL FIELD LOSS:\n1. Isolated paracentral scotomas / Nasal step (earliest).\n2. Arcuate (Bjerrum) scotoma arching from blind spot.\n3. Ring / Altitudinal field loss.\n4. Constricted central 'tunnel vision'.\n5. Extinction of central island → Complete blindness.\n\nEXAM TRAP / DO NOT MISS: Normal central Snellen visual acuity does NOT rule out severe glaucomatous optic nerve damage. Periodic automated perimetry (visual fields) and OCT of the retinal nerve fiber layer (RNFL) are required for detection.",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & B: Glaucoma is defined as a chronic progressive optic neuropathy characterized by structural excavation and cupping of the optic nerve head (cup-to-disc ratio >0.5 or asymmetry >0.2) and loss of the neuroretinal rim.",
+        "B": "Shared explanation for options A & B: Glaucoma is defined as a chronic progressive optic neuropathy characterized by structural excavation and cupping of the optic nerve head (cup-to-disc ratio >0.5 or asymmetry >0.2) and loss of the neuroretinal rim.",
+        "C": "Visual acuity remains completely normal in early-to-moderate POAG, which is why POAG is notoriously dubbed the 'silent thief of sight.'",
+        "D": "Correct (this is the FALSE statement). Central visual acuity is usually preserved until late in open-angle glaucoma, because peripheral visual field loss comes first.",
+        "E": "If left untreated, progressive apoptotic death of all retinal ganglion cell axons culminates in total optic atrophy and irreversible bilateral blindness."
+      },
+      "educationalObjective": "Understand that open-angle glaucoma initially spares central visual acuity while silently eroding mid-peripheral visual fields, making screening tonometry and fundoscopy essential.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-027",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 9: Glaucoma & IOP Dynamics",
+      "question": "Which of the following is used to assess the iridocorneal angle?",
+      "options": {
+        "A": "Perimetry",
+        "B": "Direct ophthalmoscopy",
+        "C": "Gonioscopy",
+        "D": "Fluorescein angiography"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gonioscopy is the gold-standard clinical diagnostic procedure used to directly visualize and evaluate the iridocorneal anterior chamber angle. Light reflected from the angle structures strikes the corneal-air interface at an angle exceeding the critical angle (~46°), resulting in total internal reflection that renders the angle invisible during standard slit-lamp examination. A goniolens (e.g., Goldmann, Zeiss, Posner) places a contact element with a refractive index similar to the cornea, eliminating total internal reflection and allowing direct or mirrored stereoscopic assessment to distinguish open-angle from angle-closure glaucoma.\n\nGONIOSCOPIC ANATOMY (Posterior to Anterior):\n1. Ciliary body band (deep brown/gray).\n2. Scleral spur (prominent white line; anchor for ciliary muscle).\n3. Trabecular meshwork (filtering pigmented posterior + non-pigmented anterior).\n4. Schwalbe's line (termination of Descemet's membrane).\n\nEXAM TRAP / DO NOT MISS: Dynamic (indentation) gonioscopy using a Zeiss 4-mirror lens applies gentle pressure to displace aqueous humor laterally into the angle, distinguishing appositional angle closure (which opens) from synechial angle closure (peripheral anterior synechiae, which remain adherent).",
+      "optionExplanations": {
+        "A": "Perimetry (automated Humphrey visual field testing) quantifies retinal sensitivity and maps peripheral visual field defects.",
+        "B": "Direct ophthalmoscopy evaluates the central retina, optic disc, and macula with high magnification and a narrow (5°) field of view, but cannot visualize the anterior chamber angle.",
+        "C": "Correct. Gonioscopy, performed with a goniolens, directly visualizes the iridocorneal angle and distinguishes open-angle from angle-closure glaucoma.",
+        "D": "Fluorescein angiography evaluates the retinal and choroidal vasculature via intravenous sodium fluorescein dye."
+      },
+      "educationalObjective": "Identify gonioscopy as the definitive diagnostic tool used to visualize the iridocorneal drainage angle, essential for classifying glaucoma into open-angle versus angle-closure forms.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-028",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "Which of the following is NOT seen in HTN retinopathy?",
+      "options": {
+        "A": "Cotton wool spots",
+        "B": "Copper wiring",
+        "C": "Arteriovenous nicking",
+        "D": "Decrease corneal sensation",
+        "E": "Flame-shaped hemorrhages"
+      },
+      "correctAnswer": "D",
+      "explanation": "Decreased corneal sensation is a neurotrophic sign resulting from lesion or destruction of the ophthalmic branch of the trigeminal nerve (CN V1), classically observed in Herpes Simplex Virus (HSV) or Varicella Zoster Virus (VZV) keratitis, acoustic neuroma, or diabetic neurotrophic keratopathy. It is never a feature of hypertensive retinopathy. Hypertensive retinopathy is characterized entirely by retinal microvascular changes in response to acute or chronic systemic blood pressure elevation.\n\nKEITH-WAGENER-BARKER HYPERTENSIVE RETINOPATHY GRADING:\n• Grade 1: Mild generalized arteriolar narrowing / attenuation.\n• Grade 2: Focal constriction + AV nicking (Salus/Gunn signs).\n• Grade 3: Flame hemorrhages + Cotton wool spots + Hard exudates (Macular star).\n• Grade 4: All of Grade 3 + Papilledema (Optic disc swelling) → Hypertensive Emergency.\n\nEXAM TRAP / DO NOT MISS: When a patient with malignant hypertension presents with Grade 4 retinopathy (optic disc swelling), blood pressure must be reduced gradually (by ~20–25% in the first few hours) to avoid precipitating cerebral, myocardial, or optic nerve infarction.",
+      "optionExplanations": {
+        "A": "Cotton wool spots represent microinfarctions of the retinal nerve fiber layer due to arteriolar precapillary occlusion, halting axoplasmic flow.",
+        "B": "Copper and silver wiring reflect diffuse arteriolosclerosis with thickening and opacification of the arteriolar wall, increasing the light reflex.",
+        "C": "Arteriovenous (AV) nicking (Gunn's sign) occurs where thick, sclerotic arterioles compress thin-walled venules within their shared adventitial sheath.",
+        "D": "Correct (this is NOT seen). Decreased corneal sensation reflects trigeminal (CN V1) pathology and is not a feature of hypertensive retinopathy, which causes retinal vascular changes.",
+        "E": "Flame-shaped hemorrhages reside in the superficial retinal nerve fiber layer, tracking horizontally along the parallel orientation of axon bundles."
+      },
+      "educationalObjective": "Recall that hypertensive retinopathy manifests with vascular changes (AV nicking, copper wiring, flame hemorrhages, cotton wool spots), whereas decreased corneal sensation indicates trigeminal nerve pathology.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-029",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "Which of the following is the EARLIEST manifestation of DM retinopathy?",
+      "options": {
+        "A": "Flame hemorrhage",
+        "B": "Dot hemorrhage",
+        "C": "Hard exudate",
+        "D": "Microaneurysms"
+      },
+      "correctAnswer": "D",
+      "explanation": "Microaneurysms are the earliest clinically and ophthalmoscopically visible lesions in non-proliferative diabetic retinopathy (NPDR). Chronic hyperglycemia induces non-enzymatic glycation, oxidative stress, and sorbitol pathway activation, causing selective apoptosis of retinal capillary pericytes (the supporting contractile cells of the capillary wall). Loss of pericyte-mediated structural stability, coupled with capillary basement membrane thickening, leads to localized weakening and focal saccular outpouchings of the capillary lumen (15–50 µm diameter), seen as tiny red dots on fundoscopy.\n\nSTAGES OF DIABETIC RETINOPATHY:\n1. Mild NPDR: Microaneurysms only.\n2. Moderate NPDR: Microaneurysms + Dot/blot hemorrhages + Hard exudates + Cotton wool spots.\n3. Severe NPDR (4-2-1 Rule): Diffuse hemorrhages in 4 quadrants, OR venous beading in ≥2 quadrants, OR IRMA in ≥1 quadrant.\n4. Proliferative (PDR): Neovascularization of the disc (NVD) or elsewhere (NVE) ± Vitreous hemorrhage.\n\nEXAM TRAP / DO NOT MISS: The leading cause of vision loss in patients with diabetic retinopathy (both NPDR and PDR) is Diabetic Macular Edema (DME), treated primarily with intravitreal anti-VEGF injections (e.g., Aflibercept, Ranibizumab).",
+      "optionExplanations": {
+        "A": "Flame hemorrhages occur in the superficial nerve fiber layer later as retinal ischemia and arteriolar changes worsen.",
+        "B": "Dot and blot hemorrhages arise in the deeper, middle retinal layers (inner nuclear and outer plexiform layers) when microaneurysms rupture; they occur concurrently with or slightly after microaneurysms.",
+        "C": "Hard exudates are yellow, waxy lipid and lipoprotein deposits that precipitate in the outer plexiform layer due to chronic, ongoing vascular hyperpermeability from incompetent microaneurysms.",
+        "D": "Correct. Microaneurysms, caused by loss of retinal capillary pericytes, are the earliest clinically visible lesion of diabetic retinopathy."
+      },
+      "educationalObjective": "Identify retinal capillary microaneurysms resulting from pericyte loss as the earliest clinical manifestation of diabetic retinopathy.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-030",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "The best investigation for vitreous hemorrhage when the retina cannot be visualized is:",
+      "options": {
+        "A": "Ultrasound (B-scan)",
+        "B": "OCT",
+        "C": "Fluorescein angiography",
+        "D": "CT orbit"
+      },
+      "correctAnswer": "A",
+      "explanation": "When dense media opacities such as a dense vitreous hemorrhage obscure optical fundus visualization on direct/indirect ophthalmoscopy and slit-lamp biomicroscopy, B-scan ophthalmic ultrasonography (Brightness scan) is the essential diagnostic gold standard. High-frequency sound waves (10–12 MHz) penetrate the opaque blood, providing a real-time, cross-sectional acoustic representation of the posterior segment to detect or rule out underlying sight-threatening emergencies such as retinal tears, rhegmatogenous retinal detachment (RD), choroidal melanoma, or posterior scleritis.\n\nULTRASOUND MODES IN OPHTHALMOLOGY:\n• A-Scan (Amplitude): 1D vector measuring axial length for intraocular lens (IOL) power calculation prior to cataract surgery.\n• B-Scan (Brightness): 2D cross-sectional anatomic imaging of posterior segment when media are opaque (dense cataract, corneal scar, vitreous hemorrhage).\n\nEXAM TRAP / DO NOT MISS: A patient with high myopia or diabetic retinopathy presenting with acute vitreous hemorrhage MUST receive an immediate B-scan ultrasound to exclude an underlying retinal detachment before scheduling observation.",
+      "optionExplanations": {
+        "A": "Correct. B-scan ultrasonography images the posterior segment through opaque media such as dense vitreous hemorrhage and can exclude retinal detachment.",
+        "B": "Optical Coherence Tomography (OCT) uses light waves (~840 nm) and is completely blocked by blood or dense media opacities, rendering it unusable.",
+        "C": "Fundus fluorescein angiography (FFA) relies on optical light transmission and photographic imaging, which cannot penetrate dense vitreous blood.",
+        "D": "CT scan has inferior soft-tissue spatial resolution for intraocular membranes and exposes the patient to unnecessary ionizing radiation."
+      },
+      "educationalObjective": "Recognize B-scan ultrasonography as the investigation of choice to visualize posterior segment anatomy and exclude retinal detachment when dense vitreous hemorrhage precludes optical funduscopy.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-031",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "Retinal detachment is a separation between:",
+      "options": {
+        "A": "The photoreceptor layer and retinal pigment epithelium",
+        "B": "The neurosensory retina and retinal pigment epithelium",
+        "C": "The retina and choroid",
+        "D": "The retina and vitreous cortex"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anatomically and embryologically, a retinal detachment is the physical separation of the 9-layered neurosensory retina from the underlying monolayer of the Retinal Pigment Epithelium (RPE). During embryogenesis, the optic vesicle invaginates to form a double-walled optic cup; the outer layer becomes the RPE, and the inner layer differentiates into the neurosensory retina. The interface between these two layers is an embryonic potential space devoid of junctional complexes (desmosomes), maintained solely by mucopolysaccharide ground substance and active RPE fluid pumping. When this adhesion fails, fluid collects in the subretinal space, starving photoreceptors of their RPE vascular/metabolic support.\n\nTHREE MAIN TYPES OF RETINAL DETACHMENT:\n1. Rhegmatogenous: Full-thickness retinal break/tear (rhegma) allows liquefied vitreous into subretinal space (Most common, high myopia/trauma).\n2. Tractional: Fibrovascular membranes contract and pull neurosensory retina off RPE (Proliferative diabetic retinopathy).\n3. Exudative / Serous: Subretinal fluid accumulation without breaks or traction (Choroidal melanoma, Vogt-Koyanagi-Harada, severe preeclampsia).\n\nEXAM TRAP / DO NOT MISS: The outer third of the neurosensory retina (including photoreceptor rod and cone outer segments) has no intrinsic capillaries and relies entirely on diffusion from the choriocapillaris across the RPE; detachment causes rapid photoreceptor ischemia and permanent vision loss if not reattached promptly.",
+      "optionExplanations": {
+        "A": "While photoreceptors outer segments interdigitate with microvilli of the RPE, the clinical separation involves the entire neurosensory retina as an intact sheet.",
+        "B": "Correct. Retinal detachment is the separation of the neurosensory retina from the retinal pigment epithelium.",
+        "C": "Separation of the retina + RPE from the underlying choroid or sclera is termed choroidal detachment (ciliochoroidal effusion).",
+        "D": "Separation of the posterior vitreous cortex from the internal limiting membrane of the retina is termed Posterior Vitreous Detachment (PVD), a common age-related event that precedes retinal tears."
+      },
+      "educationalObjective": "Define retinal detachment as the separation of the neurosensory retina from the retinal pigment epithelium at the embryonic subretinal potential space.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-032",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "Which of the following isn't true about retinoblastoma?",
+      "options": {
+        "A": "Leukocoria",
+        "B": "Painful red eye",
+        "C": "Most common malignant intraocular tumor in children",
+        "D": "Causes are only sporadic"
+      },
+      "correctAnswer": "D",
+      "explanation": "Retinoblastoma is NOT exclusively sporadic. Approximately 40% of cases are hereditary (germline), resulting from an inherited germline mutation in one allele of the RB1 tumor suppressor gene on chromosome 13q14, inherited in an autosomal dominant pattern with ~90% penetrance. A second somatic mutation ('two-hit hypothesis' of Knudson) leads to neoplastic transformation. Hereditary cases are typically bilateral, multifocal, present at an earlier age (<12 months), and carry a high lifetime risk of second non-ocular malignancies (osteosarcoma, pinealoblastoma). The remaining 60% of cases are non-hereditary somatic/sporadic (unilateral, unifocal).\n\nPATHOLOGY & ONCOLOGY HIGHLIGHTS:\n• Histology: Flexner-Wintersteiner rosettes (pathognomonic, clusters of cuboidal tumor cells surrounding a central lumen representing photoreceptor differentiation) and Homer-Wright rosettes.\n• Trilateral Retinoblastoma: Bilateral retinoblastoma associated with pinealoblastoma (intracranial neuroblastic tumor).\n\nEXAM TRAP / DO NOT MISS: Biopsy of a suspected retinoblastoma is strictly CONTRAINDICATED due to the catastrophic risk of extraocular tumor seeding along the needle track. Diagnosis is established non-invasively via dilated indirect fundoscopy, ultrasonography (calcification), and MRI.",
+      "optionExplanations": {
+        "A": "Leukocoria ('white pupillary reflex' or cat's eye reflex) is the most common presenting sign (~60%), followed closely by strabismus (~20%).",
+        "B": "Advanced retinoblastoma can present as a painful red eye due to secondary neovascular glaucoma, tumor necrosis, anterior chamber seeding (pseudohypopyon), or orbital cellulitis-like inflammation.",
+        "C": "Retinoblastoma is undeniably the most common primary malignant intraocular tumor of infancy and childhood (incidence ~1 in 15,000– 20,000 live births).",
+        "D": "Correct (this is the statement that is NOT true). About 40% of retinoblastoma cases are hereditary (germline RB1 mutation), so the causes are not only sporadic."
+      },
+      "educationalObjective": "Recognize that retinoblastoma can be hereditary (germline RB1 mutation, AD inheritance, bilateral) or sporadic (somatic, unilateral), presenting with leukocoria and strabismus.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-033",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "Which of the following is NOT true about age-related macular degeneration?",
+      "options": {
+        "A": "Drusen accumulation above RPE",
+        "B": "Caused by pigment disorders of RPE and Bruch's membrane",
+        "C": "Usually doesn't require treatment",
+        "D": "Affects peripheral vision"
+      },
+      "correctAnswer": "A",
+      "explanation": "NOTE (multiple-correct question): the source answer key accepts BOTH A and D as correct. correctAnswer is recorded as \"A\"; option D is also correct according to the source key.\n\nStatements A and D are BOTH factually false, which the official examination key recognized: (1) Drusen are focal extracellular collections of lipid, apolipoproteins, and cellular debris that accumulate BELOW the RPE, specifically situated between the basal lamina of the RPE and the inner collagenous layer of Bruch's membrane (not above the RPE). (2) Age-Related Macular Degeneration (AMD) selectively damages the central macula and fovea, leading to central scotomas, metamorphopsia, and loss of fine reading acuity, while characteristically sparing the peripheral visual field.\n\nDRY VS. WET AMD:\n• Dry (Non-neovascular / Atrophic) ~90%: Drusen accumulation between RPE and Bruch's membrane, RPE atrophy, slow gradual central vision loss. Tx: AREDS2 vitamins, lifestyle.\n• Wet (Neovascular / Exudative) ~10%: Choroidal neovascular membrane (CNVM) penetrates Bruch's membrane → subretinal hemorrhage and fluid → rapid, acute distortion (metamorphopsia). Tx: Intravitreal anti-VEGF injections.\n\nEXAM TRAP / DO NOT MISS: Patients with intermediate dry AMD use an Amsler grid daily; sudden onset of wavy lines (metamorphopsia) signals urgent conversion to wet AMD requiring anti-VEGF therapy within days.",
+      "optionExplanations": {
+        "A": "Correct (this is a false statement, accepted by the source key). Drusen accumulate beneath the RPE, between the RPE basal lamina and the inner collagenous layer of Bruch's membrane, not above the RPE.",
+        "B": "Pathologically, dry AMD is initiated by metabolic dysfunction, lipofuscin accumulation, and progressive degeneration of the RPE and Bruch's membrane, culminating in geographic atrophy.",
+        "C": "Early/intermediate dry AMD currently has no curative treatment and usually requires observation, dietary antioxidant supplementation (AREDS2 formulation), and home Amsler grid self-monitoring, rather than active procedural treatment.",
+        "D": "Correct (this is a false statement, accepted by the source key). AMD damages the central macula and spares the peripheral visual field."
+      },
+      "educationalObjective": "Master AMD characteristics: drusen accumulate below the RPE (above Bruch's membrane) and pathology selectively destroys central macular vision while leaving peripheral vision intact.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-034",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "A patient presents with sudden floaters and flashing lights in the right eye for 2 days, and now reports a dark 'curtain' across vision with progressive visual loss. There is no eye pain or redness. What is the most likely diagnosis?",
+      "options": {
+        "A": "Vitreous hemorrhage",
+        "B": "Retinal detachment",
+        "C": "Acute angle-closure glaucoma",
+        "D": "Posterior vitreous detachment"
+      },
+      "correctAnswer": "B",
+      "explanation": "This patient presents with the classic, textbook sequence of a rhegmatogenous retinal detachment (RRD): (1) Photopsias (flashing lights) caused by dynamic vitreoretinal mechanical traction stimulating photoreceptors, (2) Floaters (cobwebs/spots) resulting from condensed collagen fibers or red blood cells from a torn bridging retinal vessel, and (3) a progressive, non-translucent dark 'curtain' or shadow descending across the peripheral visual field that advances toward the center as subretinal fluid dissects the neurosensory retina away from the RPE. The absence of pain and redness is typical.\n\nRHEGMATOGENOUS RD SURGICAL INTERVENTIONS:\n• Pneumatic Retinopexy: Intravitreal gas bubble (SF6 or C3F8) + cryopexy/laser for superior, single breaks.\n• Scleral Buckling: Silicone explant sutured to sclera to indent eyewall and relieve vitreous traction.\n• Pars Plana Vitrectomy (PPV): Removal of vitreous traction, fluid-air exchange, endolaser, and gas/silicone oil tamponade.\n\nEXAM TRAP / DO NOT MISS: In retinal detachment, 'Macula-ON' (central visual acuity still preserved) is a true surgical emergency; immediate repair within 24 hours prevents foveal detachment and preserves excellent visual acuity.",
+      "optionExplanations": {
+        "A": "Isolated vitreous hemorrhage causes diffuse floaters and haziness/reddish tint across the entire field, but does not cause a progressing anatomical 'curtain' unless complicated by underlying retinal detachment.",
+        "B": "Correct. Photopsias, floaters and a progressive painless dark 'curtain' over the visual field are the classic presentation of rhegmatogenous retinal detachment.",
+        "C": "Acute angle-closure glaucoma causes excruciating periocular pain, nausea, vomiting, corneal edema, and a fixed mid-dilated pupil with marked conjunctival injection.",
+        "D": "Posterior vitreous detachment (PVD) produces flashes and floaters (e.g., Weiss ring), but does NOT cause a progressive visual field defect or dark curtain unless a full-thickness retinal tear and detachment ensue."
+      },
+      "educationalObjective": "Recognize the classic triad of photopsia, floaters, and a progressive painless peripheral visual 'curtain' as indicative of rhegmatogenous retinal detachment.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-035",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 10: Retina, Vitreous & Choroid",
+      "question": "What is used to examine the retina with a WIDE field of view?",
+      "options": {
+        "A": "Indirect ophthalmoscope",
+        "B": "Direct ophthalmoscope",
+        "C": "Exophthalmometer",
+        "D": "Tonometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The binocular indirect ophthalmoscope (BIO), used in conjunction with a high-plus condensing lens (e.g., +20 D or +28 D), provides a panoramic, wide-field (~25° to 60°) stereoscopic view of the entire retina, reaching anteriorly to the equator and ora serrata (facilitated by scleral indentation/depression). The image produced is real, inverted (upside-down), and reversed (left-to-right).\n\nCOMPARISON: DIRECT VS. INDIRECT OPHTHALMOSCOPY:\n• Direct Ophthalmoscope: Magnification ~15x, Field of view ~5° (Narrow), Image: Virtual & Erect, Monocular (No depth).\n• Indirect Ophthalmoscope: Magnification ~3–5x, Field of view ~25–60° (Wide), Image: Real & Inverted/Reversed, Binocular (Stereoscopic depth).\n\nEXAM TRAP / DO NOT MISS: Because the indirect ophthalmoscope inverts and reverses the image, a retinal tear visualized in the top-right quadrant of the lens is anatomically located in the inferior-nasal quadrant of the patient's retina.",
+      "optionExplanations": {
+        "A": "Correct. The binocular indirect ophthalmoscope gives a wide-field (about 25-60 degrees), stereoscopic view of the retina.",
+        "B": "The direct ophthalmoscope provides high magnification (~15x) but has an extremely narrow field of view (~5°), cannot see the peripheral retina, and provides no stereoscopic (3D) depth perception.",
+        "C": "An exophthalmometer (e.g., Hertel) measures the degree of forward globe protrusion (proptosis) from the lateral orbital rim.",
+        "D": "A tonometer (e.g., Goldmann applanation) measures intraocular pressure (IOP)."
+      },
+      "educationalObjective": "Differentiate indirect ophthalmoscopy (wide-field, binocular stereopsis, inverted image, peripheral visualization) from direct ophthalmoscopy (narrow-field, high magnification, upright image).",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-036",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "A patient with thyroid eye disease presents with limitation of elevation in the right eye. The forced duction test is positive. This finding indicates:",
+      "options": {
+        "A": "Excludes thyroid eye disease",
+        "B": "Suggests myasthenia gravis",
+        "C": "Indicates restrictive extraocular muscle involvement due to thyroid eye disease",
+        "D": "Suggests sixth nerve palsy"
+      },
+      "correctAnswer": "C",
+      "explanation": "A positive forced duction test (FDT)—wherein the examiner attempts to passively grasp the anesthetized sclera at the limbus with toothed forceps and physically rotate the globe, but meets mechanical resistance—unequivocally proves a mechanical/physical restriction rather than a paretic/neurogenic deficit. In Thyroid Eye Disease (Graves' orbitopathy), autoimmune T-cell infiltration stimulates orbital fibroblasts to produce glycosaminoglycans (hyaluronic acid), leading to muscle belly hypertrophy and subsequent fibrotic contracture. Because the inferior rectus is the most frequently affected muscle (~60–70%), it becomes tight and fibrotic, physically tethering the globe downward and preventing passive and active elevation.\n\nFORCED DUCTION TEST (FDT) INTERPRETATION:\n• Positive FDT (Resistance / Cannot move): Mechanical restriction (Thyroid Eye Disease fibrosis, orbital blowout fracture entrapment, Brown syndrome).\n• Negative FDT (Free movement): Neuromuscular / Paretic (Cranial nerve palsies, Myasthenia Gravis, central gaze palsies).\n\nEXAM TRAP / DO NOT MISS: Extraocular muscle enlargement in Thyroid Eye Disease characteristically spares the muscle tendons ('fusiform belly enlargement'), whereas orbital myositis/idiopathic orbital inflammatory syndrome involves BOTH the muscle bellies and the tendons.",
+      "optionExplanations": {
+        "A": "A positive FDT strongly confirms and supports thyroid restrictive orbitopathy rather than excluding it.",
+        "B": "Myasthenia gravis is a neuromuscular junction transmission defect; it causes a NEGATIVE forced duction test (the eye rotates freely without mechanical tethering).",
+        "C": "Correct. A positive forced duction test proves mechanical restriction, here from fibrotic, tight extraocular muscle (usually the inferior rectus) in thyroid eye disease.",
+        "D": "Sixth nerve palsy causes an abducens nerve motor defect with deficient abduction, and the forced duction test is typically negative initially (until long-standing medial rectus contracture occurs)."
+      },
+      "educationalObjective": "Differentiate restrictive myopathy (positive forced duction test due to tight fibrotic inferior rectus) from paretic/neurologic etiologies (negative forced duction test) in Thyroid Eye Disease.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-037",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "Which finding in active thyroid eye disease is sight-threatening and requires urgent intervention?",
+      "options": {
+        "A": "Chemosis",
+        "B": "Conjunctival injection",
+        "C": "Restrictive myopathy",
+        "D": "Proptosis",
+        "E": "Optic neuropathy"
+      },
+      "correctAnswer": "E",
+      "explanation": "Dysthyroid Optic Neuropathy (DON) is the most critical, sight-threatening complication of thyroid eye disease, occurring in ~5% of patients. It results from massive hypertrophy of the extraocular muscle bellies (especially the medial and inferior recti) crowding the rigid, non-distensible orbital apex. This anatomical apical crowding mechanically compresses the optic nerve and compromises its microvascular blood supply, causing insidious, painless progressive visual loss, red-green dyschromatopsia, visual field defects, and an afferent pupillary defect. Immediate treatment with high-dose intravenous pulse methylprednisolone and/or urgent surgical orbital decompression is required to avert permanent optic atrophy and blindness.\n\nCLINICAL RED FLAGS FOR DYSTHYROID OPTIC NEUROPATHY (DON):\n1. Reduced best-corrected visual acuity.\n2. Impaired color vision (desaturation of red objects on Ishihara plates).\n3. Relative Afferent Pupillary Defect (RAPD) in unilateral or asymmetric disease.\n4. Apical crowding on CT/MRI orbit with optic nerve compression.\n\nEXAM TRAP / DO NOT MISS: DON can occur in patients with minimal or absent proptosis ('tight orbits' where orbital fat/muscles cannot expand anteriorly, shunting all pressure backward onto the orbital apex).",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & B: Conjunctival injection and chemosis (edema) represent soft tissue inflammatory signs that cause ocular discomfort but do not directly threaten sight.",
+        "B": "Shared explanation for options A & B: Conjunctival injection and chemosis (edema) represent soft tissue inflammatory signs that cause ocular discomfort but do not directly threaten sight.",
+        "C": "Restrictive myopathy causes disabling diplopia and strabismus, but does not cause acute permanent vision loss.",
+        "D": "Proptosis produces cosmetic disfigurement and corneal exposure risk, but is not an immediate compressive sight-threatening emergency like DON.",
+        "E": "Correct. Dysthyroid optic neuropathy, caused by compression of the optic nerve at the crowded orbital apex, is the sight-threatening complication that needs urgent treatment."
+      },
+      "educationalObjective": "Identify compressive optic neuropathy as the primary sight-threatening emergency in Thyroid Eye Disease, requiring immediate intravenous pulse steroids or orbital apex decompression.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-038",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "A patient presents with bilateral proptosis. Which finding suggests a vascular rather than a neoplastic cause?",
+      "options": {
+        "A": "Blinking occurs during coughing",
+        "B": "Inferonasal proptosis",
+        "C": "The proptosis grows slowly over time",
+        "D": "The proptosis increases during the Valsalva maneuver"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dynamic, episodic proptosis that acutely exacerbates or becomes prominent during activities that elevate intraorbital and systemic venous pressure—such as the Valsalva maneuver, coughing, straining, crying, or dependent head positioning (bending forward)—is the hallmark of a low-flow orbital vascular malformation, classically an orbital venous varix. When venous pressure normalizes, blood drains freely into the systemic venous system, and the proptosis rapidly collapses or regresses. Neoplastic masses (e.g., orbital schwannoma, meningioma, metastasis) possess constant solid tumor volume unaffected by acute venous pressure fluctuations.\n\nDYNAMIC PROPTOSIS SIGNPOSTS:\n• Proptosis with Valsalva / Bending: Orbital venous varix (non-pulsatile, venous engorgement).\n• Pulsatile Proptosis with Bruit: Carotid-cavernous fistula (high-flow AV shunt) or orbital roof defect (neurofibromatosis type 1 transmission of CSF pulsations).\n\nEXAM TRAP / DO NOT MISS: Routine non-contrast orbital CT performed in the supine position may completely miss an orbital varix because the collapsed venous channels mimic normal orbital fat; dynamic CT scanning with a Valsalva maneuver or prone positioning is diagnostic.",
+      "optionExplanations": {
+        "A": "Blinking during coughing is a non-specific physiological reflex with no diagnostic significance for vascular lesions.",
+        "B": "Inferonasal displacement indicates an expanding superotemporal space-occupying lesion (such as a lacrimal gland tumor or dermoid cyst), typical of neoplasia or cysts rather than vascular etiology.",
+        "C": "Slow, insidious growth over months to years is characteristic of benign neoplasms (e.g., cavernous hemangioma, optic nerve sheath meningioma), not low-flow dynamic vascular varices.",
+        "D": "Correct. Proptosis that increases with Valsalva or bending forward points to a low-flow orbital venous lesion such as an orbital varix."
+      },
+      "educationalObjective": "Recognize that proptosis triggered or exacerbated by the Valsalva maneuver or dependent head posture points definitively to an orbital vascular lesion, classically an orbital venous varix.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-039",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "Unilateral pulsating proptosis, chemosis, and an audible bruit are seen in:",
+      "options": {
+        "A": "Carotid-cavernous fistula",
+        "B": "Cavernous hemangioma",
+        "C": "Optic nerve glioma",
+        "D": "Thyroid eye disease",
+        "E": "Retinoblastoma"
+      },
+      "correctAnswer": "A",
+      "explanation": "The classic, unmistakable triad of pulsatile proptosis, marked conjunctival chemosis with engorged corkscrew 'caput medusae' episcleral vessels, and a systolic orbital bruit (which the patient hears as a whooshing sound and the clinician can auscultate over the globe/temple) is pathognomonic for a direct (high-flow) Carotid-Cavernous Fistula (CCF). A direct CCF involves an abnormal tear or communication between the intracavernous internal carotid artery and the cavernous sinus (often following basal skull trauma). High-pressure arterial blood rushes into the low-pressure venous sinus, reversing venous flow into the superior and inferior ophthalmic veins.\n\nDIRECT VS. INDIRECT CCF:\n• Direct (Type A): High-flow, post-traumatic, internal carotid directly into cavernous sinus. Sudden, severe, pulsatile proptosis, chemosis, bruit. Tx: Endovascular transarterial/transvenous coil embolization.\n• Indirect (Dural, Types B, C, D): Low-flow, spontaneous in postmenopausal hypertensive females, meningeal arterial branches into sinus. Milder, subtle red eye, elevated IOP, often misdiagnosed as chronic conjunctivitis.\n\nEXAM TRAP / DO NOT MISS: Patients with CCF frequently develop secondary glaucoma due to marked elevation of episcleral venous pressure; standard outflow drugs fail because episcleral pressure exceeds 25–30 mmHg.",
+      "optionExplanations": {
+        "A": "Correct. Pulsatile proptosis, chemosis and an audible orbital bruit are the classic triad of a (direct, high-flow) carotid-cavernous fistula.",
+        "B": "Cavernous hemangioma (cavernous venous malformation) is the most common benign orbital tumor in adults; it produces slowly progressive, axial, painless, non-pulsatile proptosis without a bruit.",
+        "C": "Optic nerve glioma produces painless axial proptosis and progressive optic atrophy, typically in pediatric patients with Neurofibromatosis Type 1 (NF1), without pulsatility or bruit.",
+        "D": "Thyroid eye disease causes non-pulsatile proptosis, lid retraction, and restrictive strabismus without arterialized vessels or bruits.",
+        "E": "Retinoblastoma is an intraocular malignancy in infants presenting with leukocoria, not an orbital arteriovenous fistula."
+      },
+      "educationalObjective": "Identify the clinical triad of pulsatile proptosis, chemosis with corkscrew episcleral vessels, and an audible orbital bruit as diagnostic of a high-flow carotid-cavernous fistula.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-040",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "The location most susceptible to fracture in blowout trauma:",
+      "options": {
+        "A": "Lateral wall",
+        "B": "Medial wall",
+        "C": "Orbital floor",
+        "D": "Orbital roof"
+      },
+      "correctAnswer": "C",
+      "explanation": "In blunt orbital trauma (e.g., fist, baseball, dashboard impact), hydraulic pressure forces the globe backward into the closed orbital conical cavity. The orbital floor (specifically the posteromedial floor, medial to the infraorbital canal) is the thinnest, weakest, and most clinically susceptible bone (0.5–1 mm thick bone formed by the orbital plate of the maxilla). Fracture of this thin floor allows orbital fat and the inferior rectus muscle complex to herniate into the underlying maxillary sinus ('tear-drop sign' on coronal CT), causing restricted upgaze, vertical diplopia, enophthalmos, and paresthesia/numbness of the ipsilateral lower eyelid, cheek, and upper lip due to infraorbital nerve (CN V2) injury.\n\nCLINICAL TETRAD OF ORBITAL FLOOR BLOWOUT FRACTURE:\n1. Diplopia on vertical gaze (restricted upgaze due to inferior rectus entrapment).\n2. Enophthalmos (sunken eye due to increased orbital volume, often masked acutely by edema).\n3. Infraorbital nerve anesthesia (hypoesthesia of cheek, upper lip, ipsilateral upper teeth).\n4. Subcutaneous or intraorbital emphysema (crepitus).\n\nEXAM TRAP / DO NOT MISS: In children, 'trapdoor' or white-eyed blowout fractures feature muscle entrapment without external ecchymosis or bone displacement on plain X-ray, triggering the oculocardiac reflex (severe bradycardia, nausea, vomiting, syncope)—this is a pediatric surgical emergency requiring release within 24–48 hours to prevent muscle necrosis.",
+      "optionExplanations": {
+        "A": "The lateral wall (formed by greater wing of sphenoid and zygomatic bone) is the thickest and strongest wall of the orbit, designed to protect the globe from lateral impacts.",
+        "B": "The medial wall (lamina papyracea of ethmoid bone) is paper-thin and is the second most common site of fracture, frequently occurring concurrently with floor fractures, predisposing to surgical emphysema into the orbit when blowing the nose.",
+        "C": "Correct. The orbital floor (especially the posteromedial floor) is the thinnest, weakest wall and the most common site of blowout fracture.",
+        "D": "The orbital roof (frontal bone) is thick and rarely fractured except in massive high-energy craniomaxillofacial trauma."
+      },
+      "educationalObjective": "Identify the orbital floor as the most vulnerable site for blowout fractures, leading to inferior rectus entrapment and infraorbital nerve (V2) hypoesthesia.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-041",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 11: Orbit & Ocular Adnexa",
+      "question": "Which of the following is a characteristic of post-septal (orbital) cellulitis but NOT pre-septal cellulitis?",
+      "options": {
+        "A": "Fever",
+        "B": "Proptosis",
+        "C": "Tenderness",
+        "D": "Eyelid swelling"
+      },
+      "correctAnswer": "B",
+      "explanation": "The critical anatomical barrier is the orbital septum (a fibrous sheet extending from the orbital rim periosteum into the tarsal plates). Preseptal cellulitis is confined to the subcutaneous tissue anterior to the septum; it causes eyelid edema, erythema, tenderness, and fever, but the globe and orbital contents are entirely spared. Post-septal (orbital) cellulitis involves bacterial infection deep within the intraorbital tissues posterior to the septum (most commonly spreading from adjacent ethmoid sinusitis via the lamina papyracea). Accumulation of phlegmon and abscess behind the globe produces proptosis (forward displacement of the eye), painful ophthalmoplegia, chemosis, decreased visual acuity, and an afferent pupillary defect.\n\nPRESEPTAL VS. ORBITAL CELLULITIS DIFFERENTIATING SIGNS:\n• Preseptal Cellulitis: Normal visual acuity, normal color vision, FULL painless eye movements, NO proptosis, NO RAPD. Treatment: Oral or IV antibiotics.\n• Orbital (Post-septal) Cellulitis: PROPTOSIS, PAINFUL OPHTHALMOPLEGIA, CHEMOSIS, DECREASED VA, RAPD. Treatment: Immediate hospital admission, IV broad-spectrum antibiotics, urgent contrast CT of orbits/sinuses, surgical drainage of subperiosteal abscess if present.\n\nEXAM TRAP / DO NOT MISS: Life-threatening complications of orbital cellulitis include cavernous sinus thrombosis (manifesting as bilateral involvement, cranial neuropathies III, IV, V1, V2, VI, and papilledema) and intracranial abscess.",
+      "optionExplanations": {
+        "A": "Fever is common to both preseptal and orbital cellulitis as a systemic response to bacterial infection.",
+        "B": "Correct. Proptosis indicates infection behind the orbital septum (post-septal cellulitis); preseptal cellulitis spares the globe and orbital contents.",
+        "C": "Eyelid tenderness is present in both conditions due to soft tissue inflammation.",
+        "D": "Marked eyelid erythema and swelling (edema) are prominent external signs in both preseptal and orbital cellulitis."
+      },
+      "educationalObjective": "Differentiate orbital (post-septal) cellulitis from preseptal cellulitis by the presence of proptosis, painful ophthalmoplegia, and visual compromise, signaling infection behind the orbital septum.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-042",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 12: Ocular Motility & Amblyopia",
+      "question": "A 12-year-old boy with glasses presents with best-corrected visual acuity of 6/36 in the right eye and 6/6 in the left eye. Examination shows normal anterior segment and normal fundus in both eyes. Cycloplegic refraction shows no significant anisometropia. What is the most likely cause of decreased vision in the right eye?",
+      "options": {
+        "A": "Strabismic amblyopia",
+        "B": "Optic neuritis",
+        "C": "Occipital lobe infarction",
+        "D": "Refractive error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amblyopia ('lazy eye') is a unilateral (or rarely bilateral) reduction in best-corrected visual acuity caused by abnormal visual processing in the primary visual cortex (V1) during the critical developmental period (<7–8 years of age), occurring in an eye devoid of structural or organic pathology. Because this patient has a normal anterior segment, clear media, normal optic nerve, and a normal fundus, with no significant anisometropia on cycloplegic refraction (ruling out anisometropic/refractive amblyopia) and uncorrectable with glasses, the unilateral subnormal vision (6/36 OD vs 6/6 OS) is classic for strabismic amblyopia resulting from longstanding cortical suppression of the deviating fovea to prevent diplopia.\n\nFOUR MAJOR CLASSIFICATIONS OF AMBLYOPIA:\n1. Strabismic Amblyopia: Constant unilateral strabismus (e.g., infantile esotropia) → cortical suppression of deviating eye.\n2. Anisometropic Amblyopia: Asymmetric refractive error (>1.5 D hyperopic asymmetry, >3.0 D myopic, or >1.5 D astigmatic) → one blurred image suppressed.\n3. Isoametropic / Ametropic Amblyopia: High symmetric uncorrected bilateral error (e.g., +6.00 D bilateral hyperopia).\n4. Deprivation Amblyopia: Physical obstacle preventing form vision (Congenital cataract, dense ptosis, corneal scar) → most severe form.\n\nEXAM TRAP / DO NOT MISS: Amblyopia must be detected and treated before the visual cortex plasticity window closes (typically by age 7 to 9 years); occlusion (patching of the sound eye) or optical penalization (atropine drops) after age 10–12 yields very limited recovery.",
+      "optionExplanations": {
+        "A": "Correct. Unilateral reduced best-corrected acuity with a normal eye examination and no anisometropia fits strabismic amblyopia.",
+        "B": "Optic neuritis causes acute painful visual loss, decreased color perception (dyschromatopsia), an afferent pupillary defect (RAPD), and typically visual field defects, which are not described in this chronic stable scenario.",
+        "C": "Occipital lobe infarction causes homonymous hemianopia affecting both eyes symmetrically with preserved pupillary reflexes, not isolated unilateral monocular visual reduction.",
+        "D": "The vision is BEST-CORRECTED visual acuity (BCVA); refractive errors improve to 6/6 with proper optical correction."
+      },
+      "educationalObjective": "Identify strabismic amblyopia as the cause of unilateral reduced best-corrected visual acuity with normal ocular examination and absent anisometropia.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-043",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 13: Strabismus & Binocular Vision",
+      "question": "A child persistently turns his face to the RIGHT to maintain single binocular vision. Which extraocular muscle is most likely affected?",
+      "options": {
+        "A": "Right medial rectus",
+        "B": "Left medial rectus",
+        "C": "Left superior oblique",
+        "D": "Right superior oblique",
+        "E": "Right lateral rectus"
+      },
+      "correctAnswer": "E",
+      "explanation": "Patients with incomitant or paralytic strabismus adopt a compensatory abnormal head posture (head turn, tilt, or chin elevation/depression) to position the eyes in a field of gaze where the paretic muscle is not required, thereby maintaining single binocular vision and eliminating diplopia. The physiological rule is that the face turns in the direction of the paretic muscle's field of action. If the Right Lateral Rectus is paretic (e.g., right CN VI palsy), the right eye cannot abduct to the right, causing an esotropia that worsens in right lateral gaze. To compensate, the child turns his face to the RIGHT, which mechanically directs both visual axes toward the LEFT (away from the field of action of the paretic right lateral rectus), restoring binocular alignment.\n\nHEAD POSTURE IN PARALYTIC STRABISMUS:\n• Face Turn (Horizontal): Right CN VI palsy → Face turns RIGHT (eyes look left). Left CN VI palsy → Face turns LEFT (eyes look right).\n• Head Tilt (Torsional/Vertical): Right CN IV palsy → Head tilts to LEFT shoulder (relieves extorsion of right SO).\n• Chin Up / Chin Down: Chin down for A-patterns or elevator weakness; chin up for V-patterns or depressor weakness.\n\nEXAM TRAP / DO NOT MISS: Always assess ocular motility in any pediatric patient presenting with unexplained 'torticollis' (wry neck); surgical correction of the strabismus cures the neck posture and prevents permanent cervical spine contractures.",
+      "optionExplanations": {
+        "A": "Paresis of the right medial rectus causes exotropia worsening on left gaze; the compensatory face turn would be to the LEFT.",
+        "B": "Paresis of the left medial rectus causes exotropia worsening on right gaze; the face would turn to the RIGHT only if the eye was directed left, but the primary abductor affected here is right LR.",
+        "C": "Shared explanation for options C & D: Superior oblique paresis causes vertical/torsional diplopia, for which patients adopt a compensatory head tilt to the opposite shoulder (Bielschowsky head tilt test), not an isolated face turn.",
+        "D": "Shared explanation for options C & D: Superior oblique paresis causes vertical/torsional diplopia, for which patients adopt a compensatory head tilt to the opposite shoulder (Bielschowsky head tilt test), not an isolated face turn.",
+        "E": "Correct (per the source key). Paresis of the right lateral rectus (right CN VI palsy) makes the child turn the face to the right so the eyes look left, away from the paretic field of action."
+      },
+      "educationalObjective": "Apply the principle that compensatory face turns occur toward the field of action of the paretic muscle, directing the eyes away from the paretic field to maintain fusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-044",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 13: Strabismus & Binocular Vision",
+      "question": "A patient with a longstanding dense macular scar (present for 5 years) develops inward deviation of the affected eye. What is the most likely cause?",
+      "options": {
+        "A": "Consecutive esotropia",
+        "B": "Accommodative esotropia",
+        "C": "Paralytic esotropia",
+        "D": "Sensory esotropia",
+        "E": "Intermittent esotropia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sensory esotropia is a secondary form of strabismus that develops when primary, profound unilateral visual impairment (e.g., dense macular scar, optic nerve hypoplasia, congenital cataract, or corneal opacity) disrupts central retinal sensory input and abolishes sensory fusion. Without the cortical fusional vergence drive required to lock the visual axes in orthophoria, the blind or severely amblyopic eye drifts out of alignment. In infants and children under 4–5 years of age, sensory deprivation typically causes inward drift (sensory esotropia), whereas in older children and adults, it more commonly drifts outward (sensory exotropia).\n\nSENSORY DEVIATIONS AGE-DEPENDENT PATTERN:\n• Visual loss in Children (<5 years): Strong baseline tonic vergence → Tendency to Esotropia.\n• Visual loss in Adults (>5 years): Loss of tonic vergence → Tendency to Exotropia.\n\nEXAM TRAP / DO NOT MISS: Every new-onset esotropia in a child mandates a dilated fundoscopic examination and red reflex check to rule out an underlying sensory cause, specifically retinoblastoma or congenital cataract.",
+      "optionExplanations": {
+        "A": "Consecutive esotropia refers to an inward overcorrection occurring after surgical or optical treatment of a preexisting exotropia.",
+        "B": "Accommodative esotropia is driven by hyperopia and excessive accommodative convergence (high AC/A ratio), which straightens with convex corrective lenses.",
+        "C": "Paralytic esotropia results from direct cranial nerve motor paresis (e.g., CN VI palsy) and is incomitant (varying with gaze direction).",
+        "D": "Correct. Sensory esotropia develops when profound unilateral visual loss (such as a dense macular scar) abolishes sensory fusion.",
+        "E": "Intermittent esotropia is a periodic deviation with preserved fusional control when alert, unrelated to a dense unilateral macular scar."
+      },
+      "educationalObjective": "Recognize sensory esotropia as an ocular misalignment occurring secondary to profound unilateral visual loss that disrupts binocular sensory fusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-045",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 13: Strabismus & Binocular Vision",
+      "question": "A 10-year-old child with intermittent exotropia shows a deviation that is noticeably worse outdoors in bright sunlight and during near fixation. What is the most likely explanation?",
+      "options": {
+        "A": "Distance is not an important factor in this case",
+        "B": "Usually not treated",
+        "C": "It is a common finding and informs us about the degree of control and planning for follow-up",
+        "D": "It indicates loss of binocular vision"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intermittent exotropia [X(T)] is the most common form of divergent strabismus in childhood. A classic, highly characteristic clinical sign is monocular eye closure (winking) in bright outdoor sunlight, which occurs because bright ambient illumination dazzles the retinas and disrupts fusional convergence, triggering an overt manifest exotropia; the child reflexively shuts one eye to abolish diplopia and visual confusion. The variability between near and distance fixation, coupled with environmental lighting triggers, represents a well-recognized clinical phenomenon that provides invaluable information regarding the child's degree of fusional control (Newcastle Control Score) and dictates clinical follow-up versus surgical intervention timing (lateral rectus recession).\n\nKEY HALLMARK OF INTERMITTENT EXOTROPIA: Closing one eye in bright sunlight is considered almost pathognomonic. Surgery (bilateral lateral rectus recessions or unilateral recess/resect) is indicated when the deviation becomes manifest for >50% of waking hours or stereopsis declines.\n\nEXAM TRAP / DO NOT MISS: Unlike constant infantile esotropia (which carries a very high risk of deep amblyopia), intermittent exotropia rarely causes dense amblyopia because each eye alternates fixation during the manifest phase.",
+      "optionExplanations": {
+        "A": "Distance vs. near measurement is a cornerstone of classification: basic type, divergence excess (greater at distance), and convergence insufficiency (greater at near).",
+        "B": "Intermittent exotropia is actively treated when control deteriorates or deviation angle increases (via observation, overminus lenses, part-time occlusion, or strabismus surgery).",
+        "C": "Correct (per the source key). Worsening in bright sunlight and variation with fixation distance are typical of intermittent exotropia, and they inform the degree of fusional control and follow-up planning.",
+        "D": "It does NOT signify irreversible loss of binocular vision; patients maintain excellent bifoveal fusion and stereopsis when the eyes are aligned (phoric phase)."
+      },
+      "educationalObjective": "Understand that exacerbation of intermittent exotropia in bright sunlight reflects breakdown of fusional control, serving as a key clinical parameter for longitudinal monitoring and surgical planning.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-046",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 14: Neuro-Ophthalmology",
+      "question": "A patient has bilateral vision loss due to chronic optic neuritis. What pupillary finding is expected?",
+      "options": {
+        "A": "Right RAPD",
+        "B": "Left RAPD",
+        "C": "Alternating RAPD",
+        "D": "No RAPD",
+        "E": "Bilateral RAPD"
+      },
+      "correctAnswer": "D",
+      "explanation": "A Relative Afferent Pupillary Defect (RAPD / Marcus Gunn pupil) is, by strict definition, a comparative assessment of asymmetry in afferent sensory conduction between the two eyes. During the swinging-flashlight test, light is alternated rhythmically between eyes. If both optic nerves are equally, symmetrically diseased (as in bilateral chronic optic neuritis), each optic nerve transmits an identical, reduced afferent signal to the pretectal nuclei in the midbrain. Because the efferent parasympathetic output distributes equally to both Edinger-Westphal nuclei, pupillary constriction to light in either eye is identical. Therefore, NO RAPD can be detected. Both pupils may be sluggish, but an afferent defect requires an asymmetric deficit.\n\nCAUSES OF RAPD:\n• Present: Unilateral/asymmetric optic neuritis, ischemic optic neuropathy (AION/NAION), asymmetric glaucoma, central retinal artery occlusion (CRAO), central retinal vein occlusion (CRVO), severe traumatic optic neuropathy.\n• ABSENT: Dense cataract (dense cataracts NEVER cause an RAPD because total light flux still reaches the retina!), corneal opacities, uncorrected refractive errors, bilateral symmetric optic nerve disease.\n\nEXAM TRAP / DO NOT MISS: A dense mature cataract can reduce visual acuity to light perception, but it will NEVER cause an RAPD. If an RAPD is present in an eye with a dense cataract, an occult coexisting retinal detachment or optic nerve lesion MUST be suspected!",
+      "optionExplanations": {
+        "A": "Shared explanation for options A & B: A unilateral RAPD (Right or Left) requires marked asymmetry in optic nerve or severe retinal conduction.",
+        "B": "Shared explanation for options A & B: A unilateral RAPD (Right or Left) requires marked asymmetry in optic nerve or severe retinal conduction.",
+        "C": "Alternating RAPD is an optical impossibility and does not exist clinically.",
+        "D": "Correct. An RAPD requires asymmetric afferent input; symmetric bilateral optic neuropathy produces sluggish pupils but no relative defect.",
+        "E": "There is no such physiological entity as a 'Bilateral RAPD' because the test evaluates relative input between the two eyes; bilateral symmetric disease results in no relative defect."
+      },
+      "educationalObjective": "Master pupillary neuroanatomy: a Relative Afferent Pupillary Defect requires an asymmetric afferent conduction deficit; bilateral symmetric optic neuropathy produces sluggish pupils but NO RAPD.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-047",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 14: Neuro-Ophthalmology",
+      "question": "A 27-year-old woman presents with acute decreased visual acuity in the left eye (6/36), while the right eye is 6/6. Fundoscopic examination of the left eye reveals a COMPLETELY NORMAL optic nerve head and retina. What is the most likely diagnosis?",
+      "options": {
+        "A": "Retrobulbar optic neuritis",
+        "B": "Papillitis",
+        "C": "Papilledema",
+        "D": "Central retinal artery occlusion",
+        "E": "Retinal detachment"
+      },
+      "correctAnswer": "A",
+      "explanation": "This clinical vignette represents the classic medical aphorism: 'The patient sees nothing and the doctor sees nothing.' In retrobulbar optic neuritis (the most common form of optic neuritis in adults, ~65%), demyelinating inflammatory plaques are situated in the intraorbital or intracanalicular portion of the optic nerve, far posterior to the lamina cribrosa. Consequently, during the acute episode, the optic disc exhibits a completely normal, sharp, pink appearance on fundoscopy. It typically affects young women aged 20–40, presents with subacute painful visual loss (worse with eye movements due to the origin of the superior and medial recti from the optic nerve sheath at the annulus of Zinn), red color desaturation, and an ipsilateral RAPD, serving as the initial demyelinating event in Multiple Sclerosis (MS).\n\nOPTIC NEURITIS TREATMENT TRIAL (ONTT) PEARLS:\n• Treatment: Intravenous methylprednisolone (1 g/day for 3 days) followed by oral prednisone taper accelerates visual recovery.\n• ORAL PREDNISONE ALONE IS CONTRAINDICATED: Oral prednisone alone at standard doses was proven to significantly INCREASE the rate of recurrent optic neuritis!\n\nEXAM TRAP / DO NOT MISS: Uhthoff's phenomenon is the transient worsening of vision, and Pulfrich's phenomenon is distorted depth perception of moving objects, triggered by elevated core body temperature (exercise, hot bath) in patients with prior demyelinating optic neuritis.",
+      "optionExplanations": {
+        "A": "Correct. Acute unilateral visual loss with a completely normal optic disc and fundus in a young woman indicates retrobulbar optic neuritis ('the patient sees nothing and the doctor sees nothing').",
+        "B": "Papillitis is anterior optic neuritis where inflammation involves the optic nerve head, presenting with visible hyperemic optic disc swelling, blurred margins, and flame hemorrhages (more common in children).",
+        "C": "Papilledema refers specifically to passive, bilateral optic disc swelling secondary to raised intracranial pressure (ICP); visual acuity is typically preserved acutely.",
+        "D": "Central retinal artery occlusion (CRAO) displays dramatic, pathognomonic fundus signs: a pale, milky-white edematous retina with a 'cherry-red spot' at the fovea and attenuated boxcarring arterioles.",
+        "E": "Retinal detachment reveals an elevated, undulating, corrugated grey-white neurosensory retina on fundoscopy."
+      },
+      "educationalObjective": "Identify retrobulbar optic neuritis by acute unilateral visual loss with a completely normal fundoscopic examination in a young woman, strongly associated with multiple sclerosis.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-048",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 14: Neuro-Ophthalmology",
+      "question": "A patient presents with bilateral papilledema. Before performing a lumbar puncture, what is the most appropriate next step in management?",
+      "options": {
+        "A": "Perform immediate ocular ultrasound",
+        "B": "Exclude intracranial tumors by neuroimaging",
+        "C": "Start acetazolamide",
+        "D": "Begin corticosteroids as definitive treatment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Papilledema is defined strictly as bilateral optic disc swelling secondary to elevated intracranial pressure (ICP). The perioptic subarachnoid space is anatomically continuous with the intracranial subarachnoid space; raised CSF pressure impedes axoplasmic transport at the lamina cribrosa, causing optic disc edema. Performing a lumbar puncture in a patient with raised ICP without prior neuroimaging carries a catastrophic, life-threatening risk of brain herniation (transtentorial uncal or tonsillar herniation through the foramen magnum) if an intracranial space-occupying lesion (tumor, subdural hematoma, abscess) is creating an intracranial pressure gradient. Therefore, an urgent contrast-enhanced brain MRI (with MR venography) or non-contrast head CT MUST be performed first to rule out mass lesions and cerebral venous sinus thrombosis.\n\nIDIOPATHIC INTRACRANIAL HYPERTENSION (IIH) PROFILE:\n• Demographics: Obese females of childbearing age.\n• Symptoms: Headache, pulsatile tinnitus (whooshing sound), transient visual obscurations (dimming with postural changes), horizontal diplopia (CN VI palsy, a false localizing sign).\n• Diagnostic Criteria (Modified Dandy): Papilledema, normal brain MRI, normal CSF composition, elevated opening pressure (>250 mm H2O).\n\nEXAM TRAP / DO NOT MISS: Differentiate true papilledema (hyperemic disc, obscured retinal vessels crossing the margin, peripapillary flame hemorrhages, absence of spontaneous venous pulsations) from pseudopapilledema caused by optic disc drusen (lumpy-bumpy calcified hyaline bodies that autofluoresce).",
+      "optionExplanations": {
+        "A": "Ocular ultrasound (B-scan) can detect optic nerve sheath dilation and buried optic disc drusen (pseudopapilledema), but does not rule out lethal intracranial masses.",
+        "B": "Correct. Neuroimaging must exclude an intracranial mass before lumbar puncture in papilledema, to avoid herniation.",
+        "C": "Acetazolamide is the medical treatment of choice for Idiopathic Intracranial Hypertension (IIH / pseudotumor cerebri), but it should NOT be started blindly before neuroimaging and LP have confirmed the diagnosis and ruled out a brain tumor.",
+        "D": "Corticosteroids are not definitive treatment and may worsen rebound intracranial hypertension or obscure infectious/inflammatory CSF profiles."
+      },
+      "educationalObjective": "Remember that neuroimaging (CT or MRI) is mandatory prior to lumbar puncture in papilledema to rule out intracranial mass lesions and prevent fatal cerebral herniation.",
+      "imagePath": ""
+    },
+    {
+      "id": "OPHTHALMOLOGY1-049",
+      "topic": "OPHTHALMOLOGY",
+      "section": "Lecture 16: Ocular Trauma & Emergencies",
+      "question": "Which of the following is NOT found in the seven ring injury in blunt ocular trauma?",
+      "options": {
+        "A": "Lens",
+        "B": "Zonules",
+        "C": "Central iris (sphincter area)",
+        "D": "Peripheral iris",
+        "E": "Trabecular meshwork"
+      },
+      "correctAnswer": "A",
+      "explanation": "Campbell's mechanical theory of blunt concussional ocular trauma describes blunt impacts compressing the anterior-posterior axis of the globe, forcing compensatory equatorial expansion that transmits hydraulic shockwaves through Seven Rings of Tissue: (1) Corneal sphincter (endothelial/epithelial rupture), (2) Trabecular meshwork (causing angle recession, tearing between longitudinal and circular ciliary muscle fibers), (3) Scleral spur attachment / ciliary body insertion (causing cyclodialysis, detachment of ciliary body from scleral spur), (4) Iris root / peripheral iris (causing iridodialysis, disinsertion of iris root from ciliary body), (5) Central iris sphincter (causing sphincter pupillae tears and traumatic mydriasis), (6) Lens zonules (causing zonular dialysis, lens subluxation, or dislocation), and (7) Retinal attachment at ora serrata (causing retinal dialysis). Notice that the crystalline lens substance itself is NOT one of the structural tissue rings (the zonules are).\n\nCAMPBELL'S SEVEN RINGS OF TRAUMA:\n1. Cornea (Corneal rupture).\n2. Trabecular Meshwork (Angle recession).\n3. Ciliary Body / Scleral Spur (Cyclodialysis).\n4. Iris Root (Iridodialysis).\n5. Iris Sphincter (Sphincter tears).\n6. Ciliary Zonules (Zonular dialysis / Lens subluxation).\n7. Ora Serrata (Retinal dialysis).\n\nEXAM TRAP / DO NOT MISS: While blunt trauma causes traumatic cataracts (e.g., rosette-shaped or Vossius ring pigment deposition on the anterior lens capsule), the crystalline lens body is NOT an architectural 'ring' in Campbell's concussional classification.",
+      "optionExplanations": {
+        "A": "Correct (this is NOT found). The lens body is not one of Campbell's seven rings of blunt trauma; the zonules are.",
+        "B": "Zonules represent the 6th ring of injury; blunt shock leads to zonular rupture and traumatic lens subluxation/dislocation.",
+        "C": "The central iris sphincter is the 5th ring of injury; tears manifest as notched pupillary margins, loss of pupillary light reflex, and traumatic mydriasis.",
+        "D": "The peripheral iris root is the 4th ring of injury; disinsertion creates a crescentic defect at the limbus (iridodialysis) and acute hyphema.",
+        "E": "The trabecular meshwork is the 2nd ring of injury; mechanical cleavage causes angle recession, predisposing to late-onset angle-recession glaucoma."
+      },
+      "educationalObjective": "Recall Campbell's seven tissue rings of blunt concussional ocular trauma: corneal sphincter, trabecular meshwork, scleral spur, iris root, iris sphincter, zonules, and ora serrata.",
+      "imagePath": ""
+    }
+  ]
+}
