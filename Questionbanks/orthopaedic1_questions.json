@@ -1,0 +1,1156 @@
+{
+  "metadata": {
+    "title": "ELITE Step 2 CK Orthopaedic Q-Bank",
+    "description": "Multiple-choice questions organized by topics and chapters."
+  },
+  "questions": [
+    {
+      "id": "Orthopaedic1-001",
+      "topic": "Orthopaedic",
+      "section": "Module 1: Orthopedic Diagnosis & Physical Examination",
+      "question": "A 42-year-old woman with a history of a cerebrovascular accident (CVA) presenting with residual left-sided hemiparesis is observed during an outpatient physical therapy evaluation. During the swing phase of walking, she noticeably abducts her paretic left lower extremity and swings it forward in a wide semicircular outward motion to prevent the toes from scuffing or clearing the floor. She also demonstrates internal rotation and plantarflexion of the left foot. Which of the following gait patterns is demonstrated?",
+      "options": {
+        "A": "Trendelenburg gait",
+        "B": "Shuffling gait",
+        "C": "Circumductory hemiplegic gait",
+        "D": "High steppage gait"
+      },
+      "correctAnswer": "C",
+      "explanation": "This patient demonstrates a classic circumductory hemiplegic gait (also known as a spastic hemiplegic gait). Following an upper motor neuron (UMN) injury such as an ischemic stroke or hemorrhagic CVA, patients develop spastic hemiparesis characterized by increased extensor tone in the lower extremity and flexor hypertonia in the upper extremity. In the lower extremity, hypertonia of the quadriceps and gastrocnemius-soleus complex causes loss of voluntary knee flexion, ankle dorsiflexion weakness, and equinovarus posturing (foot drop). Because the paretic leg is functionally 'too long' during the swing phase, the patient must hike the pelvis (hip hiking) and swing the leg outward in a lateral semicircle (circumduction) to advance the limb without the toes dragging along the floor.\n\nHigh-yield clinical pearl: UPPER MOTOR NEURON SPASTIC HEMIPLEGIA:\nLower extremity extensor synergy (hip extension/adduction, knee extension, ankle plantarflexion/inversion) leads to a functional leg length discrepancy, compensated by hip hiking and outward circumduction during the swing phase.\n\nExam trap: Do not confuse HIGH STEPPAGE GAIT (L5/deep fibular nerve flaccid foot drop requiring exaggerated hip/knee flexion) with CIRCUMDUCTORY GAIT (UMN spasticity where the knee cannot easily flex, forcing lateral outward swinging).",
+      "optionExplanations": {
+        "A": "Trendelenburg gait is caused by abductor mechanism deficiency (gluteus medius/minimus weakness or superior gluteal nerve lesion). The pelvis drops toward the contralateral, unsupported swing side during single-leg stance.",
+        "B": "Shuffling gait (festinating gait) is characteristic of Parkinson's disease and basal ganglia pathology, marked by short, flat-footed, hurried steps with reduced arm swing and stooped posture.",
+        "C": "Spastic hemiparesis after an upper motor neuron lesion (stroke) leaves the paretic leg functionally too long and stiff at the knee, so the patient hikes the pelvis and swings the leg outward in a wide arc (circumduction) to clear the floor.",
+        "D": "High steppage gait results from isolated foot drop secondary to common fibular (peroneal) nerve injury or L5 radiculopathy; the patient excessively flexes the hip and knee to lift the flaccid foot off the floor without circumduction."
+      },
+      "educationalObjective": "Recognize that spastic hemiplegia from a cerebrovascular accident creates an excessively extended, stiff lower limb that requires a circumductory gait pattern to ensure ground clearance during the swing phase.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-002",
+      "topic": "Orthopaedic",
+      "section": "Module 1: Orthopedic Diagnosis & Physical Examination",
+      "question": "A clinician performs the physical examination shown in the clinical photograph. The patient is placed in the supine position on the examination table. The examiner places one hand beneath the lumbar spine and maximally flexes the contralateral hip until the lumbar lordosis is flattened against the hand. The examiner then observes the behavior of the test hip (the extended hip remaining on the table). Which one of the following statements is true regarding this maneuver and its findings?",
+      "options": {
+        "A": "The test is primarily used to assess PCL rupture in the knee",
+        "B": "The patient has weakness of the right hip abductors due to superior gluteal nerve injury",
+        "C": "The findings are most consistent with rupture of the right tendon Achilles",
+        "D": "The examiner places his hand beneath the lumbar spine to ensure persistence of lumbar lordosis during hip flexion",
+        "E": "Right hip fixed flexion, the left hip is normal"
+      },
+      "correctAnswer": "D",
+      "explanation": "The maneuver depicted is the Thomas test, the cardinal clinical examination for identifying and quantifying a fixed flexion contracture of the hip (frequently seen in osteoarthritis, psoas muscle abscess/contracture, or spasticity). Under normal conditions, a patient can easily mask a hip flexion contracture while standing or supine by exaggerating their lumbar lordosis (anterior pelvic tilt). To accurately unmask the true deformity, the examiner places a hand beneath the lumbar spine to monitor the lumbar curvature. As the contralateral hip and knee are brought into maximal flexion toward the chest, the pelvis rotates posteriorly, flattening the lumbar lordosis firmly against the examiner's hand. If a fixed flexion deformity exists on the test side, the ipsilateral thigh involuntarily lifts off the examination surface. The angle between the elevated thigh and the examination table corresponds directly to the degree of fixed flexion deformity.\n\nHigh-yield clinical pearl: THOMAS TEST MECHANICS:\nUnmasks occult hip flexion deformity by neutralizing compensatory lumbar lordosis. Flexing the unaffected hip rotates the pelvis posteriorly; an unable-to-extend ipsilateral thigh confirms psoas/capsular contracture.\n\nExam trap: In the exam key, pay careful attention to the examiner's hand placement: placing the hand under the lumbar spine ensures the clinician verifies whether lumbar lordosis is being actively eliminated or controlled during contralateral flexion.",
+      "optionExplanations": {
+        "A": "Assessment of PCL rupture is performed using the posterior drawer test, posterior sag sign (Godfrey test), or quadriceps active test, not the Thomas test.",
+        "B": "Weakness of the hip abductors is evaluated using the Trendelenburg test in single-leg stance.",
+        "C": "Achilles tendon rupture is diagnosed clinically using the Thompson (Simmonds) calf-squeeze test.",
+        "D": "Marked correct in the source key. In the Thomas test the examiner's hand beneath the lumbar spine is used to monitor the lumbar curve while the contralateral hip is flexed. REVIEW FLAG: this option says the hand ensures 'persistence' of lordosis, but the stem and the source rationale describe lordosis being flattened against the hand, and option E (right hip fixed flexion) appears to be the clinically valid statement; see extraction_report.txt.",
+        "E": "The description refers to the technique of the test itself; the examiner monitors the lumbar spine to detect pelvic rotation and eliminate lordosis compensation."
+      },
+      "educationalObjective": "Understand the biomechanical principle of the Thomas test: maximal flexion of the contralateral hip flattens the lumbar spine, preventing compensatory lordosis and unmasking true fixed flexion contracture of the hip.",
+      "imagePath": "Pictures/Orthopaedic1-002.png"
+    },
+    {
+      "id": "Orthopaedic1-003",
+      "topic": "Orthopaedic",
+      "section": "Module 1: Orthopedic Diagnosis & Physical Examination",
+      "question": "A pediatric orthopedic surgeon examines two young children with lower extremity angular variations, designated Patient A and Patient B as shown in the accompanying clinical photographs. Patient A demonstrates an increased intercondylar distance with knees curved outward away from the midline. Patient B demonstrates touching medial femoral condyles with an abnormally widened intermalleolar distance between the medial malleoli. Which of the following statements is TRUE regarding the deformities seen in patients A and B?",
+      "options": {
+        "A": "Both deformities are in coronal plane",
+        "B": "Patient A has knee valgus, while patient B has knee varus",
+        "C": "This is a translational deformity",
+        "D": "Both deformities represent sagittal plane malalignments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angular deformities of the extremities are classified according to the anatomical plane in which the deviation occurs: Coronal (frontal) plane deformities represent medial or lateral angular deviations, namely varus (apex pointing laterally, distal segment directed medially) and valgus (apex pointing medially, distal segment directed laterally). Patient A exhibits genu varum (bow-legs), where the tibia is deviated medially relative to the femur in the coronal plane, producing a widened intercondylar distance. Patient B exhibits genu valgum (knock-knees), where the distal leg is deviated laterally relative to the femur in the coronal plane, producing a widened intermalleolar distance. Because both varus and valgus represent angulations seen on an anteroposterior projection, both deformities reside strictly within the coronal plane.\n\nHigh-yield clinical pearl: NORMAL PEDIATRIC CORONAL ALIGNMENT EVOLUTION:\n• Birth to 18–24 months: Physiologic Genu Varum (up to 15°).\n• 2 to 4 years: Neutral transitions into maximal Physiologic Genu Valgum (up to 10–12°).\n• By age 7 years: Stabilizes to adult normal valgus (~5–7°).\n\nExam trap: Remember anatomical planes: CORONAL = VARUS/VALGUS; SAGITTAL = FLEXION/EXTENSION/RECURVATUM; TRANSVERSE = ANTEVERSION/RETROVERSION/INTERNAL-EXTERNAL ROTATION.",
+      "optionExplanations": {
+        "A": "Genu varum (Patient A) and genu valgum (Patient B) are both medial/lateral angular deviations, which are coronal (frontal) plane deformities.",
+        "B": "This statement reverses the clinical diagnoses; Patient A has knee varus (bowing out) and Patient B has knee valgus (knees touch).",
+        "C": "Translation represents a translational shift (displacement) along an axis, whereas varus and valgus are angular deformities.",
+        "D": "Sagittal plane deformities of the knee comprise flexion contractures and hyperextension deformities (genu recurvatum), not varus or valgus."
+      },
+      "educationalObjective": "Classify lower extremity angular alignments accurately, recognizing that genu varum and genu valgum are angular deformities occurring strictly in the coronal (frontal) plane.",
+      "imagePath": "Pictures/Orthopaedic1-003.png"
+    },
+    {
+      "id": "Orthopaedic1-004",
+      "topic": "Orthopaedic",
+      "section": "Module 1: Orthopedic Diagnosis & Physical Examination",
+      "question": "A patient is evaluated for hip instability. When asked to stand on one foot, the clinician observes the pelvic kinematics shown in the illustration. During single-leg stance on the affected limb, the contralateral pelvis drops downwards below the horizontal plane instead of being elevated. Regarding this picture, which of the following is correct?",
+      "options": {
+        "A": "Left superior gluteal nerve injury with ischemia",
+        "B": "Right superior gluteal nerve injury",
+        "C": "Hip will tilt to the right side",
+        "D": "Right Sciatic nerve injury"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Trendelenburg test assesses the integrity of the hip abductor mechanism (gluteus medius and minimus muscles innervated by the superior gluteal nerve, L4–S1). When standing on one leg, the abductor muscles of the weight-bearing (stance) limb must contract powerfully to prevent the unsupported opposite side of the pelvis from dropping due to gravity. If the abductor mechanism on the stance side is compromised (due to superior gluteal nerve palsy, severe hip osteoarthritis, developmental dysplasia, or L5 radiculopathy), the abductors cannot stabilize the pelvis. Consequently, the pelvis tilts (drops) downward toward the contralateral, unsupported swing side. In this clinical scenario and question key, standing on the affected stance leg causes the hip/pelvis to tilt downward toward the opposite (right) side.\n\nHigh-yield clinical pearl: TRENDELENBURG SIGN RULE:\n• The defective abductor is on the STANCE (WEIGHT-BEARING) LEG.\n• The pelvic drop is on the CONTRALATERAL (SWING/UNSUPPORTED) SIDE.\n• Trendelenburg lurch (gait): The patient leans their torso over the stance leg to shift the center of gravity over the hip fulcrum.\n\nExam trap: Board questions constantly test the direction of drop: pathology on the Left stance hip = pelvic drop on the Right swing hip.",
+      "optionExplanations": {
+        "A": "The gluteus medius and minimus are innervated by the superior gluteal nerve, but isolated ischemia is exceedingly rare; the typical etiologies are nerve traction/laceration during hip arthroplasty (lateral Hardinge approach) or pelvic fracture.",
+        "B": "Weakness on the stance side causes pelvic drop on the contralateral side; if the pelvis drops to the right, the pathology is in the left hip abductors.",
+        "C": "Marked correct in the source key. When the stance-side hip abductors (gluteus medius/minimus) fail, the pelvis drops toward the opposite, unsupported side; the source rationale states the pelvis tilts down to the right in this scenario. REVIEW FLAG: the stem does not say which side is affected, and option A (left superior gluteal nerve injury) is also consistent with a right-sided drop; see extraction_report.txt.",
+        "D": "The sciatic nerve innervates the hamstring muscles and gives rise to the tibial and common fibular nerves; it does not innervate the hip abductors."
+      },
+      "educationalObjective": "Master the biomechanics of the Trendelenburg sign: abductor deficiency on the stance side causes the pelvis to tilt/drop down on the contralateral unsupported side.",
+      "imagePath": "Pictures/Orthopaedic1-004.png"
+    },
+    {
+      "id": "Orthopaedic1-005",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 52-year-old woman with a 12-year history of poorly controlled type 2 diabetes mellitus presents with progressive, worsening right shoulder pain and stiffness over the past 6 months. She reports profound difficulty reaching behind her back to fasten her bra and combing her hair. On physical examination, there is marked, symmetrical restriction of both active and passive range of motion in all planes, particularly external rotation and abduction. Forward elevation is limited to 80° and external rotation is limited to 15°. Plain radiographs of the glenohumeral joint demonstrate normal articular cartilage space without osteophytes or fractures. Which of the following is the most appropriate first-line treatment?",
+      "options": {
+        "A": "Immobilization with a sling",
+        "B": "Arthroscopic debridement",
+        "C": "Open surgical release of adhesions",
+        "D": "Shoulder manipulation under anesthesia",
+        "E": "Corticosteroid and physical therapy"
+      },
+      "correctAnswer": "E",
+      "explanation": "This patient presents with classic adhesive capsulitis (frozen shoulder), a condition characterized by progressive glenohumeral capsular fibrosis, thickening, and contracture. Adhesive capsulitis is strongly associated with diabetes mellitus (present in up to 20% of diabetic patients), hypothyroidism, and prolonged immobilization. The hallmark physical examination finding that distinguishes adhesive capsulitis from rotator cuff tear or subacromial impingement is an equal limitation of BOTH active and passive range of motion, particularly in external rotation and abduction. First-line management is conservative: structured physical therapy (gentle stretching and range-of-motion exercises) combined with anti-inflammatory analgesics and/or an intra-articular glenohumeral corticosteroid injection to alleviate pain and accelerate functional recovery. Surgical intervention (manipulation under anesthesia or arthroscopic capsular release) is strictly reserved for refractory cases failing at least 6 to 12 months of intensive non-operative therapy.\n\nHigh-yield clinical pearl: ADHESIVE CAPSULITIS CLINICAL TRIAD:\n1. Equal restriction of active AND passive glenohumeral motion (external rotation affected earliest).\n2. Strong association with Diabetes Mellitus and Thyroid disease.\n3. Normal plain radiographs (rules out glenohumeral osteoarthritis).\n\nExam trap: If passive range of motion is normal while active motion is restricted/painful, suspect ROTATOR CUFF PATHOLOGY (tear or tendinopathy). When both active and passive motion are restricted, it is ADHESIVE CAPSULITIS or advanced glenohumeral osteoarthritis.",
+      "optionExplanations": {
+        "A": "Sling immobilization is absolutely contraindicated; immobilization promotes further capsular fibrosis, worsening joint stiffness.",
+        "B": "Arthroscopic debridement and capsular release are second-line operative interventions indicated only after prolonged failed conservative therapy.",
+        "C": "Open surgical release has high morbidity and is rarely performed in the modern arthroscopic era.",
+        "D": "Manipulation under anesthesia carries risks of humeral shaft fracture, glenoid labral tear, or brachial plexus traction injury; it is not first-line.",
+        "E": "Adhesive capsulitis (frozen shoulder), with equal loss of active and passive motion in a diabetic patient, is treated first-line conservatively with corticosteroid injection plus physical therapy."
+      },
+      "educationalObjective": "Identify adhesive capsulitis by its pathognomonic equal reduction in active and passive glenohumeral range of motion and recognize corticosteroid injection plus physical therapy as first-line therapy.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-006",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 58-year-old woman with a 15-year history of severe, seropositive, erosive rheumatoid arthritis (RA) is scheduled for elective total knee arthroplasty under general anesthesia with endotracheal intubation. Preoperative cervical spine flexion-extension radiographs are ordered to evaluate the cervical spine. Which ONE of the following statements is TRUE regarding cervical spine involvement in this patient?",
+      "options": {
+        "A": "Atlantoaxial instability is not related to down syndrome",
+        "B": "Atlantoaxial instability is clinically important only after cervical trauma",
+        "C": "The atlantoaxial joint is a saddle synovial joint",
+        "D": "Neck manipulation during intubation may precipitate spinal cord or medullary injury"
+      },
+      "correctAnswer": "D",
+      "explanation": "Patients with longstanding, active rheumatoid arthritis (RA) develop progressive synovial inflammation (pannus) within the synovial bursa surrounding the odontoid process (dens) of C2. This chronic proliferative synovitis leads to laxity, erosion, and eventual rupture of the transverse ligament of the atlas, producing atlantoaxial subluxation (instability) in up to 30–50% of chronic RA patients. During endotracheal intubation, direct laryngoscopy requires cervical extension and atlantoaxial manipulation. In patients with unstable C1–C2 subluxation, forceful neck manipulation or excessive flexion/extension can cause the dens to displace posteriorly into the spinal canal, leading to catastrophic cervical spinal cord contusion, quadriplegia, or fatal medullary compression with respiratory arrest. Therefore, routine preoperative cervical flexion-extension radiographs are mandatory prior to elective intubation in chronic RA patients, and fiberoptic video-assisted intubation without neck manipulation is utilized when instability is documented.\n\nHigh-yield clinical pearl: ANTERIOR ATLANTOAXIAL SUBLUXATION MEASUREMENT:\nDiagnosed on lateral cervical flexion radiograph when the ANTERIOR ATLANTO-DENS INTERVAL (ADI) exceeds 3 MM IN ADULTS (or >5 mm in children). An ADI >9–10 mm indicates high risk for cord compression and warrants neurosurgical/orthopedic stabilization.\n\nExam trap: Never intubate an RA patient requiring general anesthesia without first confirming cervical spine clearance or utilizing video-guided in-line stabilization.",
+      "optionExplanations": {
+        "A": "Atlantoaxial instability is very strongly associated with Down syndrome (trisomy 21) due to generalized ligamentous laxity and hypoplasia of the dens.",
+        "B": "Atlantoaxial instability in RA develops insidiously and spontaneously from chronic inflammatory pannus erosion without preceding trauma.",
+        "C": "The median atlantoaxial joint is a trochoid (pivot) synovial joint, and the lateral atlantoaxial joints are plane synovial joints; neither is a saddle joint.",
+        "D": "In long-standing RA, pannus can rupture the transverse ligament and cause atlantoaxial subluxation; forceful neck flexion or extension during intubation can then displace the dens posteriorly and injure the spinal cord or medulla."
+      },
+      "educationalObjective": "Recognize that chronic rheumatoid arthritis causes pannus destruction of the transverse ligament at C1–C2, creating atlantoaxial instability that poses a life-threatening risk of spinal cord or medullary injury during airway manipulation.",
+      "imagePath": "Pictures/Orthopaedic1-006.png"
+    },
+    {
+      "id": "Orthopaedic1-007",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 38-year-old woman presents with persistent, bilateral knee pain, marked warmth, and morning stiffness lasting more than 90 minutes. She also reports recurrent episodes of bilateral episcleritis and symmetrical swelling of her wrists and metacarpophalangeal (MCP) joints. Physical examination demonstrates large, warm, boggy bilateral knee effusions with symmetrical joint line tenderness. Plain weight-bearing anteroposterior radiographs of the knees are obtained. Which of the following radiographic patterns is most consistent with her underlying disease?",
+      "options": {
+        "A": "Isolated asymmetric medial compartment joint space narrowing with heavy subchondral sclerosis",
+        "B": "Prominent marginal osteophyte formation with preserved lateral joint space",
+        "C": "Uniform, symmetrical tricompartmental joint space narrowing with periarticular osteopenia and marginal erosions",
+        "D": "Subchondral cyst formation confined strictly to the weight-bearing femoral condyle with dense sclerosis",
+        "E": "Complete preservation of cartilage space with cortical hyperostosis"
+      },
+      "correctAnswer": "C",
+      "explanation": "This young woman presents with textbook features of Rheumatoid Arthritis (RA): symmetric inflammatory polyarthritis, prolonged morning stiffness (>1 hour), and systemic extra-articular manifestations (episcleritis). In rheumatoid arthritis, the primary pathology is chronic proliferative synovitis (pannus formation). Because the entire synovial lining is inflamed, cartilage destruction occurs globally across the whole joint. Consequently, the pathognomonic radiographic features of RA include: 1. Uniform, symmetrical loss of joint space (affecting both medial and lateral compartments equally). 2. Periarticular osteopenia (due to inflammatory hyperemia and localized cytokine-mediated osteoclast activation). 3. Marginal bone erosions at the 'bare areas' where bone is not protected by articular cartilage. 4. Absence of reactive bone formation (osteophytes and subchondral sclerosis are notably absent in pure RA).\n\nHigh-yield clinical pearl: RADIOLOGY MNEMONIC (OA VS RA):\n• OA = LOSS:\nLoss of joint space (asymmetric), Osteophytes, Subchondral sclerosis, Subchondral cysts.\n• RA = POSE:\nPeriarticular Osteopenia, Symmetric joint narrowing, Erosions (marginal).\n\nExam trap: Symmetric tricompartmental narrowing points to inflammatory arthritis (RA), whereas asymmetric unicompartmental narrowing (typically medial knee) indicates mechanical wear (OA).",
+      "optionExplanations": {
+        "A": "Asymmetric joint space narrowing with heavy subchondral sclerosis is the cardinal hallmark of osteoarthritis (Image B/D).",
+        "B": "Osteophyte formation is a reparative bone process characteristic of osteoarthritis, not rheumatoid arthritis.",
+        "C": "RA destroys the whole joint through pannus-mediated synovitis, giving uniform symmetric tricompartmental joint-space loss, periarticular osteopenia and marginal erosions, without osteophytes or sclerosis.",
+        "D": "Subchondral cysts with dense sclerosis localized to one condyle represent advanced osteoarthritis.",
+        "E": "Preservation of joint space is inconsistent with symptomatic, chronic inflammatory destructive synovitis."
+      },
+      "educationalObjective": "Distinguish the radiographic features of rheumatoid arthritis (uniform symmetric cartilage loss, periarticular osteopenia, marginal erosions) from osteoarthritis (asymmetric joint narrowing, osteophytes, eburnation).",
+      "imagePath": "Pictures/Orthopaedic1-007.png"
+    },
+    {
+      "id": "Orthopaedic1-008",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A plain lateral radiograph of a normal adult elbow joint is reviewed. Which of the following statements regarding the functional anatomy and stability of the elbow joint is CORRECT?",
+      "options": {
+        "A": "The capitulum articulates with the coronoid process",
+        "B": "Pulled elbow in children is considered a complex elbow dislocation",
+        "C": "The main stabilizers in this joint are the collateral ligaments",
+        "D": "The elbow joint is a saddle synovial joint"
+      },
+      "correctAnswer": "C",
+      "explanation": "The elbow joint is an inherently stable ginglymus (hinge) synovial joint allowing flexion and extension, coupled with a trochoidea (pivot) joint allowing forearm pronation and supination. Biomechanical stability of the elbow is divided into primary and secondary stabilizers: 1. Primary static stabilizers: The ulnohumeral articulation (bony congruity of the olecranon and coronoid process within the humeral trochlea), the anterior bundle of the medial collateral ligament (MCL) (primary restraint to valgus stress), and the lateral collateral ligament complex (specifically the LUCL) (primary restraint to varus and posterolateral rotatory instability). 2. Secondary stabilizers: The radial head articulating with the capitulum, the anterior joint capsule, and the dynamic common flexor/extensor muscle tendons. Therefore, the collateral ligaments and ulnohumeral congruity are the fundamental primary stabilizers of the elbow.\n\nHigh-yield clinical pearl: PRIMARY ELBOW VALGUS RESTRAINT:\nThe ANTERIOR BUNDLE OF THE MEDIAL COLLATERAL LIGAMENT (MCL) is the single most important restraint to valgus stress across 20° to 120° of elbow flexion (injured in overhead throwing athletes requiring Tommy John reconstruction).\n\nExam trap: Remember: The RADIAL HEAD articulates with the CAPITULUM (C-R: Capitulum with Radius), while the TROCHLEA articulates with the ULNA.",
+      "optionExplanations": {
+        "A": "The capitulum articulates with the radial head (radiocapitellar joint). The coronoid process articulates with the coronoid fossa of the humerus above the trochlea.",
+        "B": "Pulled elbow (nursemaid's elbow) in toddlers is an isolated subluxation of the annular ligament over the radial head without complex capsular or ligamentous disruption.",
+        "C": "The collateral ligaments (anterior bundle of the medial collateral ligament and the lateral ulnar collateral ligament complex), together with ulnohumeral bony congruity, are the primary static stabilizers of the elbow.",
+        "D": "The elbow is a hinge (ginglymus) joint; the thumb carpometacarpal (CMC) joint is the classic saddle (sellar) synovial joint."
+      },
+      "educationalObjective": "Recall elbow joint functional anatomy: it is a hinge joint whose primary static stability is provided by the collateral ligaments and ulnohumeral articular congruity.",
+      "imagePath": "Pictures/Orthopaedic1-008.png"
+    },
+    {
+      "id": "Orthopaedic1-009",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 64-year-old woman with severe, end-stage rheumatoid arthritis demonstrates advanced bilateral hand deformities as shown in the clinical photograph. Both hands exhibit extensive metacarpophalangeal (MCP) subluxation, ulnar deviation (drift) of the digits, and marked finger deformities. Careful examination of the individual digits reveals characteristic tendon imbalance patterns. In this rheumatoid patient, which of the following statements is CORRECT?",
+      "options": {
+        "A": "Swan neck deformity is seen in the right thumb",
+        "B": "Index finger of both hands has boutonniere's deformity",
+        "C": "No ulnar deviation is seen at MCP joints in both hands",
+        "D": "The little finger of the left hand has boutonniere's deformity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chronic rheumatoid synovitis within the flexor tendon sheaths and interphalangeal joints destroys the delicate extensor mechanism balance of the fingers: 1. Boutonnière deformity: Caused by rupture or attenuation of the central slip of the extensor tendon over the proximal interphalangeal (PIP) joint, allowing the lateral bands to subluxate volarly below the axis of motion. This produces PIP joint flexion with reciprocal distal interphalangeal (DIP) joint hyperextension. In this patient, the little finger of the left hand clearly displays this fixed flexion at the PIP joint and extension at the DIP joint. 2. Swan neck deformity: Caused by laxity or stretching of the volar plate at the PIP joint, resulting in PIP joint hyperextension with reciprocal DIP joint flexion (resembling a swan's neck). 3. Ulnar drift: Severe ulnar deviation of digits 2 through 5 at the MCP joints due to attenuation of radial collateral ligaments and extensor digitorum communis tendon subluxation into the ulnar valleys.\n\nHigh-yield clinical pearl: MNEMONIC FOR HAND DEFORMITIES:\n• BOUTONNIÈRE:\nButtonhole = Flexion of PIP, Extension of DIP.\n• SWAN NECK:\nSwan flies high = Hyperextension of PIP, Flexion of DIP.\n\nExam trap: Do not confuse the joint levels! Boutonniere = PIP Flexion / DIP Extension. Swan Neck = PIP Extension / DIP Flexion.",
+      "optionExplanations": {
+        "A": "The rheumatoid thumb typically develops either a Boutonnière-like deformity (Z-deformity: MCP flexion with IP hyperextension) or a Swan neck-like deformity (CMC subluxation, MCP hyperextension, IP flexion); Option A is factually incorrect on the clinical image.",
+        "B": "The index fingers do not demonstrate isolated Boutonnière deformity on both sides.",
+        "C": "Pronounced, severe ulnar deviation at the MCP joints is clearly evident across both hands.",
+        "D": "Per the source, the little finger of the left hand shows a boutonnière deformity: PIP flexion with DIP hyperextension from central slip attenuation and volar subluxation of the lateral bands. The patient photograph is not reproduced in the PDF."
+      },
+      "educationalObjective": "Accurately recognize rheumatoid hand deformities: Boutonniere deformity consists of PIP joint flexion with compensatory DIP joint hyperextension secondary to central slip attenuation.",
+      "imagePath": "Pictures/Orthopaedic1-009.png"
+    },
+    {
+      "id": "Orthopaedic1-010",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 62-year-old man presents with a painless, fluctuating swelling behind his right knee that has gradually increased in size over the past 4 months. He notes that the mass becomes noticeably tense and prominent after prolonged standing or walking, but becomes softer and smaller when resting supine with the knee flexed. On physical examination, a smooth, non-pulsatile, non-tender, cystic mass is palpable in the medial aspect of the popliteal fossa. Axial T2-weighted magnetic resonance imaging (MRI) of the knee reveals a hyperintense, thin-walled, fluid-filled cystic structure arising between the semimembranosus tendon and the medial head of the gastrocnemius muscle. What is the most likely diagnosis?",
+      "options": {
+        "A": "Popliteal artery aneurysm",
+        "B": "Lipoma",
+        "C": "Herniated synovial (Baker's) cyst",
+        "D": "Soft tissue sarcoma",
+        "E": "Deep vein thrombosis"
+      },
+      "correctAnswer": "C",
+      "explanation": "A popliteal (Baker's) cyst is a benign, fluid-filled synovial distension of the bursa located between the semimembranosus tendon and the medial head of the gastrocnemius muscle. In adults, Baker's cysts are virtually always secondary phenomena caused by underlying intra-articular knee pathology—most commonly medial meniscus tears or osteoarthritis. Increased intra-articular synovial fluid production coupled with knee motion forces fluid through a one-way 'check-valve' opening in the posteromedial capsule into the bursa. Characteristically, the cyst becomes firmer and more prominent during knee full extension (Foucher's sign) and softens during knee flexion. On MRI, it presents as a distinct, fluid-signal intensity sac with a characteristic 'neck' communicating directly between the semimembranosus and medial gastrocnemius tendons.\n\nHigh-yield clinical pearl: PSEUDOTHROMBOPHLEBITIS:\nAcute rupture of a Baker's cyst spills synovial fluid into the calf muscle planes, mimicking acute deep vein thrombosis (calf erythema, tenderness, positive Homan sign, and distal crescent-shaped ankle hematoma). Duplex ultrasound is required to exclude DVT.\n\nExam trap: Never resect an adult Baker's cyst in isolation without treating the underlying intra-articular pathology (meniscal tear, chondral defect); otherwise, the cyst will inevitably recur.",
+      "optionExplanations": {
+        "A": "Popliteal artery aneurysm is a pulsatile vascular mass that demonstrates internal flow on duplex Doppler ultrasound rather than homogeneous cystic fluid.",
+        "B": "Lipomas are soft, solid mesenchymal adipose tumors that follow fat signal intensity (hyperintense on T1-weighted MRI) rather than fluid signal.",
+        "C": "A popliteal (Baker's) cyst is a herniated synovial fluid collection between the semimembranosus tendon and medial gastrocnemius, usually secondary to a meniscal tear or osteoarthritis, and it is firmer in extension and softer in flexion (Foucher's sign).",
+        "D": "Soft tissue sarcomas present as deep, enlarging, firm, solid masses that show heterogeneous contrast enhancement and invasive margins.",
+        "E": "Deep vein thrombosis (DVT) causes diffuse unilateral calf edema, erythema, and pain without a discrete, well-circumscribed popliteal fossa mass; however, a ruptured Baker's cyst can mimic acute DVT (pseudothrombophlebitis)."
+      },
+      "educationalObjective": "Identify a popliteal (Baker's) cyst on physical exam and MRI by its classic posteromedial location between the semimembranosus and medial gastrocnemius tendons, recognizing its etiology as a secondary manifestation of intra-articular knee pathology.",
+      "imagePath": "Pictures/Orthopaedic1-010.png"
+    },
+    {
+      "id": "Orthopaedic1-011",
+      "topic": "Orthopaedic",
+      "section": "Module 2: Joint Problems & Arthritides",
+      "question": "A 38-year-old man sustained a displaced intra-articular tibial plateau fracture that was successfully treated with open reduction and internal fixation (ORIF) achieving anatomic articular restoration and rigid stability. He healed uneventfully and enjoyed pain-free, active athletic function for 12 months. One year postoperatively, he presents with insidious, progressive joint pain exacerbated by weight-bearing, morning stiffness lasting 15 minutes, crepitus, and gradually declining range of motion. He has no fever, warmth, wound erythema, or systemic symptoms. Inflammatory markers (ESR and CRP) are entirely normal. What is the most likely diagnosis?",
+      "options": {
+        "A": "Septic arthritis",
+        "B": "Post-traumatic osteoarthritis",
+        "C": "Avascular necrosis (AVN)",
+        "D": "Nonunion",
+        "E": "Malunion"
+      },
+      "correctAnswer": "B",
+      "explanation": "This patient presents with classic features of post-traumatic osteoarthritis (PTOA) following an intra-articular fracture. Even when anatomic reduction and rigid fixation are achieved surgically, the initial mechanical trauma exerts catastrophic impact forces on the articular hyaline cartilage, causing acute chondrocyte necrosis, matrix microdamage, and subchondral microfractures. Over time, the compromised chondrocyte homeostasis, localized mechanical stress alterations, and release of catabolic inflammatory cytokines trigger progressive cartilage breakdown, leading to secondary osteoarthritis. Symptoms are characteristically mechanical: insidious joint pain exacerbated by activity/weight-bearing, brief morning stiffness (<30 minutes), crepitus, and gradual loss of range of motion in the absence of infectious or systemic inflammatory signs.\n\nHigh-yield clinical pearl: PATHOPHYSIOLOGY OF POST-TRAUMATIC OA:\nHigh-energy intra-articular fractures cause immediate irreversible chondrocyte death (chondral shear/impact) and alters joint contact mechanics, precipitating premature secondary degenerative arthritis despite excellent surgical fixation.\n\nExam trap: Brief morning stiffness (<30 min) that worsens with activity is the hallmark of OSTEOARTHRITIS (degenerative), whereas prolonged morning stiffness (>45–60 min) that improves with activity indicates INFLAMMATORY ARTHRITIS (e.g., RA).",
+      "optionExplanations": {
+        "A": "Septic arthritis presents acutely with severe joint effusion, erythema, intense resting pain, inability to bear any weight, high fever, and elevated ESR/CRP.",
+        "B": "Even after anatomic reduction and rigid fixation, the initial chondrocyte and matrix injury plus altered joint contact pressures lead to progressive post-traumatic osteoarthritis.",
+        "C": "Avascular necrosis predominantly affects vulnerable vascular watershed regions (femoral head, scaphoid, talar dome), not typically the tibial plateau.",
+        "D": "Nonunion involves persistent fracture site motion, pain at the fracture site rather than the joint line, and radiographically visible unhealed fracture gap at 6–9 months.",
+        "E": "Malunion indicates healing in an unacceptable non-anatomical alignment, whereas the prompt explicitly states satisfactory anatomical reduction was achieved."
+      },
+      "educationalObjective": "Recognize post-traumatic osteoarthritis as a common long-term sequela of intra-articular fractures resulting from irreversible chondrocyte injury and altered joint contact pressures.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-012",
+      "topic": "Orthopaedic",
+      "section": "Module 3: Soft Tissue & Upper Extremity Disorders",
+      "question": "A 40-year-old woman with a history of type 1 diabetes mellitus presents with a 5-month history of intermittent numbness, burning, and paresthesias affecting the palmar aspect of her right thumb, index finger, middle finger, and radial half of the ring finger. She notes that her symptoms are characteristically worse at night, often waking her from sleep and requiring her to shake her hand out for relief. During physical examination, light percussive tapping performed over the volar aspect of the wrist directly proximal to the flexor retinaculum elicits an electric tingling sensation radiating into the index and middle fingers. Which of the following physical signs was demonstrated?",
+      "options": {
+        "A": "Allen's test",
+        "B": "Phalen's test",
+        "C": "Tinel's sign",
+        "D": "Finkelstein's test"
+      },
+      "correctAnswer": "C",
+      "explanation": "This clinical picture demonstrates Tinel's sign at the wrist, a provacative physical test used in the diagnosis of carpal tunnel syndrome (CTS). Tinel's sign is elicited by lightly tapping with the index finger or reflex hammer over the course of the median nerve at the flexor retinaculum (transverse carpal ligament) on the volar aspect of the wrist. A positive response is the reproduction of tingling, paresthesias, or an electric shock-like sensation in the cutaneous distribution of the median nerve (volar surface of the thumb, index, middle, and radial half of the ring finger). Carpal tunnel syndrome is the most common compressive neuropathy of the upper extremity, frequently associated with female sex, obesity, diabetes mellitus, pregnancy, and hypothyroidism.\n\nHigh-yield clinical pearl: CARPAL TUNNEL SENSORY SPARING:\nThe PALMAR CUTANEOUS BRANCH OF THE MEDIAN NERVE branches approximately 5 cm proximal to the wrist and travels superficial to the flexor retinaculum; therefore, SENSATION OVER THE THENAR EMINENCE IS SPARED IN CTS . Numbness involving the thenar eminence indicates compression proximal to the carpal tunnel (e.g., pronator teres syndrome or C6 radiculopathy).\n\nExam trap: Do not confuse Tinel's sign (percussion/tapping over nerve) with Phalen's maneuver (prolonged wrist flexion). Both test for CTS, but the mechanics differ.",
+      "optionExplanations": {
+        "A": "Allen's test evaluates the patency of the radial and ulnar arteries and the integrity of the superficial palmar arch prior to arterial puncture.",
+        "B": "Phalen's test reproduces median nerve paresthesias by holding the wrists in maximal passive unforced flexion (dorsa of hands pressed together) for 60 seconds.",
+        "C": "Tinel's sign, reproduction of tingling in the median nerve distribution when the nerve is tapped at the volar wrist, is the provocative test described for carpal tunnel syndrome.",
+        "D": "Finkelstein's test is pathognomonic for De Quervain's tenosynovitis (APL and EPB tendons), elicited by placing the thumb into the palm, making a fist, and sharply deviating the wrist ulnarly."
+      },
+      "educationalObjective": "Identify Tinel's sign as light percussion over the median nerve at the volar wrist reproducing paresthesias in the median nerve distribution, indicating compressive neuropathy.",
+      "imagePath": "Pictures/Orthopaedic1-012.png"
+    },
+    {
+      "id": "Orthopaedic1-013",
+      "topic": "Orthopaedic",
+      "section": "Module 3: Soft Tissue & Upper Extremity Disorders",
+      "question": "A 42-year-old auto mechanic presents with a 2-month history of sharp, aching pain over the lateral aspect of his right dominant elbow that radiates distally into the dorsolateral forearm. The pain is noticeably aggravated whenever he forcefully grips screwdrivers or wrenches, and during manual wrist extension against resistance. On physical examination, there is maximal localized point tenderness approximately 1 cm distal and anterior to the lateral epicondyle, and pain is reproduced with resisted extension of the middle finger (Maudsley's test) and resisted wrist extension with the elbow in full extension (Cozen's test). Which of the following is the most appropriate first-line treatment?",
+      "options": {
+        "A": "Frequent, long-term steroid injections",
+        "B": "Rest, activity modification, and physical therapy exercises",
+        "C": "Immediate surgery to repair the tendon",
+        "D": "Doing nothing and continuing the painful activity",
+        "E": "Putting the arm in a cast for two months"
+      },
+      "correctAnswer": "B",
+      "explanation": "This patient presents with textbook lateral epicondylitis ('tennis elbow'), an overuse tendinopathy primarily involving angiofibroblastic tendinosis and microscopic tearing at the origin of the extensor carpi radialis brevis (ECRB) muscle at the lateral humeral epicondyle. The clinical diagnosis is established by: 1. Discrete point tenderness over the ECRB origin on the lateral epicondyle. 2. Reproduction of pain with resisted wrist extension (Cozen's test) and resisted middle finger extension (Maudsley's test). 3. Pain exacerbated by repetitive wrist gripping, pronation, and extension. First-line management is strictly non-operative conservative therapy: temporary rest, activity modification, counterforce bracing (forearm strap), cryotherapy, nonsteroidal anti-inflammatory drugs (NSAIDs), and structured physical therapy incorporating eccentric strengthening exercises of the forearm extensors. Over 90% of patients resolve successfully within 6 to 12 months.\n\nHigh-yield clinical pearl: KEY ANATOMICAL MUSCLE INVOLVED:\nEXTENSOR CARPI RADIALIS BREVIS (ECRB) is the primary muscle involved in lateral epicondylitis. In contrast, MEDIAL EPICONDYLITIS ('GOLFER'S ELBOW') involves the pronator teres and flexor carpi radialis (FCR) origins.\n\nExam trap: Steroid injections may produce dramatic short-term relief at 4–6 weeks but have higher recurrence rates and worse 1-year clinical outcomes compared to physical therapy and watchful waiting.",
+      "optionExplanations": {
+        "A": "Frequent, long-term corticosteroid injections provide temporary short-term pain relief but carry significant long-term risks of tendon rupture, subcutaneous fat atrophy, skin depigmentation, and worse outcomes at 1 year.",
+        "B": "Lateral epicondylitis (tennis elbow) is an overuse tendinopathy of the ECRB origin, and initial management is conservative: rest, activity modification and physical therapy exercises.",
+        "C": "Surgical intervention (debridement of degenerated ECRB origin) is reserved only for refractory symptoms failing at least 6 months of dedicated conservative therapy.",
+        "D": "Continuing repetitive forceful aggravating tasks causes progressive microtearing and chronic tendinosis.",
+        "E": "Prolonged cast immobilization leads to joint stiffness, muscle atrophy, and does not address the underlying tendon degenerative pathology."
+      },
+      "educationalObjective": "Recognize that lateral epicondylitis is an overuse tendinopathy of the extensor carpi radialis brevis (ECRB) treated primarily with activity modification, eccentric physical therapy, and counterforce bracing.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-014",
+      "topic": "Orthopaedic",
+      "section": "Module 3: Soft Tissue & Upper Extremity Disorders",
+      "question": "A 52-year-old woman with longstanding type 2 diabetes mellitus presents with persistent discomfort and functional limitation of her right hand. She reports that her right middle finger frequently gets stuck in a flexed posture, especially in the morning upon awakening, requiring her to use her left hand to manually snap or pop it back into full extension, which causes a painful clicking sensation. On physical examination, a small, tender, nodular thickening is palpated over the palmar aspect of the third metacarpophalangeal (MCP) joint. When she flexes and extends the finger, the nodule is felt catching beneath a ligamentous structure. What is the most likely underlying cause of this condition?",
+      "options": {
+        "A": "Thickening of the flexor tendon sheath",
+        "B": "Rupture of the extensor tendon",
+        "C": "Ulnar nerve compression at the elbow",
+        "D": "Inflammation of the first dorsal compartment of the wrist"
+      },
+      "correctAnswer": "A",
+      "explanation": "This patient presents with classic trigger finger (stenosing tenosynovitis), a condition characterized by a size mismatch between the flexor tendons (flexor digitorum superficialis and profundus) and the retinacular first annular (A1) pulley at the metacarpal head. Repetitive friction and inflammation lead to hypertrophy, fibrocartilaginous metaplasia, and thickening of the flexor tendon sheath (A1 pulley), often accompanied by the formation of a discrete nodule within the flexor tendon (Notta's node). During finger flexion, the strong flexor muscles pull the nodule proximally through the constricted A1 pulley. However, during extension, the weaker extensor mechanism cannot generate sufficient force to pull the enlarged nodule back through the stenotic sheath, causing the digit to lock in flexion. Trigger finger is significantly more prevalent in patients with diabetes mellitus, rheumatoid arthritis, and amyloidosis. First-line medical therapy includes corticosteroid injection into the tendon sheath; refractory cases undergo percutaneous or open A1 pulley release.\n\nHigh-yield clinical pearl: PULLEY ANATOMY:\nThere are 5 annular pulleys (A1 to A5) and 3 cruciate pulleys (C1 to C3). The A1 PULLEY is the site of trigger finger pathology and can be safely divided surgically. In contrast, the A2 AND A4 PULLEYS are critical biomechanical pulleys that must NEVER be divided, as cutting them causes bowstringing of the flexor tendons.\n\nExam trap: Trigger finger involves the A1 PULLEY ON THE PALMAR ASPECT of the MCP joint. Do not confuse it with De Quervain's tenosynovitis, which involves the FIRST DORSAL COMPARTMENT at the radial styloid.",
+      "optionExplanations": {
+        "A": "Trigger finger results from thickening of the flexor tendon sheath (A1 pulley), often with a tendon nodule, which makes the tendon catch and lock in flexion.",
+        "B": "Extensor tendon rupture (such as mallet finger at the DIP or central slip rupture at the PIP) results in inability to extend the joint actively, but does not present with a palpable clicking palmar nodule catching beneath a pulley.",
+        "C": "Ulnar nerve compression at the elbow (cubital tunnel syndrome) causes numbness in the 4th and 5th digits and intrinsic hand muscle wasting, not digital triggering.",
+        "D": "Inflammation of the first dorsal compartment of the wrist is De Quervain's tenosynovitis, affecting the abductor pollicis longus (APL) and extensor pollicis brevis (EPB) at the radial styloid, not the flexor tendons."
+      },
+      "educationalObjective": "Identify trigger finger as a stenosing tenosynovitis caused by hypertrophy and thickening of the flexor tendon sheath at the A1 pulley, leading to mechanical entrapment of the flexor tendon.",
+      "imagePath": "Pictures/Orthopaedic1-014.png"
+    },
+    {
+      "id": "Orthopaedic1-015",
+      "topic": "Orthopaedic",
+      "section": "Module 4: Spine Pathology & Low Back Pain",
+      "question": "A 26-year-old software engineer and amateur weightlifter presents with acute, dull aching lower back pain that began 2 days ago after lifting heavy moving boxes. The pain is localized across the paraspinal muscles of the lumbar region without radiation into the buttocks or lower extremities. He denies bowel or bladder incontinence, saddle anesthesia, fever, unexplained weight loss, or history of malignancy. On physical examination, there is mild paraspinal muscular tenderness and spasm without midline spinal bony tenderness. Straight leg raise test is negative bilaterally, and deep tendon reflexes and motor strength are completely intact (5/5). Which of the following is the most common cause of back pain in young adults?",
+      "options": {
+        "A": "Muscle spasms and ligaments sprain",
+        "B": "Metastasis",
+        "C": "Spinal fracture",
+        "D": "Infection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mechanical low back pain secondary to muscular strain and ligamentous sprain accounts for more than 70% to 85% of all low back pain presentations in young adults. Acute paraspinal strain occurs following mechanical overexertion, improper lifting ergonomics, or repetitive twisting forces that exceed the load-bearing capacity of the erector spinae muscles, multifidus, and supporting lumbosacral ligaments. The condition is self-limiting, with over 90% of cases resolving spontaneously within 4 to 6 weeks. Management focuses on remaining active (avoiding prolonged bed rest), scheduled nonsteroidal anti-inflammatory drugs (NSAIDs) or acetaminophen, short-term muscle relaxants if severe spasm is present, and early physical therapy. Imaging (X-ray or MRI) is strictly NOT indicated in the absence of red flag symptoms.\n\nHigh-yield clinical pearl: BED REST MYTH IN ACUTE LBP:\nProlonged strict bed rest (>48 hours) is detrimental; it leads to muscular deconditioning, joint stiffness, and delayed recovery. Early resumption of normal light physical activity within pain tolerance accelerates functional improvement.\n\nExam trap: Routine imaging (plain radiographs, CT, MRI) in uncomplicated acute mechanical low back pain (<6 weeks duration, no red flags) does NOT improve outcomes and exposes patients to unnecessary radiation and incidental findings.",
+      "optionExplanations": {
+        "A": "Muscle spasm and ligament sprain (mechanical strain) account for most low back pain in young adults and are self-limiting.",
+        "B": "Metastatic spine disease is exceptionally rare in young adults under 40 and typically occurs in older individuals (>50 years) with a known primary cancer (breast, prostate, lung, kidney, thyroid).",
+        "C": "Spinal fracture in young adults requires major high-energy axial trauma (fall from height, motor vehicle collision) or underlying metabolic bone disease.",
+        "D": "Spinal infections (vertebral osteomyelitis, discitis, epidural abscess) are uncommon causes representing <1% of cases, typically seen in IV drug users, immunosuppressed patients, or following spinal instrumentation."
+      },
+      "educationalObjective": "Identify lumbar muscle strain and ligamentous sprain as the overwhelmingly most common etiology of acute low back pain in young adults.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-016",
+      "topic": "Orthopaedic",
+      "section": "Module 4: Spine Pathology & Low Back Pain",
+      "question": "A 45-year-old construction worker presents to the urgent care clinic with severe, progressive lower back pain. During the clinical evaluation, the physician systematically reviews the patient's history and physical examination findings to rule out sinister spinal pathology requiring urgent neurosurgical intervention or advanced imaging. Which of the following is considered a RED FLAG in the evaluation of low back pain?",
+      "options": {
+        "A": "Age less than 40",
+        "B": "Worsen by movement",
+        "C": "Relieved by rest",
+        "D": "History of recent trauma"
+      },
+      "correctAnswer": "D",
+      "explanation": "The evaluation of low back pain relies on identifying 'red flag' clinical features that indicate serious underlying conditions such as spinal fractures, malignancy, spinal epidural abscess, or cauda equina syndrome. A history of recent significant trauma (e.g., motor vehicle crash, fall from height, or even minor low-energy falls in osteoporotic or elderly individuals) is a critical red flag warning of potential vertebral body compression fracture, burst fracture, or spinal column instability. Immediate plain radiography or computed tomography (CT) is indicated in the presence of recent trauma.\n\nHigh-yield clinical pearl: CAUDA EQUINA SYNDROME (SURGICAL EMERGENCY):\nCombination of severe back pain, BILATERAL SCIATICA, SADDLE ANESTHESIA (S3–S5 dermatomes), URINARY RETENTION (overflow incontinence with post-void residual >200 mL), and lax anal sphincter tone. Requires emergency MRI and surgical decompression within 24–48 hours.\n\nExam trap: Mechanical back pain is aggravated by activity and relieved by rest. Malignant or infectious back pain is constant, persists at rest, and awakens the patient at night.",
+      "optionExplanations": {
+        "A": "Age less than 40 is a reassuring characteristic of benign mechanical back pain; red-flag age extremes are onset at age >50 (malignancy, fracture) or <18 (spondylolysis, infection).",
+        "B": "Pain that worsens with movement and spine loading is the classic hallmark of benign mechanical musculoskeltal strain.",
+        "C": "Pain relieved by recumbency and rest is typical of benign mechanical back pain; in contrast, pain that is unrelieved by rest or worsens at night (nocturnal pain) is a major red flag for spinal neoplasm or infection.",
+        "D": "A history of recent significant trauma is a red flag for vertebral fracture or spinal instability and calls for prompt imaging."
+      },
+      "educationalObjective": "Identify a history of recent trauma as a primary red flag in low back pain requiring immediate radiographic evaluation to exclude spinal fracture.",
+      "imagePath": "Pictures/Orthopaedic1-016.png"
+    },
+    {
+      "id": "Orthopaedic1-017",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 17-year-old female gymnast sustains an acute lateral patellar dislocation during a twisting floor exercise. The patella is reduced in the field, and she is evaluated in the sports medicine clinic. In discussing the biomechanical stabilization of the patellofemoral joint and initial management strategies, which of the following statements is CORRECT?",
+      "options": {
+        "A": "The trochlear groove and MPFL are static stabilizers, quadriceps is a dynamic stabilizer, and most first-time acute dislocations are treated non-operatively",
+        "B": "Patellar instability affects males 33% more often than females",
+        "C": "The MPFL is the primary dynamic stabilizer, while quadriceps is the primary static stabilizer",
+        "D": "First-time acute patellar dislocations usually require surgery regardless of recurrence or loose bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Patellofemoral stability is maintained by a complex interaction of bony architecture, passive ligamentous restraints, and active dynamic muscular forces: 1. Static stabilizers: The trochlear groove (bony architecture of the distal femur) and the medial patellofemoral ligament (MPFL). The MPFL is the primary static restraint to lateral patellar displacement, providing 50% to 60% of total restraining force between 0° and 30° of knee flexion. 2. Dynamic stabilizers: The quadriceps muscle complex, particularly the vastus medialis obliquus (VMO), which dynamically pulls the patella medially during active contraction. 3. Treatment: Most first-time acute patellar dislocations without osteochondral fracture or loose bodies are managed non-operatively with brief immobilization in extension, protected weight-bearing, followed by progressive physical therapy focusing on VMO and core strengthening. Surgery (MPFL reconstruction) is indicated for recurrent instability or associated intra-articular osteochondral loose bodies.\n\nHigh-yield clinical pearl: MPFL INJURY LOCATION:\nIn acute lateral patellar dislocation, the MPFL ruptures in over 90% of cases, most commonly at its femoral attachment site near the adductor tubercle (Bassett's sign: discrete tenderness over the medial epicondyle).\n\nExam trap: Never rush to surgery for a first-time acute patellar dislocation if radiographs show no osteochondral fractures. Conservative management is successful in 50–70% of first-time dislocators.",
+      "optionExplanations": {
+        "A": "The trochlear groove and the medial patellofemoral ligament are the static stabilizers, the quadriceps (especially the vastus medialis obliquus) is the dynamic stabilizer, and uncomplicated first-time dislocations are managed non-operatively.",
+        "B": "Patellar instability is substantially more common in females than males due to increased ligamentous laxity, higher Q-angle, and trochlear dysplasia.",
+        "C": "The MPFL is a static ligamentous stabilizer, whereas the quadriceps (VMO) is a dynamic muscular stabilizer.",
+        "D": "Routine immediate operative repair is NOT indicated for first-time dislocations unless an osteochondral loose body (>5 mm) requires fixation/removal."
+      },
+      "educationalObjective": "Understand patellofemoral biomechanics: the trochlear groove and MPFL provide static stability, the quadriceps (VMO) provides dynamic stability, and uncomplicated first-time dislocations are treated non-operatively.",
+      "imagePath": "Pictures/Orthopaedic1-017.png"
+    },
+    {
+      "id": "Orthopaedic1-018",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 13-year-old adolescent boy who plays competitive soccer on a daily basis presents with a 3-month history of localized anterior knee pain and a prominent bump over his upper shin. The pain characteristically worsens during and immediately after sprinting, kicking, and jumping, but is reliably relieved by rest. On physical examination, there is pronounced point tenderness and localized soft-tissue swelling directly over the tibial tuberosity. The knee joint itself is stable with no effusion, joint line tenderness, or ligamentous laxity. Resisted active knee extension reproduces pain over the tibial tubercle. Which of the following statements is most accurate regarding this condition?",
+      "options": {
+        "A": "The patient must stop all physical activity permanently",
+        "B": "This condition is self-limiting and improves after growth plate closure",
+        "C": "NSAIDs and steroids are needed",
+        "D": "Surgical excision of the tubercle is needed"
+      },
+      "correctAnswer": "B",
+      "explanation": "This patient presents with classic Osgood-Schlatter disease (traction apophysitis of the tibial tubercle). During the adolescent growth spurt (ages 10–15 years in boys), rapid longitudinal bone growth outpaces tendon elongation. Repetitive, forceful contraction of the quadriceps muscle during running, jumping, and kicking sports generates excessive tensile traction forces across the patellar tendon insertion onto the still-cartilaginous tibial secondary ossification center (apophysis). This leads to recurrent microavulsions, localized osteochondritis, and reparative heterotopic bone formation (causing the characteristic prominent, tender bump). The condition is fundamentally benign and self-limiting, resolving completely once the tibial physis and apophysis fuse at skeletal maturity (typically around ages 14–18). Management consists of conservative measures: activity modification within pain tolerance (no need for complete bed rest or permanent cessation), ice packs, hamstring stretching, and brief NSAIDs. Surgery is almost never indicated in adolescents.\n\nHigh-yield clinical pearl: SINDING-LARSEN-JOHANSSON DISEASE:\nThe distal pole counterpart to Osgood-Schlatter! It is a traction apophysitis at the INFERIOR POLE OF THE PATELLA (proximal patellar tendon origin) in running/jumping adolescents.\n\nExam trap: Never inject steroids into or near the patellar tendon in pediatric or adult athletes—steroids degrade tendon collagen fibrils, leading to spontaneous rupture.",
+      "optionExplanations": {
+        "A": "Permanent cessation of sports is completely unnecessary; patients are encouraged to continue sports with temporary activity modification based on pain.",
+        "B": "Osgood-Schlatter disease is a self-limiting traction apophysitis of the tibial tubercle that improves once the growth plate closes.",
+        "C": "Corticosteroid injections are strictly contraindicated around the patellar tendon due to the high risk of catastrophic patellar tendon rupture and subcutaneous fat atrophy.",
+        "D": "Surgical excision of ossicles is only rarely considered in skeletally mature adults with persistent symptomatic ununited intratendinous ossicles."
+      },
+      "educationalObjective": "Recognize Osgood-Schlatter disease as a benign, self-limiting traction apophysitis of the tibial tubercle that improves spontaneously upon physis fusion at skeletal maturity.",
+      "imagePath": "Pictures/Orthopaedic1-018.png"
+    },
+    {
+      "id": "Orthopaedic1-019",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 25-year-old athlete is evaluated following a sports-related knee injury. The physician suspects an isolated tear of the posterior cruciate ligament (PCL). Which historical presentation and symptom pattern is most characteristic of an isolated posterior cruciate ligament injury compared to an anterior cruciate ligament (ACL) tear?",
+      "options": {
+        "A": "No popping, gradual slow swelling over days, and patients are usually able to bear weight",
+        "B": "No swelling, recurrent locking, and delayed inability to extend the knee",
+        "C": "Immediate hemarthrosis with severe pain",
+        "D": "Loud pop and immediate swelling within 1 to 2 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "The clinical presentation of an isolated posterior cruciate ligament (PCL) tear differs dramatically from that of an ACL tear: 1. Mechanism: PCL injuries typically occur from a direct anterior blow to the proximal tibia with the knee flexed (e.g., dashboard injury in a motor vehicle collision) or falling forward onto a flexed knee with the foot in plantarflexion. 2. Symptoms: Patients with isolated PCL tears frequently report vague, insidious, mild-to-moderate posterior knee aching. Crucially, they rarely hear or feel an audible 'pop', exhibit gradual, slow mild swelling over 24 to 48 hours (rather than tense acute hemarthrosis), and are usually able to bear weight and ambulate immediately after the injury. In stark contrast, patients with acute ACL ruptures classically report a loud audible 'pop', immediate severe pain, sudden instability/giving way, inability to bear weight, and rapid tense hemarthrosis within 2 to 6 hours.\n\nHigh-yield clinical pearl: CLINICAL PEARL (ACL VS PCL PRESENTATION):\n• ACL:\nHigh energy non-contact pivot -> Loud POP -> Rapid tense hemarthrosis (<2-6 hrs) -> Inability to walk.\n• PCL:\nAnterior tibial blow/fall -> NO pop -> Mild insidious swelling (>24-48 hrs) -> Able to walk/bear weight.\n\nExam trap: Because patients with isolated PCL tears can often walk off the field, the injury is frequently missed acutely and presents months later as vague anterior knee pain (patellofemoral overload) during hill descent or stair climbing.",
+      "optionExplanations": {
+        "A": "An isolated PCL tear typically causes no audible pop, slow mild swelling over days, and the patient can usually bear weight, unlike an ACL tear.",
+        "B": "Recurrent locking, catching, and delayed inability to fully extend the knee ('locked knee') are pathognomonic for an unstable bucket-handle meniscal tear.",
+        "C": "Immediate severe hemarthrosis within hours is the hallmark of an acute ACL rupture or patellar dislocation, not isolated PCL tears.",
+        "D": "An audible 'loud pop' accompanied by immediate swelling is the classic presentation of an ACL tear (70% of acute traumatic knee hemarthroses)."
+      },
+      "educationalObjective": "Differentiate PCL tears from ACL injuries by recognizing that isolated PCL tears characteristically present without an audible pop, with minimal/gradual swelling, and with preserved ability to bear weight.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-020",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 21-year-old collegiate soccer player sustains a non-contact deceleration and pivoting twisting injury to her left knee during a match. She felt a loud pop followed by rapid swelling. Clinical examination confirms anterior laxity. Magnetic resonance imaging (MRI) of the knee is performed to assess the extent of ligamentous and chondral injury. Which of the following MRI findings is most characteristically associated with an acute complete anterior cruciate ligament (ACL) rupture?",
+      "options": {
+        "A": "Complete PCL rupture",
+        "B": "Medial femoral condyle bone bruise",
+        "C": "Posterolateral bone bruise with an intact PCL",
+        "D": "Isolated lateral collateral ligament tear",
+        "E": "Angulation of the PCL indicates complete ACL disruption"
+      },
+      "correctAnswer": "C",
+      "explanation": "During a non-contact pivot-shift injury (valgus stress, internal tibial rotation, and knee flexion), the tibia subluxates anteriorly relative to the femur as the ACL ruptures. As the knee reduces, the lateral femoral condyle (sulcus terminalis) violently collides with the posterolateral tibial plateau. This distinctive bone impact generates a pathognomonic 'kissing contusion' bone bruise pattern on MRI: hyperintense T2/STIR signal in the mid-lateral femoral condyle and posterolateral tibial plateau. This finding is present in more than 80% of acute complete ACL tears. In an isolated ACL rupture, the PCL remains structurally intact, though it may appear buckled or show an altered angle due to anterior displacement of the tibia.\n\nHigh-yield clinical pearl: SEGOND FRACTURE:\nAn avulsion fracture of the lateral tibial plateau at the insertion of the anterolateral ligament (ALL), seen on plain AP radiograph. It is virtually pathognomonic (90–100% specific) for an underlying COMPLETE ACL RUPTURE.\n\nExam trap: Bone contusion location determines injury mechanism: POSTEROLATERAL TIBIA + LATERAL FEMORAL CONDYLE = ACL TEAR. ANTEROLATERAL FEMORAL CONDYLE + MEDIAL PATELLA = PATELLAR DISLOCATION.",
+      "optionExplanations": {
+        "A": "Complete PCL rupture does not occur in isolated non-contact pivoting ACL tears; combined ACL/PCL tears represent multiligamentous knee dislocations.",
+        "B": "Medial femoral condyle bone contusions are seen in lateral patellar dislocations (patellar impact against the lateral condyle) or direct blunt blows, not typical ACL non-contact pivot-shift kinematics.",
+        "C": "In a non-contact ACL rupture the lateral femoral condyle strikes the posterolateral tibial plateau, producing the characteristic posterolateral 'kissing contusion' bone bruise with the PCL intact.",
+        "D": "Isolated LCL tears are rare, caused by varus stress without rotation, and are not a feature of typical ACL injuries.",
+        "E": "While PCL buckling or increased curvature occurs secondary to anterior tibial translation, the primary characteristic bone bruise pattern is in the posterolateral compartment."
+      },
+      "educationalObjective": "Identify the characteristic 'kissing' bone contusion pattern of the lateral femoral condyle and posterolateral tibial plateau on MRI as highly indicative of an acute ACL rupture.",
+      "imagePath": "Pictures/Orthopaedic1-020.png"
+    },
+    {
+      "id": "Orthopaedic1-021",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "An orthopedic sports medicine fellow conducts an evidence-based clinical physical examination seminar on anterior cruciate ligament (ACL) tears. She reviews the sensitivity, specificity, and biomechanical principles of the anterior drawer test, Lachman test, and pivot shift test. Which of the following statements regarding anterior cruciate ligament (ACL) physical examination is TRUE?",
+      "options": {
+        "A": "The anterior drawer test is the most sensitive clinical test for ACL injury",
+        "B": "The pivot shift test is the most sensitive clinical test for ACL injury",
+        "C": "Lachman test is the most sensitive clinical test, while the pivot shift test is the most specific",
+        "D": "The posterior drawer test could be helpful"
+      },
+      "correctAnswer": "C",
+      "explanation": "The diagnostic accuracy of physical examination maneuvers for acute ACL tears is firmly established in orthopedic literature: 1. Lachman test: Performed with the knee at 20° to 30° of flexion while translating the tibia anteriorly. It has a sensitivity of 85% to 95%, making it the single most sensitive clinical test for ACL tear. At 20–30° of flexion, the secondary restraints (hamstrings, posterior capsule) are relaxed, and the geometry of the posterior horn of the medial meniscus does not block anterior excursion. 2. Pivot shift test: Evaluates dynamic rotatory subluxation (anterolateral rotatory instability) by applying an internal rotation torque and valgus stress while moving the knee from extension into flexion. It boasts a specificity of 98% to 99%, making it the most specific clinical test (a positive pivot shift confirms an ACL rupture). However, its sensitivity is low in awake patients due to voluntary hamstring muscle guarding. 3. Anterior drawer test: Performed at 90° of flexion. Sensitivity is lower (50–70%) acutely because hamstring spasm, protective joint effusion, and wedging of the posterior horn of the medial meniscus against the femoral condyle physically prevent anterior translation.\n\nHigh-yield clinical pearl: WHY LACHMAN BEATS ANTERIOR DRAWER:\nAt 90° flexion (drawer test), the posterior horn of the medial meniscus wedges like a doorstop against the medial femoral condyle, masking ACL laxity. At 20–30° (Lachman), this doorstop effect is disengaged.\n\nExam trap: Always evaluate the end-point: a normal ACL produces a crisp, solid 'hard' end-point. An ACL tear produces a mushy, soft, or absent end-point with increased excursion (>3 mm difference compared to normal contralateral knee).",
+      "optionExplanations": {
+        "A": "The anterior drawer test is significantly less sensitive than the Lachman test, especially in the acute setting.",
+        "B": "The pivot shift test has high specificity (98%) but poor sensitivity (often <40% without anesthesia) due to patient pain and guarding.",
+        "C": "The Lachman test is the most sensitive clinical test for ACL tear (about 85-95%) and the pivot shift test is the most specific (about 98-99%).",
+        "D": "The posterior drawer test specifically diagnoses PCL injuries, not ACL injuries."
+      },
+      "educationalObjective": "Remember the diagnostic performance of ACL examination tests: the Lachman test is the most sensitive, while the pivot shift test is the most specific.",
+      "imagePath": "Pictures/Orthopaedic1-021.png"
+    },
+    {
+      "id": "Orthopaedic1-022",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 30-year-old motor vehicle collision unrestrained passenger sustains a dashboard injury to the anterior aspect of his right flexed knee. On physical examination, the orthopedic resident performs special ligamentous testing to evaluate for posterior cruciate ligament (PCL) disruption. Which of the following statements regarding posterior cruciate ligament (PCL) injury diagnosis is TRUE?",
+      "options": {
+        "A": "Lachman test is the gold standard for diagnosing PCL injury",
+        "B": "Posterior sag sign is the gold standard for diagnosing PCL injury",
+        "C": "The posterior drawer test is the gold standard for diagnosing PCL injury, with approximately 90% sensitivity and 99% specificity",
+        "D": "Pivot shift test is the most specific test for PCL injury"
+      },
+      "correctAnswer": "C",
+      "explanation": "The posterior drawer test is the established clinical gold standard for the evaluation and diagnosis of posterior cruciate ligament (PCL) ruptures, exhibiting an exceptional sensitivity of ~90% and specificity of ~99%. To perform the test, the patient is supine with the hip flexed to 45° and the knee flexed to 90°. The examiner sits on the patient's foot to stabilize the limb, ensures the hamstring tendons are completely relaxed, and applies a direct posterior force to the proximal tibia. Posterior tibial translation is graded based on the step-off relationship between the medial tibial plateau and the medial femoral condyle (normally the tibia sits 1 cm anterior to the femoral condyle): • Grade I: 1–5 mm posterior translation (tibia remains anterior to condyle). • Grade II: 6–10 mm translation (tibia flush with femoral condyle). • Grade III: >10 mm translation (tibia translates posterior to condyle; indicates combined PCL and posterolateral corner injury).\n\nHigh-yield clinical pearl: FALSE-POSITIVE ANTERIOR DRAWER (THE PCL TRAP):\nIn a knee with a torn PCL, the tibia chronically sags posteriorly. If the examiner fails to recognize this starting position, pulling the tibia anteriorly simply brings it back to neutral, falsely interpreted as a positive anterior drawer (pseudo-ACL tear)!\n\nExam trap: Always assess the 1 cm normal anterior step-off of the medial tibial plateau before performing anterior or posterior drawer tests to avoid misdiagnosing a PCL tear as an ACL tear.",
+      "optionExplanations": {
+        "A": "The Lachman test evaluates the anterior cruciate ligament (ACL), not the PCL.",
+        "B": "The posterior sag sign (Godfrey's test) is a valuable visual test where the tibia sags posteriorly under gravity at 90° flexion, but the posterior drawer test is the definitive gold standard manual maneuver.",
+        "C": "The posterior drawer test is the clinical gold standard for diagnosing PCL injury, with about 90% sensitivity and 99% specificity.",
+        "D": "The pivot shift test evaluates anterolateral rotatory instability from ACL deficiency, not PCL tears (the dial test or reverse pivot shift evaluates posterolateral corner/PCL injuries)."
+      },
+      "educationalObjective": "Recognize the posterior drawer test as the gold standard clinical examination for PCL injury, with approximately 90% sensitivity and 99% specificity.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-023",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "A 22-year-old basketball player lands awkwardly from a rebound, planting his foot firmly on the hardwood floor while cutting and forcefully twisting his torso. He experiences an immediate sharp tearing sensation along the medial joint line. Over the next 24 hours, he develops a modest effusion, accompanied by mechanical clicking and pain when squatting. Regarding meniscal tears, which of the following statements is TRUE?",
+      "options": {
+        "A": "They usually occur due to hyperextension of the knee",
+        "B": "They commonly occur after a direct blow to the patella",
+        "C": "They typically result from a twisting injury while the knee is flexed",
+        "D": "They most commonly occur with the knee fully extended"
+      },
+      "correctAnswer": "C",
+      "explanation": "The classic injury mechanism for a traumatic meniscal tear is a twisting (rotational) force applied to a flexed, weight-bearing knee. When the knee is flexed, the femoral condyles roll posteriorly onto the flat tibial plateau, and axial compression traps the fibrocartilaginous meniscus between the two articulating surfaces. Subsequent sudden internal or external rotation of the femur creates catastrophic shear stresses that exceed the tensile strength of the collagen fibers within the meniscus, resulting in longitudinal, radial, or bucket-handle tears. The medial meniscus is torn approximately three times more frequently than the lateral meniscus in non-contact sports injuries due to its firm peripheral attachment to the deep medial collateral ligament (MCL) and joint capsule, which renders it significantly less mobile.\n\nHigh-yield clinical pearl: VASCULAR ZONES OF THE MENISCUS:\n• RED-RED ZONE:\nOuter 10–30% (rich peripheral blood supply from genicular arteries); excellent healing potential; amenable to primary surgical repair.\n• WHITE-WHITE ZONE:\nInner 70% (completely avascular; nourished solely by synovial fluid diffusion); zero healing potential; requires partial meniscectomy when torn.\n\nExam trap: Bucket-handle tears of the medial meniscus can flip into the intercondylar notch, causing a true mechanical 'locked knee' (inability to achieve full terminal extension). This requires urgent arthroscopic reduction.",
+      "optionExplanations": {
+        "A": "Hyperextension of the knee typically injures the anterior cruciate ligament (ACL) or causes posterior capsule strain, not isolated meniscal tears.",
+        "B": "A direct blow to the patella causes patellar fracture, patellofemoral cartilage contusion, or prepatellar bursitis, not meniscal tears.",
+        "C": "Traumatic meniscal tears result from a twisting force applied to a flexed, weight-bearing knee, which traps the meniscus between femur and tibia.",
+        "D": "In full extension, the knee is in its close-packed position with minimal rotational shear, rendering meniscal trapping far less likely than during flexion."
+      },
+      "educationalObjective": "Understand the classic biomechanical mechanism of meniscal injury: a twisting rotational force applied to a flexed, weight-bearing knee.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-024",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "An orthopedic biomechanics researcher presents data on the primary and secondary stabilizers of the human knee joint during dynamic athletic tasks. Which of the following functional roles represents the primary biomechanical restraint provided by the anterior cruciate ligament (ACL)?",
+      "options": {
+        "A": "Primary restraint to posterior tibial translation",
+        "B": "Primary restraint to anterior tibial translation",
+        "C": "Limitation of valgus stress at the knee",
+        "D": "Prevention of meniscal displacement during knee flexion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The anterior cruciate ligament (ACL) provides 85% to 87% of the total passive restraint against anterior translation of the tibia relative to the femur, establishing it as the undisputed primary static restraint to anterior tibial translation. The ACL originates from the posteromedial aspect of the lateral femoral condyle and inserts into the anterior intercondylar fossa of the tibia. It consists of two functional bundles: 1. Anteromedial (AM) bundle: Tightens in knee flexion; provides primary resistance to anterior translation during functional activities. 2. Posterolateral (PL) bundle: Tightens in knee extension; provides rotational stability (resists internal rotation and pivot-shift loads). Secondary restraints to anterior tibial translation include the collateral ligaments, iliotibial band, and the posterior horns of the menisci.\n\nHigh-yield clinical pearl: CRUCIATE LIGAMENT BIOMECHANICS SUMMARY:\n• ACL:\nPrimary restraint to Anterior tibial translation & internal rotational stability.\n• PCL:\nPrimary restraint to Posterior tibial translation (strongest ligament in the knee).\n• MCL:\nPrimary restraint to Valgus stress.\n• LCL:\nPrimary restraint to Varus stress.\n\nExam trap: Remember that while the ACL resists rotational torque, its PRIMARY restraint (>85% of total resistance) is strictly ANTERIOR TIBIAL TRANSLATION.",
+      "optionExplanations": {
+        "A": "The primary restraint to posterior tibial translation is the posterior cruciate ligament (PCL), providing ~95% of total restraint.",
+        "B": "The ACL provides about 85-87% of the passive restraint to anterior tibial translation, making it the primary restraint.",
+        "C": "The primary restraint to valgus stress at the knee is the medial collateral ligament (MCL).",
+        "D": "Meniscal motion is guided by the coronary ligaments, meniscofemoral ligaments (Humphry and Wrisberg), and popliteus tendon, not primarily by the ACL."
+      },
+      "educationalObjective": "Identify the anterior cruciate ligament (ACL) as the primary biomechanical restraint to anterior translation of the tibia relative to the femur.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-025",
+      "topic": "Orthopaedic",
+      "section": "Module 5: Knee Sports Injury & Ligamentous Biomechanics",
+      "question": "An orthopedic surgeon is evaluating two distinct patient cohorts with meniscal pathology: young active athletes with traumatic tears versus older individuals with degenerative tears. Which of the following statements is CORRECT regarding meniscal tears and their underlying mechanics?",
+      "options": {
+        "A": "Traumatic meniscal tear is associated with rotational and compressive forces with the knee partially flexed",
+        "B": "Degenerative meniscal tears are commonly caused by acute rotational and compressive forces in a young athlete",
+        "C": "Traumatic meniscal tears usually occur with the knee fully extended and without rotational stress",
+        "D": "Meniscal injuries most commonly result from hyperextension of the knee without axial loading",
+        "E": "Degenerative meniscal tears are primarily associated with direct blows to the anterior aspect of the knee"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meniscal pathology is broadly dichotomized into two distinct clinical and biomechanical categories: 1. Traumatic meniscal tears: Characteristically occur in young, active athletic populations. The pathomechanics require a combination of axial compression (weight-bearing) and rotational (torsional) shear forces acting upon a partially flexed knee. This traps the mobile meniscal tissue between the femoral condyle and tibial plateau, shearing the collagen architecture (commonly causing vertical longitudinal or bucket-handle tears). 2. Degenerative meniscal tears: Occur in middle-aged or elderly individuals (>45–50 years) as an intrinsic component of generalized joint senescence and osteoarthritis. The meniscal fibrocartilage undergoes age-related desiccation, collagen fiber fragmentation, and cellular loss. These tears typically occur with minimal or no overt trauma (e.g., simply rising from a chair or kneeling) and manifest as complex, horizontal cleavage tears.\n\nHigh-yield clinical pearl: MENISCAL TEAR PATTERNS:\n• TRAUMATIC:\nYoung athletes -> Vertical, longitudinal, bucket-handle tears -> Good tissue quality -> Repair if in red-red zone.\n• DEGENERATIVE:\nOlder patients (>50yo) -> Horizontal cleavage, complex tears -> Poor tissue quality -> Treat with physical therapy/conservative management first!\n\nExam trap: Never rush an older patient with a degenerative meniscal tear to arthroscopic partial meniscectomy without a trial of physical therapy. Multiple randomized clinical trials show arthroscopy is no better than physical therapy for degenerative meniscal tears in osteoarthritis.",
+      "optionExplanations": {
+        "A": "Traumatic meniscal tears arise from combined axial compression and rotational forces on a partially flexed knee, whereas degenerative tears occur in older patients with little or no trauma.",
+        "B": "Degenerative tears occur in older adults with pre-existing cartilage fraying and wear, not from acute high-energy sports trauma in young athletes.",
+        "C": "Traumatic tears require rotational torsional stress and partial flexion; full extension minimizes rotational entrapment.",
+        "D": "Hyperextension without axial loading places stress on the ACL and posterior capsule, not the menisci.",
+        "E": "Degenerative tears are non-traumatic wear-and-tear phenomena, not the result of direct anterior blows."
+      },
+      "educationalObjective": "Differentiate traumatic meniscal tears (rotational and compressive loading during partial knee flexion in athletes) from degenerative meniscal tears (horizontal wear in older arthritic knees).",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-026",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A concerned mother brings her 4-year-old son to the pediatric orthopedic clinic because she noticed that both of his feet appear completely flat without an arch when he stands on the floor. The child is entirely asymptomatic, keeps up with his peers on the playground, and runs without difficulty or pain. On physical examination, when the child stands on tiptoes, or when the examiner passively dorsiflexes the great toe (Jack's test), a normal, well-formed medial longitudinal arch immediately appears. Subtalar joint mobility is supple and full in all planes. Flexible flatfoot in children is best described as:",
+      "options": {
+        "A": "Caused by tarsal coalition",
+        "B": "Always pathological",
+        "C": "Arch present on tiptoe",
+        "D": "Requires surgery",
+        "E": "Associated with pain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Flexible flatfoot (physiologic pes planus) is an extremely common, benign developmental variation found in up to 90% of toddlers and 15–20% of adults due to physiologic ligamentous laxity and fat pad presence under the medial sole. The defining physical examination feature of a flexible flatfoot is that while the medial longitudinal arch collapses and disappears during full static weight-bearing, the arch reliably reconstitutes and becomes clearly visible when standing on tiptoes or during passive great toe dorsiflexion. This phenomenon is driven by the Windlass mechanism: dorsiflexing the hallux tightens the plantar fascia over the metatarsal head, elevating the medial longitudinal arch. Flexible flatfoot is painless, does not impair athletic function, and requires no active treatment, special orthotic shoes, or surgical intervention. Reassurance is the primary management.\n\nHigh-yield clinical pearl: JACK'S TOE-RAISE TEST (WINDLASS TEST):\nPassive dorsiflexion of the hallux tightens the plantar aponeurosis. If the arch reconstitutes -> Flexible flatfoot. If the arch remains flat and stiff -> Rigid flatfoot (order oblique foot radiographs to evaluate for tarsal coalition).\n\nExam trap: Do not prescribe expensive corrective shoe inserts or custom arch supports for painless flexible flatfoot in children— studies prove they do not alter the natural history of arch development and cause unnecessary financial stress for families.",
+      "optionExplanations": {
+        "A": "Tarsal coalition causes a rigid flatfoot, characterized by a permanently flattened arch that does NOT reconstitute on tiptoe and has restricted subtalar motion.",
+        "B": "Flexible flatfoot is a physiologic, non-pathological developmental stage in young children.",
+        "C": "In flexible flatfoot the arch collapses on standing but reappears on tiptoe or with passive great toe dorsiflexion (windlass mechanism); it is painless and needs only reassurance.",
+        "D": "Surgery is never indicated for asymptomatic flexible flatfoot.",
+        "E": "Physiologic flexible flatfoot is entirely painless; pain warrants a search for tarsal coalition, accessory navicular, or juvenile idiopathic arthritis."
+      },
+      "educationalObjective": "Differentiate flexible flatfoot from rigid flatfoot by noting that the arch reappears when standing on tiptoe due to the Windlass mechanism, representing a benign physiologic state requiring reassurance.",
+      "imagePath": "Pictures/Orthopaedic1-026.png"
+    },
+    {
+      "id": "Orthopaedic1-027",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A newborn infant is examined in the nursery. Physical examination of the left foot reveals a rigid, non-reducible deformity characterized by a convex, rounded plantar surface resembling the rocker of a rocking chair, severe hindfoot equinus and valgus, and dorsolateral dislocation of the midfoot with dorsiflexed forefoot resting against the anterior shin. Maximum plantarflexion cannot bring the midfoot into alignment. Congenital vertical talus presents with which of the following classic foot contours?",
+      "options": {
+        "A": "Flat foot",
+        "B": "Rocker-bottom foot",
+        "C": "Claw toes",
+        "D": "High arch"
+      },
+      "correctAnswer": "B",
+      "explanation": "Congenital vertical talus (CVT), also known as congenital convex pes valgus, is an uncommon congenital foot deformity that classically presents with a 'rocker-bottom' foot. The underlying pathomorphology is a rigid, irreducible dorsal dislocation of the navicular on the head of the talus, locking the talus in a fixed, vertical, plantarflexed orientation. Key clinical features include: 1. Convex plantar contour (rocker-bottom appearance) with the vertically oriented talar head acting as the prominent pivot point on the plantar medial sole. 2. Rigid hindfoot equinus and valgus due to contracture of the Achilles tendon. 3. Rigid midfoot/forefoot dorsiflexion and abduction resting against the anterior tibia. CVT is frequently associated with neuromuscular disorders and genetic syndromes, including arthrogryposis multiplex congenita, myelomeningocele, and Trisomy 18 (Edwards syndrome).\n\nHigh-yield clinical pearl: RADIOGRAPHIC CONFIRMATION OF CVT:\nOn maximum plantarflexion lateral radiograph, the long axis of the talus remains vertically oriented and fails to align with the first metatarsal (demonstrating fixed, non-reducible talonavicular dislocation).\n\nExam trap: Do not confuse CONGENITAL VERTICAL TALUS (rigid rocker-bottom foot; associated with Trisomy 18/arthrogryposis) with CALCANEOVALGUS FOOT (supple, hyper-dorsiflexed foot resting on shin; resolves spontaneously with gentle stretching).",
+      "optionExplanations": {
+        "A": "While the arch is absent, simple flatfoot lacks the rigid convex rocker-bottom contour and vertically oriented talus on lateral plantarflexion radiographs.",
+        "B": "Congenital vertical talus produces a rigid rocker-bottom foot from irreducible dorsal dislocation of the navicular on the talar head.",
+        "C": "Claw toes represent hyperextension at the MTP joint and flexion at PIP/DIP joints, commonly seen in Charcot-Marie-Tooth disease.",
+        "D": "High arch (pes cavus) is the polar opposite of a rocker-bottom foot, typically seen in neurological disorders like Friedreich's ataxia or CMT."
+      },
+      "educationalObjective": "Identify congenital vertical talus as a rigid congenital deformity presenting with a pathognomonic rocker-bottom foot contour secondary to irreversible dorsal dislocation of the navicular on a vertical talus.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-028",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A full-term male neonate is born with a unilateral congenital foot deformity. The orthopedic consultant performs a systematic structural examination of the infant's foot and ankle to categorize the components of clubfoot (congenital talipes equinovarus). Clubfoot is characterized by all of the following components EXCEPT:",
+      "options": {
+        "A": "Cavus",
+        "B": "Varus",
+        "C": "Equinus",
+        "D": "Valgus",
+        "E": "Adduction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Congenital clubfoot (talipes equinovarus) is characterized by four cardinal, distinct anatomical deformities that are universally remembered by the medical mnemonic C-A-V-E: 1. C - Cavus: High medial longitudinal arch due to plantarflexion of the first metatarsal relative to the hindfoot. 2. A - Adductus: Medial deviation of the forefoot and metatarsals relative to the midfoot. 3. V - Varus: Inward tilting/inversion of the hindfoot (calcaneus). 4. E - Equinus: Plantarflexion of the ankle joint caused by severe contracture of the gastrocnemius-soleus-Achilles complex. The hindfoot is in VARUS, never valgus! Valgus is the exact opposite of the clubfoot deformity and is the correct answer to this EXCEPT question.\n\nHigh-yield clinical pearl: PONSETI CORRECTION ORDER (C-A-V-E):\nCorrection must follow this precise sequence:\n1. Correct Cavus first (supinate forefoot to align with hindfoot).\n2. Correct Adductus and Varus simultaneously by abducting the foot in supination with a counter-pressure fulcrum on the lateral head of the talus.\n3. Correct Equinus LAST (dorsiflex ankle; ~85-90% require percutaneous Achilles tenotomy under local anesthesia).\n\nExam trap: Never pronate the clubfoot! Pronation exacerbates the cavus deformity by jamming the calcaneus under the talus.",
+      "optionExplanations": {
+        "A": "Cavus is the 'C' in CAVE; it is corrected first in the Ponseti casting protocol.",
+        "B": "Varus is the 'V' in CAVE; the calcaneus is inverted beneath the talus.",
+        "C": "Equinus is the 'E' in CAVE; it is corrected last, frequently requiring a percutaneous Achilles tenotomy.",
+        "D": "Clubfoot consists of Cavus, Adductus, Varus and Equinus (CAVE); the hindfoot is in varus, never valgus, so valgus is the exception.",
+        "E": "Adduction is the 'A' in CAVE; the forefoot points medially toward the midline."
+      },
+      "educationalObjective": "Memorize the C-A-V-E mnemonic for clubfoot: Cavus, Adductus, Varus, and Equinus; recognize that hindfoot valgus is NOT part of clubfoot.",
+      "imagePath": "Pictures/Orthopaedic1-028.png"
+    },
+    {
+      "id": "Orthopaedic1-029",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A 6-year-old boy is brought to the orthopedic clinic by his parents because of a persistent, painless antalgic limp for the past 4 weeks, which has recently evolved into mild ache localized to the groin and anterior thigh that worsens after soccer practice. On physical examination, internal rotation and abduction of the affected right hip are significantly restricted. Plain pelvis and frog-leg lateral radiographs demonstrate flattening, subchondral collapse (crescent sign), sclerosis, and distinct fragmentation of the right femoral capital epiphysis with widening of the joint space. What is the most likely diagnosis?",
+      "options": {
+        "A": "Developmental dysplasia of the hip",
+        "B": "Septic arthritis",
+        "C": "Slipped capital femoral epiphysis",
+        "D": "Perthes disease"
+      },
+      "correctAnswer": "D",
+      "explanation": "This clinical picture is diagnostic for Legg-Calvé-Perthes disease (idiopathic avascular necrosis of the femoral capital epiphysis). Perthes disease predominantly affects boys between 4 and 8 years of age (male-to-female ratio 4:1). Patients characteristically present with an insidious, painless or minimally painful antalgic limp that worsens at the end of the day or after athletic activities, with referred pain to the groin, anterior thigh, or knee. Physical examination classically demonstrates restricted hip internal rotation and abduction. The natural history of Perthes follows four distinct radiographic stages (Waldenström classification): 1. Initial/Avascular stage: Sclerosis and joint space widening. 2. Fragmentation stage: Epiphyseal resorption, lucency, subchondral fracture (crescent sign), and fragmentation (as seen in this question). 3. Reossification stage: New woven bone replaces necrotic bone. 4. Healed/Remodeling stage: Reconstituted head (spherical vs aspherical congruency).\n\nHigh-yield clinical pearl: PEDIATRIC HIP PATHOLOGY BY AGE GROUP:\n• 0 TO 1 YEAR:\nDevelopmental Dysplasia of the Hip (DDH).\n• 2 TO 4 YEARS:\nTransient Synovitis (toxic synovitis) vs Septic Arthritis.\n• 4 TO 8 YEARS:\nLegg-Calvé-Perthes Disease (AVN; fragmentation).\n• 10 TO 16 YEARS:\nSlipped Capital Femoral Epiphysis (SCFE; obese boys).\n\nExam trap: Knee pain in a child or adolescent must ALWAYS prompt a thorough examination and plain radiographs of the HIP; hip pathology routinely presents as isolated referred knee pain via the obturator nerve.",
+      "optionExplanations": {
+        "A": "Developmental dysplasia of the hip (DDH) presents in neonates or toddlers with leg length discrepancy, asymmetric thigh creases, and abnormal Ortolani/Barlow maneuvers, not with acute epiphyseal fragmentation at age 6.",
+        "B": "Septic arthritis is an acute emergency presenting with high fever, excruciating hip pain, absolute refusal to bear weight (Kocher criteria), and elevated inflammatory markers.",
+        "C": "Slipped capital femoral epiphysis (SCFE) occurs in obese adolescents aged 11–14, showing posterior displacement of the epiphysis relative to the femoral neck, not fragmentation in a 6-year-old.",
+        "D": "A boy aged 4-8 years with a painless limp, restricted internal rotation and abduction, and femoral epiphyseal flattening, sclerosis, crescent sign and fragmentation has Legg-Calve-Perthes disease."
+      },
+      "educationalObjective": "Diagnose Legg-Calvé-Perthes disease in a young boy (4–8 years) presenting with an antalgic limp, loss of internal rotation/abduction, and radiographic fragmentation of the femoral head.",
+      "imagePath": "Pictures/Orthopaedic1-029.png"
+    },
+    {
+      "id": "Orthopaedic1-030",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A pediatric orthopedic surgeon delivers a lecture on adolescent hip emergencies. She highlights the biomechanical and endocrinologic predisposing factors that lead to shear displacement of the proximal femoral epiphysis across the hypertrophic zone of the physis. Which of the following patient profiles represents the classic and most significant epidemiological risk factor for slipped capital femoral epiphysis (SCFE)?",
+      "options": {
+        "A": "Female",
+        "B": "Underweight adolescents",
+        "C": "Adolescent obese male",
+        "D": "Slow growth"
+      },
+      "correctAnswer": "C",
+      "explanation": "Slipped capital femoral epiphysis (SCFE) is the most common adolescent hip disorder, characterized by a Salter-Harris type I fracture/displacement of the femoral head posteriorly and inferiorly through the hypertrophic zone of the proximal femoral growth plate. The classic demographic profile and single greatest risk factor is an obese adolescent male (ages 11 to 14 years). Pathophysiologically, excessive biomechanical body weight acting on an obliquely oriented physis during the peak pubertal growth spurt exerts immense shear stress that overcomes physeal structural stability. Endocrine disorders (hypothyroidism, growth hormone deficiency/excess, panhypopituitarism) alter physeal matrix strength and represent major secondary causes (especially if SCFE presents before age 10 or bilaterally). Clinically, the patient presents with a limping gait, groin or referred knee/thigh pain, and the affected leg rests in an obligatory external rotation posture during passive hip flexion.\n\nHigh-yield clinical pearl: OBLIGATORY EXTERNAL ROTATION SIGN:\nWhen the clinician passively flexes the patient's hip, the thigh spontaneously and involuntarily rotates externally. This physical finding is virtually pathognomonic for SCFE.\n\nExam trap: SCFE is an orthopedic urgency! As soon as SCFE is suspected or diagnosed, the patient must be made STRICTLY NON-WEIGHT-BEARING (WHEELCHAIR/CRUTCHES) IMMEDIATELY to prevent catastrophic acute unstable slip or complete vascular compromise. Treatment is urgent in situ percutaneous single-screw fixation.",
+      "optionExplanations": {
+        "A": "SCFE has a pronounced male predominance (male-to-female ratio 1.5:1 to 2:1).",
+        "B": "Underweight habitus is protective against the shear stresses that precipitate SCFE; obesity (>90th percentile BMI) is present in >70% of affected patients.",
+        "C": "SCFE classically affects obese adolescent males aged about 11-14 years, when body weight acting on an obliquely oriented physis during the growth spurt produces shear.",
+        "D": "SCFE typically occurs during the rapid pubertal growth spurt, not during periods of slow growth."
+      },
+      "educationalObjective": "Identify an obese adolescent male undergoing a pubertal growth spurt as the prototypical high-risk patient for slipped capital femoral epiphysis (SCFE).",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-031",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A 3-month-old female infant is brought for a well-child checkup. The pediatrician detects asymmetric gluteal thigh skin folds and a subtle positive Barlow maneuver in the left hip. The physician orders diagnostic imaging to evaluate for developmental dysplasia of the hip (DDH). Which of the following imaging modalities is the investigation of choice for the diagnosis of DDH in an infant under 4 to 6 months of age?",
+      "options": {
+        "A": "X-ray",
+        "B": "Ultrasound",
+        "C": "CT",
+        "D": "MRI"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ultrasonography (Graf technique) is the undisputed imaging modality of choice for diagnosing developmental dysplasia of the hip (DDH) in infants under 4 to 6 months of age. In early infancy (<4–6 months), the femoral head and the acetabulum are composed predominantly of unossified radiolucent cartilaginous tissue. Because cartilaginous structures cannot be visualized on plain radiographs (X-rays), plain radiographs have poor diagnostic utility and high false-negative rates in young infants prior to the appearance of the femoral head secondary ossification center (which typically ossifies between 4 and 7 months). Ultrasound provides dynamic, high-resolution, radiation-free anatomical imaging that directly visualizes the cartilaginous femoral head, acetabular labrum, and coverage (alpha and beta angles). After 6 months of age, plain anteroposterior pelvis radiographs become the primary diagnostic investigation.\n\nHigh-yield clinical pearl: DDH IMAGING TIMELINE:\n• AGE < 4 TO 6 MONTHS:\nDYNAMIC ULTRASOUND (investigation of choice).\n• AGE > 4 TO 6 MONTHS:\nAP PELVIS RADIOGRAPH (evaluates Hilgenreiner's line, Perkin's line, and Shenton's line once the ossification center appears).\n\nExam trap: Do not perform screening hip ultrasound prior to 4 TO 6 WEEKS OF LIFE in newborns with mild laxity, because physiologic maternal ligamentous laxity produces high rates of false-positive transient instability that spontaneously resolves.",
+      "optionExplanations": {
+        "A": "Plain radiographs are unreliable prior to 4–6 months because the unossified cartilaginous femoral head is invisible; radiographs become primary only after 6 months.",
+        "B": "In infants under 4-6 months the femoral head is unossified cartilage, so ultrasound (Graf technique) is the investigation of choice for DDH.",
+        "C": "Computed tomography (CT) exposes the infant to significant ionizing radiation and is reserved for evaluating reduction confirmation inside a spica cast after closed/open reduction.",
+        "D": "Magnetic resonance imaging (MRI) requires general anesthesia or sedation in infants; it is reserved for complex surgical planning, not initial screening or diagnosis."
+      },
+      "educationalObjective": "Recognize ultrasonography as the primary diagnostic imaging modality for developmental dysplasia of the hip (DDH) in infants younger than 4 to 6 months.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-032",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A neonatologist performs a routine newborn screening examination at 24 hours of life. With the infant supine, the examiner grasps the thighs with the fingers over the greater trochanters and the thumbs over the inner thighs. While gently abducting the hips, the examiner lifts the greater trochanters anteriorly and feels a distinct, palpable 'clunk' as the femoral head relocates back into the acetabulum. A positive Ortolani test is diagnostic of which of the following conditions?",
+      "options": {
+        "A": "DDH (Developmental Dysplasia of the Hip)",
+        "B": "Perthes",
+        "C": "SCFE",
+        "D": "Congenital vertical talus"
+      },
+      "correctAnswer": "A",
+      "explanation": "A positive Ortolani test is pathognomonic for developmental dysplasia of the hip (DDH) with a dislocated, reducible femoral head. The Ortolani maneuver is a reduction maneuver: 1. The infant is placed supine with hips flexed to 90°. 2. The examiner gently abducts the hips while simultaneously lifting the greater trochanter anteriorly. 3. If the hip is dislocated, this maneuver lifts the dislocated femoral head over the posterior acetabular rim, popping it back into the acetabular cup with a palpable, sensation-rich 'clunk' of reduction. In contrast, the Barlow test is a provocative dislocating maneuver: starting with a reduced hip, the examiner adducts the hip and applies gentle posterior pressure to see if the hip subluxates or dislocates out of the acetabulum.\n\nHigh-yield clinical pearl: MNEMONIC FOR HIP EXAM IN DDH:\n• Barlow = Back (pushes hip back and OUT; dislocates).\n• Ortolani = Open (abducts hips and pops hip IN; reduces).\n\nExam trap: High-pitched benign ligamentous 'clicks' are ubiquitous in normal neonates and have no clinical significance; a true positive Ortolani or Barlow is a distinct, low-pitched, palpable 'CLUNK' of femoral head translation.",
+      "optionExplanations": {
+        "A": "A palpable clunk as the dislocated femoral head relocates during hip abduction with anterior lift of the trochanters is a positive Ortolani test, diagnostic of DDH.",
+        "B": "Perthes disease presents in children aged 4–8 years, well past infancy, and does not exhibit an Ortolani clunk.",
+        "C": "SCFE occurs in adolescents (ages 11–14 years) and is characterized by restricted internal rotation, not Ortolani reducibility.",
+        "D": "Congenital vertical talus is a foot deformity producing a rocker-bottom contour and has no relation to hip reduction tests."
+      },
+      "educationalObjective": "Identify the Ortolani test as the classic clinical maneuver for reducing a dislocated femoral head back into the acetabulum in developmental dysplasia of the hip (DDH).",
+      "imagePath": "Pictures/Orthopaedic1-032.png"
+    },
+    {
+      "id": "Orthopaedic1-033",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A 2-week-old neonate with severe idiopathic congenital clubfoot (talipes equinovarus) is evaluated in the pediatric orthopedic clinic. The parents are anxious and inquire about the standard, evidence-based gold-standard management protocol to achieve a functional, plantigrade, pain-free foot. Which of the following is the treatment of choice for clubfoot?",
+      "options": {
+        "A": "Ponseti technique (Serial casting)",
+        "B": "Surgery at birth",
+        "C": "Conservative",
+        "D": "Orthosis alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ponseti method (serial corrective casting) is the universally accepted, gold-standard treatment of choice for congenital clubfoot worldwide, with initial success rates exceeding 90% to 95%. Developed by Dr. Ignacio Ponseti, this method relies on the biological plasticity of infant connective tissue: 1. Serial long-leg casting: Initiated in the first weeks of life. Gentle weekly manual manipulations and plaster cast applications systematically correct the components in order: first cavus, then forefoot adduction and hindfoot varus simultaneously, using the lateral head of the talus as a fixed fulcrum. 2. Percutaneous Achilles Tenotomy: Required in ~85–90% of cases to completely correct residual hindfoot equinus, performed under local anesthesia in the clinic. 3. Bracing (Mitchell-Ponseti abduction bar): Worn 23 hours/day for 3 months, then during naps and night-time until age 4 to 5 years to prevent disease relapse. Extensive open surgical releases (posteromedial release) have been virtually abandoned due to high rates of long-term foot stiffness, arthrofibrosis, and weakness.\n\nHigh-yield clinical pearl: KEY TO PREVENTING RELAPSE IN CLUBFOOT:\nCOMPLIANCE WITH THE FOOT ABDUCTION BRACE (BOOTS AND BAR) . Relapse rates approach 80% if bracing is discontinued prematurely; adherence until age 4–5 ensures permanent remodeling of the tarsal bones.\n\nExam trap: Never attempt to correct equinus by forceful dorsiflexion before hindfoot varus is fully corrected; doing so causes a 'rocker-bottom' iatrogenic deformity (breaking the foot through the midtarsal joint).",
+      "optionExplanations": {
+        "A": "Ponseti serial manipulation and casting, with percutaneous Achilles tenotomy when needed and abduction bracing, is the gold-standard treatment for clubfoot.",
+        "B": "Extensive surgical release at birth is strictly obsolete; surgical clubfoot interventions lead to severe long-term scarring, rigid painful feet, and early degenerative osteoarthritis.",
+        "C": "'Conservative' is non-specific; the precise, structured protocol is the Ponseti technique of serial manipulation, casting, tenotomy, and bracing.",
+        "D": "Orthosis alone cannot overcome the dense contractures of clubfoot; bracing is strictly used to maintain correction *after* casting, not to achieve initial reduction."
+      },
+      "educationalObjective": "Identify the Ponseti technique (serial weekly manipulative casting followed by percutaneous Achilles tenotomy and maintenance abduction bracing) as the gold-standard treatment of choice for congenital clubfoot.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-034",
+      "topic": "Orthopaedic",
+      "section": "Module 6: Pediatric Orthopedics: Hip & Foot",
+      "question": "A 12-year-old boy presents with progressive bilateral foot and ankle pain that worsens during soccer games. His parents note that he has had flat feet for several years, but recently his ankles feel stiff, and he frequently trips. On physical examination, both feet display marked flattening of the medial longitudinal arch that does NOT reconstitute when standing on tiptoes or during passive great toe extension. Subtalar joint inversion and eversion are severely restricted and rigid bilaterally, and active eversion elicits peroneal muscle spasm. Plain radiographs reveal an osseous bar bridging the calcaneus and navicular. Which of the following conditions is characteristically associated with rigid pes planus?",
+      "options": {
+        "A": "Pes cavus",
+        "B": "Vertical talus",
+        "C": "Limping",
+        "D": "Tarsal coalition"
+      },
+      "correctAnswer": "D",
+      "explanation": "Tarsal coalition is the classic, prototypical cause of a rigid (stiff) flatfoot (also termed peroneal spastic flatfoot) in adolescents. Tarsal coalition represents an abnormal congenital failure of segmentation resulting in an abnormal bridge—either fibrous (syndesmosis), cartilaginous (synchondrosis), or bony (synostosis)—between two or more tarsal bones. The two most common varieties are: 1. Calcaneonavicular coalition (typically becomes symptomatic around ages 8–12 when the cartilaginous bridge ossifies). 2. Talocalcaneal coalition (involving the middle facet/sustentaculum tali; becomes symptomatic around ages 12–16). Symptoms develop during puberty as ossification eliminates subtalar motion, transferring abnormal compensatory stresses to the midtarsal joints. Examination confirms a rigid flatfoot with profound absence of subtalar inversion/eversion and reactive peroneal muscle spasm. CT scanning is the gold standard for defining coalition anatomy.\n\nHigh-yield clinical pearl: KEY RADIOGRAPHIC SIGNS OF TARSAL COALITION:\n• ANTEATER NOSE SIGN:\nElongation of the anterior superior calcaneal process on 45° internal oblique radiograph (Calcaneonavicular).\n• C-SIGN:\nContinuous C-shaped halo line formed by the medial talar dome and sustentaculum tali on lateral view (Talocalcaneal).\n\nExam trap: Whenever an adolescent presents with recurrent 'ankle sprains' or foot pain with a stiff, non-yielding subtalar joint, suspect tarsal coalition and order a 45° internal oblique foot radiograph or CT.",
+      "optionExplanations": {
+        "A": "Pes cavus is an abnormally high arch, the exact anatomical opposite of flatfoot.",
+        "B": "Congenital vertical talus causes a rigid rocker-bottom foot at birth, whereas tarsal coalition presents insidiously in older children and adolescents (8–14 years).",
+        "C": "Limping is a non-specific clinical symptom, not an underlying pathological condition or disease entity.",
+        "D": "Tarsal coalition (here a calcaneonavicular bar) causes a rigid, peroneal spastic flatfoot with absent subtalar motion that does not correct on tiptoe."
+      },
+      "educationalObjective": "Identify tarsal coalition as the primary etiology of rigid, painful flatfoot with restricted subtalar joint motion and peroneal muscle spasm in adolescents.",
+      "imagePath": "Pictures/Orthopaedic1-034.png"
+    },
+    {
+      "id": "Orthopaedic1-035",
+      "topic": "Orthopaedic",
+      "section": "Module 7: Musculoskeletal Infections & Osteomyelitis",
+      "question": "An orthopedic infectious disease team evaluates a bone biopsy and tissue aspirate from a focus of acute hematogenous osteomyelitis in a pediatric long bone. The diagram in the source document demonstrates the routes of spread of osteomyelitis: epiphyseal, intra-articular, subperiosteal, soft tissues, and intraosseous. In assessing the localized microenvironmental milieu within an established intraosseous sequestrum and abscess cavity, which of the following is the correct physiological characteristic of osteomyelitis?",
+      "options": {
+        "A": "Localized abscess with decreased pH and decreased PO2",
+        "B": "Diffuse cellulitis with increased pH and increased PO2",
+        "C": "Diffuse abscess with decreased pH and increased PO2",
+        "D": "Localized abscess with increased pH and decreased PO2",
+        "E": "Localized abscess with normal pH and normal PO2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteomyelitis begins in the highly vascular, hairpin-loop venous sinusoidal network of the metaphysis in growing children (where sluggish blood flow facilitates bacterial seeding, predominantly Staphylococcus aureus). As bacteria proliferate, polymorphonuclear leukocytes (neutrophils) migrate into the rigid unyielding intraosseous space. The ensuing inflammatory cascade produces progressive intraosseous pressure, thrombosis of nutrient vessels, and liquefactive bone necrosis, creating a localized intraosseous abscess. The metabolic microenvironment within an established osteomyelitic abscess is defined by two cardinal features: 1. Markedly Decreased pH (Severe Acidosis): Accelerated anaerobic glycolysis by dying neutrophils, necrotic debris, and bacteria leads to massive lactic acid accumulation (often dropping local pH to <5.5–6.0). 2. Markedly Decreased PO2 (Severe Hypoxia): Microvascular occlusion and thrombosis starve the focus of oxygen. This acidic, hypoxic, hypoperfused sanctuary dramatically impairs host neutrophil oxidative killing and renders many standard antibiotics (particularly aminoglycosides) ineffective.\n\nHigh-yield clinical pearl: KEY ANATOMICAL STRUCTURES IN CHRONIC OSTEOMYELITIS:\n• SEQUESTRUM:\nDevitalized, avascular necrotic bone segment separated from living bone.\n• INVOLUCRUM:\nSleeve of new reactive periosteal bone formed around the sequestrum.\n• CLOACA:\nAn opening in the involucrum through which pus/sequestrum drains into soft tissue sinus tracts.\n\nExam trap: Antibiotic penetration: Aminoglycosides require an alkaline, aerobic environment for active transport into bacterial cells. In acidic, hypoxic osteomyelitic abscesses, aminoglycosides lose their bactericidal potency!",
+      "optionExplanations": {
+        "A": "An established osteomyelitic abscess is a localized collection with decreased pH (lactic acidosis) and decreased PO2 (hypoxia from vascular thrombosis).",
+        "B": "Osteomyelitis is an intraosseous infectious process, not a diffuse superficial cellulitis, and tissue PO2/pH are profoundly reduced, not increased.",
+        "C": "Abscesses are localized enclosed pockets of purulence and PO2 is profoundly depressed due to ischemia.",
+        "D": "Local tissue pH is intensely acidic (decreased), never increased (alkalotic).",
+        "E": "Normal physiological parameters cannot exist within an enclosed suppurative bacterial infection."
+      },
+      "educationalObjective": "Understand the pathophysiology of osteomyelitis: suppuration within rigid bone causes vascular occlusion, forming a localized abscess characterized by profound acidosis (decreased pH) and tissue hypoxia (decreased PO2).",
+      "imagePath": "Pictures/Orthopaedic1-035.png"
+    },
+    {
+      "id": "Orthopaedic1-036",
+      "topic": "Orthopaedic",
+      "section": "Module 7: Musculoskeletal Infections & Osteomyelitis",
+      "question": "A 28-year-old woman presents to the emergency department 48 hours after sustaining an accidental deep needle-stick puncture wound to the volar aspect of her right index finger while sewing. Over the past 24 hours, she has experienced throbbing pain, swelling, and fever. On examination, the index finger exhibits uniform, symmetric 'sausage-digit' swelling throughout its entire length, is held in a slightly flexed posture at rest, demonstrates exquisite tenderness along the entire anatomical course of the flexor tendon sheath, and elicits agonizing, excruciating pain upon passive extension of the digit. Which of the following is the most appropriate management?",
+      "options": {
+        "A": "Urgent surgical irrigation and debridement of the flexor tendon sheath combined with intravenous antibiotics",
+        "B": "Aspiration of the swollen finger followed by oral antibiotics",
+        "C": "NSAIDS and observation",
+        "D": "Reassurance",
+        "E": "Oral antibiotics and follow-up after one week"
+      },
+      "correctAnswer": "A",
+      "explanation": "This patient exhibits all four of Kanavel's four cardinal signs of acute infectious flexor tenosynovitis (purulent tenosynovitis): 1. Symmetrical, uniform fusiform swelling of the entire digit ('sausage digit'). 2. Flexed posture of the finger at rest (minimizes intra-sheath pressure and pain). 3. Tenderness along the entire anatomical course of the flexor tendon sheath (from the distal phalanx to the distal palmar crease). 4. Severe, agonizing pain elicited by passive extension of the digit (the earliest and most sensitive sign). Infectious flexor tenosynovitis is a closed-space orthopedic surgical emergency! The closed fibro-osseous canal creates high compartment-like pressures that rapidly thrombose the delicate vincula tendinum (nutrient blood supply to the flexor tendons), leading to irreversible tendon ischemia, tendon rupture, and spreading deep fascial space infection (midpalmar/thenar spaces, space of Parona). Immediate treatment requires urgent open or catheter-directed surgical irrigation and debridement in the operating room combined with intravenous broad-spectrum bactericidal antibiotics (targeting Staph aureus and Streptococci).\n\nHigh-yield clinical pearl: MOST SENSITIVE KANAVEL SIGN:\nPAIN WITH PASSIVE EXTENSION is the single most sensitive early physical finding. The patient will scream in pain even with slight extension of the DIP/PIP joint.\n\nExam trap: Never treat Kanavel flexor tenosynovitis with oral antibiotics! It requires admission, immediate IV antibiotics, and urgent surgical operative drainage.",
+      "optionExplanations": {
+        "A": "Kanavel's signs indicate acute pyogenic flexor tenosynovitis, a closed-space surgical emergency that needs urgent sheath irrigation and debridement plus intravenous antibiotics.",
+        "B": "Needle aspiration of the flexor sheath in the clinic is inadequate, risks tendon laceration, and cannot decompress the purulent fibro-osseous tunnel.",
+        "C": "NSAIDS and observation will lead to rapid digital necrosis, flexor tendon sloughing, and inevitable amputation.",
+        "D": "Reassurance is medical malpractice in the presence of a limb-threatening closed-space infection.",
+        "E": "Oral outpatient antibiotics are completely ineffective for suppurative tenosynovitis and guarantee permanent tendon necrosis."
+      },
+      "educationalObjective": "Identify acute infectious flexor tenosynovitis by Kanavel's four cardinal signs and recognize the mandatory requirement for urgent surgical irrigation/debridement and IV antibiotics.",
+      "imagePath": "Pictures/Orthopaedic1-036.png"
+    },
+    {
+      "id": "Orthopaedic1-037",
+      "topic": "Orthopaedic",
+      "section": "Module 7: Musculoskeletal Infections & Osteomyelitis",
+      "question": "An orthopedic team reviews why acute bacterial septic arthritis is classified as a true surgical emergency that mandates emergent decompression within hours. Why does delayed or inadequate treatment of septic arthritis result in permanent joint disability and rapid joint destruction?",
+      "options": {
+        "A": "Progressive chondrolysis and increased intra-articular pressure causes synovial perfusion compromise",
+        "B": "Cartilage is regenerable but bone underneath is in risk of avascular necrosis",
+        "C": "Septic arthritis is not an orthopedic emergency from the start. It is an overrated medical problem",
+        "D": "Most cases of septic arthritis cases progress to chronic osteomyelitis which is the principal cause of disability",
+        "E": "The main factor is the muscle necrosis, when the pus extends outside the capsule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Septic arthritis causes rapid, catastrophic, and irreversible joint destruction within 24 to 48 hours through a dual pathophysiological mechanism: 1. Enzymatic Chondrolysis: Bacteria (predominantly Staphylococcus aureus) and invading host neutrophils release potent proteolytic enzymes, matrix metalloproteinases (MMPs), elastases, and bacterial toxins that rapidly digest the extracellular proteoglycan and type II collagen framework of articular hyaline cartilage. 2. Increased Intra-Articular Pressure & Tamponade: The massive, rapid accumulation of purulent synovial effusion within an unyielding fibrous joint capsule produces extreme intra-articular pressures. When intracapsular pressure exceeds capillary perfusion pressure, it creates an articular tamponade effect, compressing the subsynovial capillary microvasculature and lateral epiphyseal retinacular vessels (particularly in the hip). This compromises synovial nutrition and blood supply, starving the avascular hyaline cartilage and precipitating ischemic chondrocyte death and avascular necrosis (AVN) of the epiphysis. Because adult hyaline articular cartilage has zero regenerative capacity, the resulting joint destruction is permanent.\n\nHigh-yield clinical pearl: KOCHER CRITERIA FOR PEDIATRIC SEPTIC ARTHRITIS OF THE HIP:\n1. Inability to bear weight.\n2. Temperature > 38.5°C (101.3°F).\n3. ESR > 40 mm/hr.\n4. WBC > 12,000/μL. (4/4 criteria present = >99% probability of septic arthritis; warrants emergent arthrotomy/arthroscopy).\n\nExam trap: Never delay surgical drainage while waiting for blood or synovial culture results if the joint aspirate is purulent (WBC >50,000/μL with >75–90% neutrophils). Permanent chondrolysis occurs in under 24–48 hours!",
+      "optionExplanations": {
+        "A": "Enzymatic chondrolysis plus raised intra-articular pressure that compromises synovial perfusion rapidly and irreversibly destroys the joint.",
+        "B": "Articular hyaline cartilage is completely avascular and cannot regenerate; once destroyed, it is replaced only by inferior fibrocartilage.",
+        "C": "Septic arthritis is universally acknowledged as a surgical orthopedic emergency; untreated, it causes permanent joint destruction, septic shock, and mortality.",
+        "D": "While osteomyelitis can rarely occur by contiguous spread, the primary cause of permanent joint destruction is direct enzymatic chondrolysis and tamponade-induced cartilage necrosis within hours, not delayed chronic osteomyelitis.",
+        "E": "Muscle necrosis is not the primary driver of intra-articular joint destruction."
+      },
+      "educationalObjective": "Explain why septic arthritis destroys joints rapidly: bacterial/neutrophil enzymatic chondrolysis combined with high intra-articular pressure compromising synovial microvascular perfusion.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-038",
+      "topic": "Orthopaedic",
+      "section": "Module 7: Musculoskeletal Infections & Osteomyelitis",
+      "question": "A 68-year-old woman with a history of right total knee arthroplasty performed 2 years ago presents with persistent, worsening pain, stiffness, and sinus tract drainage. Laboratory evaluation reveals elevated serum ESR and CRP. Synovial fluid aspiration confirms a periprosthetic joint infection (PJI) with biofilm-forming methicillin-resistant Staphylococcus aureus (MRSA). The orthopedic surgical team plans a two-stage exchange arthroplasty. Which statement regarding the management of infection associated with joint arthroplasty is CORRECT?",
+      "options": {
+        "A": "Positive cultures after treatment usually allow immediate reimplantation",
+        "B": "Laboratory abnormalities are highly specific, so aspiration is unnecessary once CRP is elevated",
+        "C": "Gram-negative infections usually permit earlier reimplantation than gram-positive infections",
+        "D": "Cement spacer impregnated with antibiotics is usually implanted at the initial debridement"
+      },
+      "correctAnswer": "D",
+      "explanation": "The gold-standard surgical protocol for chronic periprosthetic joint infection (PJI) in North America is a two-stage exchange arthroplasty: 1. Stage 1: Complete explantation and removal of all foreign prosthetic hardware and polymethylmethacrylate (PMMA) cement, radical debridement of infected synovium and devitalized bone, followed by implantation of an articulating or static PMMA cement spacer impregnated with high-dose heat-stable bactericidal antibiotics (typically Vancomycin and Tobramycin/Gentamicin). The antibiotic-loaded spacer serves two vital roles: it elutes extremely high local concentrations of antibiotics directly into the dead space without systemic toxicity, and it maintains soft tissue tension, leg length, and joint alignment. 2. Interval: 6 weeks of tailored systemic pathogen-specific intravenous antibiotics. 3. Stage 2: Once clinical signs, serologic markers (ESR, CRP), and repeat joint aspiration confirm eradication of infection, the patient undergoes spacer removal and revision reimplantation of the new permanent prosthesis.\n\nHigh-yield clinical pearl: BACTERIAL BIOFILM IN PJI:\nBacteria form a thick extracellular polysaccharide slime matrix (biofilm) on metallic and polyethylene implants. Within the biofilm, sessile bacteria enter a metabolically dormant phase that is up to 1,000 times more resistant to systemic antibiotics, mandating complete hardware removal in chronic infections (>3-4 weeks).\n\nExam trap: Do not attempt Debridement, Antibiotics, and Implant Retention (DAIR) in chronic PJI (>3 weeks from index surgery or >3 weeks of symptoms); mature biofilm makes DAIR failure rates exceed 70–80%. Complete removal and antibiotic spacer placement is required.",
+      "optionExplanations": {
+        "A": "Persistently positive cultures or elevated inflammatory markers represent active ongoing infection, which absolutely contraindicates reimplantation.",
+        "B": "Serum ESR and CRP are sensitive screening tests, but they are not specific; sterile joint aspiration for synovial fluid WBC count, differential (% PMNs), leukocyte esterase, and cultures is mandatory to confirm PJI.",
+        "C": "Gram-negative (e.g., Pseudomonas) and fungal infections form resistant biofilms and are difficult to eradicate, often requiring prolonged courses and having lower reimplantation success rates.",
+        "D": "In a two-stage exchange for periprosthetic infection, the first stage removes the prosthesis and cement and implants an antibiotic-impregnated cement spacer."
+      },
+      "educationalObjective": "Identify the key component of two-stage exchange arthroplasty for chronic periprosthetic joint infection: radical debridement, prosthesis explantation, and placement of an antibiotic-impregnated cement spacer.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-039",
+      "topic": "Orthopaedic",
+      "section": "Module 7: Musculoskeletal Infections & Osteomyelitis",
+      "question": "A 6-year-old previously healthy boy is admitted to the pediatric orthopedic service with a 4-day history of high fever (39.2°C), localized severe pain, refusal to bear weight, and soft-tissue warmth over the proximal tibial metaphysis. Blood cultures grow methicillin-sensitive Staphylococcus aureus (MSSA), and MRI confirms acute hematogenous osteomyelitis without subperiosteal abscess. What is the most appropriate antibiotic duration and regimen?",
+      "options": {
+        "A": "Oral antibiotics for 2 weeks only",
+        "B": "IV antibiotics for 2 weeks only",
+        "C": "3 weeks IV antibiotics followed by 3 weeks oral antibiotics",
+        "D": "Oral antibiotics for 6 weeks only"
+      },
+      "correctAnswer": "C",
+      "explanation": "The traditional and evidence-based therapeutic regimen for uncomplicated pediatric acute hematogenous osteomyelitis has historically been a total of 4 to 6 weeks of bactericidal antimicrobial therapy. In classic university examination curricula, the standard established protocol consists of an initial intensive intravenous phase followed by an oral consolidation phase, classically taught as 3 weeks of intravenous antibiotics followed by 3 weeks of high-dose oral antibiotics (total 6 weeks of therapy), transitioning to oral once the child is afebrile, clinically improved, and CRP is down-trending. (Note: While modern pediatric infectious disease guidelines permit earlier transition to high-dose oral therapy at 3–7 days if clinical improvement and CRP reduction are documented, Option C represents the authoritative classic curriculum answer key ensuring complete eradication and preventing chronic recrudescent osteomyelitis).\n\nHigh-yield clinical pearl: PRIMARY CAUSATIVE ORGANISM:\nSTAPHYLOCOCCUS AUREUS is the single most common causative organism across all age groups. In infants <2 months, add coverage for Group B Streptococcus (S. agalactiae) and Gram-negative bacilli. In patients with sickle cell disease, cover SALMONELLA and S. aureus.\n\nExam trap: Serum C-REACTIVE PROTEIN (CRP) is the most sensitive and reliable laboratory marker for monitoring treatment response in acute osteomyelitis (normalizes within 1–2 weeks), whereas ESR normalizes much more slowly (3–4 weeks).",
+      "optionExplanations": {
+        "A": "A 2-week course is dangerously inadequate and is associated with high rates of treatment failure, relapse, and development of chronic osteomyelitis.",
+        "B": "Two weeks of IV antibiotics without oral consolidation therapy provides insufficient total duration (<4–6 weeks) to sterilize infected cortical bone.",
+        "C": "Per the source key (the classic curriculum regimen), uncomplicated pediatric hematogenous osteomyelitis is treated with 3 weeks of IV antibiotics followed by 3 weeks of oral antibiotics; the source notes that modern guidelines allow earlier oral transition.",
+        "D": "Initial therapy must be intravenous to rapidly achieve high bactericidal serum and bone concentrations and overcome bacteremia."
+      },
+      "educationalObjective": "Recall the classic treatment regimen for pediatric acute hematogenous osteomyelitis: initial intravenous antibiotic therapy followed by oral consolidation therapy to complete a 6-week curative course.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-040",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 20-year-old college student sustains a closed, displaced spiral midshaft fracture of the right humerus following a fall from an electric scooter. On physical examination in the trauma bay, the patient is unable to actively extend his right wrist, metacarpophalangeal (MCP) joints, or thumb, demonstrating a pronounced wrist drop. He also has loss of sensation over the dorsal first web space of the hand. Radial and ulnar pulses are 2+ and symmetric. Which nerve is most likely injured?",
+      "options": {
+        "A": "Radial nerve",
+        "B": "Ulnar nerve",
+        "C": "Median nerve",
+        "D": "Musculocutaneous nerve",
+        "E": "Axillary nerve"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radial nerve is the most commonly injured peripheral nerve in skeletal trauma, complicated by humeral shaft fractures in 10% to 18% of cases. Anatomically, the radial nerve travels within the spiral (radial) groove on the posterior aspect of the middle third of the humerus, resting directly against the periosteum before piercing the lateral intermuscular septum. Fractures of the humeral midshaft (especially spiral fractures or distal-third oblique fractures—the Holstein-Lewis fracture) place the radial nerve at extreme risk of stretching, contusion, entrapment, or laceration. Radial nerve palsy produces the classic clinical picture: 1. Wrist drop: Inability to actively extend the wrist (denervation of extensor carpi radialis longus/brevis). 2. Inability to extend fingers and thumb: Loss of extensor digitorum communis and extensor pollicis longus. 3. Sensory loss: Numbness over the dorsal first web space (superficial radial nerve). In closed fractures, >85–90% of radial nerve palsies are neurapraxias that recover spontaneously within 3 to 4 months of observation.\n\nHigh-yield clinical pearl: HOLSTEIN-LEWIS FRACTURE:\nA spiral fracture of the distal third of the humeral shaft where the radial nerve is particularly tethered as it pierces the lateral intermuscular septum, carrying an especially high risk of entrapment.\n\nExam trap: Do not perform immediate nerve exploration in a closed humeral shaft fracture with primary radial nerve palsy! Manage with functional bracing (Sarmiento brace); >85% resolve spontaneously. Surgery is indicated if the palsy develops *after* closed reduction (secondary entrapment) or in open fractures.",
+      "optionExplanations": {
+        "A": "Wrist drop with loss of sensation over the dorsal first web space after a humeral shaft fracture indicates radial nerve injury in the spiral groove.",
+        "B": "Ulnar nerve injury causes claw hand deformity (4th/5th digits), loss of interosseous abduction/adduction, and sensory loss over the hypothenar and volar 5th digit.",
+        "C": "Median nerve injury impairs thumb opposition (thenar wasting), flexor pollicis longus/FDP of index finger, producing the 'Benediction sign' or 'ape hand'.",
+        "D": "Musculocutaneous nerve innervates biceps brachii, coracobrachialis, and brachialis; injury impairs elbow flexion and causes sensory loss over lateral forearm (LABCN).",
+        "E": "Axillary nerve injury occurs in surgical neck humerus fractures and anterior shoulder dislocations, causing deltoid paralysis and loss of sensation over the 'regimental badge' lateral shoulder."
+      },
+      "educationalObjective": "Recognize that midshaft humeral fractures injure the radial nerve in the spiral groove, manifesting clinically as wrist drop and sensory loss over the dorsal first web space.",
+      "imagePath": "Pictures/Orthopaedic1-040.png"
+    },
+    {
+      "id": "Orthopaedic1-041",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 32-year-old motorcycle driver is brought to the emergency department after a high-speed collision. He has an obvious open fracture of the right tibia with an active 4-cm wound communicating with the fracture site and visible bone ends. The patient is hemodynamically stable. Which of the following statements represents the correct initial management step for this open fracture?",
+      "options": {
+        "A": "Grade III fractures are treated with a first-generation cephalosporin alone",
+        "B": "Early bone stabilization worsens soft tissue healing and should be postponed whenever possible",
+        "C": "Antibiotics should be delayed until operative cultures are obtained in the operating room",
+        "D": "Wounds should be assessed, gently irrigated with sterile saline, dressed sterilely, and IV antibiotics should be given immediately on admission",
+        "E": "Severely contaminated fractures should be reduced in the emergency room to remove debris early"
+      },
+      "correctAnswer": "D",
+      "explanation": "Open fractures are true orthopedic emergencies requiring a strict, standardized treatment sequence to minimize infection and osteomyelitis: 1. Immediate Intravenous Antibiotics: Systemic IV antibiotics are the single most critical factor in reducing open fracture infection rates and must be administered immediately on admission (ideally within 1 hour). Delaying antibiotics >3 hours significantly increases the risk of deep infection. 2. Wound Assessment & Sterile Dressing: In the emergency room, gross superficial contamination is gently removed, the wound is photographed for documentation, covered with a sterile saline-soaked gauze dressing, and splinted. The wound should NOT be repeatedly uncovered or probed in the ER to prevent hospital-acquired nosocomial superinfection. 3. Formal Operative Debridement: Emergent surgical formal irrigation and debridement is performed in the sterile operating room, followed by skeletal stabilization (external fixation or intramedullary nailing).\n\nHigh-yield clinical pearl: GUSTILO-ANDERSON CLASSIFICATION & ANTIBIOTIC COVERAGE:\n• TYPE I:\nClean wound < 1 cm -> 1st gen Cephalosporin (Cefazolin).\n• TYPE II:\nWound 1–10 cm without extensive soft tissue damage -> Cefazolin.\n• TYPE III:\nHigh energy, wound > 10 cm, extensive crushing/contamination -> Cefazolin + Aminoglycoside (Gentamicin).\n• SOIL / BARNYARD CONTAMINATION:\nAdd High-Dose Penicillin (covers Clostridium perfringens).\n\nExam trap: The single most important intervention in the ER that decreases infection in open fractures is the TIMING OF SYSTEMIC INTRAVENOUS ANTIBIOTICS (<1–3 hours from injury).",
+      "optionExplanations": {
+        "A": "Grade III open fractures require broad-spectrum coverage: a first-generation cephalosporin (Cefazolin) PLUS an aminoglycoside (Gentamicin) or third-generation cephalosporin for Gram-negative bacilli; farmyard/soil contamination requires adding Penicillin/Ampicillin for Clostridium.",
+        "B": "Early rigid skeletal stabilization (external fixator or IM nail) promotes soft tissue healing, protects vascularity, and decreases infection rates.",
+        "C": "Antibiotics must NEVER be delayed for wound or operative cultures; ER wound cultures correlate poorly with true infecting organisms and delaying antibiotics causes disastrous infection rates.",
+        "D": "Initial open-fracture care is to assess the wound, gently irrigate and sterilely dress it, and give IV antibiotics immediately on admission, before formal operative debridement.",
+        "E": "Contaminated bone ends should NOT be aggressively reduced back into the soft tissue envelope in the ER before formal operative debridement, as doing so drags contaminated debris deep into uninfected tissue planes."
+      },
+      "educationalObjective": "State the correct emergency protocol for open fractures: immediate intravenous antibiotic administration, sterile saline dressing, splint stabilization, and prompt transfer to the operating room for formal surgical debridement.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-042",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 78-year-old unmarried woman underwent successful open reduction and internal fixation (ORIF) for a displaced femoral neck fracture 4 days ago. She is medically stable, taking oral medications for type 2 diabetes mellitus and hypertension. Prior to the fall, she lived completely alone in a third-floor apartment in an older building with no elevator. She currently requires moderate assistance to transfer, ambulates short distances using a rolling walker, and finds navigating stairs extremely difficult and painful. She has no surviving children, relatives, or local family support. What is the most appropriate next intervention for this patient?",
+      "options": {
+        "A": "None of your business as a doctor",
+        "B": "Discharge home with self-care instructions",
+        "C": "Move her to seniors home permanently",
+        "D": "Discharge to rehabilitation hospital",
+        "E": "Keep her in the same ER-busy hospital"
+      },
+      "correctAnswer": "D",
+      "explanation": "Discharge planning and comprehensive multidisciplinary rehabilitation are vital core components of geriatric hip fracture management (orthogeriatric care). This elderly patient lives alone in a third-floor walk-up apartment with no elevator and has no family caregivers. Because she cannot safely navigate stairs or perform independent activities of daily living (ADLs) with her walker, discharging her directly home would place her at extreme risk of immediate falls, severe neglect, and mortality. However, permanent placement in a nursing home is premature and inappropriate, as she was independently functional prior to her acute hip fracture. The correct, standard-of-care intervention is transfer to an inpatient rehabilitation hospital or skilled nursing subacute rehabilitation facility. Inpatient rehabilitation provides daily physical and occupational therapy, progressive weight-bearing, gait re-training, and stair negotiation until she can regain sufficient functional independence to safely return to community living.\n\nHigh-yield clinical pearl: ORTHOGERIATRIC CARE GOALS:\nEarly mobilization within 24 hours of hip fracture surgery, aggressive multimodal analgesia (femoral/PENG nerve blocks), delirium prevention, osteoporosis medical treatment (bisphosphonates/calcium/vitamin D), and structured step-down inpatient rehabilitation.\n\nExam trap: Always match the patient's discharge destination to their physical environment and social support. A patient who cannot climb stairs cannot go home to a walk-up apartment.",
+      "optionExplanations": {
+        "A": "Physicians bear direct ethical, clinical, and legal responsibility for ensuring a safe, medically sound discharge plan that prevents preventable readmissions and adverse outcomes.",
+        "B": "Discharging her to an unassisted 3rd-floor apartment without an elevator will lead to immediate fall recurrence and catastrophic re-injury.",
+        "C": "Permanent institutionalization in a senior nursing home strip the patient of independence before she has been given the opportunity to rehabilitate.",
+        "D": "She cannot yet manage stairs or live alone safely but was independent before the fracture, so transfer to an inpatient rehabilitation facility is the standard-of-care next step.",
+        "E": "Prolonged acute hospital admission in an acute inpatient bed increases risks of hospital-acquired nosocomial infections (C. difficile, MRSA), deep vein thrombosis, and delerium."
+      },
+      "educationalObjective": "Select inpatient rehabilitation hospital transfer as the safest and most effective discharge disposition for an elderly hip fracture patient with environmental barriers and lack of home social support.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-043",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 35-year-old construction worker underwent plate and screw fixation for a Gustilo-Anderson Type IIIA open tibial shaft fracture 6 months ago. The surgical incision healed, but for the past 4 months, he has had a persistent draining sinus tract over the anteromedial shin with continuous seropurulent discharge. He has received multiple prolonged courses of oral and intravenous antibiotics with only transient reductions in drainage. Plain radiographs show mature fracture union, but there is lucency surrounding the cortical screws and a dense segment of detached necrotic cortex. Which of the following is the best management?",
+      "options": {
+        "A": "Metal removal and debridement",
+        "B": "IV antibiotics alone",
+        "C": "Steroid use",
+        "D": "No need to treat",
+        "E": "Oral antibiotics"
+      },
+      "correctAnswer": "A",
+      "explanation": "This patient has chronic post-traumatic osteomyelitis with an infected hardware retention and a draining cutaneous sinus tract. Bacteria (particularly S. aureus and S. epidermidis) form an impenetrable glycocalyx biofilm on metallic orthopedic implants (plates, screws, intramedullary nails). Once a biofilm forms, bacteria become metabolically quiescent and resistant to concentrations of antibiotics up to a thousand times higher than minimum inhibitory concentrations; systemic antibiotics cannot sterilize colonized metallic hardware. Because the fracture has now successfully united (healed at 6 months), the metallic implant no longer serves a mechanical purpose and acts solely as a contaminated foreign body nidus for chronic infection. The definitive, mandatory treatment is implant/metal removal, radical surgical debridement of all infected soft tissues and necrotic bone (sequestrectomy), curettage of the sinus tract, and pathogen-directed postoperative antibiotics.\n\nHigh-yield clinical pearl: MARJOLIN'S ULCER:\nA rare but highly aggressive SQUAMOUS CELL CARCINOMA arising within a longstanding, chronic draining sinus tract or burn scar of >20–30 years duration. Biopsy is indicated for any non-healing ulcer with nodular edges.\n\nExam trap: Do not remove hardware if the fracture is NOT yet united! If the fracture is still ununited, stable hardware must be preserved (or replaced with an external fixator) until union is achieved; once united, remove metal immediately.",
+      "optionExplanations": {
+        "A": "A united fracture with chronic implant-associated osteomyelitis and a draining sinus needs hardware removal and radical debridement, because antibiotics alone cannot clear biofilm on retained metal.",
+        "B": "IV antibiotics alone cannot penetrate or eradicate mature biofilm on metallic foreign bodies and will fail as long as the hardware remains in situ.",
+        "C": "Corticosteroids are immunosuppressive and strictly contraindicated in active osteomyelitis.",
+        "D": "Untreated chronic sinus tract drainage risks secondary malignant degeneration (Marjolin's ulcer—squamous cell carcinoma) and progressive bone loss.",
+        "E": "Long-term suppressive oral antibiotics are reserved only for ununited fractures where hardware cannot yet be removed or in patients medically unfit for surgery."
+      },
+      "educationalObjective": "Recognize that once a fracture has healed, the definitive treatment for persistent hardware infection and draining sinus tracts is complete hardware removal and surgical debridement.",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-044",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 45-year-old right-hand-dominant active carpenter sustains a high-energy fall onto his outstretched hand, resulting in a displaced, comminuted intra-articular fracture of the distal radius with a 3-mm articular step-off and dorsal comminution. Closed reduction and splinting are attempted in the emergency department, but post-reduction radiographs show recurrent dorsal displacement, radial shortening of 5 mm, and persistent 3-mm incongruity of the radiocarpal joint. What is the best definitive management for this patient?",
+      "options": {
+        "A": "Traction",
+        "B": "Functional bracing",
+        "C": "Observation only",
+        "D": "Open reduction and internal fixation",
+        "E": "Continued casting"
+      },
+      "correctAnswer": "D",
+      "explanation": "Intra-articular fractures of the distal radius in young or active patients demand anatomical reduction and stable fixation to prevent post-traumatic radiocarpal osteoarthritis and severe functional disability. An intra-articular step-off greater than 1 to 2 mm, radial shortening >3 mm, or dorsal tilt >10° are established criteria for fracture instability and failure of non-operative management. When closed reduction fails to achieve or maintain acceptable alignment (recurrent displacement in cast), the gold-standard definitive treatment is open reduction and internal fixation (ORIF) with a volar locking plate. ORIF directly restores articular congruity under direct visualization, corrects radial length and inclination, and provides rigid biomechanical stability that permits early wrist mobilization, preventing post-traumatic stiffness.\n\nHigh-yield clinical pearl: ACCEPTABLE RADIOGRAPHIC PARAMETERS FOR DISTAL RADIUS REDUCTION:\n• Radial inclination: >15° (normal ~22°).\n• Radial height/length: within 2–3 mm of contralateral side (normal ~11–12 mm).\n• Volar tilt: neutral to 10° volar (normal ~11° volar tilt).\n• Articular step-off: < 1 TO 2 MM (most critical parameter for preventing post-traumatic OA!).\n\nExam trap: In active patients, any intra-articular step-off >2 mm that cannot be reduced closed is an absolute indication for ORIF.",
+      "optionExplanations": {
+        "A": "Skeletal traction is an obsolete, temporary measure that cannot provide stable definitive articular reconstruction for distal radius fractures.",
+        "B": "Functional bracing cannot maintain reduction in an unstable intra-articular fracture with dorsal comminution.",
+        "C": "Observation guarantees catastrophic malunion with severe wrist pain, loss of grip strength, and rapid post-traumatic radiocarpal arthrosis.",
+        "D": "An unstable intra-articular distal radius fracture that redisplaces after closed reduction needs open reduction and internal fixation, typically with a volar locking plate.",
+        "E": "Continued casting has already failed; persistent immobilization will simply result in cast loosening, re-displacement, and complex regional pain syndrome (CRPS)."
+      },
+      "educationalObjective": "Identify failed closed reduction and persistent articular incongruity in a distal radius fracture as an absolute indication for open reduction and internal fixation (ORIF).",
+      "imagePath": ""
+    },
+    {
+      "id": "Orthopaedic1-045",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 7-year-old boy falls from the monkey bars onto his outstretched hand with the elbow in hyperextension. He presents to the emergency department with acute, massive elbow swelling, S-shaped arm deformity, ecchymosis over the antecubital fossa, and intense pain. Anteroposterior and lateral radiographs of the elbow demonstrate a Gartland Type III completely displaced extension-type supracondylar humerus fracture with posterior displacement of the distal fragment. What is the most serious neurovascular complication that must be monitored and urgently evaluated in this patient?",
+      "options": {
+        "A": "Avascular necrosis",
+        "B": "Radial nerve palsy",
+        "C": "Delayed union",
+        "D": "Myositis ossificans",
+        "E": "Brachial artery injury"
+      },
+      "correctAnswer": "E",
+      "explanation": "Supracondylar humerus fractures are the most common pediatric elbow fracture, peaking at ages 5 to 8 years. In extension-type fractures (>95% of cases), the distal humeral fragment displaces posteriorly, causing the sharp, jagged anterior spike of the proximal humeral metaphysis to thrust forward into the antecubital fossa. This directly impinges, kinks, tears, or causes severe spasm of the brachial artery and the median nerve (specifically its anterior interosseous nerve [AIN] branch). Brachial artery occlusion or compression precipitates acute anterior forearm compartment ischemia, leading to the devastating, irreversible condition known as Volkmann ischemic contracture (infarction of flexor digitorum profundus and flexor pollicis longus, followed by fibrous contracture and claw hand). Monitoring distal vascular status (radial pulse, capillary refill, skin color, and temperature) is the single most critical priority in emergency supracondylar fracture care.\n\nHigh-yield clinical pearl: THE 'PINK PULSELESS HAND':\nIf the radial pulse is absent but the hand is warm, pink, with brisk capillary refill (<2 sec), it indicates collateral flow. The patient requires URGENT CLOSED REDUCTION AND PERCUTANEOUS PINNING (CRPP) in the operating room. In >80% of cases, reduction of the fracture relieves arterial kinking and the pulse returns.\n\nExam trap: Never flex the elbow beyond 90° in a displaced supracondylar fracture before surgical fixation! Extreme flexion obliterates collateral circulation and causes compartment syndrome.",
+      "optionExplanations": {
+        "A": "Avascular necrosis of the trochlea or capitellum is exceedingly rare in supracondylar fractures compared to lateral condyle fractures.",
+        "B": "Radial nerve palsy can occur with posteromedial displacement of the distal fragment, but is far less catastrophic than vascular limb ischemia from brachial artery injury.",
+        "C": "Supracondylar fractures in children are metaphyseal and have tremendous vascularity; nonunion or delayed union is virtually unheard of.",
+        "D": "Myositis ossificans can occur after aggressive passive elbow manipulation, but is not the most serious immediate limb-threatening emergency.",
+        "E": "In a displaced extension-type supracondylar fracture the anterior spike of the proximal fragment can injure the brachial artery, risking forearm ischemia and Volkmann contracture."
+      },
+      "educationalObjective": "Identify brachial artery injury as the most serious, limb-threatening complication of pediatric displaced supracondylar humerus fractures, predisposing to Volkmann ischemic contracture.",
+      "imagePath": "Pictures/Orthopaedic1-045.png"
+    },
+    {
+      "id": "Orthopaedic1-046",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "A 7-year-old boy trips and falls while running on a school playground, landing on his outstretched right hand. He presents to the pediatric clinic with focal pain, swelling, and a mild angular deformity of the distal third of his forearm. Plain anteroposterior and lateral radiographs of the forearm demonstrate a fracture line completely disrupting the tensile cortex on the convex side of the bone, while the compressive cortex on the opposite concave side remains intact and plastically deformed without cortical discontinuity. What is the most likely diagnosis?",
+      "options": {
+        "A": "Torus fracture",
+        "B": "Spiral fracture",
+        "C": "Transverse fracture",
+        "D": "Greenstick fracture",
+        "E": "Comminuted fracture"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pediatric bone has unique biomechanical properties compared to adult bone: it has higher collagen content, lower mineral density, higher porosity, and a remarkably thick, vascular periosteal sleeve. These characteristics allow pediatric bone to absorb tremendous plastic deformation and energy before breaking. A greenstick fracture is an incomplete fracture that occurs when an angular bending force exceeds the ultimate strength of the bone: 1. The convex surface fails under tensile stress, resulting in a cortical breach/fracture line. 2. The concave surface is loaded in compression and plastically bends without macroscopic cortical discontinuity, resembling the bending and snapping of a young, green tree twig. In contrast, a torus (buckle) fracture is caused by pure axial compression, producing an outward bulging or buckling of the cortex without any breach of cortical continuity.\n\nHigh-yield clinical pearl: MANAGEMENT OF GREENSTICK FRACTURES:\nBecause the intact concave cortex remains under plastic deformation, it will act as an internal spring, causing the deformity to recur inside the cast if not addressed. The orthopedic surgeon must often complete the fracture on the concave side under sedation to achieve stable reduction before casting.\n\nExam trap: Do not confuse greenstick fracture (tension side broken, compression side bent) with torus/buckle fracture (compression side crumpled, no tension break).",
+      "optionExplanations": {
+        "A": "A torus (buckle) fracture involves outward wrinkling/buckling of the cortex under compression without any disruption or crack in either cortex.",
+        "B": "Spiral fractures represent complete cortical failure in a spiral trajectory resulting from torsional/twisting forces.",
+        "C": "Transverse fractures are complete bicortical fractures perpendicular to the long axis of the bone.",
+        "D": "A greenstick fracture is an incomplete fracture in which the convex (tensile) cortex breaks while the concave (compressive) cortex bends plastically and stays intact.",
+        "E": "Comminuted fractures have three or more complete fracture fragments, typical of high-energy adult trauma."
+      },
+      "educationalObjective": "Diagnose a greenstick fracture as an incomplete pediatric fracture characterized by a cortical breach on the convex tension side with an intact, plastically deformed concave cortex.",
+      "imagePath": "Pictures/Orthopaedic1-046.png"
+    },
+    {
+      "id": "Orthopaedic1-047",
+      "topic": "Orthopaedic",
+      "section": "Module 8: Fractures & Skeletal Trauma",
+      "question": "An orthopedic resident systematically evaluates the orthogonal anteroposterior (AP) and lateral forearm radiographs of a trauma patient with diaphyseal radius and ulna fractures (both bone forearm fracture), as displayed in the test examination sheet. The resident carefully inspects the displacement parameters— translation, angulation, rotation, and shortening. Which ONE of the following statements is TRUE regarding the deformity observed in the bones on this patient's radiographs?",
+      "options": {
+        "A": "In the lateral view there is no translation in ulnar fracture while there is minimal translation in the radius",
+        "B": "From the X-rays we can judge that this patient is an adult with fully calcified physes",
+        "C": "In the AP view ulnar fragments are overlapped",
+        "D": "Apex of the angle seen in the AP view is towards lateral",
+        "E": "No rotation of distal fragments of both radius and ulna in both views"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accurate radiographic analysis of long bone fractures requires assessing four fundamental parameters on orthogonal (AP and lateral) views: translation, angulation, rotation, and shortening. 1. Translation (shift or apposition): Describes the degree of sideways motion of the distal fracture fragment relative to the proximal fragment, expressed as a percentage of cortical contact. On the lateral radiographic projection of this patient, the ulnar fracture fragments demonstrate excellent cortical alignment with no translational displacement, whereas the radial fracture exhibits slight, minimal translation. This exact radiographic finding corresponds directly to Option A. 2. In both-bone forearm fractures (diaphyseal radius and ulna), anatomical reduction with restoration of the radial bow and interosseous space is paramount to preserve forearm pronation and supination.\n\nHigh-yield clinical pearl: THE FOREARM AS A JOINT:\nThe radius and ulna function mechanically as a bicentric joint (superior and inferior radioulnar joints linked by the interosseous membrane). Even a 10° angular malunion of the radius can cause up to a 50% loss of forearm pronation and supination!\n\nExam trap: Always examine orthogonal views (AP and Lateral) together! A fracture that appears perfectly reduced on the AP view may be completely displaced or angulated on the lateral view.",
+      "optionExplanations": {
+        "A": "Per the source key, on the lateral view the ulnar fracture fragments keep cortical contact (0% translation) while the radius shows minimal translation. This depends on the radiograph, which is not reproduced in the PDF.",
+        "B": "Careful inspection of the distal radius and ulna in the examination image clearly reveals open, radiolucent epiphyseal growth plates (physes), indicating a pediatric/adolescent patient, not an adult.",
+        "C": "In the AP view, the ulnar fragments do not display significant overlapping or shortening; they are predominantly angulated.",
+        "D": "The apex of the deformity on the AP view is directed medially (toward the ulnar side), not laterally.",
+        "E": "Rotational deformity cannot be completely excluded and is typically present in displaced forearm fractures due to the unapposed pull of the pronator teres, supinator, and pronator quadratus."
+      },
+      "educationalObjective": "Master the systematic radiographic evaluation of fractures, accurately describing displacement parameters (translation, angulation, rotation, shortening) on orthogonal projections.",
+      "imagePath": "Pictures/Orthopaedic1-047.png"
+    },
+    {
+      "id": "Orthopaedic1-048",
+      "topic": "Orthopaedic",
+      "section": "Module 9: Orthopedic Emergencies & Systemic Complications",
+      "question": "A 22-year-old male is brought to the trauma center by emergency medical services after a high-speed rollover vehicular crash. On arrival, he is in profound circulatory shock with a blood pressure of 75/40 mmHg. However, in stark contrast to typical trauma presentations, his pulse is 48 beats/min (bradycardia) rather than tachycardia. His skin is warm, flushed, and dry, and physical examination reveals flaccid paralysis and areflexia below the level of the T2 dermatome. Which of the following is the most likely type of shock?",
+      "options": {
+        "A": "Hypovolemic shock",
+        "B": "Cardiogenic shock",
+        "C": "Septic shock",
+        "D": "Neurogenic shock",
+        "E": "Obstructive shock"
+      },
+      "correctAnswer": "D",
+      "explanation": "This patient presents with pathognomonic features of neurogenic shock secondary to acute cervical or high thoracic spinal cord injury (typically at or above T6). Neurogenic shock is a subtype of distributive shock caused by the sudden disruption of descending sympathetic outflow from the brainstem and autonomic sympathetic chain. This produces a dual hemodynamic collapse: 1. Massive Arterial and Venous Vasodilation: Loss of vascular sympathetic tone causes pooling of blood in the peripheral venous capacitance beds, drastically reducing systemic vascular resistance (SVR) and cardiac preload, causing severe hypotension. The skin appears paradoxically warm, pink, and dry. 2. Paradoxical Bradycardia: Disruption of the cardiac accelerator sympathetic fibers (originating from T1–T4 spinal cord levels) leaves the heart subject to unapposed parasympathetic vagal tone, preventing the normal compensatory baroreceptor-mediated tachycardia. The combination of hypotension + bradycardia + warm extremities in a trauma patient is diagnostic of neurogenic shock. Management requires IV crystalloids followed by alpha-1 adrenergic vasopressors (norepinephrine or phenylephrine) to restore vascular tone.\n\nHigh-yield clinical pearl: NEUROGENIC SHOCK VS SPINAL SHOCK:\n• NEUROGENIC SHOCK:\nA hemodynamic phenomenon (hypotension + bradycardia) due to loss of sympathetic vascular/cardiac tone from injury above T6.\n• SPINAL SHOCK:\nA neurologic phenomenon representing transient total loss of all spinal cord reflex and motor activity below the lesion (areflexia, flaccidity). The termination of spinal shock is signaled by the return of the BULBOSACRAL (BULBOCAVERNOSUS) REFLEX.\n\nExam trap: In any trauma patient in shock, assume HYPOVOLEMIC (HEMORRHAGIC) SHOCK FIRST until proven otherwise. However, when hypotension is accompanied by BRADYCARDIA AND WARM PERIPHERIES , identify NEUROGENIC SHOCK.",
+      "optionExplanations": {
+        "A": "Hypovolemic (hemorrhagic) shock is the most common shock in trauma; however, it is universally characterized by compensatory tachycardia (>100 bpm), cool, pale, clammy extremities, and delayed capillary refill.",
+        "B": "Cardiogenic shock (e.g., myocardial contusion) presents with hypotension, elevated jugular venous distension, pulmonary edema, and tachycardia with cold extremities.",
+        "C": "Septic shock presents with tachycardia, fever, leukocytosis, and warm flushed skin in late stages, but not acute post-traumatic bradycardia with areflexic paralysis.",
+        "D": "Hypotension with bradycardia, warm dry flushed skin and flaccid paralysis below the level of a high spinal injury indicates neurogenic shock from loss of sympathetic tone.",
+        "E": "Obstructive shock (tension pneumothorax, cardiac tamponade) presents with severe hypotension, tachycardia, and jugular venous distension."
+      },
+      "educationalObjective": "Recognize neurogenic shock by its classic triad of severe hypotension, paradoxical bradycardia, and warm dry skin secondary to loss of sympathetic tone following acute cervical or high-thoracic spinal cord injury.",
+      "imagePath": "Pictures/Orthopaedic1-048.png"
+    },
+    {
+      "id": "Orthopaedic1-049",
+      "topic": "Orthopaedic",
+      "section": "Module 9: Orthopedic Emergencies & Systemic Complications",
+      "question": "A 28-year-old man presents to the emergency department after sustaining a high-energy closed comminuted tibial shaft fracture in a motorcycle collision. Over the next 4 hours, he develops escalating, intractable pain in his leg that is completely out of proportion to the injury and unresponsive to escalating doses of intravenous opioids. On physical examination, the anterior and lateral leg compartments are intensely tense, firm, and 'woody' on palpation. Mild passive plantarflexion and passive stretch of the toes elicits agonizing, screaming pain. He also complains of tingling and paresthesias in the first web space of the foot. Distal dorsalis pedis pulses are palpable but weak. What is the most appropriate emergency management?",
+      "options": {
+        "A": "Elevate the limb and reassess after 6 hours",
+        "B": "Apply a below-knee cast",
+        "C": "Administer intravenous analgesics and observe",
+        "D": "Perform emergency fasciotomy",
+        "E": "Open reduction and internal fixation alone"
+      },
+      "correctAnswer": "D",
+      "explanation": "This patient presents with textbook, classic acute compartment syndrome (ACS) of the leg following a high-energy tibial shaft fracture (the single most common injury associated with ACS). In ACS, post-traumatic hemorrhage and tissue edema increase interstitial pressure within a non-yielding osteofascial compartment. When intracompartmental pressure rises above capillary perfusion pressure (typically when the Delta pressure [Diastolic blood pressure minus Intracompartmental pressure] is < 30 mmHg), microvascular capillary blood flow ceases, leading to ischemic tissue necrosis of neuromuscular structures within 6 to 8 hours. The clinical hallmarks are: 1. Pain out of proportion to the underlying injury, refractory to narcotics (the earliest symptom). 2. Severe, excruciating pain on passive stretching of the muscles within the affected compartment (the most sensitive clinical sign). 3. Tense, woody, non-yielding compartment firmness. 4. Hypesthesia/paresthesia (deep peroneal nerve in 1st web space for anterior compartment). Acute compartment syndrome is a true limb-threatening surgical emergency. The mandatory, immediate treatment is emergent four-compartment fasciotomy of the leg (via dual medial and lateral incisions) to completely decompress all four compartments (anterior, lateral, superficial posterior, deep posterior).\n\nHigh-yield clinical pearl: PULSELESSNESS IS A LATE SIGN:\nThe presence of a palpable distal pulse does NOT rule out compartment syndrome! Intracompartmental pressures (30– 45 mmHg) easily exceed capillary pressure (25–30 mmHg) to kill muscle while remaining well below systolic arterial pressure (120 mmHg). If pulses are absent, irreversible gangrene and necrosis have already occurred.\n\nExam trap: Never elevate the leg above the heart in suspected compartment syndrome! Keep the limb neutral at heart level, immediately remove all bivalve casts and tight dressings down to skin, and rush to the operating room for fasciotomy.",
+      "optionExplanations": {
+        "A": "Limb elevation is strictly contraindicated in compartment syndrome because elevating the leg reduces arterial perfusion pressure, exacerbating tissue ischemia; the leg should be kept level with the heart.",
+        "B": "Applying a cast or circumferential dressing further restricts tissue expansion, dramatically worsening compartment pressures.",
+        "C": "Observation and opioids will allow progressive muscle infarction and permanent ischemic contracture (Volkmann-like necrosis) or need for amputation.",
+        "D": "Pain out of proportion, pain on passive stretch, tense 'woody' compartments and paresthesias after a tibial shaft fracture indicate acute compartment syndrome, which needs emergency fasciotomy.",
+        "E": "ORIF stabilizes the bone but does not decompress the swollen soft tissue compartments; performing ORIF without full fasciotomy is fatal to limb viability."
+      },
+      "educationalObjective": "Identify acute compartment syndrome by intractable pain out of proportion to injury and severe pain on passive stretch, and recognize emergent four-compartment fasciotomy as the mandatory definitive treatment.",
+      "imagePath": "Pictures/Orthopaedic1-049.png"
+    },
+    {
+      "id": "Orthopaedic1-050",
+      "topic": "Orthopaedic",
+      "section": "Module 9: Orthopedic Emergencies & Systemic Complications",
+      "question": "A 24-year-old previously healthy male is hospitalized following an acute closed, displaced femoral shaft fracture sustained in a high-speed motorcycle accident. Approximately 36 hours post-injury, while awaiting intramedullary nailing, he develops sudden tachypnea, tachycardia, progressive shortness of breath with hypoxemia (pulse oximetry 84% on ambient air), acute confusion, disorientation, and agitation. On physical examination, diffuse non-blanching petechiae are observed across his upper chest, anterior axillary folds, and subconjunctival spaces. Chest radiograph demonstrates bilateral diffuse patchy infiltrates ('snowstorm' pattern). Which of the following best explains the underlying pathophysiology of this patient's condition?",
+      "options": {
+        "A": "Obstruction due to DVT",
+        "B": "Circulating fat globules causing endothelial injury and inflammation",
+        "C": "Alveolar edema and hemorrhage alone",
+        "D": "Air embolism causing obstruction",
+        "E": "Microthrombi due to platelet aggregation alone"
+      },
+      "correctAnswer": "B",
+      "explanation": "This clinical vignette depicts textbook Fat Embolism Syndrome (FES) occurring 24 to 72 hours after a long-bone (femoral/tibial) shaft fracture. FES is diagnosed clinically by Gurd's classic triad: 1. Respiratory insufficiency: Tachypnea, acute hypoxemia, dyspnea progressing to acute respiratory distress syndrome (ARDS). 2. Neurological impairment: Acute encephalopathy, confusion, restlessness, and delirium out of proportion to hypoxemia. 3. Petechial rash: Non-blanching petechiae over the chest, neck, axilla, and conjunctiva due to fat emboli microvascular occlusion and capillary fragility (present in 20–50% of patients and virtually pathognomonic). Pathophysiology involves a dual mechanism: • Mechanical: Disrupted medullary intramedullary fat droplets and bone marrow enter ruptured venous sinusoids at the fracture site, traveling to the pulmonary capillary bed. • Biochemical: Circulating fat globules are hydrolyzed by local pulmonary endothelial lipases into toxic free fatty acids (FFAs). These free fatty acids induce intense endothelial damage, acute capillary leakage, platelet activation, alveolar pneumocyte destruction, and systemic systemic inflammatory response syndrome (SIRS). Prevention is achieved by early operative fixation and stabilization of the femoral fracture (within 24 hours); treatment is primarily supportive (supplemental oxygen, mechanical ventilation).\n\nHigh-yield clinical pearl: PREVENTION OF FAT EMBOLISM:\nEARLY DEFINITIVE STABILIZATION AND FIXATION OF LONG BONE FRACTURES (WITHIN 24 HOURS OF TRAUMA) dramatically reduces the incidence and severity of Fat Embolism Syndrome by stopping ongoing marrow extravasation at the fracture site.\n\nExam trap: Timing distinguishes FES from PE: FAT EMBOLISM OCCURS EARLY (24 TO 72 HOURS) and presents with a PETECHIAL RASH. VENOUS THROMBOEMBOLISM (PE) OCCURS LATER (>5 TO 7 DAYS) and lacks petechiae.",
+      "optionExplanations": {
+        "A": "Thromboembolic pulmonary embolism (PE) secondary to deep vein thrombosis (DVT) typically occurs 5 to 14 days post-injury, does NOT cause a petechial rash, and results from a dislodged venous fibrin clot, not fat globules.",
+        "B": "In fat embolism syndrome, marrow fat globules enter the circulation and are hydrolyzed to toxic free fatty acids that injure the endothelium and cause inflammation, producing hypoxemia, confusion and petechiae.",
+        "C": "Alveolar edema and hemorrhage are secondary manifestations of the acute lung injury, not the primary initiating cellular pathophysiology.",
+        "D": "Air embolism occurs following central venous catheter manipulation, decompression sickness, or cardiothoracic surgery, not delayed 36 hours after closed skeletal trauma.",
+        "E": "Platelet aggregation and microthrombi occur secondarily to endothelial injury induced by toxic free fatty acids, but the primary etiologic driver is circulating bone marrow fat globules."
+      },
+      "educationalObjective": "Explain the pathophysiology of Fat Embolism Syndrome following long-bone fracture: marrow fat droplets enter the circulation and are metabolized into toxic free fatty acids that cause direct endothelial injury, capillary leak, and the classic triad of hypoxemia, confusion, and petechial rash.",
+      "imagePath": "Pictures/Orthopaedic1-050.png"
+    }
+  ]
+}
